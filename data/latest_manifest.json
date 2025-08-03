@@ -1,8 +1,18 @@
 {
   "latest_export": {
-    "timestamp": "20250803_215534",
-    "filename": "databricks_export_20250803_215534.json",
-    "post_count": 1629,
-    "status": "ready_for_ml_processing"
-  }
+    "timestamp": "20250803_220028",
+    "filename": "databricks_incremental_20250803_220028.json",
+    "post_count": 1640,
+    "export_type": "incremental_only"
+  },
+  "export_info": {
+    "timestamp": "20250803_220028",
+    "post_count": 1640,
+    "exported_from": "databricks_smart",
+    "table_source": "social_media.bluesky_raw_posts",
+    "earliest_received_at": "2025-08-03 20:46:28.849000",
+    "latest_received_at": "2025-08-03 21:55:10.009000",
+    "export_type": "incremental_only"
+  },
+  "status": "ready_for_ml_processing"
 }
