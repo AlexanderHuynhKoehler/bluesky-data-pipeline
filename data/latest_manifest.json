@@ -1,30 +1,8 @@
 {
-  "export_timestamp": "20250803_214346",
-  "post_count": 1613,
-  "filename": "bluesky_batch_20250803_214346.parquet",
-  "date_range": {
-    "earliest_post": "2025-08-02T15:20:13.631Z",
-    "latest_post": "2025-08-03T21:39:28.760Z"
-  },
-  "text_stats": {
-    "avg_length": 189.62926224426533,
-    "avg_cleaned_length": 129.1053936763794,
-    "total_posts": 1613
-  },
-  "hashtag_stats": {
-    "avg_hashtags_per_post": 0.0,
-    "total_hashtags": 0,
-    "posts_with_hashtags": 0
-  },
-  "engagement_stats": {
-    "count": 1613.0,
-    "mean": 0.6531308121512709,
-    "std": 1.7528206069852423,
-    "min": 0.0,
-    "25%": 0.0,
-    "50%": 0.0,
-    "75%": 1.0,
-    "max": 26.0
-  },
-  "status": "ready_for_ml_processing"
+  "latest_export": {
+    "timestamp": "20250803_214614",
+    "filename": "databricks_export_20250803_214614.json",
+    "post_count": 1619,
+    "status": "ready_for_ml_processing"
+  }
 }
