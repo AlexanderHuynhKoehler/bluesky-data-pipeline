@@ -1,0 +1,30 @@
+{
+  "export_timestamp": "20250803_211243",
+  "post_count": 1550,
+  "filename": "bluesky_batch_20250803_211243.parquet",
+  "date_range": {
+    "earliest_post": "2025-08-02T15:20:13.631Z",
+    "latest_post": "2025-08-03T21:09:33.091Z"
+  },
+  "text_stats": {
+    "avg_length": 189.17806451612904,
+    "avg_cleaned_length": 129.36709677419356,
+    "total_posts": 1550
+  },
+  "hashtag_stats": {
+    "avg_hashtags_per_post": 0.0,
+    "total_hashtags": 0,
+    "posts_with_hashtags": 0
+  },
+  "engagement_stats": {
+    "count": 1550.0,
+    "mean": 0.6558064516129032,
+    "std": 1.7814992746417198,
+    "min": 0.0,
+    "25%": 0.0,
+    "50%": 0.0,
+    "75%": 1.0,
+    "max": 26.0
+  },
+  "status": "ready_for_ml_processing"
+}
