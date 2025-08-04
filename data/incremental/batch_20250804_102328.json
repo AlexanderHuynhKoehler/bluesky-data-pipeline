@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_102328",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 10:15:10.006000",
+    "latest_received_at": "2025-08-04 10:20:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkxkxl5rk26",
+      "text": "Jetzt ist die n\u00e4chste P\u00e4dophilen-Seuche Thema. Nicht die klerikalen Kreise , sondern die politische Elite der USA \ud83c\uddfa\ud83c\uddf8 ist der Ort des Geschehens. - Auch hier dasselbe Muster: durch bewusste Behinderung kommt es zu schwerer, teils unm\u00f6glicher Aufkl\u00e4rung der Sachverhalte.\n#Trump #Epstein",
+      "text_cleaned": "Jetzt ist die n\u00e4chste P\u00e4dophilen-Seuche Thema. Nicht die klerikalen Kreise , sondern die politische Elite der USA \ud83c\uddfa\ud83c\uddf8 ist der Ort des Geschehens. - Auch hier dasselbe Muster: durch bewusste Behinderung kommt es zu schwerer, teils unm\u00f6glicher Aufkl\u00e4rung der Sachverhalte.",
+      "text_preview": "Jetzt ist die n\u00e4chste P\u00e4dophilen-Seuche Thema. Nicht die klerikalen Kreise , sondern die politische Elite der USA \ud83c\uddfa\ud83c\uddf8 ist der Ort des Geschehens. - Auch hier dasselbe Muster: durch bewusste Behinderung...",
+      "author": "benedikt-walker.bsky.social",
+      "author_display_name": "Benedikt",
+      "created_at": "2025-08-04T10:15:08.468Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:20:03.716840",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:20:10.008000",
+      "text_length": 285,
+      "text_cleaned_length": 269,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxkqfwhe2p",
+      "text": "#FoxNews Levin exposes the \u2018stunning\u2019 Obama-Clinton\u00a0scandal\n\nLevin exposes the \u2018stunning\u2019 Obama-Clinton scandal Fox News host Mark Levin gives his take on the Trump-Russia collusion narrative on 'Life, Liberty & Levin.' #foxnews #fox #news #trump #russia #politics #whitehouse #hillaryclinton\u2026",
+      "text_cleaned": "Levin exposes the \u2018stunning\u2019 Obama-Clinton scandal Levin exposes the \u2018stunning\u2019 Obama-Clinton scandal Fox News host Mark Levin gives his take on the Trump-Russia collusion narrative on 'Life, Liberty & Levin.' \u2026",
+      "text_preview": "#FoxNews Levin exposes the \u2018stunning\u2019 Obama-Clinton\u00a0scandal\n\nLevin exposes the \u2018stunning\u2019 Obama-Clinton scandal Fox News host Mark Levin gives his take on the Trump-Russia collusion narrative on 'Life...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-04T10:14:59Z",
+      "hashtags": "['#whitehouse' '#politics' '#foxnews' '#russia' '#FoxNews' '#news' '#fox'\n '#hillaryclinton' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:20:03.716857",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:20:10.008000",
+      "text_length": 293,
+      "text_cleaned_length": 211,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxlu34fc2f",
+      "text": "When #Trump says jump, every Republican asks: How high? But is he weaker than he appears? Listen to another episode of my #podcast, #TheGlobalAgora. I talked to @hankgreene.bsky.social  podcasters.spotify.com/pod/show/and... #politics #Dems #GOP #Obama",
+      "text_cleaned": "When says jump, every Republican asks: How high? But is he weaker than he appears? Listen to another episode of my , . I talked to .bsky.social podcasters.spotify.com/pod/show/and...",
+      "text_preview": "When #Trump says jump, every Republican asks: How high? But is he weaker than he appears? Listen to another episode of my #podcast, #TheGlobalAgora. I talked to @hankgreene.bsky.social  podcasters.spo...",
+      "author": "matisaksk.bsky.social",
+      "author_display_name": "Andrej Matisak",
+      "created_at": "2025-08-04T10:15:38.352Z",
+      "hashtags": "['#GOP' '#politics' '#Trump' '#Dems' '#podcast' '#Obama' '#TheGlobalAgora']",
+      "mentions": "['@hankgreene.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:20:03.716826",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:20:10.008000",
+      "text_length": 252,
+      "text_cleaned_length": 182,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxpvloek2j",
+      "text": "@economist.com  Trump's unwinnable trade war costs the American consumer. Goldman Sachs Research estimated that roughly 70% of the direct cost of tariffs would ultimately be passed on to consumers. #Trade #Economy",
+      "text_cleaned": ".com Trump's unwinnable trade war costs the American consumer. Goldman Sachs Research estimated that roughly 70% of the direct cost of tariffs would ultimately be passed on to consumers.",
+      "text_preview": "@economist.com  Trump's unwinnable trade war costs the American consumer. Goldman Sachs Research estimated that roughly 70% of the direct cost of tariffs would ultimately be passed on to consumers. #T...",
+      "author": "chattjazz.bsky.social",
+      "author_display_name": "CYNC Verity",
+      "created_at": "2025-08-04T10:17:54.162Z",
+      "hashtags": "['#Economy' '#Trade']",
+      "mentions": "['@economist.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:20:03.716515",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:20:10.008000",
+      "text_length": 213,
+      "text_cleaned_length": 186,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxkmvzr22h",
+      "text": "Top Trump aide slams India for \u2018financing\u2019 Russia\u2019s war through oil imports\n\nwww.indiaweekly.biz/india-russia...\n\n#StephenMiller #WhiteHouse #Trump #USA #India #Russia #russianoil #indiarussiadeal #TradeDeal  #OilTrade #RussianUkrainianWar #Putin #modipm",
+      "text_cleaned": "Top Trump aide slams India for \u2018financing\u2019 Russia\u2019s war through oil imports",
+      "text_preview": "Top Trump aide slams India for \u2018financing\u2019 Russia\u2019s war through oil imports\n\nwww.indiaweekly.biz/india-russia...\n\n#StephenMiller #WhiteHouse #Trump #USA #India #Russia #russianoil #indiarussiadeal #Tr...",
+      "author": "indiaweekly.bsky.social",
+      "author_display_name": "Indiaweekly",
+      "created_at": "2025-08-04T10:14:57.292Z",
+      "hashtags": "['#Putin' '#USA' '#russianoil' '#OilTrade' '#Russia' '#India' '#TradeDeal'\n '#modipm' '#Trump' '#WhiteHouse' '#RussianUkrainianWar'\n '#indiarussiadeal' '#StephenMiller']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:20:03.716870",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:20:10.008000",
+      "text_length": 254,
+      "text_cleaned_length": 75,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvkxksishk2h",
+      "text": "It should read \u2018Texas Weak\u2019 with #Trump\n&\n#Abbott\n&\n#RepublicanParty\nat the helm\n\nWhat about TX floods?????\n\nTexans died - don\u2019t you ppl care at all?",
+      "text_cleaned": "It should read \u2018Texas Weak\u2019 with & & at the helm What about TX floods????? Texans died - don\u2019t you ppl care at all?",
+      "text_preview": "It should read \u2018Texas Weak\u2019 with #Trump\n&\n#Abbott\n&\n#RepublicanParty\nat the helm\n\nWhat about TX floods?????\n\nTexans died - don\u2019t you ppl care at all?",
+      "author": "no-dm.bsky.social",
+      "author_display_name": "No DM",
+      "created_at": "2025-08-04T10:15:03.150Z",
+      "hashtags": "['#Abbott' '#Trump' '#RepublicanParty']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:20:03.716848",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:20:10.008000",
+      "text_length": 149,
+      "text_cleaned_length": 115,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvkxl42okc24",
+      "text": "What happened with Epstein over the weekend, Trump still hiding? #Epstein #Trump",
+      "text_cleaned": "What happened with Epstein over the weekend, Trump still hiding?",
+      "text_preview": "What happened with Epstein over the weekend, Trump still hiding? #Epstein #Trump",
+      "author": "wintons.bsky.social",
+      "author_display_name": "Winton",
+      "created_at": "2025-08-04T10:15:13.172Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:20:03.716832",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:20:10.008000",
+      "text_length": 80,
+      "text_cleaned_length": 64,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxlyiayk2m",
+      "text": "#Trump #Everyonefollowers #Bitcoin #Everyone #Xlm #Xrp #usa #uk #Everyonefollow #Everyone",
+      "text_cleaned": "",
+      "text_preview": "#Trump #Everyonefollowers #Bitcoin #Everyone #Xlm #Xrp #usa #uk #Everyonefollow #Everyone",
+      "author": "the17thletter02.bsky.social",
+      "author_display_name": "The 17th Letter",
+      "created_at": "2025-08-04T10:15:42.979Z",
+      "hashtags": "['#Bitcoin' '#uk' '#Everyonefollowers' '#Trump' '#Everyonefollow'\n '#Everyone' '#usa' '#Xrp' '#Xlm']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:20:03.716814",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:20:10.008000",
+      "text_length": 89,
+      "text_cleaned_length": 0,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxnovfyg2w",
+      "text": "\n#ICE   #Justice   #Romero   #Texas   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#ICE   #Justice   #Romero   #Texas   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T10:16:46.772226+00:00",
+      "hashtags": "['#Justice' '#Trump' '#Romero' '#Texas' '#ICE']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:20:03.716805",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:20:10.008000",
+      "text_length": 44,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxc6oabc2j",
+      "text": "The #TrumpTariffs are a source of revenue for the government and are sold as \"decreasing the deficit\" falsely adding \"paid by other nations\" (a #Trump lie) to popularize them.\nAll bureaucrats might want to hang on to them hoping the people forget they are paying a tax\nwww.nytimes.com/2025/08/03/b...",
+      "text_cleaned": "The are a source of revenue for the government and are sold as \"decreasing the deficit\" falsely adding \"paid by other nations\" (a lie) to popularize them. All bureaucrats might want to hang on to them hoping the people forget they are paying a tax",
+      "text_preview": "The #TrumpTariffs are a source of revenue for the government and are sold as \"decreasing the deficit\" falsely adding \"paid by other nations\" (a #Trump lie) to popularize them.\nAll bureaucrats might wa...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-04T10:10:13.920Z",
+      "hashtags": "['#Trump' '#TrumpTariffs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:15:03.415433",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:15:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 247,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxgki4dc2s",
+      "text": "Trump's Golf Caddie will becoming \nHead of Statistics next.\nAfter all he's used to helping him cheat at Golf, so why not doctor \nJob numbers...\n\n#Golf #Jobnumbers #Trump #Fraud #Cheat #Criminal",
+      "text_cleaned": "Trump's Golf Caddie will becoming Head of Statistics next. After all he's used to helping him cheat at Golf, so why not doctor Job numbers...",
+      "text_preview": "Trump's Golf Caddie will becoming \nHead of Statistics next.\nAfter all he's used to helping him cheat at Golf, so why not doctor \nJob numbers...\n\n#Golf #Jobnumbers #Trump #Fraud #Cheat #Criminal",
+      "author": "michaelvanmind.bsky.social",
+      "author_display_name": "Michael van Mind",
+      "created_at": "2025-08-04T10:12:40.490Z",
+      "hashtags": "['#Criminal' '#Trump' '#Fraud' '#Cheat' '#Jobnumbers' '#Golf']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:15:03.415416",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:15:10.006000",
+      "text_length": 193,
+      "text_cleaned_length": 141,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxhoaqb22e",
+      "text": "GOOD MORNING! If you voted for #TRUMP you are going to get exactly what you deserve and it's not going to be pretty! #ResistTrump & #ResistMAGA! \ud83d\udc99",
+      "text_cleaned": "GOOD MORNING! If you voted for you are going to get exactly what you deserve and it's not going to be pretty! & ! \ud83d\udc99",
+      "text_preview": "GOOD MORNING! If you voted for #TRUMP you are going to get exactly what you deserve and it's not going to be pretty! #ResistTrump & #ResistMAGA! \ud83d\udc99",
+      "author": "olddog-1946.bsky.social",
+      "author_display_name": "OldDog_1946",
+      "created_at": "2025-08-04T10:13:18.028Z",
+      "hashtags": "['#ResistMAGA' '#ResistTrump' '#TRUMP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:15:03.415396",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:15:10.006000",
+      "text_length": 146,
+      "text_cleaned_length": 115,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxiwtwuu2q",
+      "text": "\n#Benjamin Netanyahu   #Gaza   #government   #Israel   #Military   #offensive   #Trump   #Trump administration",
+      "text_cleaned": "Netanyahu administration",
+      "text_preview": "\n#Benjamin Netanyahu   #Gaza   #government   #Israel   #Military   #offensive   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T10:14:07.336898+00:00",
+      "hashtags": "['#Gaza' '#Trump' '#Israel' '#government' '#Military' '#Benjamin'\n '#offensive']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:15:03.415380",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:15:10.006000",
+      "text_length": 110,
+      "text_cleaned_length": 24,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxhjutp22m",
+      "text": "WE ARE COMING!\n\n#Trump #Everyonefollowers #Bitcoin #Everyone #Xlm #Xrp #usa #uk #Everyonefollow #Everyone",
+      "text_cleaned": "WE ARE COMING!",
+      "text_preview": "WE ARE COMING!\n\n#Trump #Everyonefollowers #Bitcoin #Everyone #Xlm #Xrp #usa #uk #Everyonefollow #Everyone",
+      "author": "the17thletter02.bsky.social",
+      "author_display_name": "The 17th Letter",
+      "created_at": "2025-08-04T10:13:13.439Z",
+      "hashtags": "['#uk' '#Trump' '#Everyonefollowers' '#Xlm' '#Everyone' '#Xrp'\n '#Everyonefollow' '#Bitcoin' '#usa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:15:03.415405",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:15:10.006000",
+      "text_length": 105,
+      "text_cleaned_length": 14,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxengc2w2w",
+      "text": "\n#ceasefire   #coalition   #Gaza   #Gaza war   #Hamas   #Trump   #war",
+      "text_cleaned": "war",
+      "text_preview": "\n#ceasefire   #coalition   #Gaza   #Gaza war   #Hamas   #Trump   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T10:11:43.239124+00:00",
+      "hashtags": "['#Gaza' '#ceasefire' '#Trump' '#Hamas' '#coalition' '#war']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:15:03.415424",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:15:10.006000",
+      "text_length": 69,
+      "text_cleaned_length": 3,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxjwnre72v",
+      "text": "\n#carbon dioxide   #NASA   #Trump   #Trump administration",
+      "text_cleaned": "dioxide administration",
+      "text_preview": "\n#carbon dioxide   #NASA   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T10:14:40.698598+00:00",
+      "hashtags": "['#Trump' '#carbon' '#NASA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:15:03.415364",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:15:10.006000",
+      "text_length": 57,
+      "text_cleaned_length": 22,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxhiim3e2q",
+      "text": "\n#Karoline Leavitt   #peace   #Trump   #White House",
+      "text_cleaned": "Leavitt House",
+      "text_preview": "\n#Karoline Leavitt   #peace   #Trump   #White House",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T10:13:18.742385+00:00",
+      "hashtags": "['#Trump' '#Karoline' '#peace' '#White']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:15:03.415388",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:15:10.006000",
+      "text_length": 51,
+      "text_cleaned_length": 13,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkxj7u7gw2w",
+      "text": "\n#Trump   #White House",
+      "text_cleaned": "House",
+      "text_preview": "\n#Trump   #White House",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T10:14:16.782541+00:00",
+      "hashtags": "['#Trump' '#White']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:15:03.415371",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:15:10.006000",
+      "text_length": 22,
+      "text_cleaned_length": 5,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
