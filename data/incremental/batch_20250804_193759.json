@@ -1,0 +1,1013 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_193759",
+    "post_count": 37,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 19:30:10.007000",
+    "latest_received_at": "2025-08-04 19:35:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlwlnonuk2y",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to  impeach & convict pathological liar & #WhiteNationalist #Trump & his Admin\n\nIn 11/26, WE MUST NEVER VOTE FOR #MAGA #GOP.\n\nTYVM @coco.sheshed.rocks \n\n#BlueCrew\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel to impeach & convict pathological liar & & his Admin In 11/26, WE MUST NEVER VOTE FOR . TYVM .sheshed.rocks",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to  impeach & convict pathological liar & #WhiteNationalist #Trump & his Admin\n\nIn 11/26, WE ...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T19:30:17.638Z",
+      "hashtags": "['#Trump' '#WhiteNationalist' '#Congress' '#MAGA' '#GOP' '#TRUTHSOCIAL'\n '#Change' '#BlueCrew']",
+      "mentions": "['@coco.sheshed.rocks']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.900025",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 184,
+      "hashtag_count": 8,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwlv7or22h",
+      "text": "When #Trump Let #COVID Into #America, #Americans Were Able To Get Vaccinated-and Lived.\n\nMany #MAGA Trump followers Refused Vaccination-and Died.\n\nNow Trump Is Imposing 'Tariff Taxes' - On ALL Americans - As Higher Prices For ALL Imported Goods!\n\nAND MAGA CANNOT REFUSE TO PAY!\n\n#VOTE U.S. BACK!\n\ud83c\uddfa\ud83c\uddf8\ud83d\uddfd\ud83e\udd85",
+      "text_cleaned": "When Let Into , Were Able To Get Vaccinated-and Lived. Many Trump followers Refused Vaccination-and Died. Now Trump Is Imposing 'Tariff Taxes' - On ALL Americans - As Higher Prices For ALL Imported Goods! AND MAGA CANNOT REFUSE TO PAY! U.S. BACK! \ud83c\uddfa\ud83c\uddf8\ud83d\uddfd\ud83e\udd85",
+      "text_preview": "When #Trump Let #COVID Into #America, #Americans Were Able To Get Vaccinated-and Lived.\n\nMany #MAGA Trump followers Refused Vaccination-and Died.\n\nNow Trump Is Imposing 'Tariff Taxes' - On ALL America...",
+      "author": "mepafford.org",
+      "author_display_name": "Mike Pafford",
+      "created_at": "2025-08-04T19:30:25.546Z",
+      "hashtags": "['#Trump' '#MAGA' '#America' '#COVID' '#VOTE' '#Americans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.900013",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 251,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwqaxmd22l",
+      "text": "The #gop knows it has to cheat in order to win after #trump. Don't let them get away with it. Stop #maga\n\n\u201cLet\u2019s be clear, this is not just rigging the system in Texas, it\u2019s about rigging the system against the rights of all Americans for years to come,\u201d he added. www.theguardian.com/us-news/2025...",
+      "text_cleaned": "The knows it has to cheat in order to win after . Don't let them get away with it. Stop \u201cLet\u2019s be clear, this is not just rigging the system in Texas, it\u2019s about rigging the system against the rights of all Americans for years to come,\u201d he added.",
+      "text_preview": "The #gop knows it has to cheat in order to win after #trump. Don't let them get away with it. Stop #maga\n\n\u201cLet\u2019s be clear, this is not just rigging the system in Texas, it\u2019s about rigging the system a...",
+      "author": "mjhinton.bsky.social",
+      "author_display_name": "mjh",
+      "created_at": "2025-08-04T19:32:52.084Z",
+      "hashtags": "['#gop' '#trump' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899962",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 246,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwsynckc2q",
+      "text": "I don't know what to think. Is this good news? #MTG retiring would be good news. Stop #maga. Dump #trump. Cancel the #gop. \n\nMarjorie Taylor Greene says Republican party has lost touch with its base | Marjorie Taylor Greene | The Guardian www.theguardian.com/us-news/2025...",
+      "text_cleaned": "I don't know what to think. Is this good news? retiring would be good news. Stop . Dump . Cancel the . Marjorie Taylor Greene says Republican party has lost touch with its base | Marjorie Taylor Greene | The Guardian",
+      "text_preview": "I don't know what to think. Is this good news? #MTG retiring would be good news. Stop #maga. Dump #trump. Cancel the #gop. \n\nMarjorie Taylor Greene says Republican party has lost touch with its base |...",
+      "author": "mjhinton.bsky.social",
+      "author_display_name": "mjh",
+      "created_at": "2025-08-04T19:34:24.022Z",
+      "hashtags": "['#MTG' '#gop' '#trump' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899928",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 274,
+      "text_cleaned_length": 216,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwmsqoyk2d",
+      "text": "Average job growth over the last three months is now the WEAKEST since the START OF THE PANDEMIC IN 2020. Wasn't Trump supposed to \"fix\" the economy? His trade & immigration policies are tanking it. \n#trump #economy #jobsreport",
+      "text_cleaned": "Average job growth over the last three months is now the WEAKEST since the START OF THE PANDEMIC IN 2020. Wasn't Trump supposed to \"fix\" the economy? His trade & immigration policies are tanking it.",
+      "text_preview": "Average job growth over the last three months is now the WEAKEST since the START OF THE PANDEMIC IN 2020. Wasn't Trump supposed to \"fix\" the economy? His trade & immigration policies are tanking it. \n...",
+      "author": "ncpssm.bsky.social",
+      "author_display_name": "NCPSSM",
+      "created_at": "2025-08-04T19:30:56.510Z",
+      "hashtags": "['#jobsreport' '#trump' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899650",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 227,
+      "text_cleaned_length": 198,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwp4jnrk2d",
+      "text": "... and (ii) there's a widespread belief that a weakening domestic economy, as long as it doesn't slip into recession, won't materially impact the companies leading the market rally.\n \n#economy #stocks #bonds #markets",
+      "text_cleaned": "... and (ii) there's a widespread belief that a weakening domestic economy, as long as it doesn't slip into recession, won't materially impact the companies leading the market rally.",
+      "text_preview": "... and (ii) there's a widespread belief that a weakening domestic economy, as long as it doesn't slip into recession, won't materially impact the companies leading the market rally.\n \n#economy #stock...",
+      "author": "elerianm.bsky.social",
+      "author_display_name": "Mohamed A. El-Erian",
+      "created_at": "2025-08-04T19:32:13.877Z",
+      "hashtags": "['#bonds' '#economy' '#stocks' '#markets']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899633",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 217,
+      "text_cleaned_length": 182,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlwqgh6ic25",
+      "text": "Never forget about the #EpsteinFiles\nThey want this to go away. They want to legalize pedophilia, child sex trafficking, and child marriages. We cannot allow #MAGA to openly endorse child sex slavery! #Epstein #Trump",
+      "text_cleaned": "Never forget about the They want this to go away. They want to legalize pedophilia, child sex trafficking, and child marriages. We cannot allow to openly endorse child sex slavery!",
+      "text_preview": "Never forget about the #EpsteinFiles\nThey want this to go away. They want to legalize pedophilia, child sex trafficking, and child marriages. We cannot allow #MAGA to openly endorse child sex slavery!...",
+      "author": "reottoman.bsky.social",
+      "author_display_name": "Re-Ottomanization",
+      "created_at": "2025-08-04T19:32:57.835Z",
+      "hashtags": "['#Trump' '#EpsteinFiles' '#MAGA' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899952",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 216,
+      "text_cleaned_length": 180,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwqw53z22q",
+      "text": "Fascism, pure and simple.\n\nSo either the orange demented pedophile gets impeached and arrested, or the whole of the US will suffer for a long time under his Regime.\n\n#news #america #usa #us #trump #politics",
+      "text_cleaned": "Fascism, pure and simple. So either the orange demented pedophile gets impeached and arrested, or the whole of the US will suffer for a long time under his Regime.",
+      "text_preview": "Fascism, pure and simple.\n\nSo either the orange demented pedophile gets impeached and arrested, or the whole of the US will suffer for a long time under his Regime.\n\n#news #america #usa #us #trump #po...",
+      "author": "stv797.bsky.social",
+      "author_display_name": "S",
+      "created_at": "2025-08-04T19:33:14.284Z",
+      "hashtags": "['#news' '#usa' '#america' '#politics' '#trump' '#us']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899944",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 206,
+      "text_cleaned_length": 163,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwo3s67f2s",
+      "text": "Trump intensifie la pression sur l\u2019Inde au sujet des importations de p\u00e9trole russe #Trump #Inde #P\u00e9troleRusse #Ukraine #Guerre",
+      "text_cleaned": "Trump intensifie la pression sur l\u2019Inde au sujet des importations de p\u00e9trole russe",
+      "text_preview": "Trump intensifie la pression sur l\u2019Inde au sujet des importations de p\u00e9trole russe #Trump #Inde #P\u00e9troleRusse #Ukraine #Guerre",
+      "author": "businessam-fr.bsky.social",
+      "author_display_name": "Business AM - FR",
+      "created_at": "2025-08-04T19:31:39Z",
+      "hashtags": "['#Trump' '#Ukraine' '#P\u00e9troleRusse' '#Inde' '#Guerre']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899991",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 126,
+      "text_cleaned_length": 82,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwrpcu6s23",
+      "text": "Twitter-Savvy JD Sparks Controversy - All In Podcast\n\n#trump #jd #immigration #twitter #unemployment",
+      "text_cleaned": "Twitter-Savvy JD Sparks Controversy - All In Podcast",
+      "text_preview": "Twitter-Savvy JD Sparks Controversy - All In Podcast\n\n#trump #jd #immigration #twitter #unemployment",
+      "author": "trendingstocks.bsky.social",
+      "author_display_name": "trending stonks",
+      "created_at": "2025-08-04T19:33:40.688Z",
+      "hashtags": "['#twitter' '#immigration' '#unemployment' '#jd' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899936",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 100,
+      "text_cleaned_length": 52,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwp42koi2i",
+      "text": "\u27a1\ufe0f  Leggi l'articolo: #Trump #Putin #Nucleare #Sottomarini #Missili",
+      "text_cleaned": "\u27a1\ufe0f Leggi l'articolo:",
+      "text_preview": "\u27a1\ufe0f  Leggi l'articolo: #Trump #Putin #Nucleare #Sottomarini #Missili",
+      "author": "qnazionale.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T19:32:13Z",
+      "hashtags": "['#Trump' '#Nucleare' '#Putin' '#Sottomarini' '#Missili']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899976",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 67,
+      "text_cleaned_length": 20,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwohz22k2p",
+      "text": "\ud83d\udd0e  \ud83c\udf44  \ud83d\udd0d  #SouthPark \ud83d\ude05  \ud83d\ude02  \ud83e\udd23 #Trump",
+      "text_cleaned": "\ud83d\udd0e \ud83c\udf44 \ud83d\udd0d \ud83d\ude05 \ud83d\ude02 \ud83e\udd23",
+      "text_preview": "\ud83d\udd0e  \ud83c\udf44  \ud83d\udd0d  #SouthPark \ud83d\ude05  \ud83d\ude02  \ud83e\udd23 #Trump",
+      "author": "kimbee666.bsky.social",
+      "author_display_name": "Kimbee\ud83c\udf78666",
+      "created_at": "2025-08-04T19:31:52.363Z",
+      "hashtags": "['#Trump' '#SouthPark']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899983",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 34,
+      "text_cleaned_length": 11,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwplzxmc22",
+      "text": "Interesting. #Russia #Trump",
+      "text_cleaned": "Interesting.",
+      "text_preview": "Interesting. #Russia #Trump",
+      "author": "oldani.bsky.social",
+      "author_display_name": "Barbara W",
+      "created_at": "2025-08-04T19:32:30.132Z",
+      "hashtags": "['#Trump' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:35:03.899968",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:35:10.007000",
+      "text_length": 27,
+      "text_cleaned_length": 12,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwdshfz226",
+      "text": "Women are not going back to the times of abusive and disgusting men like trump who think they own both adult women and underage girls for their sick pleasure. \nNever forget the victims of Epstein, Maxwell, Trump and so many others.\n#EpsteinFiles #trump",
+      "text_cleaned": "Women are not going back to the times of abusive and disgusting men like trump who think they own both adult women and underage girls for their sick pleasure. Never forget the victims of Epstein, Maxwell, Trump and so many others.",
+      "text_preview": "Women are not going back to the times of abusive and disgusting men like trump who think they own both adult women and underage girls for their sick pleasure. \nNever forget the victims of Epstein, Max...",
+      "author": "robinleefield.com",
+      "author_display_name": "Robin Lee Field",
+      "created_at": "2025-08-04T19:25:54.221Z",
+      "hashtags": "['#EpsteinFiles' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121436",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 252,
+      "text_cleaned_length": 230,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwdga3kc24",
+      "text": "In his own words. (AI was kind enough to to put the Cheeto\u2019s hand on the Bible, which didn\u2019t happen in real life otherwise he\u2019d burst into flames)\n#trump #FuckTrump #TrumpQuotes #theangrycheeto #maga #pedopresident #trumpisapedorapist #releasetheepsteinfiles",
+      "text_cleaned": "In his own words. (AI was kind enough to to put the Cheeto\u2019s hand on the Bible, which didn\u2019t happen in real life otherwise he\u2019d burst into flames)",
+      "text_preview": "In his own words. (AI was kind enough to to put the Cheeto\u2019s hand on the Bible, which didn\u2019t happen in real life otherwise he\u2019d burst into flames)\n#trump #FuckTrump #TrumpQuotes #theangrycheeto #maga ...",
+      "author": "theangrycheeto.bsky.social",
+      "author_display_name": "The Angry Cheeto",
+      "created_at": "2025-08-04T19:25:41.387Z",
+      "hashtags": "['#theangrycheeto' '#TrumpQuotes' '#releasetheepsteinfiles'\n '#pedopresident' '#FuckTrump' '#trump' '#trumpisapedorapist' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121446",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 258,
+      "text_cleaned_length": 146,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwd3g76s2p",
+      "text": "#Trump #Epstein \nTrump Biographer Reveals Epstein's Side of His Fallout with Trump\nMichael Wolff reveals Epstein believed Trump triggered his downfall to protect himself\u2014and MeidasTouch got the exclusive.\nwww.meidasplus.com/p/exclusive-...",
+      "text_cleaned": "Trump Biographer Reveals Epstein's Side of His Fallout with Trump Michael Wolff reveals Epstein believed Trump triggered his downfall to protect himself\u2014and MeidasTouch got the exclusive.",
+      "text_preview": "#Trump #Epstein \nTrump Biographer Reveals Epstein's Side of His Fallout with Trump\nMichael Wolff reveals Epstein believed Trump triggered his downfall to protect himself\u2014and MeidasTouch got the exclus...",
+      "author": "skycog.bsky.social",
+      "author_display_name": "Casey",
+      "created_at": "2025-08-04T19:25:30.058Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121460",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 239,
+      "text_cleaned_length": 187,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwh64dcs26",
+      "text": "Ghislaine ain't getting pardoned, bc that will make #Trump the CENTER OF the #EpsteinFiles!! But, Ghislaine could Escape her new location!  Dah- dahhh!!!",
+      "text_cleaned": "Ghislaine ain't getting pardoned, bc that will make the CENTER OF the !! But, Ghislaine could Escape her new location! Dah- dahhh!!!",
+      "text_preview": "Ghislaine ain't getting pardoned, bc that will make #Trump the CENTER OF the #EpsteinFiles!! But, Ghislaine could Escape her new location!  Dah- dahhh!!!",
+      "author": "lovexlove4real.bsky.social",
+      "author_display_name": "Comiczette, (Jessie \ud83d\ude3b ) fam check ya vote cards plez",
+      "created_at": "2025-08-04T19:27:47.104Z",
+      "hashtags": "['#Trump' '#EpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121357",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 153,
+      "text_cleaned_length": 132,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvlwhoxgc22y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:28:04.768Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121339",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwhg42vs2y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:27:55.484Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121349",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwfwivp22y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:27:05.573Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121400",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlweugoy22y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:26:29.848Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121424",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwfepc5s2y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:26:46.908Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121406",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlweh6eu22y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:26:15.945Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121429",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwg4g4f22y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:27:11.773Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121395",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwbxrsys2y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:24:52.695Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121471",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwgbzimk2y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:27:17.650Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121389",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwi2c7o22y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:28:16.657Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121334",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwd7sles2y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:25:34.664Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121452",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwgmnx5k2y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:27:28.806Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121370",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwieam5c2y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:28:27.090Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121326",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwf2drr22y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:26:36.045Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121418",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwchs2m22y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:25:09.481Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121466",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 5.0
+    },
+    {
+      "post_id": "3lvlwgyvy322y",
+      "text": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "text_cleaned": "shat the tariff And it did not make prosperity ... (With apologies to Bob Marley & The Wailers!)",
+      "text_preview": "#Trump shat the tariff\nAnd it did not make prosperity ...\n\n(With apologies to Bob Marley & The Wailers!)",
+      "author": "metrochimp.bsky.social",
+      "author_display_name": "Metro Chimp",
+      "created_at": "2025-08-04T19:27:41.653Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121363",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwgkuiko2h",
+      "text": "Another promise broken, shocker. \ud83e\udee0 #ivf #healthcare #trump #uspolitics #fdt #brokenpromises #congress ",
+      "text_cleaned": "Another promise broken, shocker. \ud83e\udee0",
+      "text_preview": "Another promise broken, shocker. \ud83e\udee0 #ivf #healthcare #trump #uspolitics #fdt #brokenpromises #congress ",
+      "author": "k-boyle.bsky.social",
+      "author_display_name": "Kendall - Vocal Millennial \ud83e\ude75",
+      "created_at": "2025-08-04T19:27:26.687Z",
+      "hashtags": "['#brokenpromises' '#ivf' '#uspolitics' '#congress' '#healthcare' '#trump'\n '#fdt']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121382",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 102,
+      "text_cleaned_length": 34,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwkguocs2q",
+      "text": "\ud83d\udcb0 ECONOM\u00cdA |   \ud83d\udd17 #Trump #Aranceles #India #Petr\u00f3leoRuso #GuerraComercial",
+      "text_cleaned": "\ud83d\udcb0 ECONOM\u00cdA | \ud83d\udd17",
+      "text_preview": "\ud83d\udcb0 ECONOM\u00cdA |   \ud83d\udd17 #Trump #Aranceles #India #Petr\u00f3leoRuso #GuerraComercial",
+      "author": "virtualnotmx.bsky.social",
+      "author_display_name": "Virtual Noticias M\u00e9xico",
+      "created_at": "2025-08-04T19:29:36Z",
+      "hashtags": "['#Petr\u00f3leoRuso' '#Trump' '#GuerraComercial' '#Aranceles' '#India']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121321",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 72,
+      "text_cleaned_length": 14,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwfclp3224",
+      "text": "#Scotland has a sense of humor. \nF #Trump",
+      "text_cleaned": "has a sense of humor. F",
+      "text_preview": "#Scotland has a sense of humor. \nF #Trump",
+      "author": "aprivateguy.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T19:26:44.681Z",
+      "hashtags": "['#Trump' '#Scotland']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121412",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 41,
+      "text_cleaned_length": 23,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlwhn2vrc2k",
+      "text": "#Trump #DrainTheSwamp",
+      "text_cleaned": "",
+      "text_preview": "#Trump #DrainTheSwamp",
+      "author": "justinwstapley.bsky.social",
+      "author_display_name": "Justin Stapley",
+      "created_at": "2025-08-04T19:28:02.784Z",
+      "hashtags": "['#Trump' '#DrainTheSwamp']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:30:05.121344",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:30:10.007000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
