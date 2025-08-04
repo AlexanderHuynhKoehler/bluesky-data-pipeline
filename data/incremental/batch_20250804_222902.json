@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_222902",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 22:20:10.008000",
+    "latest_received_at": "2025-08-04 22:25:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvma2usk4gf2",
+      "text": "\u2026Their dispute is the latest in a series of fights that has consumed the #Pentagon over the first 6 months of #Trump\u2019s return to office. #Hegseth\u2019s tenure has been marked by abrupt firings, personality clashes, threats & other #dysfunction that has drawn scrutiny from Capitol Hill, & continues [\u2026]",
+      "text_cleaned": "\u2026Their dispute is the latest in a series of fights that has consumed the over the first 6 months of \u2019s return to office. \u2019s tenure has been marked by abrupt firings, personality clashes, threats & other that has drawn scrutiny from Capitol Hill, & continues [\u2026]",
+      "text_preview": "\u2026Their dispute is the latest in a series of fights that has consumed the #Pentagon over the first 6 months of #Trump\u2019s return to office. #Hegseth\u2019s tenure has been marked by abrupt firings, personalit...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-04T22:19:42.000Z",
+      "hashtags": "['#Hegseth' '#Trump' '#dysfunction' '#Pentagon']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:25:04.022413",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:25:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 261,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvma4mjqn32z",
+      "text": "Trump's envoy Witkoff is off to Moscow this week, right before new Russia sanctions! Trump says Russia is \"wily\" at avoiding them. Witkoff's also on Gaza aid duty. Russia asked for the meeting! Big week for diplomacy! \n\n#Trump #Russia #Sanctions #Gaza #Diplomacy",
+      "text_cleaned": "Trump's envoy Witkoff is off to Moscow this week, right before new Russia sanctions! Trump says Russia is \"wily\" at avoiding them. Witkoff's also on Gaza aid duty. Russia asked for the meeting! Big week for diplomacy!",
+      "text_preview": "Trump's envoy Witkoff is off to Moscow this week, right before new Russia sanctions! Trump says Russia is \"wily\" at avoiding them. Witkoff's also on Gaza aid duty. Russia asked for the meeting! Big we...",
+      "author": "meaww.com",
+      "author_display_name": "MEAWW News",
+      "created_at": "2025-08-04T22:20:50.372Z",
+      "hashtags": "['#Sanctions' '#Trump' '#Diplomacy' '#Russia' '#Gaza']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:25:04.022395",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:25:10.007000",
+      "text_length": 262,
+      "text_cleaned_length": 217,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvma3gncmc2d",
+      "text": "I feel the only word that describes #Trump is the word evil. In 78 years I've always felt our presidents had the best for #America in mind. Trump only thinks of himself and money and doesn't care who he hurts. He's an evil #president.",
+      "text_cleaned": "I feel the only word that describes is the word evil. In 78 years I've always felt our presidents had the best for in mind. Trump only thinks of himself and money and doesn't care who he hurts. He's an evil .",
+      "text_preview": "I feel the only word that describes #Trump is the word evil. In 78 years I've always felt our presidents had the best for #America in mind. Trump only thinks of himself and money and doesn't care who ...",
+      "author": "wgreverend.bsky.social",
+      "author_display_name": "IndependentStarPost",
+      "created_at": "2025-08-04T22:20:10.814Z",
+      "hashtags": "['#president' '#Trump' '#America']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:25:04.022404",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:25:10.007000",
+      "text_length": 234,
+      "text_cleaned_length": 208,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmadblcl22q",
+      "text": "With genuine and sincere respect, I will delete my post as soon as #Trump debunks his claim that the #J6 #CapitolRiot was a \"day of love.\" January 6 was, in fact, a day of anarchy against #democracy.\n\n#BlueCrew #democracy",
+      "text_cleaned": "With genuine and sincere respect, I will delete my post as soon as debunks his claim that the was a \"day of love.\" January 6 was, in fact, a day of anarchy against .",
+      "text_preview": "With genuine and sincere respect, I will delete my post as soon as #Trump debunks his claim that the #J6 #CapitolRiot was a \"day of love.\" January 6 was, in fact, a day of anarchy against #democracy.\n...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T22:24:33.938Z",
+      "hashtags": "['#BlueCrew' '#democracy' '#Trump' '#CapitolRiot' '#J6']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:25:04.022356",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:25:10.007000",
+      "text_length": 221,
+      "text_cleaned_length": 165,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvma6lim2c23",
+      "text": "(New Hampshire) One Hundred Dollar Smile\n#link\n#anthonygiarrusso\n#newhampshire\n#money\n#news\n#OneHundredDollarSmile\n#tour\n#celebrity\n#celebrities\n#famous\n#music\n#important\n#travel\n#infowars\n#trump\n#history\n#trending\n#technology\n#giarrusso\n#anthony\n#brighteon\nwww.brighteon.com/f3aafe89-913...",
+      "text_cleaned": "(New Hampshire) One Hundred Dollar Smile",
+      "text_preview": "(New Hampshire) One Hundred Dollar Smile\n#link\n#anthonygiarrusso\n#newhampshire\n#money\n#news\n#OneHundredDollarSmile\n#tour\n#celebrity\n#celebrities\n#famous\n#music\n#important\n#travel\n#infowars\n#trump\n#his...",
+      "author": "anthonygiarrusso.bsky.social",
+      "author_display_name": "Anthony Giarrusso",
+      "created_at": "2025-08-04T22:21:56.565Z",
+      "hashtags": "['#history' '#money' '#important' '#celebrity' '#giarrusso' '#tour'\n '#OneHundredDollarSmile' '#infowars' '#technology' '#news' '#celebrities'\n '#anthonygiarrusso' '#music' '#trending' '#famous' '#trump' '#anthony'\n '#link' '#brighteon' '#travel' '#newhampshire']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:25:04.022381",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:25:10.007000",
+      "text_length": 291,
+      "text_cleaned_length": 40,
+      "hashtag_count": 21,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvma6lmrtk2h",
+      "text": "South Park #MoreRelevantThanEver!\n#Trump #MangoMussolini #EpsteinsBFF #EvenSatanHatesTrump \n\nyoutu.be/vsz0Dv1o36M?...",
+      "text_cleaned": "South Park ! youtu.be/vsz0Dv1o36M?...",
+      "text_preview": "South Park #MoreRelevantThanEver!\n#Trump #MangoMussolini #EpsteinsBFF #EvenSatanHatesTrump \n\nyoutu.be/vsz0Dv1o36M?...",
+      "author": "moniqueortiz.bsky.social",
+      "author_display_name": "Monique Ortiz",
+      "created_at": "2025-08-04T22:21:56.702Z",
+      "hashtags": "['#EpsteinsBFF' '#EvenSatanHatesTrump' '#MangoMussolini' '#Trump'\n '#MoreRelevantThanEver']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:25:04.022370",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:25:10.007000",
+      "text_length": 117,
+      "text_cleaned_length": 37,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvma5p657k2j",
+      "text": "Those #Epstein files gonna bite your butt and it ain\u2019t gonna go away #Trump \ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+      "text_cleaned": "Those files gonna bite your butt and it ain\u2019t gonna go away \ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+      "text_preview": "Those #Epstein files gonna bite your butt and it ain\u2019t gonna go away #Trump \ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+      "author": "waynemanor78.bsky.social",
+      "author_display_name": "Shaney Twainey",
+      "created_at": "2025-08-04T22:21:26.862Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:25:04.022387",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:25:10.007000",
+      "text_length": 79,
+      "text_cleaned_length": 63,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmaa5n2t22s",
+      "text": "I knew this when I heard #Trump say on a hot mic \u201cI better win!\u201d",
+      "text_cleaned": "I knew this when I heard say on a hot mic \u201cI better win!\u201d",
+      "text_preview": "I knew this when I heard #Trump say on a hot mic \u201cI better win!\u201d",
+      "author": "sheri89.bsky.social",
+      "author_display_name": "Sheri-Anne",
+      "created_at": "2025-08-04T22:22:49.140Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:25:04.022361",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:25:10.007000",
+      "text_length": 64,
+      "text_cleaned_length": 57,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvm7qjiuxmx2",
+      "text": "John Stoehr: \"Bloomberg journalist Jason Leopold reported this morning that Donald Trump's name has been redacted from more than 100,000 documents the FBI has on child-sex trafficker Jeffrey Epstein.\"\n\nInstead of investigating criminals, 1,000 FBI agents were busy trying to affect Trump's public [\u2026]",
+      "text_cleaned": "John Stoehr: \"Bloomberg journalist Jason Leopold reported this morning that Donald Trump's name has been redacted from more than 100,000 documents the FBI has on child-sex trafficker Jeffrey Epstein.\" Instead of investigating criminals, 1,000 FBI agents were busy trying to affect Trump's public [\u2026]",
+      "text_preview": "John Stoehr: \"Bloomberg journalist Jason Leopold reported this morning that Donald Trump's name has been redacted from more than 100,000 documents the FBI has on child-sex trafficker Jeffrey Epstein.\"...",
+      "author": "ronsupportsyou.mastodon.social.ap.brid.gy",
+      "author_display_name": "RonSupportsYou",
+      "created_at": "2025-08-04T22:14:02.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690913",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 299,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm7wv46c226",
+      "text": "Den Leuten wird Angst vor Gendern, Migranten, W\u00e4rmepumpen, einer \"\u00d6kodiktatur\"gemacht, damit sie dann Konservativ, rechts w\u00e4hlen, um dann aber in einer echten Diktatur zu landen.\n\nHut ab vor Politikern und Medien. Stramme Leistung. Aber sind Radwege, Respekt und ein gesundes Klima so schlimm? #Trump",
+      "text_cleaned": "Den Leuten wird Angst vor Gendern, Migranten, W\u00e4rmepumpen, einer \"\u00d6kodiktatur\"gemacht, damit sie dann Konservativ, rechts w\u00e4hlen, um dann aber in einer echten Diktatur zu landen. Hut ab vor Politikern und Medien. Stramme Leistung. Aber sind Radwege, Respekt und ein gesundes Klima so schlimm?",
+      "text_preview": "Den Leuten wird Angst vor Gendern, Migranten, W\u00e4rmepumpen, einer \"\u00d6kodiktatur\"gemacht, damit sie dann Konservativ, rechts w\u00e4hlen, um dann aber in einer echten Diktatur zu landen.\n\nHut ab vor Politiker...",
+      "author": "kampfmittelfrei.bsky.social",
+      "author_display_name": "Dieter Guldin",
+      "created_at": "2025-08-04T22:17:38.208Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690816",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 292,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm7vm545ex2",
+      "text": "The clash between Ricky Buria, Hegseth\u2019s acting chief of staff, & Matthew A. McNitt, who coordinates personnel policy as #WhiteHouse liaison at the #Pentagon, appears rooted in Buria\u2019s frustration with repeated pushback from the #Trump White House as he has attempted to fill positions in the [\u2026]",
+      "text_cleaned": "The clash between Ricky Buria, Hegseth\u2019s acting chief of staff, & Matthew A. McNitt, who coordinates personnel policy as liaison at the , appears rooted in Buria\u2019s frustration with repeated pushback from the White House as he has attempted to fill positions in the [\u2026]",
+      "text_preview": "The clash between Ricky Buria, Hegseth\u2019s acting chief of staff, & Matthew A. McNitt, who coordinates personnel policy as #WhiteHouse liaison at the #Pentagon, appears rooted in Buria\u2019s frustration wit...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-04T22:16:49.000Z",
+      "hashtags": "['#WhiteHouse' '#Pentagon' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690825",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 296,
+      "text_cleaned_length": 268,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm7x76qkk2p",
+      "text": "#Trump cheats in so many ways in life. It is crazy people like and trust this person. \n\nAll he does is cheat, cheat, cheat and lie!\n\nRead \"Donald Trump caught committing shocking act during golf game and it\u2019s not the first time he\u2019s been accused of it\" on SmartNews: l.smartnews.com/p-5WGG94QM/Y...",
+      "text_cleaned": "cheats in so many ways in life. It is crazy people like and trust this person. All he does is cheat, cheat, cheat and lie! Read \"Donald Trump caught committing shocking act during golf game and it\u2019s not the first time he\u2019s been accused of it\" on SmartNews: l.smartnews.com/p-5WGG94QM/Y...",
+      "text_preview": "#Trump cheats in so many ways in life. It is crazy people like and trust this person. \n\nAll he does is cheat, cheat, cheat and lie!\n\nRead \"Donald Trump caught committing shocking act during golf game ...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T22:17:48.778Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690803",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 298,
+      "text_cleaned_length": 288,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm7sehyq22g",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to impeach & convict pedophile & racist wannabe dictator, #Trump & his Admin.\n\nIn 11/26, WE MUST NEVER VOTE for #Republicans.\n\nTYVM @jtc5.bsky.social \n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel to impeach & convict pedophile & racist wannabe dictator, & his Admin. In 11/26, WE MUST NEVER VOTE for . TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to impeach & convict pedophile & racist wannabe dictator, #Trump & his Admin.\n\nIn 11/26, WE M...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T22:15:06.551Z",
+      "hashtags": "['#BlueCrew' '#Congress' '#Change' '#Republicans' '#Trump' '#TRUTHSOCIAL']",
+      "mentions": "['@jtc5.bsky.social']",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690837",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 200,
+      "hashtag_count": 6,
+      "mention_count": 1,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvm7qyr5a5f2",
+      "text": "#SecDef #PeteHegseth\u2019s acting chief of staff tried & failed to oust a senior #Trump White House liaison assigned to the #Pentagon, people familiar with the matter said Monday, detailing an unusual dispute that marks the latest instance of infighting among a staff plagued by disagreement & [\u2026]",
+      "text_cleaned": "\u2019s acting chief of staff tried & failed to oust a senior White House liaison assigned to the , people familiar with the matter said Monday, detailing an unusual dispute that marks the latest instance of infighting among a staff plagued by disagreement & [\u2026]",
+      "text_preview": "#SecDef #PeteHegseth\u2019s acting chief of staff tried & failed to oust a senior #Trump White House liaison assigned to the #Pentagon, people familiar with the matter said Monday, detailing an unusual dis...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-04T22:14:12.000Z",
+      "hashtags": "['#SecDef' '#Pentagon' '#PeteHegseth' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690856",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 293,
+      "text_cleaned_length": 257,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvm7xschqs2s",
+      "text": "What did Trump say to The Mooch in their final phone conversation? Find out on tomorrow's episode of Pivot.\n\nWatch @karaswisher.bsky.social and @scaramucci.bsky.social on YouTube or listen wherever you get your podcasts.\n\n#karaswisher #themooch #anthonyscaramucci #trump #business #media #politics",
+      "text_cleaned": "What did Trump say to The Mooch in their final phone conversation? Find out on tomorrow's episode of Pivot. Watch .bsky.social and .bsky.social on YouTube or listen wherever you get your podcasts.",
+      "text_preview": "What did Trump say to The Mooch in their final phone conversation? Find out on tomorrow's episode of Pivot.\n\nWatch @karaswisher.bsky.social and @scaramucci.bsky.social on YouTube or listen wherever yo...",
+      "author": "pivotpod.bsky.social",
+      "author_display_name": "Pivot Podcast",
+      "created_at": "2025-08-04T22:18:08.823Z",
+      "hashtags": "['#politics' '#karaswisher' '#trump' '#anthonyscaramucci' '#business'\n '#media' '#themooch']",
+      "mentions": "['@scaramucci.bsky.social' '@karaswisher.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690794",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 297,
+      "text_cleaned_length": 196,
+      "hashtag_count": 7,
+      "mention_count": 2,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm7yyvztk23",
+      "text": "www.brighteon.com/a5e2a604-f43...\n(Washington) One Hundred Dollar Smile\n#link\n#anthonygiarrusso\n#washigton\n#money\n#news\n#OneHundredDollarSmile\n#tour\n#celebrity\n#celbrities\n#famous\n#music\n#important\n#travel\n#infowars\n#trump\n#history\n#trending\n#technology\n#washington\n#giarrusso\n#anthony\n#brighteon",
+      "text_cleaned": "(Washington) One Hundred Dollar Smile",
+      "text_preview": "www.brighteon.com/a5e2a604-f43...\n(Washington) One Hundred Dollar Smile\n#link\n#anthonygiarrusso\n#washigton\n#money\n#news\n#OneHundredDollarSmile\n#tour\n#celebrity\n#celbrities\n#famous\n#music\n#important\n#t...",
+      "author": "anthonygiarrusso.bsky.social",
+      "author_display_name": "Anthony Giarrusso",
+      "created_at": "2025-08-04T22:18:49.310Z",
+      "hashtags": "['#technology' '#famous' '#giarrusso' '#brighteon' '#celbrities' '#travel'\n '#news' '#history' '#money' '#link' '#anthonygiarrusso' '#celebrity'\n '#music' '#trump' '#tour' '#anthony' '#washigton' '#trending'\n '#important' '#washington' '#infowars' '#OneHundredDollarSmile']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690757",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 296,
+      "text_cleaned_length": 37,
+      "hashtag_count": 22,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm7xxsqpr2w",
+      "text": "08/04/25 Happy Berfday USCG. https://www.reddit.com/r/trumptweets/comments/1mhr9cy/080425_happy_berfday_uscg/\n#truthsocial #trump",
+      "text_cleaned": "08/04/25 Happy Berfday USCG.",
+      "text_preview": "08/04/25 Happy Berfday USCG. https://www.reddit.com/r/trumptweets/comments/1mhr9cy/080425_happy_berfday_uscg/\n#truthsocial #trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T22:18:14.092Z",
+      "hashtags": "['#truthsocial' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690778",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 129,
+      "text_cleaned_length": 28,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm7s3jyf22e",
+      "text": "#tRump does deals with gangst3rs\nbsky.app/profile/port...",
+      "text_cleaned": "does deals with gangst3rs bsky.app/profile/port...",
+      "text_preview": "#tRump does deals with gangst3rs\nbsky.app/profile/port...",
+      "author": "porterlr.bsky.social",
+      "author_display_name": "PorterLR",
+      "created_at": "2025-08-04T22:14:57.180Z",
+      "hashtags": "['#tRump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T22:20:03.690844",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 22:20:10.008000",
+      "text_length": 57,
+      "text_cleaned_length": 50,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
