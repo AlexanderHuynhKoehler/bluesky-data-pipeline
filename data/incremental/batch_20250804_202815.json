@@ -1,0 +1,581 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_202815",
+    "post_count": 21,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 20:20:10.014000",
+    "latest_received_at": "2025-08-04 20:25:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlzfdpi4k25",
+      "text": "Texans should remove Abbott. Stop the #gop. \n\nTexas Gov. Greg Abbott says he will begin trying to remove Democratic lawmakers from office Monday if they do not return after dozens of them left the state in an attempt to block the adoption of redrawn U.S. House maps sought by President #Trump.",
+      "text_cleaned": "Texans should remove Abbott. Stop the . Texas Gov. Greg Abbott says he will begin trying to remove Democratic lawmakers from office Monday if they do not return after dozens of them left the state in an attempt to block the adoption of redrawn U.S. House maps sought by President .",
+      "text_preview": "Texans should remove Abbott. Stop the #gop. \n\nTexas Gov. Greg Abbott says he will begin trying to remove Democratic lawmakers from office Monday if they do not return after dozens of them left the sta...",
+      "author": "mjhinton.bsky.social",
+      "author_display_name": "mjh",
+      "created_at": "2025-08-04T20:20:27.091Z",
+      "hashtags": "['#gop' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929835",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 293,
+      "text_cleaned_length": 281,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzh4dizq2v",
+      "text": "Struggling with business survival in 2025? Here are 10 actionable tips to help you navigate economic uncertainty and hiring challenges, align talent, boost retention, and build a resilient, high-performing team.\n\nerep.com/blog/busines... #economy #business #2025 #teamperformance",
+      "text_cleaned": "Struggling with business survival in 2025? Here are 10 actionable tips to help you navigate economic uncertainty and hiring challenges, align talent, boost retention, and build a resilient, high-performing team. erep.com/blog/busines...",
+      "text_preview": "Struggling with business survival in 2025? Here are 10 actionable tips to help you navigate economic uncertainty and hiring challenges, align talent, boost retention, and build a resilient, high-perfo...",
+      "author": "erep.com",
+      "author_display_name": "eRep",
+      "created_at": "2025-08-04T20:21:26.282Z",
+      "hashtags": "['#business' '#2025' '#teamperformance' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929483",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzhke4ws2j",
+      "text": "rumble.com/v6x4nye-pres...\nSOMEONE CALL a Counselor!\nGhislaines is about to become another victim of \nDonald Voorhees Trump, at Camp Bryan Lake aka Cyrstal Lake!\n@fridaythe13thh.bsky.social \n#trump #art #ghislainemaxwell #jasonvoorhees",
+      "text_cleaned": "rumble.com/v6x4nye-pres... SOMEONE CALL a Counselor! Ghislaines is about to become another victim of Donald Voorhees Trump, at Camp Bryan Lake aka Cyrstal Lake! .bsky.social",
+      "text_preview": "rumble.com/v6x4nye-pres...\nSOMEONE CALL a Counselor!\nGhislaines is about to become another victim of \nDonald Voorhees Trump, at Camp Bryan Lake aka Cyrstal Lake!\n@fridaythe13thh.bsky.social \n#trump #a...",
+      "author": "stanthejokeman.bsky.social",
+      "author_display_name": "\ud83d\udc99Stan the Jokeman\ud83d\udc99",
+      "created_at": "2025-08-04T20:21:41.167Z",
+      "hashtags": "['#jasonvoorhees' '#trump' '#art' '#ghislainemaxwell']",
+      "mentions": "['@fridaythe13thh.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929798",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 235,
+      "text_cleaned_length": 173,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzm646s22y",
+      "text": "#TeslaTakedown has been successful. No one in the world wants a #Swasticar. Associate with neo-Nazis, pay the price. Kill the brand. #BoycottAmericanProducts #BoycottUSA #TrumpIsANationalDisgrace #tesla #elonmusk #trump #billionaireconman #eattherich #aoc #fuckfascism #taxtherich #USPolitics #uspoli",
+      "text_cleaned": "has been successful. No one in the world wants a . Associate with neo-Nazis, pay the price. Kill the brand.",
+      "text_preview": "#TeslaTakedown has been successful. No one in the world wants a #Swasticar. Associate with neo-Nazis, pay the price. Kill the brand. #BoycottAmericanProducts #BoycottUSA #TrumpIsANationalDisgrace #tes...",
+      "author": "margomcm.bsky.social",
+      "author_display_name": "Margo McMahan",
+      "created_at": "2025-08-04T20:24:16.092Z",
+      "hashtags": "['#taxtherich' '#TeslaTakedown' '#eattherich' '#uspoli'\n '#billionaireconman' '#BoycottAmericanProducts'\n '#TrumpIsANationalDisgrace' '#BoycottUSA' '#tesla' '#elonmusk'\n '#USPolitics' '#Swasticar' '#aoc' '#trump' '#fuckfascism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929782",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 107,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzebsxzc2b",
+      "text": "Unfortunately there are too many Democratic reps who play at republican lite, and most Dems don't want that at all - \nThe trick is to pick those who will fight hardest, remembering you can't compromise with Nazis #trump",
+      "text_cleaned": "Unfortunately there are too many Democratic reps who play at republican lite, and most Dems don't want that at all - The trick is to pick those who will fight hardest, remembering you can't compromise with Nazis",
+      "text_preview": "Unfortunately there are too many Democratic reps who play at republican lite, and most Dems don't want that at all - \nThe trick is to pick those who will fight hardest, remembering you can't compromis...",
+      "author": "gonzoknox.bsky.social",
+      "author_display_name": "Karl",
+      "created_at": "2025-08-04T20:19:51.545Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929841",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 219,
+      "text_cleaned_length": 211,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlzffrghs2o",
+      "text": "#arte #art #artist #artista #freegaza #girl #pal #palestina #sister #freegaza #museos #gaza #gazze #louvre #elprado #hermitage #moma #nationalgallery #trending #gazagenocide #thyssen #pace #vatican #trump #stopgenocide \ud83d\udcaa\ud83d\udc40\ud83d\udc4f\ud83c\udf49\ud83e\udec2\u262e\ufe0f\ud83c\udff3\ufe0f\u270c\ufe0f\ud83c\udf0f\ud83d\udd4a\ufe0f\ud83c\uddf5\ud83c\uddf8\u270a\ud83c\udf39\ud83d\udc9c",
+      "text_cleaned": "\ud83d\udcaa\ud83d\udc40\ud83d\udc4f\ud83c\udf49\ud83e\udec2\u262e\ufe0f\ud83c\udff3\ufe0f\u270c\ufe0f\ud83c\udf0f\ud83d\udd4a\ufe0f\ud83c\uddf5\ud83c\uddf8\u270a\ud83c\udf39\ud83d\udc9c",
+      "text_preview": "#arte #art #artist #artista #freegaza #girl #pal #palestina #sister #freegaza #museos #gaza #gazze #louvre #elprado #hermitage #moma #nationalgallery #trending #gazagenocide #thyssen #pace #vatican #t...",
+      "author": "demetrioymedio.bsky.social",
+      "author_display_name": "Demetrioymedio",
+      "created_at": "2025-08-04T20:20:29.196Z",
+      "hashtags": "['#elprado' '#girl' '#hermitage' '#pal' '#artist' '#vatican' '#gaza'\n '#nationalgallery' '#trending' '#thyssen' '#arte' '#artista' '#palestina'\n '#gazze' '#stopgenocide' '#trump' '#art' '#pace' '#moma' '#freegaza'\n '#museos' '#gazagenocide' '#sister' '#louvre']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929819",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 238,
+      "text_cleaned_length": 19,
+      "hashtag_count": 24,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvlzfe3uxl2s",
+      "text": "Whoa! \"Proud Democrats\" are calling Chris Cuomo's show saying they were \"wrong about Trump\" on immigration & the economy! A surprising twist on live TV. What's happening?! \n\n#Trump #Democrats #ChrisCuomo #NewsNation #USPolitics",
+      "text_cleaned": "Whoa! \"Proud Democrats\" are calling Chris Cuomo's show saying they were \"wrong about Trump\" on immigration & the economy! A surprising twist on live TV. What's happening?!",
+      "text_preview": "Whoa! \"Proud Democrats\" are calling Chris Cuomo's show saying they were \"wrong about Trump\" on immigration & the economy! A surprising twist on live TV. What's happening?! \n\n#Trump #Democrats #ChrisCu...",
+      "author": "meaww.com",
+      "author_display_name": "MEAWW News",
+      "created_at": "2025-08-04T20:20:27.318Z",
+      "hashtags": "['#USPolitics' '#Democrats' '#ChrisCuomo' '#NewsNation' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929827",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 227,
+      "text_cleaned_length": 171,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzhil6oc2u",
+      "text": "BOMBSHELL: EPSTEIN FEARED TRUMP WOULD K*LL HIM! | The Kyle Kulinski Show youtu.be/xjVORtpbdl0?... \n\n#epstein #trump #murder",
+      "text_cleaned": "BOMBSHELL: EPSTEIN FEARED TRUMP WOULD K*LL HIM! | The Kyle Kulinski Show youtu.be/xjVORtpbdl0?...",
+      "text_preview": "BOMBSHELL: EPSTEIN FEARED TRUMP WOULD K*LL HIM! | The Kyle Kulinski Show youtu.be/xjVORtpbdl0?... \n\n#epstein #trump #murder",
+      "author": "oppareacts.bsky.social",
+      "author_display_name": "Oppa Reacts - #NAFO #FELLA",
+      "created_at": "2025-08-04T20:21:39.301Z",
+      "hashtags": "['#epstein' '#trump' '#murder']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929804",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 123,
+      "text_cleaned_length": 97,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzfjo6di2w",
+      "text": "Five Guys have lost their damn minds. #fiveguys #prices #inflation #greedflation #covid19 #economy #america",
+      "text_cleaned": "Five Guys have lost their damn minds.",
+      "text_preview": "Five Guys have lost their damn minds. #fiveguys #prices #inflation #greedflation #covid19 #economy #america",
+      "author": "eddieocean.bsky.social",
+      "author_display_name": "Eddie Ocean",
+      "created_at": "2025-08-04T20:20:33.063Z",
+      "hashtags": "['#fiveguys' '#prices' '#inflation' '#economy' '#america' '#greedflation'\n '#covid19']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929499",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 107,
+      "text_cleaned_length": 37,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzjw25t22g",
+      "text": "#MSNBC #DeadlineWH Someone should ask #Trump if he'll pardon Larry Nassar. \ud83d\ude44",
+      "text_cleaned": "Someone should ask if he'll pardon Larry Nassar. \ud83d\ude44",
+      "text_preview": "#MSNBC #DeadlineWH Someone should ask #Trump if he'll pardon Larry Nassar. \ud83d\ude44",
+      "author": "ginsengity.bsky.social",
+      "author_display_name": "Molten Irony (Wade)",
+      "created_at": "2025-08-04T20:23:00.532Z",
+      "hashtags": "['#MSNBC' '#DeadlineWH' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929790",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 76,
+      "text_cleaned_length": 50,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzlzhvmw2b",
+      "text": "Click Subscribe. #MortgageRates #FinancialNews #Economy #InterestRates #RealEstate",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #MortgageRates #FinancialNews #Economy #InterestRates #RealEstate",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-04T20:24:10Z",
+      "hashtags": "['#MortgageRates' '#InterestRates' '#Economy' '#FinancialNews'\n '#RealEstate']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:25:03.929465",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:25:10.008000",
+      "text_length": 82,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlz3c7ucx2q",
+      "text": "#FoxNews CNN pollster \u2018couldn\u2019t help but praise\u00a0Trump\u2019\n\nCNN pollster \u2018couldn\u2019t help but praise Trump\u2019 'Outnumbered' reacts to CNN's chief data analyst Harry Enten calling President Donald Trump the most influential president of the century. #foxnews #trump #us #usnews #media #breakingnews #usa\u2026",
+      "text_cleaned": "CNN pollster \u2018couldn\u2019t help but praise Trump\u2019 CNN pollster \u2018couldn\u2019t help but praise Trump\u2019 'Outnumbered' reacts to CNN's chief data analyst Harry Enten calling President Donald Trump the most influential president of the century. \u2026",
+      "text_preview": "#FoxNews CNN pollster \u2018couldn\u2019t help but praise\u00a0Trump\u2019\n\nCNN pollster \u2018couldn\u2019t help but praise Trump\u2019 'Outnumbered' reacts to CNN's chief data analyst Harry Enten calling President Donald Trump the mo...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-04T20:14:48Z",
+      "hashtags": "['#breakingnews' '#us' '#trump' '#usnews' '#media' '#usa' '#FoxNews'\n '#foxnews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467649",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 295,
+      "text_cleaned_length": 232,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlz3woztk25",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to  impeach & convict pathological liar & #WhiteNationalist #Trump & his Admin.\n\nIn 11/26, WE MUST NEVER VOTE 4 #GOP\n\nTYVM @demdifference.bsky.social \n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel to impeach & convict pathological liar & & his Admin. In 11/26, WE MUST NEVER VOTE 4 TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to  impeach & convict pathological liar & #WhiteNationalist #Trump & his Admin.\n\nIn 11/26, WE...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T20:15:11.449Z",
+      "hashtags": "['#Trump' '#BlueCrew' '#Change' '#GOP' '#Congress' '#WhiteNationalist'\n '#TRUTHSOCIAL']",
+      "mentions": "['@demdifference.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467619",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 300,
+      "text_cleaned_length": 179,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvlzakkmxs2d",
+      "text": "Of course, another distraction by one of #Trump \u2018s craziest appointee\u2019s & the cherry on top is she\u2019s a Russian asset too! \nWhy boost #Musk \u2018s profits? \nHe just uses them to maim & kill us anyway. \nKudos to you for not being on former #Twitter now #X the media choice for #Fascists #Racists #Haters",
+      "text_cleaned": "Of course, another distraction by one of \u2018s craziest appointee\u2019s & the cherry on top is she\u2019s a Russian asset too! Why boost \u2018s profits? He just uses them to maim & kill us anyway. Kudos to you for not being on former now the media choice for",
+      "text_preview": "Of course, another distraction by one of #Trump \u2018s craziest appointee\u2019s & the cherry on top is she\u2019s a Russian asset too! \nWhy boost #Musk \u2018s profits? \nHe just uses them to maim & kill us anyway. \nKud...",
+      "author": "world-wanderer.bsky.social",
+      "author_display_name": "Juli",
+      "created_at": "2025-08-04T20:17:46.498Z",
+      "hashtags": "['#Twitter' '#Trump' '#X' '#Haters' '#Musk' '#Fascists' '#Racists']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467587",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 297,
+      "text_cleaned_length": 242,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzaby6qk2o",
+      "text": "Texas Gov. Abbott threatens to arrest democratically elected state representatives who are preventing him from disenfranchising Texas voters, and all because Trump is a pedophile who won't release the Epstein files.\n\nRelease the unredacted Epstein files.\n\n#epsteinfiles #trump #governorabbott",
+      "text_cleaned": "Texas Gov. Abbott threatens to arrest democratically elected state representatives who are preventing him from disenfranchising Texas voters, and all because Trump is a pedophile who won't release the Epstein files. Release the unredacted Epstein files.",
+      "text_preview": "Texas Gov. Abbott threatens to arrest democratically elected state representatives who are preventing him from disenfranchising Texas voters, and all because Trump is a pedophile who won't release the...",
+      "author": "halifaxbrent.bsky.social",
+      "author_display_name": "Halifax Brent",
+      "created_at": "2025-08-04T20:17:37.504Z",
+      "hashtags": "['#epsteinfiles' '#trump' '#governorabbott']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467601",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 292,
+      "text_cleaned_length": 253,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlz3hw4jy2z",
+      "text": "#FoxNews Dems are trying to run out the clock:\u00a0Turley\n\nDems are trying to run out the clock: Turley Fox News contributor Jonathan Turley discusses the Texas governor threatening to expel Democrats for not returning on 'America Reports.' #politics #trump #gerrymandering #texas #democrats\u2026",
+      "text_cleaned": "Dems are trying to run out the clock: Turley Dems are trying to run out the clock: Turley Fox News contributor Jonathan Turley discusses the Texas governor threatening to expel Democrats for not returning on 'America Reports.' \u2026",
+      "text_preview": "#FoxNews Dems are trying to run out the clock:\u00a0Turley\n\nDems are trying to run out the clock: Turley Fox News contributor Jonathan Turley discusses the Texas governor threatening to expel Democrats for...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-04T20:14:54Z",
+      "hashtags": "['#gerrymandering' '#trump' '#texas' '#democrats' '#FoxNews' '#politics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467640",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 288,
+      "text_cleaned_length": 228,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlz3sr2lk2a",
+      "text": "Climate and inequality fuel each other\u2014as inequality worsens, so does climate change.\n\nRead @oxfamamerica.bsky.social here:\nwww.oxfamamerica.org/explore/stor...\n\n#climate #inequality #wealthinequality #economy #climatechange #finance #USA #america #nonprofit #billionaires #money #wealthy",
+      "text_cleaned": "Climate and inequality fuel each other\u2014as inequality worsens, so does climate change. Read .bsky.social here:",
+      "text_preview": "Climate and inequality fuel each other\u2014as inequality worsens, so does climate change.\n\nRead @oxfamamerica.bsky.social here:\nwww.oxfamamerica.org/explore/stor...\n\n#climate #inequality #wealthinequality...",
+      "author": "ewdinstitute.bsky.social",
+      "author_display_name": "Excessive Wealth Disorder Institute",
+      "created_at": "2025-08-04T20:15:07.327Z",
+      "hashtags": "['#billionaires' '#climate' '#nonprofit' '#finance' '#wealthinequality'\n '#inequality' '#USA' '#america' '#economy' '#wealthy' '#climatechange'\n '#money']",
+      "mentions": "['@oxfamamerica.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467240",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 288,
+      "text_cleaned_length": 109,
+      "hashtag_count": 12,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzad52ct2s",
+      "text": "\u201cInvestor confidence in EU drops after Trump\u2019s Brussels trade deal\u201d \u2014 The Guardian\n\n#EnvironmentalNews #Environment #Trump",
+      "text_cleaned": "\u201cInvestor confidence in EU drops after Trump\u2019s Brussels trade deal\u201d \u2014 The Guardian",
+      "text_preview": "\u201cInvestor confidence in EU drops after Trump\u2019s Brussels trade deal\u201d \u2014 The Guardian\n\n#EnvironmentalNews #Environment #Trump",
+      "author": "environmentalnews.bsky.social",
+      "author_display_name": "Environmental News",
+      "created_at": "2025-08-04T20:17:38.670278+00:00",
+      "hashtags": "['#Trump' '#Environment' '#EnvironmentalNews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467594",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 122,
+      "text_cleaned_length": 82,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlzayvaqs26",
+      "text": "open.substack.com/pub/vincerot...\n#Conservative #BigBeautifulBill #Democrats #Republicans #Trump #Medicaid #Medicare #Liberal #USA #America",
+      "text_cleaned": "open.substack.com/pub/vincerot...",
+      "text_preview": "open.substack.com/pub/vincerot...\n#Conservative #BigBeautifulBill #Democrats #Republicans #Trump #Medicaid #Medicare #Liberal #USA #America",
+      "author": "vincer29.bsky.social",
+      "author_display_name": "VinceR29",
+      "created_at": "2025-08-04T20:18:01.527Z",
+      "hashtags": "['#Democrats' '#Trump' '#Medicaid' '#Republicans' '#BigBeautifulBill'\n '#USA' '#Liberal' '#Conservative' '#America' '#Medicare']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467576",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 139,
+      "text_cleaned_length": 33,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlz3gzc6c2g",
+      "text": "Peut \u00eatre que #Trump devrait envoyer des canadair. Enfin quand il aura publi\u00e9 les dossiers #Epstein ...",
+      "text_cleaned": "Peut \u00eatre que devrait envoyer des canadair. Enfin quand il aura publi\u00e9 les dossiers ...",
+      "text_preview": "Peut \u00eatre que #Trump devrait envoyer des canadair. Enfin quand il aura publi\u00e9 les dossiers #Epstein ...",
+      "author": "william75018.bsky.social",
+      "author_display_name": "William V",
+      "created_at": "2025-08-04T20:14:55.013Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467628",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 103,
+      "text_cleaned_length": 87,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlz4pgmbo2g",
+      "text": "\n#conflict   #India   #Moscow   #Tariffs   #Trump   #Ukraine   #Ukraine War   #war",
+      "text_cleaned": "War",
+      "text_preview": "\n#conflict   #India   #Moscow   #Tariffs   #Trump   #Ukraine   #Ukraine War   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T20:15:43.673567+00:00",
+      "hashtags": "['#conflict' '#Moscow' '#India' '#Trump' '#Ukraine' '#Tariffs' '#war']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T20:20:04.467609",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 20:20:10.014000",
+      "text_length": 82,
+      "text_cleaned_length": 3,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
