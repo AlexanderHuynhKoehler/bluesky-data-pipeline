@@ -1,0 +1,322 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250803_225258",
+    "original_batch": "batch_20250804_025136.json",
+    "enhanced_post_count": 9,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 9,
+      "emotion_coverage": 9,
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvk6gakjho2p",
+      "text": "BILL UPDATE:\n\nH.4862: To amend the Higher Education Act of 1965 to double the Pell Grant award a...\n\nACTION: Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker,...\n\n#economy #education #labor",
+      "text_cleaned": "BILL UPDATE: H.4862: To amend the Higher Education Act of 1965 to double the Pell Grant award a... ACTION: Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker,...",
+      "text_preview": "BILL UPDATE:\n\nH.4862: To amend the Higher Education Act of 1965 to double the Pell Grant award a...\n\nACTION: Referred to the Committee on Education and Workforce, and in addition to the Committee on t...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T02:45:04.799Z",
+      "hashtags": "['#labor' '#education' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:50:03.004530",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:50:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 270,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0,
+      "ml_sentiment_score": 0.014390907436609267,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8469505906105042,
+      "ml_processed_at": "2025-08-03 22:52:58.166016",
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvk6nbnwm62t",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmeta.bsky.social",
+      "author_display_name": "Cosmic Meta Digital",
+      "created_at": "2025-08-04T02:49:02.419Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:50:03.004797",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:50:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.0012846115976572036,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "sadness",
+      "emotion_confidence": 0.649341881275177,
+      "ml_processed_at": "2025-08-03 22:52:58.166016",
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvk6imk5yj2a",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-04T02:46:25.936Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:50:03.004805",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:50:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.0012846115976572036,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "sadness",
+      "emotion_confidence": 0.649341881275177,
+      "ml_processed_at": "2025-08-03 22:52:58.166016",
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvk65qxrdk2o",
+      "text": "Why did #Trump have underaged girls working at his spa at #Mar-a-lago? What were they doing that #Epstein wanted to steal them away to work for him? Trump had to have had a similar set up to Epstein\u2019s abuse.\n\nMasseurs have to be at least 18 and have 500 hrs of training and classes to work at a spa.",
+      "text_cleaned": "Why did have underaged girls working at his spa at -a-lago? What were they doing that wanted to steal them away to work for him? Trump had to have had a similar set up to Epstein\u2019s abuse. Masseurs have to be at least 18 and have 500 hrs of training and classes to work at a spa.",
+      "text_preview": "Why did #Trump have underaged girls working at his spa at #Mar-a-lago? What were they doing that #Epstein wanted to steal them away to work for him? Trump had to have had a similar set up to Epstein\u2019s...",
+      "author": "grumpybluedot.bsky.social",
+      "author_display_name": "Thegrumpybluedot",
+      "created_at": "2025-08-04T02:40:21.790Z",
+      "hashtags": "['#Mar' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:45:03.261864",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:45:10.011000",
+      "text_length": 299,
+      "text_cleaned_length": 278,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.705833270214498,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8063288927078247,
+      "ml_processed_at": "2025-08-03 22:52:58.166016",
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvk6fltjjb2u",
+      "text": "#ANINews US President Trump lands at Joint Base Andrews in Maryland, heads to White\u00a0House\n\nUS President Trump lands at Joint Base Andrews in Maryland, heads to White House US President Donald Trump landed at Joint Base Andrews in Maryland, heads to White House. #Trump #DonaldTrump #US #DonaldTrump\u2026",
+      "text_cleaned": "US President Trump lands at Joint Base Andrews in Maryland, heads to White House US President Trump lands at Joint Base Andrews in Maryland, heads to White House US President Donald Trump landed at Joint Base Andrews in Maryland, heads to White House. \u2026",
+      "text_preview": "#ANINews US President Trump lands at Joint Base Andrews in Maryland, heads to White\u00a0House\n\nUS President Trump lands at Joint Base Andrews in Maryland, heads to White House US President Donald Trump la...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-04T02:44:43Z",
+      "hashtags": "['#DonaldTrump' '#US' '#ANINews' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:45:03.261836",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:45:10.011000",
+      "text_length": 299,
+      "text_cleaned_length": 253,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.02167016761377454,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7172499299049377,
+      "ml_processed_at": "2025-08-03 22:52:58.166016",
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvk67cuovk2d",
+      "text": "Don't you think they should reopen the #Epstein case? For sure #Trump should be put under oath. He had to know about his friend, and what he was up to. Infact maybe he was involved. Those videos make you wonder.",
+      "text_cleaned": "Don't you think they should reopen the case? For sure should be put under oath. He had to know about his friend, and what he was up to. Infact maybe he was involved. Those videos make you wonder.",
+      "text_preview": "Don't you think they should reopen the #Epstein case? For sure #Trump should be put under oath. He had to know about his friend, and what he was up to. Infact maybe he was involved. Those videos make ...",
+      "author": "wgreverend.bsky.social",
+      "author_display_name": "IndependentStarPost",
+      "created_at": "2025-08-04T02:41:14.118Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:45:03.261856",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:45:10.011000",
+      "text_length": 211,
+      "text_cleaned_length": 195,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.3612493369728327,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "surprise",
+      "emotion_confidence": 0.9235953092575073,
+      "ml_processed_at": "2025-08-03 22:52:58.166016",
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvk654yo622t",
+      "text": "Billion Dollar Brain, another sci-fi/conspiracy classic: theliberum.com/fresh-air-ha...\n#jfk #texas #artificialintelligence #trump #michaelcaine #ukraine #covid #rfk #cia #biowar #jamesbond #CatherineDeneuve #Fran\u00e7oiseDorl\u00e9ac #karlmalden #danielcraig #casinoroyale #hitleryouth #crusades",
+      "text_cleaned": "Billion Dollar Brain, another sci-fi/conspiracy classic: theliberum.com/fresh-air-ha...",
+      "text_preview": "Billion Dollar Brain, another sci-fi/conspiracy classic: theliberum.com/fresh-air-ha...\n#jfk #texas #artificialintelligence #trump #michaelcaine #ukraine #covid #rfk #cia #biowar #jamesbond #Catherine...",
+      "author": "emadscifi.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T02:40:00.848Z",
+      "hashtags": "['#michaelcaine' '#hitleryouth' '#biowar' '#danielcraig' '#rfk' '#ukraine'\n '#trump' '#CatherineDeneuve' '#Fran\u00e7oiseDorl\u00e9ac' '#covid' '#casinoroyale'\n '#karlmalden' '#cia' '#jamesbond' '#artificialintelligence' '#crusades'\n '#jfk' '#texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:45:03.261883",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:45:10.011000",
+      "text_length": 287,
+      "text_cleaned_length": 87,
+      "hashtag_count": 18,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.44443285651504993,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "joy",
+      "emotion_confidence": 0.6594804525375366,
+      "ml_processed_at": "2025-08-03 22:52:58.166016",
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvk6cuga7t2a",
+      "text": "Trump is Now Being Accused of Getting Epstein Killed\r\n\r\n\r\n#Trump #JeffreyEpstein #EpsteinDeath #ConspiracyTheories #JusticeDepartment #GhislaineMaxwell #PublicScrutiny #MediaCoverage #CriminalJustice #EpsteinFiles #PoliticalNews #Transparency #InvestigativeJournalism #News #Politics ",
+      "text_cleaned": "Trump is Now Being Accused of Getting Epstein Killed",
+      "text_preview": "Trump is Now Being Accused of Getting Epstein Killed\r\n\r\n\r\n#Trump #JeffreyEpstein #EpsteinDeath #ConspiracyTheories #JusticeDepartment #GhislaineMaxwell #PublicScrutiny #MediaCoverage #CriminalJustice ...",
+      "author": "franknez.bsky.social",
+      "author_display_name": "Frank Nez",
+      "created_at": "2025-08-04T02:43:13.100Z",
+      "hashtags": "['#EpsteinDeath' '#News' '#ConspiracyTheories' '#PublicScrutiny'\n '#Transparency' '#GhislaineMaxwell' '#MediaCoverage' '#PoliticalNews'\n '#InvestigativeJournalism' '#EpsteinFiles' '#CriminalJustice'\n '#JusticeDepartment' '#Politics' '#JeffreyEpstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:45:03.261849",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:45:10.011000",
+      "text_length": 284,
+      "text_cleaned_length": 52,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.7785562230274081,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "sadness",
+      "emotion_confidence": 0.5765138268470764,
+      "ml_processed_at": "2025-08-03 22:52:58.166016",
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvk65pe6x22g",
+      "text": "#Trump 's economy #AutoLoans  #AutoDealerships #CarSales #Delinquency #BankCrash   youtu.be/qY3_OAnBwss?...",
+      "text_cleaned": "'s economy youtu.be/qY3_OAnBwss?...",
+      "text_preview": "#Trump 's economy #AutoLoans  #AutoDealerships #CarSales #Delinquency #BankCrash   youtu.be/qY3_OAnBwss?...",
+      "author": "kklown.bsky.social",
+      "author_display_name": "WOW",
+      "created_at": "2025-08-04T02:40:20.100Z",
+      "hashtags": "['#AutoLoans' '#BankCrash' '#AutoDealerships' '#CarSales' '#Delinquency'\n '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:45:03.261872",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:45:10.011000",
+      "text_length": 107,
+      "text_cleaned_length": 35,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0,
+      "ml_sentiment_score": -0.3566400371491909,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "surprise",
+      "emotion_confidence": 0.6406545639038086,
+      "ml_processed_at": "2025-08-03 22:52:58.166016",
+      "processing_speed": 151.92694002262024,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
