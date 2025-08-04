@@ -1,0 +1,149 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_024024",
+    "post_count": 5,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 02:35:10.009000",
+    "latest_received_at": "2025-08-04 02:35:10.009000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvk5tsblf22c",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-04T02:34:47.438Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:35:03.353582",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:35:10.009000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk5lszdqs2n",
+      "text": "Picked up a copy of this book today.\n\n#Gaza #Palestine #Israel #Ukraine #Russia #America #Putin #Netanyahu #Trump #Epstein\n\n#OmarElAkkad - author & journalist\n\n\u201cOne day\u2026 everyone will have always been against this.\u201d\n\n#Humanism #BookSky #HumanRights #MeidasMighty #MapleMeidas",
+      "text_cleaned": "Picked up a copy of this book today. - author & journalist \u201cOne day\u2026 everyone will have always been against this.\u201d",
+      "text_preview": "Picked up a copy of this book today.\n\n#Gaza #Palestine #Israel #Ukraine #Russia #America #Putin #Netanyahu #Trump #Epstein\n\n#OmarElAkkad - author & journalist\n\n\u201cOne day\u2026 everyone will have always been...",
+      "author": "shannondrake.bsky.social",
+      "author_display_name": "Shannon Drake \ud83c\udf12\ud83c\udf15\ud83c\udf18",
+      "created_at": "2025-08-04T02:30:19.937Z",
+      "hashtags": "['#Palestine' '#Epstein' '#MeidasMighty' '#America' '#BookSky' '#Trump'\n '#MapleMeidas' '#Israel' '#HumanRights' '#Russia' '#Ukraine' '#Netanyahu'\n '#OmarElAkkad' '#Gaza' '#Humanism' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 4,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:35:03.353617",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:35:10.009000",
+      "text_length": 275,
+      "text_cleaned_length": 114,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 7.5
+    },
+    {
+      "post_id": "3lvk5ss7y7c2n",
+      "text": "www.nytimes.com/2025/08/03/u...\n\n#trump is the greatest monster and the greatest joke of the early 21st century.\n:::",
+      "text_cleaned": "is the greatest monster and the greatest joke of the early 21st century. :::",
+      "text_preview": "www.nytimes.com/2025/08/03/u...\n\n#trump is the greatest monster and the greatest joke of the early 21st century.\n:::",
+      "author": "medgrant.bsky.social",
+      "author_display_name": "Ned Grant",
+      "created_at": "2025-08-04T02:34:14.009Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:35:03.353588",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:35:10.009000",
+      "text_length": 116,
+      "text_cleaned_length": 76,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk5mfn67r2v",
+      "text": "\n#Election   #Hillary Clinton   #obama   #Political System   #Russia   #Trump   #Tulsi Gabbard",
+      "text_cleaned": "Clinton System Gabbard",
+      "text_preview": "\n#Election   #Hillary Clinton   #obama   #Political System   #Russia   #Trump   #Tulsi Gabbard",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T02:30:46.586984+00:00",
+      "hashtags": "['#Hillary' '#Trump' '#Political' '#Russia' '#Tulsi' '#Election' '#obama']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:35:03.353606",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:35:10.009000",
+      "text_length": 94,
+      "text_cleaned_length": 22,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk5nuaf4v22",
+      "text": "#viral #tamil #trending #vijai #news #entertainment #song #love #status #trump #motivation\u00a0#sai",
+      "text_cleaned": "",
+      "text_preview": "#viral #tamil #trending #vijai #news #entertainment #song #love #status #trump #motivation\u00a0#sai",
+      "author": "som2nypost.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T02:31:26Z",
+      "hashtags": "['#news' '#trump' '#love' '#vijai' '#motivation' '#song' '#viral'\n '#trending' '#tamil' '#sai' '#entertainment' '#status']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:35:03.353598",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:35:10.009000",
+      "text_length": 95,
+      "text_cleaned_length": 0,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
