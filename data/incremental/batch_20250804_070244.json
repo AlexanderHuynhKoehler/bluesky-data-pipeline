@@ -1,0 +1,338 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_070244",
+    "post_count": 12,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 06:55:10.006000",
+    "latest_received_at": "2025-08-04 07:00:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkmj5whks2j",
+      "text": "It\u2019s a Norwegian #SoftDrinks company with over a century of history operating just outside Oslo. Roma makes a significant contribution to Norway\u2019s #economy by creating #jobs and investing in its local community.",
+      "text_cleaned": "It\u2019s a Norwegian company with over a century of history operating just outside Oslo. Roma makes a significant contribution to Norway\u2019s by creating and investing in its local community.",
+      "text_preview": "It\u2019s a Norwegian #SoftDrinks company with over a century of history operating just outside Oslo. Roma makes a significant contribution to Norway\u2019s #economy by creating #jobs and investing in its local...",
+      "author": "unesda.bsky.social",
+      "author_display_name": "UNESDA Soft Drinks Europe",
+      "created_at": "2025-08-04T06:57:14.117Z",
+      "hashtags": "['#economy' '#jobs' '#SoftDrinks']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:00:03.231301",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:00:10.007000",
+      "text_length": 211,
+      "text_cleaned_length": 184,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkmf2kp2k2f",
+      "text": "We like the t-shirt too.  Available now at  www.kompramized.org\n\n #KOMpRAmizeD #eighty-sixforty-seven #romanstyle #orangechicken #taco #trump #geriatricstooge",
+      "text_cleaned": "We like the t-shirt too. Available now at -sixforty-seven",
+      "text_preview": "We like the t-shirt too.  Available now at  www.kompramized.org\n\n #KOMpRAmizeD #eighty-sixforty-seven #romanstyle #orangechicken #taco #trump #geriatricstooge",
+      "author": "kompramized.bsky.social",
+      "author_display_name": "KOMpRAmizeD",
+      "created_at": "2025-08-04T06:54:59.113Z",
+      "hashtags": "['#trump' '#geriatricstooge' '#KOMpRAmizeD' '#orangechicken' '#eighty'\n '#taco' '#romanstyle']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:00:03.231680",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:00:10.007000",
+      "text_length": 158,
+      "text_cleaned_length": 57,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkmgjvbu22y",
+      "text": "When the Truth hurts. Mirror mirror on the wall who is the biggest liar all of them all. #Trump",
+      "text_cleaned": "When the Truth hurts. Mirror mirror on the wall who is the biggest liar all of them all.",
+      "text_preview": "When the Truth hurts. Mirror mirror on the wall who is the biggest liar all of them all. #Trump",
+      "author": "moranstephen1000.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T06:55:48.742Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:00:03.231668",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:00:10.007000",
+      "text_length": 95,
+      "text_cleaned_length": 88,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkm5cyb2de2",
+      "text": "Anyway, all US submarines are \u201cnuclear\u201d (powered); the USN hasn\u2019t operated a diesel boat for decades, so what does Two Dolls Donny mean by the phrase \u201cnuclear submarines\u201d?\n\nUS Navy SSBN carrying the strategic nuclear deterrent are constantly on patrol and a surge would have maintenance drumbeat [\u2026]",
+      "text_cleaned": "Anyway, all US submarines are \u201cnuclear\u201d (powered); the USN hasn\u2019t operated a diesel boat for decades, so what does Two Dolls Donny mean by the phrase \u201cnuclear submarines\u201d? US Navy SSBN carrying the strategic nuclear deterrent are constantly on patrol and a surge would have maintenance drumbeat [\u2026]",
+      "text_preview": "Anyway, all US submarines are \u201cnuclear\u201d (powered); the USN hasn\u2019t operated a diesel boat for decades, so what does Two Dolls Donny mean by the phrase \u201cnuclear submarines\u201d?\n\nUS Navy SSBN carrying the s...",
+      "author": "philipcjames.mas.to.ap.brid.gy",
+      "author_display_name": "Philip C James",
+      "created_at": "2025-08-04T06:50:37.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:55:02.826320",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:55:10.006000",
+      "text_length": 299,
+      "text_cleaned_length": 298,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkmc3aukxc2",
+      "text": "Four former USN SSBN were converted to SSGN; arsenal ships capable of firing hundreds of non-nuclear-tipped cruise missiles (and covertly deploying special forces through their DDS); so what exactly i Two Dolls Donny threatening?\n\nDoes he even know, himself?\n\nWe all have a dog in a #MAD match [\u2026]",
+      "text_cleaned": "Four former USN SSBN were converted to SSGN; arsenal ships capable of firing hundreds of non-nuclear-tipped cruise missiles (and covertly deploying special forces through their DDS); so what exactly i Two Dolls Donny threatening? Does he even know, himself? We all have a dog in a match [\u2026]",
+      "text_preview": "Four former USN SSBN were converted to SSGN; arsenal ships capable of firing hundreds of non-nuclear-tipped cruise missiles (and covertly deploying special forces through their DDS); so what exactly i...",
+      "author": "philipcjames.mas.to.ap.brid.gy",
+      "author_display_name": "Philip C James",
+      "created_at": "2025-08-04T06:53:14.000Z",
+      "hashtags": "['#MAD']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:55:02.826274",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:55:10.006000",
+      "text_length": 297,
+      "text_cleaned_length": 290,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkm67pcdh2r",
+      "text": "0841: Trump, Epstein u l-Misteru tal-Mewt: Konfoffa, Fajls Sigrieti u Pressjoni Politika\n\nTrump u Epstein | konfoffa tal-mewt | fajls DOJ\n\n\ud83d\uddd3\ufe0f 25 ta\u2019 Lulju sal-4 ta\u2019 Awwissu 2025 \u2013 Il-kontroversja dwar il-mewt ta\u2019 Jeffrey Epstein\u2026 #Trump #Epstein #MisteruTalMewt #FajlsSigrieti #PressjoniPolitika",
+      "text_cleaned": "0841: Trump, Epstein u l-Misteru tal-Mewt: Konfoffa, Fajls Sigrieti u Pressjoni Politika Trump u Epstein | konfoffa tal-mewt | fajls DOJ \ud83d\uddd3\ufe0f 25 ta\u2019 Lulju sal-4 ta\u2019 Awwissu 2025 \u2013 Il-kontroversja dwar il-mewt ta\u2019 Jeffrey Epstein\u2026",
+      "text_preview": "0841: Trump, Epstein u l-Misteru tal-Mewt: Konfoffa, Fajls Sigrieti u Pressjoni Politika\n\nTrump u Epstein | konfoffa tal-mewt | fajls DOJ\n\n\ud83d\uddd3\ufe0f 25 ta\u2019 Lulju sal-4 ta\u2019 Awwissu 2025 \u2013 Il-kontroversja dwar...",
+      "author": "maltahoy.bsky.social",
+      "author_display_name": "MaltaHoy",
+      "created_at": "2025-08-04T06:51:09Z",
+      "hashtags": "['#PressjoniPolitika' '#Trump' '#MisteruTalMewt' '#FajlsSigrieti'\n '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:55:02.826287",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:55:10.006000",
+      "text_length": 295,
+      "text_cleaned_length": 227,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkm3nqsqc2y",
+      "text": "[SPECIAL] - Scott Ritter: #Trump deploys #NuclearSubs to #Russia over #SocialMedia Rift\n\nwww.youtube.com/live/JdvV2pp... @judgenap.bsky.social @nuclearban.bsky.social \n\n#USA #US #warmongers #NuclearWeapons #NuclearWar #ArmsControl #NuclearBan #PeaceBuilding #Peace",
+      "text_cleaned": "[SPECIAL] - Scott Ritter: deploys to over Rift .bsky.social .bsky.social",
+      "text_preview": "[SPECIAL] - Scott Ritter: #Trump deploys #NuclearSubs to #Russia over #SocialMedia Rift\n\nwww.youtube.com/live/JdvV2pp... @judgenap.bsky.social @nuclearban.bsky.social \n\n#USA #US #warmongers #NuclearWe...",
+      "author": "simonawood.bsky.social",
+      "author_display_name": "#FreePalestine #Vote1Greens #StopArmingIsrael",
+      "created_at": "2025-08-04T06:49:43.693Z",
+      "hashtags": "['#PeaceBuilding' '#SocialMedia' '#US' '#ArmsControl' '#Trump'\n '#warmongers' '#NuclearSubs' '#NuclearWar' '#Russia' '#NuclearWeapons'\n '#NuclearBan' '#Peace' '#USA']",
+      "mentions": "['@judgenap.bsky.social' '@nuclearban.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:55:02.826332",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:55:10.006000",
+      "text_length": 264,
+      "text_cleaned_length": 72,
+      "hashtag_count": 13,
+      "mention_count": 2,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvkm5fd6ws23",
+      "text": "\"The evil that men [or women] do lives after them; The good is oft interred with their bones,\"\nbut the world needs to know NOW the evil that #Maxwell & #Trump have done",
+      "text_cleaned": "\"The evil that men [or women] do lives after them; The good is oft interred with their bones,\" but the world needs to know NOW the evil that & have done",
+      "text_preview": "\"The evil that men [or women] do lives after them; The good is oft interred with their bones,\"\nbut the world needs to know NOW the evil that #Maxwell & #Trump have done",
+      "author": "msjaggers.bsky.social",
+      "author_display_name": "Ms Jaggers",
+      "created_at": "2025-08-04T06:50:41.967Z",
+      "hashtags": "['#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:55:02.826313",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:55:10.006000",
+      "text_length": 168,
+      "text_cleaned_length": 152,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkmct6beb2b",
+      "text": "Legal Challenge to Trump\u2019s Tariffs Nears the Supreme Court\n#Trump",
+      "text_cleaned": "Legal Challenge to Trump\u2019s Tariffs Nears the Supreme Court",
+      "text_preview": "Legal Challenge to Trump\u2019s Tariffs Nears the Supreme Court\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T06:53:43.606Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:55:02.826260",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:55:10.006000",
+      "text_length": 65,
+      "text_cleaned_length": 58,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkm5uh2dk23",
+      "text": "If #Trump doesn't pay his bills/fines why should the democrats?",
+      "text_cleaned": "If doesn't pay his bills/fines why should the democrats?",
+      "text_preview": "If #Trump doesn't pay his bills/fines why should the democrats?",
+      "author": "nicomo-warsaw.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T06:50:57.821Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:55:02.826297",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:55:10.006000",
+      "text_length": 63,
+      "text_cleaned_length": 56,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkm5mlbp22e",
+      "text": "Can I get an AMEN! #Superman #USA #djt #Trump #disaster",
+      "text_cleaned": "Can I get an AMEN!",
+      "text_preview": "Can I get an AMEN! #Superman #USA #djt #Trump #disaster",
+      "author": "genxblue72.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T06:50:49.570Z",
+      "hashtags": "['#djt' '#Trump' '#Superman' '#disaster' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:55:02.826306",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:55:10.006000",
+      "text_length": 55,
+      "text_cleaned_length": 18,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkmcorepc2y",
+      "text": "Alphabet spaghetti. #Trump",
+      "text_cleaned": "Alphabet spaghetti.",
+      "text_preview": "Alphabet spaghetti. #Trump",
+      "author": "moranstephen1000.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T06:53:39.639Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:55:02.826266",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:55:10.006000",
+      "text_length": 26,
+      "text_cleaned_length": 19,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
