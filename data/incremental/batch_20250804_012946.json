@@ -1,0 +1,338 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_012946",
+    "post_count": 12,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 01:20:10.007000",
+    "latest_received_at": "2025-08-04 01:25:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvjzukbyp22l",
+      "text": "#\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0646\u0641\u064a \u0627\u0644\u062a\u0646\u0627\u0632\u0644 \u0639\u0646 \u0627\u0644\u0645\u0645\u0631 \u0627\u0644\u0628\u062d\u0631\u064a \"\u062e\u0648\u0631 \u0639\u0628\u062f\u0627\u0644\u0644\u0647\" \u0627\u0644\u0645\u062a\u0646\u0627\u0632\u0639 \u0639\u0644\u064a\u0647 \u0645\u0639 \u0627\u0644\u0643\u0648\u064a\u062a.\n#Iraq denies giving up the disputed Khor Abdullah waterway with #Kuwait. #iran #trump #elonmuak #CoolieUnleashed #Venezuela #BBNaijaS10 #NocheDorada #MinerosAtrapados #LoveIslandUK #KCONLA2025",
+      "text_cleaned": "\u064a\u0646\u0641\u064a \u0627\u0644\u062a\u0646\u0627\u0632\u0644 \u0639\u0646 \u0627\u0644\u0645\u0645\u0631 \u0627\u0644\u0628\u062d\u0631\u064a \"\u062e\u0648\u0631 \u0639\u0628\u062f\u0627\u0644\u0644\u0647\" \u0627\u0644\u0645\u062a\u0646\u0627\u0632\u0639 \u0639\u0644\u064a\u0647 \u0645\u0639 \u0627\u0644\u0643\u0648\u064a\u062a. denies giving up the disputed Khor Abdullah waterway with .",
+      "text_preview": "#\u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u0646\u0641\u064a \u0627\u0644\u062a\u0646\u0627\u0632\u0644 \u0639\u0646 \u0627\u0644\u0645\u0645\u0631 \u0627\u0644\u0628\u062d\u0631\u064a \"\u062e\u0648\u0631 \u0639\u0628\u062f\u0627\u0644\u0644\u0647\" \u0627\u0644\u0645\u062a\u0646\u0627\u0632\u0639 \u0639\u0644\u064a\u0647 \u0645\u0639 \u0627\u0644\u0643\u0648\u064a\u062a.\n#Iraq denies giving up the disputed Khor Abdullah waterway with #Kuwait. #iran #trump #elonmuak #CoolieUnleashed #Venezuela ...",
+      "author": "bahraintoday.bsky.social",
+      "author_display_name": "Bahrain Today | \u0628\u062d\u0631\u064a\u0646 \u0627\u0644\u064a\u0648\u0645 \ud83c\udde7\ud83c\udded",
+      "created_at": "2025-08-04T01:23:37.821Z",
+      "hashtags": "['#MinerosAtrapados' '#NocheDorada' '#BBNaijaS10' '#Venezuela' '#trump'\n '#KCONLA2025' '#Iraq' '#CoolieUnleashed' '#LoveIslandUK' '#iran'\n '#elonmuak' '#\u0627\u0644\u0639\u0631\u0627\u0642' '#Kuwait']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:25:03.343022",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:25:10.008000",
+      "text_length": 268,
+      "text_cleaned_length": 127,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvjzuj4vef2h",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-04T01:23:36.435Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:25:03.343029",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:25:10.008000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvjzqbibrs2x",
+      "text": "It\u2019s impossible to overstate how at odds #Trump is with the #middleclass. #history\nwww.youtube.com/shorts/mR_Kz...",
+      "text_cleaned": "It\u2019s impossible to overstate how at odds is with the .",
+      "text_preview": "It\u2019s impossible to overstate how at odds #Trump is with the #middleclass. #history\nwww.youtube.com/shorts/mR_Kz...",
+      "author": "ladywildfella.bsky.social",
+      "author_display_name": "Lady Wildfire",
+      "created_at": "2025-08-04T01:21:14.379Z",
+      "hashtags": "['#history' '#Trump' '#middleclass']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:25:03.343036",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:25:10.008000",
+      "text_length": 114,
+      "text_cleaned_length": 54,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvjzo53pfu2h",
+      "text": "Trump issues executive order for college sports\n\n#NCAA #Trump #Sports #College",
+      "text_cleaned": "Trump issues executive order for college sports",
+      "text_preview": "Trump issues executive order for college sports\n\n#NCAA #Trump #Sports #College",
+      "author": "sportstoday.bsky.social",
+      "author_display_name": "Bluesky Sports \ud83e\udd8b",
+      "created_at": "2025-08-04T01:20:02+00:00",
+      "hashtags": "['#College' '#NCAA' '#Trump' '#Sports']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:25:03.343042",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:25:10.008000",
+      "text_length": 78,
+      "text_cleaned_length": 47,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvjzicyqz22g",
+      "text": "This just gets more and more interesting \ud83d\udc40. I have a premonition that some \"none\" AI, Russian Lolita videos and pictures are going to be mysteriously released with images of #Donald_J_Trump; Not to be confused with all the dirt Maxwell has on #Trump.\nyoutu.be/Qqwa5fx-Rpw?...",
+      "text_cleaned": "This just gets more and more interesting \ud83d\udc40. I have a premonition that some \"none\" AI, Russian Lolita videos and pictures are going to be mysteriously released with images of ; Not to be confused with all the dirt Maxwell has on . youtu.be/Qqwa5fx-Rpw?...",
+      "text_preview": "This just gets more and more interesting \ud83d\udc40. I have a premonition that some \"none\" AI, Russian Lolita videos and pictures are going to be mysteriously released with images of #Donald_J_Trump; Not to be...",
+      "author": "progressive-ken.bsky.social",
+      "author_display_name": "Ken Williams",
+      "created_at": "2025-08-04T01:16:47.524Z",
+      "hashtags": "['#Trump' '#Donald_J_Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:20:03.502754",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:20:10.007000",
+      "text_length": 275,
+      "text_cleaned_length": 254,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvjziz2rrs2k",
+      "text": "I hope all of the #USA allies understand that the majority of this country HATES #Trump just as much & actually way more than they do!\n#FuckTrump\n#FuckPutin\n#FuckJongUn\n#FuckTrumpRegime\n\nI stand with #NATO, our #allies & especially #Ukraine!!!\n\n#SlavaUkraini I'm so proud of all of #Ukraine except...",
+      "text_cleaned": "I hope all of the allies understand that the majority of this country HATES just as much & actually way more than they do! I stand with , our & especially !!! I'm so proud of all of except...",
+      "text_preview": "I hope all of the #USA allies understand that the majority of this country HATES #Trump just as much & actually way more than they do!\n#FuckTrump\n#FuckPutin\n#FuckJongUn\n#FuckTrumpRegime\n\nI stand with ...",
+      "author": "allmykidshavepaws.bsky.social",
+      "author_display_name": "AllMyKidsHavePaws",
+      "created_at": "2025-08-04T01:17:10.667Z",
+      "hashtags": "['#FuckTrump' '#FuckPutin' '#allies' '#NATO' '#FuckTrumpRegime'\n '#SlavaUkraini' '#FuckJongUn' '#Ukraine' '#Trump' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:20:03.502725",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:20:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 191,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvjzna3njn2h",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-04T01:19:32.073Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:20:03.502685",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:20:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvjzmnlyqk23",
+      "text": "#Trump is up to his eyeballs in the pedofilic debauchery organized by #Epstein, and the #GOP/evangelical leaders supporting #Trump know it. This is what #GOP voters and their elected officials are condoning. www.bloomberg.com/news/newslet...",
+      "text_cleaned": "is up to his eyeballs in the pedofilic debauchery organized by , and the /evangelical leaders supporting know it. This is what voters and their elected officials are condoning.",
+      "text_preview": "#Trump is up to his eyeballs in the pedofilic debauchery organized by #Epstein, and the #GOP/evangelical leaders supporting #Trump know it. This is what #GOP voters and their elected officials are con...",
+      "author": "infullbloomus.bsky.social",
+      "author_display_name": "Naomi Lee Bloom",
+      "created_at": "2025-08-04T01:19:12.867Z",
+      "hashtags": "['#Trump' '#GOP' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:20:03.502699",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:20:10.007000",
+      "text_length": 241,
+      "text_cleaned_length": 176,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvjzisddas2h",
+      "text": "#Trump #EpsteinList #TrumpMadhatter #News\nScene:\nTrump in a velvet bowtie.\nSweating.\nHolding the Epstein list.\nCrying into a gold coin labeled \u201cPeace Prize.\u201d\n#EpsteinFilesFear #FakeNobel #MadnessInWonderland",
+      "text_cleaned": "Scene: Trump in a velvet bowtie. Sweating. Holding the Epstein list. Crying into a gold coin labeled \u201cPeace Prize.\u201d",
+      "text_preview": "#Trump #EpsteinList #TrumpMadhatter #News\nScene:\nTrump in a velvet bowtie.\nSweating.\nHolding the Epstein list.\nCrying into a gold coin labeled \u201cPeace Prize.\u201d\n#EpsteinFilesFear #FakeNobel #MadnessInWon...",
+      "author": "afro-carib-vybz.bsky.social",
+      "author_display_name": "AFRO CARIB VYBZ",
+      "created_at": "2025-08-04T01:17:03.595Z",
+      "hashtags": "['#EpsteinList' '#FakeNobel' '#EpsteinFilesFear' '#TrumpMadhatter' '#News'\n '#Trump' '#MadnessInWonderland']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:20:03.502739",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:20:10.007000",
+      "text_length": 207,
+      "text_cleaned_length": 115,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvjzhhtirm2w",
+      "text": "#ClaudiaSheinbaum dice que con la #4T se recuper\u00f3 la #dignidad del pueblo y eso le da fuerza para hablar con #Trump o con cualquier otro presidente.\n",
+      "text_cleaned": "dice que con la se recuper\u00f3 la del pueblo y eso le da fuerza para hablar con o con cualquier otro presidente.",
+      "text_preview": "#ClaudiaSheinbaum dice que con la #4T se recuper\u00f3 la #dignidad del pueblo y eso le da fuerza para hablar con #Trump o con cualquier otro presidente.\n",
+      "author": "orusmedia.com.mx",
+      "author_display_name": "ORUSMEDIA",
+      "created_at": "2025-08-04T01:16:18.799579Z",
+      "hashtags": "['#ClaudiaSheinbaum' '#4T' '#dignidad' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:20:03.502767",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:20:10.007000",
+      "text_length": 149,
+      "text_cleaned_length": 109,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvjziz3qzs2k",
+      "text": "for the pro-Russians.\n#Americans who are #pro-Russian and/or #pro-Putin should be forced to move there (including #Trump)!",
+      "text_cleaned": "for the pro-Russians. who are -Russian and/or -Putin should be forced to move there (including )!",
+      "text_preview": "for the pro-Russians.\n#Americans who are #pro-Russian and/or #pro-Putin should be forced to move there (including #Trump)!",
+      "author": "allmykidshavepaws.bsky.social",
+      "author_display_name": "AllMyKidsHavePaws",
+      "created_at": "2025-08-04T01:17:10.668Z",
+      "hashtags": "['#Americans' '#pro' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:20:03.502710",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:20:10.007000",
+      "text_length": 122,
+      "text_cleaned_length": 97,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvjzf6rsws2g",
+      "text": "\u201cRigged! That scale was rigged, I say! I always weigh 215!\u201d, Donald J-ust Pathetic Trump\n#Trump\n#JobsReport",
+      "text_cleaned": "\u201cRigged! That scale was rigged, I say! I always weigh 215!\u201d, Donald J-ust Pathetic Trump",
+      "text_preview": "\u201cRigged! That scale was rigged, I say! I always weigh 215!\u201d, Donald J-ust Pathetic Trump\n#Trump\n#JobsReport",
+      "author": "hmandia.bsky.social",
+      "author_display_name": "Holly M",
+      "created_at": "2025-08-04T01:15:02.423Z",
+      "hashtags": "['#Trump' '#JobsReport']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:20:03.502779",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:20:10.007000",
+      "text_length": 107,
+      "text_cleaned_length": 88,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    }
+  ]
+}
