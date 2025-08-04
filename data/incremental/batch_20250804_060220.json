@@ -1,0 +1,311 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_060220",
+    "post_count": 11,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 05:55:10.008000",
+    "latest_received_at": "2025-08-04 06:00:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkjbwsnz22s",
+      "text": "Good idea lets bring all #Trump #Republicans to the electric chair and give them a deathpenalty with no parole #Texas #Washington",
+      "text_cleaned": "Good idea lets bring all to the electric chair and give them a deathpenalty with no parole",
+      "text_preview": "Good idea lets bring all #Trump #Republicans to the electric chair and give them a deathpenalty with no parole #Texas #Washington",
+      "author": "pi-qui.bsky.social",
+      "author_display_name": "Pi-Qui Djinn Djinni",
+      "created_at": "2025-08-04T05:59:33.290Z",
+      "hashtags": "['#Republicans' '#Trump' '#Texas' '#Washington']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:00:03.405241",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:00:10.007000",
+      "text_length": 129,
+      "text_cleaned_length": 90,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjaj2y4k22",
+      "text": "The Turd can't use the word GOD to describe himself.\n\nThe correct term would SATAN!\n\n#Evil #satan #trump",
+      "text_cleaned": "The Turd can't use the word GOD to describe himself. The correct term would SATAN!",
+      "text_preview": "The Turd can't use the word GOD to describe himself.\n\nThe correct term would SATAN!\n\n#Evil #satan #trump",
+      "author": "mista-blue-sky.bsky.social",
+      "author_display_name": "Mister-Blue-Sky \ud83c\udf0e\ud83d\udcf8\ud83d\ude3a\ud83c\udfbc\ud83c\udf3c\ud83e\udd8b\ud83e\udd89\ud83d\udc99",
+      "created_at": "2025-08-04T05:58:45.330Z",
+      "hashtags": "['#satan' '#Evil' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:00:03.405250",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:00:10.007000",
+      "text_length": 104,
+      "text_cleaned_length": 82,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkj7gwccc2f",
+      "text": "A RECESSION BECAUSE OF #TRUMP. #Americans people #America #Texas #California #Georgia #NewYork\n#Florida #Ohio #Colorado",
+      "text_cleaned": "A RECESSION BECAUSE OF . people",
+      "text_preview": "A RECESSION BECAUSE OF #TRUMP. #Americans people #America #Texas #California #Georgia #NewYork\n#Florida #Ohio #Colorado",
+      "author": "victoria58.bsky.social",
+      "author_display_name": "Victoria",
+      "created_at": "2025-08-04T05:58:09.525Z",
+      "hashtags": "['#America' '#TRUMP' '#Texas' '#Americans' '#NewYork' '#Colorado'\n '#Georgia' '#California' '#Florida' '#Ohio']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:00:03.405262",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:00:10.007000",
+      "text_length": 119,
+      "text_cleaned_length": 31,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkj4vsh4d2w",
+      "text": "\n#Moscow   #nuclear   #Russia   #Sanctions   #Steve Witkoff   #Trump   #Ukraine   #war",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Moscow   #nuclear   #Russia   #Sanctions   #Steve Witkoff   #Trump   #Ukraine   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T05:56:51.407124+00:00",
+      "hashtags": "['#war' '#Steve' '#Trump' '#Ukraine' '#Sanctions' '#Moscow' '#Russia'\n '#nuclear']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:00:03.405282",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:00:10.007000",
+      "text_length": 86,
+      "text_cleaned_length": 7,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkj35xfek2s",
+      "text": "www.theguardian.com/us-news/2025...\n\nThis is something to share with the MAGA crowd #trump #maga",
+      "text_cleaned": "This is something to share with the MAGA crowd",
+      "text_preview": "www.theguardian.com/us-news/2025...\n\nThis is something to share with the MAGA crowd #trump #maga",
+      "author": "pat68.bsky.social",
+      "author_display_name": "Pat",
+      "created_at": "2025-08-04T05:55:45.905Z",
+      "hashtags": "['#maga' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:00:03.405292",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:00:10.007000",
+      "text_length": 96,
+      "text_cleaned_length": 46,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkj6otjbm2q",
+      "text": "\n#charge   #government   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#charge   #government   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T05:57:51.203174+00:00",
+      "hashtags": "['#charge' '#Trump' '#government']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:00:03.405271",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:00:10.007000",
+      "text_length": 31,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkitgrk522y",
+      "text": "Das passiert wenn man einen Pr\u00e4sidenten wie #Trump hat. Seine fr\u00fchkindliche Auffassungsgabe zerst\u00f6rt derzeit alles und weit und breit sind keine Erziehungsberechtigten, die ihn zurechtweisen k\u00f6nnten. \norf.at/stories/3401...",
+      "text_cleaned": "Das passiert wenn man einen Pr\u00e4sidenten wie hat. Seine fr\u00fchkindliche Auffassungsgabe zerst\u00f6rt derzeit alles und weit und breit sind keine Erziehungsberechtigten, die ihn zurechtweisen k\u00f6nnten. orf.at/stories/3401...",
+      "text_preview": "Das passiert wenn man einen Pr\u00e4sidenten wie #Trump hat. Seine fr\u00fchkindliche Auffassungsgabe zerst\u00f6rt derzeit alles und weit und breit sind keine Erziehungsberechtigten, die ihn zurechtweisen k\u00f6nnten. ...",
+      "author": "chrissi0112a.bsky.social",
+      "author_display_name": "Chrissi0112a",
+      "created_at": "2025-08-04T05:51:26.716Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:55:03.326024",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:55:10.008000",
+      "text_length": 223,
+      "text_cleaned_length": 215,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkiraahfr2v",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-04T05:50:12.440Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:55:03.326051",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:55:10.008000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkiy5t6vc2x",
+      "text": "A narcissist does narcissistic things.\n\nHow long, American people will accept that, being pushed in the dirt?\n\n#trump #usa #fascism #monarchy #taco #maga",
+      "text_cleaned": "A narcissist does narcissistic things. How long, American people will accept that, being pushed in the dirt?",
+      "text_preview": "A narcissist does narcissistic things.\n\nHow long, American people will accept that, being pushed in the dirt?\n\n#trump #usa #fascism #monarchy #taco #maga",
+      "author": "gernotalmesberger.bsky.social",
+      "author_display_name": "Gernot Almesberger",
+      "created_at": "2025-08-04T05:54:05.106Z",
+      "hashtags": "['#fascism' '#maga' '#trump' '#taco' '#monarchy' '#usa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:55:03.326001",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:55:10.008000",
+      "text_length": 153,
+      "text_cleaned_length": 108,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkis6pbvs2m",
+      "text": "Trump's cognitive degeneration keeps growing. \n\n#Trump #maga\n\nwww.theguardian.com/us-news/2025...",
+      "text_cleaned": "Trump's cognitive degeneration keeps growing.",
+      "text_preview": "Trump's cognitive degeneration keeps growing. \n\n#Trump #maga\n\nwww.theguardian.com/us-news/2025...",
+      "author": "rogerc2738.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T05:50:44.698Z",
+      "hashtags": "['#Trump' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:55:03.326034",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:55:10.008000",
+      "text_length": 97,
+      "text_cleaned_length": 45,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkiwb3llu2q",
+      "text": "\n#global instability   #Trump",
+      "text_cleaned": "instability",
+      "text_preview": "\n#global instability   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T05:53:08.356166+00:00",
+      "hashtags": "['#Trump' '#global']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:55:03.326013",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:55:10.008000",
+      "text_length": 29,
+      "text_cleaned_length": 11,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
