@@ -1,0 +1,338 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_042100",
+    "post_count": 12,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 04:15:10.007000",
+    "latest_received_at": "2025-08-04 04:20:10.014000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkdhaz3sv2c",
+      "text": "BILL UPDATE:\n\nS.2654: A bill to amend the Farm Security and Rural Investment Act of 2002 to improve the biobased markets program, and for other purposes.\n\nACTION: Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.\n\n#congress #business #economy",
+      "text_cleaned": "BILL UPDATE: S.2654: A bill to amend the Farm Security and Rural Investment Act of 2002 to improve the biobased markets program, and for other purposes. ACTION: Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "text_preview": "BILL UPDATE:\n\nS.2654: A bill to amend the Farm Security and Rural Investment Act of 2002 to improve the biobased markets program, and for other purposes.\n\nACTION: Read twice and referred to the Commit...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T04:15:08.971Z",
+      "hashtags": "['#congress' '#economy' '#business']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:20:03.015423",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:20:10.014000",
+      "text_length": 274,
+      "text_cleaned_length": 242,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkdkwagni25",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-04T04:17:12.059Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:20:03.015692",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:20:10.014000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkdnzchic2p",
+      "text": "#Trump Signs Order to Remove Homeless from the Streets\n#NativeAmericans are 7.5 times more likely to experience homelessness, according to Seattle Indian Health Board data.",
+      "text_cleaned": "Signs Order to Remove Homeless from the Streets are 7.5 times more likely to experience homelessness, according to Seattle Indian Health Board data.",
+      "text_preview": "#Trump Signs Order to Remove Homeless from the Streets\n#NativeAmericans are 7.5 times more likely to experience homelessness, according to Seattle Indian Health Board data.",
+      "author": "msur.bsky.social",
+      "author_display_name": "msur0711",
+      "created_at": "2025-08-04T04:18:56.108Z",
+      "hashtags": "['#Trump' '#NativeAmericans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:20:03.015682",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:20:10.014000",
+      "text_length": 172,
+      "text_cleaned_length": 148,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkdhfghjk2k",
+      "text": "Less security could be dangerous for her. She knows too much.\n #Trump #Epstein",
+      "text_cleaned": "Less security could be dangerous for her. She knows too much.",
+      "text_preview": "Less security could be dangerous for her. She knows too much.\n #Trump #Epstein",
+      "author": "haggis222.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T04:15:13.943Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:20:03.015707",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:20:10.014000",
+      "text_length": 78,
+      "text_cleaned_length": 61,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkdk6mrlj26",
+      "text": "\n#Moskau   #Putin   #Russland   #Steve Witkoff   #Trump",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Moskau   #Putin   #Russland   #Steve Witkoff   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T04:16:54.494092+00:00",
+      "hashtags": "['#Moskau' '#Putin' '#Steve' '#Russland' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:20:03.015700",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:20:10.014000",
+      "text_length": 55,
+      "text_cleaned_length": 7,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkdo5ch6s2o",
+      "text": "Hey #Trump,\nit\u2019s called \u201eMath\u201c, not \u201eMyth\u201c.",
+      "text_cleaned": "Hey , it\u2019s called \u201eMath\u201c, not \u201eMyth\u201c.",
+      "text_preview": "Hey #Trump,\nit\u2019s called \u201eMath\u201c, not \u201eMyth\u201c.",
+      "author": "thethomasdee.bsky.social",
+      "author_display_name": "Thomas",
+      "created_at": "2025-08-04T04:19:00.303Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:20:03.015672",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:20:10.014000",
+      "text_length": 43,
+      "text_cleaned_length": 37,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkdh4bdqn2u",
+      "text": "\n#liveblog   #Putin   #Trump   #Zollpolitik",
+      "text_cleaned": "",
+      "text_preview": "\n#liveblog   #Putin   #Trump   #Zollpolitik",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T04:15:11.355357+00:00",
+      "hashtags": "['#Putin' '#Trump' '#liveblog' '#Zollpolitik']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:20:03.015716",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:20:10.014000",
+      "text_length": 43,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkdgtdn2s22",
+      "text": "Front Half of Centaur Talks to Reporters:\n#Trump",
+      "text_cleaned": "Front Half of Centaur Talks to Reporters:",
+      "text_preview": "Front Half of Centaur Talks to Reporters:\n#Trump",
+      "author": "cogitoergowtf.bsky.social",
+      "author_display_name": "Frankp",
+      "created_at": "2025-08-04T04:14:54.957Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:20:03.015722",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:20:10.014000",
+      "text_length": 48,
+      "text_cleaned_length": 41,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkcxx7watd2",
+      "text": "Donald #Trump behauptet, #Windkraftanlagen vor der US-K\u00fcste seien f\u00fcr den Tod zahlreicher #Wale verantwortlich.\n\nDoch Daten der #NOAA zeigen keine Belege f\u00fcr einen direkten Zusammenhang. Vielmehr zeigten Obduktionen, dass #Fischernetze und #Schiffsverkehr die Hauptursachen f\u00fcr das Sterben von [\u2026]",
+      "text_cleaned": "Donald behauptet, vor der US-K\u00fcste seien f\u00fcr den Tod zahlreicher verantwortlich. Doch Daten der zeigen keine Belege f\u00fcr einen direkten Zusammenhang. Vielmehr zeigten Obduktionen, dass und die Hauptursachen f\u00fcr das Sterben von [\u2026]",
+      "text_preview": "Donald #Trump behauptet, #Windkraftanlagen vor der US-K\u00fcste seien f\u00fcr den Tod zahlreicher #Wale verantwortlich.\n\nDoch Daten der #NOAA zeigen keine Belege f\u00fcr einen direkten Zusammenhang. Vielmehr zeig...",
+      "author": "tinoeberl.mastodon.online.ap.brid.gy",
+      "author_display_name": "Tino Eberl",
+      "created_at": "2025-08-04T04:06:20.000Z",
+      "hashtags": "['#Wale' '#Fischernetze' '#Trump' '#Schiffsverkehr' '#Windkraftanlagen'\n '#NOAA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:15:02.834876",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:15:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 229,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkdbiysum2c",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-04T04:11:56.186Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:15:02.834838",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:15:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkdczbwlw2j",
+      "text": "\n#Russland   #Sanktionen   #Selenskyj   #Steve Witkoff   #Trump",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Russland   #Sanktionen   #Selenskyj   #Steve Witkoff   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T04:12:54.022280+00:00",
+      "hashtags": "['#Russland' '#Sanktionen' '#Trump' '#Selenskyj' '#Steve']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:15:02.834823",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:15:10.007000",
+      "text_length": 63,
+      "text_cleaned_length": 7,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkdcl4ppk2k",
+      "text": "#Epstein #Trump #maxwell",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #maxwell",
+      "author": "haggis222.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T04:12:32.143Z",
+      "hashtags": "['#Trump' '#maxwell' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:15:02.834829",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:15:10.007000",
+      "text_length": 24,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
