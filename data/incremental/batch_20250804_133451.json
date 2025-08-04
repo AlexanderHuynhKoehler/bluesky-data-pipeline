@@ -1,0 +1,770 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_133451",
+    "post_count": 28,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 13:25:10.008000",
+    "latest_received_at": "2025-08-04 13:30:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlceit3ts2l",
+      "text": "12-minute analysis\n\nWhy #Trump declared 50-day deadline and then one of \u201c10 or 12\u201d for #Putin to cease fire\n\nHow #Russia will try to push that back through hosting Trump envoy, real estate developer Witkoff\n\nPosition of China and India, who would be most affected by US secondary sanctions\n\n#Ukraine",
+      "text_cleaned": "12-minute analysis Why declared 50-day deadline and then one of \u201c10 or 12\u201d for to cease fire How will try to push that back through hosting Trump envoy, real estate developer Witkoff Position of China and India, who would be most affected by US secondary sanctions",
+      "text_preview": "12-minute analysis\n\nWhy #Trump declared 50-day deadline and then one of \u201c10 or 12\u201d for #Putin to cease fire\n\nHow #Russia will try to push that back through hosting Trump envoy, real estate developer W...",
+      "author": "scottlucas.bsky.social",
+      "author_display_name": "Scott Lucas",
+      "created_at": "2025-08-04T13:28:22.835Z",
+      "hashtags": "['#Putin' '#Trump' '#Russia' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255439",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 264,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlc65pdns2l",
+      "text": "The way #Trump and his Rethuglicans are acting is like an abusive person in a relationship with someone with significantly less resources and they keep just bullying them and using money to love bomb then gaslight them; manipulate them etc. Its disgusting, unprofessional, and not safe.",
+      "text_cleaned": "The way and his Rethuglicans are acting is like an abusive person in a relationship with someone with significantly less resources and they keep just bullying them and using money to love bomb then gaslight them; manipulate them etc. Its disgusting, unprofessional, and not safe.",
+      "text_preview": "The way #Trump and his Rethuglicans are acting is like an abusive person in a relationship with someone with significantly less resources and they keep just bullying them and using money to love bomb ...",
+      "author": "brettharper.bsky.social",
+      "author_display_name": "Brett Harper",
+      "created_at": "2025-08-04T13:24:49.851Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255503",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 286,
+      "text_cleaned_length": 279,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlc7pmqts2r",
+      "text": "Trump firing the BLS chief after a weak jobs report is unfortunately not a surprise but it will substantially undermine the credibility of future reports. information accuracy is why business look to Gov data and is infrastructure of our economy. \n\nwww.cnbc.com/2025/08/03/w...\n#jobs #BLS #trump",
+      "text_cleaned": "Trump firing the BLS chief after a weak jobs report is unfortunately not a surprise but it will substantially undermine the credibility of future reports. information accuracy is why business look to Gov data and is infrastructure of our economy.",
+      "text_preview": "Trump firing the BLS chief after a weak jobs report is unfortunately not a surprise but it will substantially undermine the credibility of future reports. information accuracy is why business look to ...",
+      "author": "papagant.bsky.social",
+      "author_display_name": "Dave Gant",
+      "created_at": "2025-08-04T13:25:42.195Z",
+      "hashtags": "['#jobs' '#trump' '#BLS']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255488",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 295,
+      "text_cleaned_length": 246,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvlc6ujxk22j",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 | El Kremlin pide evitar una escalada ret\u00f3rica nuclear tras el anuncio de Trump sobre submarinos nucleares.\nPeskov advierte: \u201cEn una guerra nuclear no hay vencedores\u201d.\nexpedientes.ec/kremlin-pide...\n\n#Kremlin #Trump #Rusia #EEUU #Tensi\u00f3nNuclear",
+      "text_cleaned": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 | El Kremlin pide evitar una escalada ret\u00f3rica nuclear tras el anuncio de Trump sobre submarinos nucleares. Peskov advierte: \u201cEn una guerra nuclear no hay vencedores\u201d. expedientes.ec/kremlin-pide...",
+      "text_preview": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 | El Kremlin pide evitar una escalada ret\u00f3rica nuclear tras el anuncio de Trump sobre submarinos nucleares.\nPeskov advierte: \u201cEn una guerra nuclear no hay vencedores\u201d.\nexpedientes.ec/kremlin-pide...",
+      "author": "expedientes.bsky.social",
+      "author_display_name": "Expedientes",
+      "created_at": "2025-08-04T13:25:13.791Z",
+      "hashtags": "['#Tensi\u00f3nNuclear' '#Trump' '#Kremlin' '#Rusia' '#EEUU']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255496",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 249,
+      "text_cleaned_length": 203,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlcgfqhq22v",
+      "text": "#IWannaKnow #EpsteinFiles #Trump #Maxwell #Acosta #CushyJail #CushySentence #ReleaseTheFiles - I want to know who is in there and why these sex traffickers got such cushy light easy deals - youtu.be/P8H2IjzrK7Q?...",
+      "text_cleaned": "- I want to know who is in there and why these sex traffickers got such cushy light easy deals - youtu.be/P8H2IjzrK7Q?...",
+      "text_preview": "#IWannaKnow #EpsteinFiles #Trump #Maxwell #Acosta #CushyJail #CushySentence #ReleaseTheFiles - I want to know who is in there and why these sex traffickers got such cushy light easy deals - youtu.be/P...",
+      "author": "weisballet.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T13:29:26.712Z",
+      "hashtags": "['#EpsteinFiles' '#Trump' '#CushyJail' '#CushySentence' '#ReleaseTheFiles'\n '#Acosta' '#IWannaKnow' '#Maxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255408",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 214,
+      "text_cleaned_length": 121,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlccyj4622c",
+      "text": "This game is simply too big for #Trump\n\nEmpfehlenswerter F.A.Z. Beitrag: Dieses Spiel ist einfach zu gro\u00df f\u00fcr Trump\nwww.faz.net/aktuell/poli...",
+      "text_cleaned": "This game is simply too big for Empfehlenswerter F.A.Z. Beitrag: Dieses Spiel ist einfach zu gro\u00df f\u00fcr Trump",
+      "text_preview": "This game is simply too big for #Trump\n\nEmpfehlenswerter F.A.Z. Beitrag: Dieses Spiel ist einfach zu gro\u00df f\u00fcr Trump\nwww.faz.net/aktuell/poli...",
+      "author": "tenplus2006.bsky.social",
+      "author_display_name": "Bergli",
+      "created_at": "2025-08-04T13:27:32.176Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255445",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 143,
+      "text_cleaned_length": 107,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlca5ikyk2x",
+      "text": "EA on TVP World: Will #Trump Get Tough With #Putin Over #Ukraine?\n\n#UkraineWar #Russia #TrumpRussia\n\neaworldview.com/2025/08/trum...",
+      "text_cleaned": "EA on TVP World: Will Get Tough With Over ? eaworldview.com/2025/08/trum...",
+      "text_preview": "EA on TVP World: Will #Trump Get Tough With #Putin Over #Ukraine?\n\n#UkraineWar #Russia #TrumpRussia\n\neaworldview.com/2025/08/trum...",
+      "author": "scottlucas.bsky.social",
+      "author_display_name": "Scott Lucas",
+      "created_at": "2025-08-04T13:25:56.738Z",
+      "hashtags": "['#Trump' '#Ukraine' '#Russia' '#UkraineWar' '#TrumpRussia' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255466",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 132,
+      "text_cleaned_length": 75,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlcbmzqq22j",
+      "text": "Please read this today. HCR lays it all out, the crime happening in #Texas with #Abbott and #Trump driving it.\n#FiveMoreSeats",
+      "text_cleaned": "Please read this today. HCR lays it all out, the crime happening in with and driving it.",
+      "text_preview": "Please read this today. HCR lays it all out, the crime happening in #Texas with #Abbott and #Trump driving it.\n#FiveMoreSeats",
+      "author": "djszumylo.bsky.social",
+      "author_display_name": "Debbie Szumylo",
+      "created_at": "2025-08-04T13:26:46.584Z",
+      "hashtags": "['#Abbott' '#Trump' '#Texas' '#FiveMoreSeats']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255452",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 125,
+      "text_cleaned_length": 88,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlcfge3hj2w",
+      "text": "\n#agreement   #Brussels   #commission   #EU   #European Commission   #Trump   #Ursula von der Leyen   #Von der Leyen   #war",
+      "text_cleaned": "Commission von der Leyen der Leyen",
+      "text_preview": "\n#agreement   #Brussels   #commission   #EU   #European Commission   #Trump   #Ursula von der Leyen   #Von der Leyen   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T13:29:00.373710+00:00",
+      "hashtags": "['#European' '#Trump' '#war' '#EU' '#commission' '#agreement' '#Brussels'\n '#Ursula' '#Von']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255431",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 123,
+      "text_cleaned_length": 34,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlca3rzus2j",
+      "text": "Our taxpayer dollars WASTED.\n\nThe Rose Garden has been whitewashed.\n\nin every possible way.\n\nFuck #Trump.",
+      "text_cleaned": "Our taxpayer dollars WASTED. The Rose Garden has been whitewashed. in every possible way. Fuck .",
+      "text_preview": "Our taxpayer dollars WASTED.\n\nThe Rose Garden has been whitewashed.\n\nin every possible way.\n\nFuck #Trump.",
+      "author": "nightmajk.bsky.social",
+      "author_display_name": "Nettie Jo \ud83d\udc69\ud83c\udffb\u200d\ud83c\udfeb",
+      "created_at": "2025-08-04T13:25:54.951Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255472",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 105,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlcgeefgo2v",
+      "text": "Christie knocks Trump for firing jobs data chief: 'Petulant child'\n#Trump",
+      "text_cleaned": "Christie knocks Trump for firing jobs data chief: 'Petulant child'",
+      "text_preview": "Christie knocks Trump for firing jobs data chief: 'Petulant child'\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T13:29:23.894Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255422",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 73,
+      "text_cleaned_length": 66,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlc7ts7ko2q",
+      "text": "\n#Gaza   #Gaza war   #government   #Trump   #war",
+      "text_cleaned": "war",
+      "text_preview": "\n#Gaza   #Gaza war   #government   #Trump   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T13:25:53.160332+00:00",
+      "hashtags": "['#war' '#Trump' '#Gaza' '#government']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255481",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 48,
+      "text_cleaned_length": 3,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlcgfgxi22r",
+      "text": "Cartoon: A strange new world\n#Trump",
+      "text_cleaned": "Cartoon: A strange new world",
+      "text_preview": "Cartoon: A strange new world\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T13:29:26.327Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255417",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 35,
+      "text_cleaned_length": 28,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlcanhya22g",
+      "text": "#trump #democracy #book #stole",
+      "text_cleaned": "",
+      "text_preview": "#trump #democracy #book #stole",
+      "author": "vertflyboy.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T13:26:13.491Z",
+      "hashtags": "['#book' '#stole' '#democracy' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:30:04.255458",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:30:10.007000",
+      "text_length": 30,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlc2tzbs2p2",
+      "text": "Gov. Greg Abbott threatens Texas House Democrats with removal from office for fleeing state.\n\nThe Texas Tribune reports that over 50 Democratic state legislators left the state in an effort to block a vote on new Congressional districts drawn at the direction of President Donald Trump [\u2026]",
+      "text_cleaned": "Gov. Greg Abbott threatens Texas House Democrats with removal from office for fleeing state. The Texas Tribune reports that over 50 Democratic state legislators left the state in an effort to block a vote on new Congressional districts drawn at the direction of President Donald Trump [\u2026]",
+      "text_preview": "Gov. Greg Abbott threatens Texas House Democrats with removal from office for fleeing state.\n\nThe Texas Tribune reports that over 50 Democratic state legislators left the state in an effort to block a...",
+      "author": "newsdesk.flipboard.social.ap.brid.gy",
+      "author_display_name": "Flipboard News Desk",
+      "created_at": "2025-08-04T13:22:52.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.820998",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 289,
+      "text_cleaned_length": 288,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvlbx7m3222y",
+      "text": "lol \u2026 once again #Trump lies to himself to convince himself that he\u2019s indeed the righteous one as he speaks HIS #Truth in #ReverseRobinHood terms #Tariffs WILL ELIMINATE INCOME TAXES but ONLY for his #BILLIONAIRE and #MILLIONAIRE buddies by charging it to #WorkingClass paycheques every Friday!\ud83e\udd13",
+      "text_cleaned": "lol \u2026 once again lies to himself to convince himself that he\u2019s indeed the righteous one as he speaks HIS in terms WILL ELIMINATE INCOME TAXES but ONLY for his and buddies by charging it to paycheques every Friday!\ud83e\udd13",
+      "text_preview": "lol \u2026 once again #Trump lies to himself to convince himself that he\u2019s indeed the righteous one as he speaks HIS #Truth in #ReverseRobinHood terms #Tariffs WILL ELIMINATE INCOME TAXES but ONLY for his ...",
+      "author": "robrodgers.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T13:20:56.961Z",
+      "hashtags": "['#MILLIONAIRE' '#ReverseRobinHood' '#Truth' '#Tariffs' '#BILLIONAIRE'\n '#WorkingClass' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821058",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 295,
+      "text_cleaned_length": 214,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlbyairks23",
+      "text": "Wenn Ihr zusehen wollt, wie Donald #Trump die #FIFA Troph\u00e4e abstaubt, m\u00fcsst Ihr die #Tickets selbstverst\u00e4ndlich mit #Visa zahlen k\u00f6nnen. \n\nHauptsponsor und so. \u201eFor the game? For the world? For the #money!\u201c\n\n#WM2026",
+      "text_cleaned": "Wenn Ihr zusehen wollt, wie Donald die Troph\u00e4e abstaubt, m\u00fcsst Ihr die selbstverst\u00e4ndlich mit zahlen k\u00f6nnen. Hauptsponsor und so. \u201eFor the game? For the world? For the !\u201c",
+      "text_preview": "Wenn Ihr zusehen wollt, wie Donald #Trump die #FIFA Troph\u00e4e abstaubt, m\u00fcsst Ihr die #Tickets selbstverst\u00e4ndlich mit #Visa zahlen k\u00f6nnen. \n\nHauptsponsor und so. \u201eFor the game? For the world? For the #m...",
+      "author": "essmueller.bsky.social",
+      "author_display_name": "Klaas",
+      "created_at": "2025-08-04T13:21:31.456Z",
+      "hashtags": "['#FIFA' '#Tickets' '#money' '#WM2026' '#Trump' '#Visa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821033",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 215,
+      "text_cleaned_length": 170,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlc5dtvtk2g",
+      "text": "\u00daLTIMA HORA | Witkoff visitar\u00e1 Rusia este mi\u00e9rcoles: se espera reuni\u00f3n con Putin\n\nhttps://youtu.be/WoLbiwn-6Es\n\n#ultimahora #trump #rusia #witkoff #ucrania #putin #relacionesinternacionales #noticiasinternacionales #breakingnews #geopolitica #negociostv",
+      "text_cleaned": "\u00daLTIMA HORA | Witkoff visitar\u00e1 Rusia este mi\u00e9rcoles: se espera reuni\u00f3n con Putin",
+      "text_preview": "\u00daLTIMA HORA | Witkoff visitar\u00e1 Rusia este mi\u00e9rcoles: se espera reuni\u00f3n con Putin\n\nhttps://youtu.be/WoLbiwn-6Es\n\n#ultimahora #trump #rusia #witkoff #ucrania #putin #relacionesinternacionales #noticiasi...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-04T13:24:22.590031Z",
+      "hashtags": "['#ultimahora' '#geopolitica' '#relacionesinternacionales' '#rusia'\n '#putin' '#ucrania' '#breakingnews' '#trump' '#noticiasinternacionales'\n '#negociostv' '#witkoff']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.820952",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 253,
+      "text_cleaned_length": 80,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlbx6wqgc2m",
+      "text": "Anyone who voted for the known 34-count convicted felon-in-chief is also an accomplice to any of his actions.\n#POTUS47 #POTUS #Trump #DJT #MAGA #Reich #TrumpReich #UnifiedReich #ReichWing #EpsteinTrumpFiles #Epstein #EpsteinCoverup",
+      "text_cleaned": "Anyone who voted for the known 34-count convicted felon-in-chief is also an accomplice to any of his actions.",
+      "text_preview": "Anyone who voted for the known 34-count convicted felon-in-chief is also an accomplice to any of his actions.\n#POTUS47 #POTUS #Trump #DJT #MAGA #Reich #TrumpReich #UnifiedReich #ReichWing #EpsteinTrum...",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T13:20:56.262Z",
+      "hashtags": "['#Reich' '#UnifiedReich' '#EpsteinCoverup' '#POTUS' '#POTUS47'\n '#EpsteinTrumpFiles' '#DJT' '#TrumpReich' '#ReichWing' '#Epstein'\n '#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821069",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 231,
+      "text_cleaned_length": 109,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvlbvhr5fk2m",
+      "text": "Anyone who voted for the known 34-count convicted felon-in-chief is also an accomplice to any of his actions.\n#POTUS47 #POTUS #Trump #DJT #MAGA #Reich #TrumpReich #UnifiedReich #ReichWing #EpsteinTrumpFiles #Epstein #EpsteinCoverup",
+      "text_cleaned": "Anyone who voted for the known 34-count convicted felon-in-chief is also an accomplice to any of his actions.",
+      "text_preview": "Anyone who voted for the known 34-count convicted felon-in-chief is also an accomplice to any of his actions.\n#POTUS47 #POTUS #Trump #DJT #MAGA #Reich #TrumpReich #UnifiedReich #ReichWing #EpsteinTrum...",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T13:19:58.407Z",
+      "hashtags": "['#Reich' '#UnifiedReich' '#EpsteinCoverup' '#POTUS' '#POTUS47'\n '#EpsteinTrumpFiles' '#DJT' '#TrumpReich' '#ReichWing' '#Epstein'\n '#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821095",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 231,
+      "text_cleaned_length": 109,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvlc3tfks22w",
+      "text": "Never mind Epstein. I think this is potentially the bigger story in the next 6 months. Trump\u2019s mental acuity. #Trump\n\nwww.theguardian.com/us-news/2025...?",
+      "text_cleaned": "Never mind Epstein. I think this is potentially the bigger story in the next 6 months. Trump\u2019s mental acuity.",
+      "text_preview": "Never mind Epstein. I think this is potentially the bigger story in the next 6 months. Trump\u2019s mental acuity. #Trump\n\nwww.theguardian.com/us-news/2025...?",
+      "author": "jimhunter.bsky.social",
+      "author_display_name": "Jim Hunter",
+      "created_at": "2025-08-04T13:23:31.936Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.820980",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 154,
+      "text_cleaned_length": 109,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlbzeroy22q",
+      "text": "The Orange Monster #Trump and the Wizard #Epstein\nAnimated story about their 'adventures' \nwww.facebook.com/share/r/16gk...",
+      "text_cleaned": "The Orange Monster and the Wizard Animated story about their 'adventures'",
+      "text_preview": "The Orange Monster #Trump and the Wizard #Epstein\nAnimated story about their 'adventures' \nwww.facebook.com/share/r/16gk...",
+      "author": "jezzabeauc.bsky.social",
+      "author_display_name": "JezzabeauC #GazaGenocide",
+      "created_at": "2025-08-04T13:22:09.497Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821015",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 123,
+      "text_cleaned_length": 73,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlbxpjygc2m",
+      "text": "Anyone who voted for the known 34-count convicted felon-in-chief is also an accomplice to any of his actions.\n#POTUS47 #POTUS #Trump #DJT #MAGA #Reich #TrumpReich #UnifiedReich #ReichWing #EpsteinTrumpFiles #Epstein #EpsteinCoverup",
+      "text_cleaned": "Anyone who voted for the known 34-count convicted felon-in-chief is also an accomplice to any of his actions.",
+      "text_preview": "Anyone who voted for the known 34-count convicted felon-in-chief is also an accomplice to any of his actions.\n#POTUS47 #POTUS #Trump #DJT #MAGA #Reich #TrumpReich #UnifiedReich #ReichWing #EpsteinTrum...",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T13:21:13.670Z",
+      "hashtags": "['#Reich' '#UnifiedReich' '#EpsteinCoverup' '#POTUS' '#POTUS47'\n '#EpsteinTrumpFiles' '#DJT' '#TrumpReich' '#ReichWing' '#Epstein'\n '#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821046",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 231,
+      "text_cleaned_length": 109,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvlc2p2m3o23",
+      "text": "Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. PoliticsThe indictment and subsequent conviction.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/CxEI3FD2",
+      "text_cleaned": "Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. PoliticsThe indictment and subsequent conviction.... .ai",
+      "text_preview": "Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. PoliticsThe indictment and subsequent conviction.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/...",
+      "author": "cosmicmeta.io",
+      "author_display_name": "Cosmic Meta IO",
+      "created_at": "2025-08-04T13:22:53.671Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.820991",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 208,
+      "text_cleaned_length": 165,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlbzyh5kk2l",
+      "text": "\" #Trump envoy to visit Moscow this week before deadline for ending #Ukraine war\" - #Russia \nwww.theguardian.com/us-news/2025...",
+      "text_cleaned": "\" envoy to visit Moscow this week before deadline for ending war\" -",
+      "text_preview": "\" #Trump envoy to visit Moscow this week before deadline for ending #Ukraine war\" - #Russia \nwww.theguardian.com/us-news/2025...",
+      "author": "kostianv.bsky.social",
+      "author_display_name": "Ville Kostian",
+      "created_at": "2025-08-04T13:22:30.123Z",
+      "hashtags": "['#Ukraine' '#Russia' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821006",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 128,
+      "text_cleaned_length": 67,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlbvxzbwk2l",
+      "text": "\" #Trump contorting justice department into his \u2018personal weapon\u2019, experts warn\" - #DoJ \nwww.theguardian.com/us-news/2025...",
+      "text_cleaned": "\" contorting justice department into his \u2018personal weapon\u2019, experts warn\" -",
+      "text_preview": "\" #Trump contorting justice department into his \u2018personal weapon\u2019, experts warn\" - #DoJ \nwww.theguardian.com/us-news/2025...",
+      "author": "kostianv.bsky.social",
+      "author_display_name": "Ville Kostian",
+      "created_at": "2025-08-04T13:20:15.450Z",
+      "hashtags": "['#DoJ' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821084",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 124,
+      "text_cleaned_length": 75,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlbwfmers22",
+      "text": "www.instagram.com/reel/DG3yDRE...\n\nOne dumb fuck #trump",
+      "text_cleaned": "One dumb fuck",
+      "text_preview": "www.instagram.com/reel/DG3yDRE...\n\nOne dumb fuck #trump",
+      "author": "canadablade.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T13:20:29.707Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821076",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 55,
+      "text_cleaned_length": 13,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlbylbeba2g",
+      "text": "\n#Kremlin   #nuclear   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Kremlin   #nuclear   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T13:21:49.343499+00:00",
+      "hashtags": "['#nuclear' '#Trump' '#Kremlin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T13:25:03.821022",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 13:25:10.008000",
+      "text_length": 29,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
