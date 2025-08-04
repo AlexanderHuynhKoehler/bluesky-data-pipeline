@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_124420",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 12:35:10.007000",
+    "latest_received_at": "2025-08-04 12:40:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvl7kv5jsc2h",
+      "text": "With all that unregulated #cryptocurrency, there\u2019s bound to be people who created profit-making schemes that operated like some #hedgefund ~~make profits if Trump\u2019s anarchist #tariffs help the #economy, payoffs if #Trump drives the world markets into #depression.\n\nA win-win for them, ruin for us.",
+      "text_cleaned": "With all that unregulated , there\u2019s bound to be people who created profit-making schemes that operated like some ~~make profits if Trump\u2019s anarchist help the , payoffs if drives the world markets into . A win-win for them, ruin for us.",
+      "text_preview": "With all that unregulated #cryptocurrency, there\u2019s bound to be people who created profit-making schemes that operated like some #hedgefund ~~make profits if Trump\u2019s anarchist #tariffs help the #econom...",
+      "author": "gilliganista.bsky.social",
+      "author_display_name": "Gilliganista!\u2122\ufe0f",
+      "created_at": "2025-08-04T12:38:15.861Z",
+      "hashtags": "['#economy' '#tariffs' '#hedgefund' '#Trump' '#depression'\n '#cryptocurrency']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:40:04.144780",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:40:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 235,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7hl2i722p",
+      "text": "#nature #patterns #science #evolution #empires #ussr #ukraine #ottoman #nazi #israel #hamas  #syria #trump\n\nso in recent years the middle east kicked off again. Ukraine too. There is a reason why\n\nThe Ottoman Matrix...of now and centuries past  Plus the Germans, Russians and Trump",
+      "text_cleaned": "so in recent years the middle east kicked off again. Ukraine too. There is a reason why The Ottoman Matrix...of now and centuries past Plus the Germans, Russians and Trump",
+      "text_preview": "#nature #patterns #science #evolution #empires #ussr #ukraine #ottoman #nazi #israel #hamas  #syria #trump\n\nso in recent years the middle east kicked off again. Ukraine too. There is a reason why\n\nThe...",
+      "author": "mtl-science.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T12:36:24.538Z",
+      "hashtags": "['#patterns' '#ussr' '#nature' '#hamas' '#syria' '#science' '#israel'\n '#ukraine' '#nazi' '#evolution' '#empires' '#ottoman' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:40:04.145164",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:40:10.007000",
+      "text_length": 281,
+      "text_cleaned_length": 171,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7ispcqc2s",
+      "text": "Let someone come along and say that the #Israeli #government with its #Gestapo #army isn't a #Nazi organization. \nGAZA IS THE AUSCHWITZ OF THE MIDDLE EAST!\n\n#MTN #USA #WP #CNN #NYT #FoxNews #war #EU #UK #Musk #AP #Ukraine #China #law #Canada #Trump #Lgbtq #Stockmarket #AI\n\nyoutu.be/jgCya5b22Lk?...",
+      "text_cleaned": "Let someone come along and say that the with its isn't a organization. GAZA IS THE AUSCHWITZ OF THE MIDDLE EAST! youtu.be/jgCya5b22Lk?...",
+      "text_preview": "Let someone come along and say that the #Israeli #government with its #Gestapo #army isn't a #Nazi organization. \nGAZA IS THE AUSCHWITZ OF THE MIDDLE EAST!\n\n#MTN #USA #WP #CNN #NYT #FoxNews #war #EU #...",
+      "author": "syntau.bsky.social",
+      "author_display_name": "Shirkane",
+      "created_at": "2025-08-04T12:37:06.189Z",
+      "hashtags": "['#FoxNews' '#Gestapo' '#Canada' '#Stockmarket' '#AI' '#Nazi' '#MTN'\n '#government' '#army' '#Trump' '#EU' '#UK' '#USA' '#Musk' '#Israeli'\n '#Ukraine' '#AP' '#WP' '#law' '#NYT' '#war' '#Lgbtq' '#China' '#CNN']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:40:04.145135",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:40:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 137,
+      "hashtag_count": 24,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7m7hwvj24",
+      "text": "READ: Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. Politics The indictment and subsequent.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/CxEI3FD2",
+      "text_cleaned": "READ: Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. Politics The indictment and subsequent.... .ai",
+      "text_preview": "READ: Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. Politics The indictment and subsequent.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/CxEI...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-04T12:39:00.067Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:40:04.145099",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:40:10.007000",
+      "text_length": 204,
+      "text_cleaned_length": 161,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7fuqsq22w",
+      "text": "#Trump doesn't care about anything;\n\nWhy a #NASA satellite that scientists and #farmers rely on may be destroyed on purpose\n\n#farming #cropnutrition #health #family\n\nwww.npr.org/2025/08/04/n...",
+      "text_cleaned": "doesn't care about anything; Why a satellite that scientists and rely on may be destroyed on purpose",
+      "text_preview": "#Trump doesn't care about anything;\n\nWhy a #NASA satellite that scientists and #farmers rely on may be destroyed on purpose\n\n#farming #cropnutrition #health #family\n\nwww.npr.org/2025/08/04/n...",
+      "author": "rjmrim.bsky.social",
+      "author_display_name": "\ud83e\ude96 \ud83c\uddfa\ud83c\uddf8 \ud83c\udf0e \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-04T12:35:27.671Z",
+      "hashtags": "['#NASA' '#health' '#family' '#Trump' '#farmers' '#farming'\n '#cropnutrition']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:40:04.145171",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:40:10.007000",
+      "text_length": 193,
+      "text_cleaned_length": 100,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7hvqa2z2h",
+      "text": "This is how we win the hearts and minds of the people. #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "This is how we win the hearts and minds of the people.",
+      "text_preview": "This is how we win the hearts and minds of the people. #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascis...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T12:36:37.469Z",
+      "hashtags": "['#TACO' '#donaldtrump' '#liberal' '#tRUMP' '#NoKings' '#Resist'\n '#Fascism' '#Democrat' '#StrongerTogether' '#GOP' '#conservative' '#DEMS'\n '#DemsUnited' '#SaveDemocracy' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:40:04.145152",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:40:10.007000",
+      "text_length": 201,
+      "text_cleaned_length": 54,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7ibayjk24",
+      "text": "\"The simple way Democrats should talk about Trump and Epstein\"...\n\nwww.theguardian.com/commentisfre...\n\n#USpoli \n#Trump\n#EpsteinList\n#TrumpIsOnTheList\n#TrumpIsNotFitForOffice",
+      "text_cleaned": "\"The simple way Democrats should talk about Trump and Epstein\"...",
+      "text_preview": "\"The simple way Democrats should talk about Trump and Epstein\"...\n\nwww.theguardian.com/commentisfre...\n\n#USpoli \n#Trump\n#EpsteinList\n#TrumpIsOnTheList\n#TrumpIsNotFitForOffice",
+      "author": "theubiquitousj-man.bsky.social",
+      "author_display_name": "The Ubiquitous J-Man",
+      "created_at": "2025-08-04T12:36:47.894Z",
+      "hashtags": "['#Trump' '#EpsteinList' '#TrumpIsNotFitForOffice' '#TrumpIsOnTheList'\n '#USpoli']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:40:04.145142",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:40:10.007000",
+      "text_length": 174,
+      "text_cleaned_length": 65,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7fdfwuk2f",
+      "text": "Non \u00e0 la destruction des contraceptifs pay\u00e9s par l'USAID en France ni ailleurs! #Trump #IVG #IST \nSignons en masse la p\u00e9tition\u2b07\ufe0f",
+      "text_cleaned": "Non \u00e0 la destruction des contraceptifs pay\u00e9s par l'USAID en France ni ailleurs! Signons en masse la p\u00e9tition\u2b07\ufe0f",
+      "text_preview": "Non \u00e0 la destruction des contraceptifs pay\u00e9s par l'USAID en France ni ailleurs! #Trump #IVG #IST \nSignons en masse la p\u00e9tition\u2b07\ufe0f",
+      "author": "janeleonie.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T12:35:09.445Z",
+      "hashtags": "['#IVG' '#IST' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:40:04.145178",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:40:10.007000",
+      "text_length": 128,
+      "text_cleaned_length": 110,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7jmtkn22s",
+      "text": "#trump #fascism #USA #resist #scotus\n#democracy #gop #fascists\n\n\ud83d\udc49 Vote 'em Out!\n",
+      "text_cleaned": "\ud83d\udc49 Vote 'em Out!",
+      "text_preview": "#trump #fascism #USA #resist #scotus\n#democracy #gop #fascists\n\n\ud83d\udc49 Vote 'em Out!\n",
+      "author": "cubanx.bsky.social",
+      "author_display_name": "CubanX",
+      "created_at": "2025-08-04T12:37:33.546839+00:00",
+      "hashtags": "['#fascists' '#scotus' '#gop' '#democracy' '#USA' '#fascism' '#resist'\n '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:40:04.145121",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:40:10.007000",
+      "text_length": 80,
+      "text_cleaned_length": 15,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl76ysi622j",
+      "text": "\u201cWe\u2019re not walking out on our responsibilities; we\u2019re walking out on a rigged system that refuses to listen to the people we represent. As of today, this corrupt special session is over.\u201d\n#texas #gerrymandering #congress #trump #authoritarianism #politics #illinois #democrats",
+      "text_cleaned": "\u201cWe\u2019re not walking out on our responsibilities; we\u2019re walking out on a rigged system that refuses to listen to the people we represent. As of today, this corrupt special session is over.\u201d",
+      "text_preview": "\u201cWe\u2019re not walking out on our responsibilities; we\u2019re walking out on a rigged system that refuses to listen to the people we represent. As of today, this corrupt special session is over.\u201d\n#texas #gerr...",
+      "author": "vincetinguely.bsky.social",
+      "author_display_name": "Vince",
+      "created_at": "2025-08-04T12:31:37.037Z",
+      "hashtags": "['#illinois' '#texas' '#democrats' '#congress' '#trump' '#gerrymandering'\n '#politics' '#authoritarianism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:35:03.964940",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:35:10.007000",
+      "text_length": 276,
+      "text_cleaned_length": 187,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvl7dy4qv32b",
+      "text": "Judge ordered the govt to clarify if it seeks to unseal the transcripts and exhibits in the Maxwell case. The government must respond by August 4, 2025. #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "Judge ordered the govt to clarify if it seeks to unseal the transcripts and exhibits in the Maxwell case. The government must respond by August 4, 2025.",
+      "text_preview": "Judge ordered the govt to clarify if it seeks to unseal the transcripts and exhibits in the Maxwell case. The government must respond by August 4, 2025. #tRUMP #MAGA #DEMS #Democrat #DemsUnited #Stron...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T12:34:25.708Z",
+      "hashtags": "['#Resist' '#conservative' '#SaveDemocracy' '#StrongerTogether' '#DEMS'\n '#Democrat' '#liberal' '#DemsUnited' '#NoKings' '#donaldtrump' '#tRUMP'\n '#TACO' '#GOP' '#MAGA' '#Fascism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:35:03.964902",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:35:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 152,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7cd7tts2f",
+      "text": "Latin America's two biggest economies look at broadening a two-decade old trade deal, as tariffs make the US market less attractive\n\n#Brazil #Mexico #WelberBarral #GeraldoAlckmin #LuladaSilva #ClaudiaSheinbaum #AlbertoPfeifer #JorgeArbache #Trump #Tariff",
+      "text_cleaned": "Latin America's two biggest economies look at broadening a two-decade old trade deal, as tariffs make the US market less attractive",
+      "text_preview": "Latin America's two biggest economies look at broadening a two-decade old trade deal, as tariffs make the US market less attractive\n\n#Brazil #Mexico #WelberBarral #GeraldoAlckmin #LuladaSilva #Claudia...",
+      "author": "latinfinance.com",
+      "author_display_name": "LatinFinance",
+      "created_at": "2025-08-04T12:33:28.626Z",
+      "hashtags": "['#WelberBarral' '#LuladaSilva' '#AlbertoPfeifer' '#Trump' '#Tariff'\n '#Brazil' '#GeraldoAlckmin' '#JorgeArbache' '#ClaudiaSheinbaum' '#Mexico']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:35:03.964924",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:35:10.007000",
+      "text_length": 254,
+      "text_cleaned_length": 131,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7ejygwa24",
+      "text": "READ: Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. Politics The indictment and subsequent.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/CxEI3FD2",
+      "text_cleaned": "READ: Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. Politics The indictment and subsequent.... .ai",
+      "text_preview": "READ: Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. Politics The indictment and subsequent.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/CxEI...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-04T12:34:42.520Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:35:03.964889",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:35:10.007000",
+      "text_length": 204,
+      "text_cleaned_length": 161,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7a4ua3k2g",
+      "text": "What are your thoughts on the UK's approach? #uk #crypto #economy #politics #fintech #blockchain #web3 #finance #government #tech #news #technology",
+      "text_cleaned": "What are your thoughts on the UK's approach?",
+      "text_preview": "What are your thoughts on the UK's approach? #uk #crypto #economy #politics #fintech #blockchain #web3 #finance #government #tech #news #technology",
+      "author": "gadgetry.bsky.social",
+      "author_display_name": "Ryan Daws",
+      "created_at": "2025-08-04T12:32:14.846Z",
+      "hashtags": "['#fintech' '#economy' '#government' '#crypto' '#blockchain' '#finance'\n '#web3' '#technology' '#tech' '#news' '#politics' '#uk']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:35:03.964622",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:35:10.007000",
+      "text_length": 147,
+      "text_cleaned_length": 44,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7dowbts2y",
+      "text": "Well, there\u2019s always this.\n#Trump\n#Epstein\n\ncdn.factcheck.org/UploadedFile...",
+      "text_cleaned": "Well, there\u2019s always this. cdn.factcheck.org/UploadedFile...",
+      "text_preview": "Well, there\u2019s always this.\n#Trump\n#Epstein\n\ncdn.factcheck.org/UploadedFile...",
+      "author": "siarapita.bsky.social",
+      "author_display_name": "ZFLTG",
+      "created_at": "2025-08-04T12:34:14.431Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:35:03.964908",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:35:10.007000",
+      "text_length": 77,
+      "text_cleaned_length": 60,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7egqbhl2q",
+      "text": "\n#fire   #Putin   #Terror   #Trump   #Ukraine   #Zelenskyy",
+      "text_cleaned": "",
+      "text_preview": "\n#fire   #Putin   #Terror   #Trump   #Ukraine   #Zelenskyy",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-04T12:34:46.005368+00:00",
+      "hashtags": "['#Putin' '#Ukraine' '#Zelenskyy' '#Terror' '#Trump' '#fire']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:35:03.964882",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:35:10.007000",
+      "text_length": 58,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7aqhrge2u",
+      "text": "\n#Keith Kellogg   #Kellogg   #Kyiv   #Trump   #Ukraine",
+      "text_cleaned": "Kellogg",
+      "text_preview": "\n#Keith Kellogg   #Kellogg   #Kyiv   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-04T12:32:42.040944+00:00",
+      "hashtags": "['#Ukraine' '#Kellogg' '#Keith' '#Kyiv' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:35:03.964930",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:35:10.007000",
+      "text_length": 54,
+      "text_cleaned_length": 7,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl7cpa4ps2f",
+      "text": "#TRUMP #EPSTEIN  #ISRAEL #PALESTINE #GAZA #USA #NETANYAHU",
+      "text_cleaned": "",
+      "text_preview": "#TRUMP #EPSTEIN  #ISRAEL #PALESTINE #GAZA #USA #NETANYAHU",
+      "author": "risse67.bsky.social",
+      "author_display_name": "Riss\u00e9 (risay)",
+      "created_at": "2025-08-04T12:33:41.220Z",
+      "hashtags": "['#TRUMP' '#EPSTEIN' '#PALESTINE' '#ISRAEL' '#NETANYAHU' '#USA' '#GAZA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T12:35:03.964915",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 12:35:10.007000",
+      "text_length": 57,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
