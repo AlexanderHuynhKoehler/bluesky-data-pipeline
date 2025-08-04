@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_034043",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 03:35:10.007000",
+    "latest_received_at": "2025-08-04 03:40:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkbeifu7c2v",
+      "text": "Come On, #America!\n\nThis Ain't Partisan!\nIt's Personal!\n\n#Trump and #MAGAGOP - Are Continuing To Attack YOU And YOUR Families!\n\nThey ARE Taking YOUR\n- Jobs!\n- Paychecks!\n- Pensions!\n- Social Security!\n- SNAP!\n- Medicare!\n- Medicaid!\n- VA Medical Care!\n- Family Health Care!\n\n#VOTE U.S. BACK!\n\ud83c\uddfa\ud83c\uddf8\ud83d\uddfd\ud83e\udd85",
+      "text_cleaned": "Come On, ! This Ain't Partisan! It's Personal! and - Are Continuing To Attack YOU And YOUR Families! They ARE Taking YOUR - Jobs! - Paychecks! - Pensions! - Social Security! - SNAP! - Medicare! - Medicaid! - VA Medical Care! - Family Health Care! U.S. BACK! \ud83c\uddfa\ud83c\uddf8\ud83d\uddfd\ud83e\udd85",
+      "text_preview": "Come On, #America!\n\nThis Ain't Partisan!\nIt's Personal!\n\n#Trump and #MAGAGOP - Are Continuing To Attack YOU And YOUR Families!\n\nThey ARE Taking YOUR\n- Jobs!\n- Paychecks!\n- Pensions!\n- Social Security!...",
+      "author": "mepafford.org",
+      "author_display_name": "Mike Pafford",
+      "created_at": "2025-08-04T03:37:48.919Z",
+      "hashtags": "['#VOTE' '#MAGAGOP' '#Trump' '#America']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:40:03.323130",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:40:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 262,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkbhdf5dk2z",
+      "text": "www.dailykos.com/stories/2025...\n\nManifest Destiny needed more than guns\u2014it needed moms. White men grabbed the land, but it took White women and their teapots to make the theft look respectable. Colonization goes down easier when it\u2019s served with pie and petticoats.\n\n#Trump #fascism #MAGA",
+      "text_cleaned": "Manifest Destiny needed more than guns\u2014it needed moms. White men grabbed the land, but it took White women and their teapots to make the theft look respectable. Colonization goes down easier when it\u2019s served with pie and petticoats.",
+      "text_preview": "www.dailykos.com/stories/2025...\n\nManifest Destiny needed more than guns\u2014it needed moms. White men grabbed the land, but it took White women and their teapots to make the theft look respectable. Colon...",
+      "author": "moxymcmxlvii.bsky.social",
+      "author_display_name": "GW",
+      "created_at": "2025-08-04T03:39:24.318Z",
+      "hashtags": "['#MAGA' '#fascism' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:40:03.323109",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:40:10.007000",
+      "text_length": 289,
+      "text_cleaned_length": 232,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkbfdtqy226",
+      "text": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647\nThank you all for putting up the good fight. If Trumps and his cronies want to play that game tell them to bring it on.\n#GOP #RESIST #trump #VoteBlue #NoKings #indivisible #ICE\nwww.axios.com/2025/08/03/t...",
+      "text_cleaned": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647 Thank you all for putting up the good fight. If Trumps and his cronies want to play that game tell them to bring it on.",
+      "text_preview": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647\nThank you all for putting up the good fight. If Trumps and his cronies want to play that game tell them to bring it on.\n#GOP #RESIST #t...",
+      "author": "clydepowell.bsky.social",
+      "author_display_name": "\u2728 Clyde \u2728",
+      "created_at": "2025-08-04T03:38:17.688Z",
+      "hashtags": "['#GOP' '#trump' '#indivisible' '#ICE' '#NoKings' '#VoteBlue' '#RESIST']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:40:03.323119",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:40:10.007000",
+      "text_length": 271,
+      "text_cleaned_length": 184,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkbbdmn6c2p",
+      "text": "Ghislaine Maxwell moved to a luxury prison\u2014was it preferential treatment? Outrage grows as Trump\u2019s DOG linked to her transfer. \n\nRead More: jamtshonews.exblog.jp/33742463/\n\n#GhislaineMaxwell #JeffreyEpstein #PrisonTransfer #Trump #JusticeForVictims #BureauOfPrisons",
+      "text_cleaned": "Ghislaine Maxwell moved to a luxury prison\u2014was it preferential treatment? Outrage grows as Trump\u2019s DOG linked to her transfer. Read More: jamtshonews.exblog.jp/33742463/",
+      "text_preview": "Ghislaine Maxwell moved to a luxury prison\u2014was it preferential treatment? Outrage grows as Trump\u2019s DOG linked to her transfer. \n\nRead More: jamtshonews.exblog.jp/33742463/\n\n#GhislaineMaxwell #JeffreyE...",
+      "author": "damchey.bsky.social",
+      "author_display_name": "@Bhutan",
+      "created_at": "2025-08-04T03:36:03.229Z",
+      "hashtags": "['#GhislaineMaxwell' '#BureauOfPrisons' '#PrisonTransfer'\n '#JusticeForVictims' '#Trump' '#JeffreyEpstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:40:03.323141",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:40:10.007000",
+      "text_length": 265,
+      "text_cleaned_length": 169,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkbhq6lus2r",
+      "text": "\u201c'Its disclosure could cause serious damage': Judge Cannon shields 'classified' info from #tRump #AssassinationAttempt suspect, gives DOJ approval to protect it\u201d\n\nMany think they were staged. \n\nwww.reddit.com/r/politics/s...",
+      "text_cleaned": "\u201c'Its disclosure could cause serious damage': Judge Cannon shields 'classified' info from suspect, gives DOJ approval to protect it\u201d Many think they were staged.",
+      "text_preview": "\u201c'Its disclosure could cause serious damage': Judge Cannon shields 'classified' info from #tRump #AssassinationAttempt suspect, gives DOJ approval to protect it\u201d\n\nMany think they were staged. \n\nwww.re...",
+      "author": "heyfriend-1.bsky.social",
+      "author_display_name": "Hal",
+      "created_at": "2025-08-04T03:39:37.736Z",
+      "hashtags": "['#AssassinationAttempt' '#tRump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:40:03.323101",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:40:10.007000",
+      "text_length": 224,
+      "text_cleaned_length": 161,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkb4ixf722z",
+      "text": "www.motherjones.com/politics/202...\n\nTrump\u2019s back on his throne, axing truth-tellers and demanding miracles. The Mad King phase is here: fire the stats guy, blame the weather, and wait for him to appoint a golden retriever as Fed Chair. Reality, like Caligula\u2019s horse, is optional.\n\n#Trump #MAGA",
+      "text_cleaned": "Trump\u2019s back on his throne, axing truth-tellers and demanding miracles. The Mad King phase is here: fire the stats guy, blame the weather, and wait for him to appoint a golden retriever as Fed Chair. Reality, like Caligula\u2019s horse, is optional.",
+      "text_preview": "www.motherjones.com/politics/202...\n\nTrump\u2019s back on his throne, axing truth-tellers and demanding miracles. The Mad King phase is here: fire the stats guy, blame the weather, and wait for him to appo...",
+      "author": "moxymcmxlvii.bsky.social",
+      "author_display_name": "GW",
+      "created_at": "2025-08-04T03:33:21.060Z",
+      "hashtags": "['#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:35:03.312142",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:35:10.007000",
+      "text_length": 295,
+      "text_cleaned_length": 244,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkb4hkrhk2v",
+      "text": "Many of the ideas that #Trump and his crew espouse today were considered to be so fucking stupid 50 years ago that they were written into sitcoms to make the right-wing idiot of the show look foolish.\n\nThis episode aired 11/14/1975.\n\n#uspol",
+      "text_cleaned": "Many of the ideas that and his crew espouse today were considered to be so fucking stupid 50 years ago that they were written into sitcoms to make the right-wing idiot of the show look foolish. This episode aired 11/14/1975.",
+      "text_preview": "Many of the ideas that #Trump and his crew espouse today were considered to be so fucking stupid 50 years ago that they were written into sitcoms to make the right-wing idiot of the show look foolish....",
+      "author": "louisingenthron.bsky.social",
+      "author_display_name": "Louis Ingenthron",
+      "created_at": "2025-08-04T03:33:19.586Z",
+      "hashtags": "['#Trump' '#uspol']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:35:03.312148",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:35:10.007000",
+      "text_length": 240,
+      "text_cleaned_length": 224,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkayyqjkh2y",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmeta.io",
+      "author_display_name": "Cosmic Meta IO",
+      "created_at": "2025-08-04T03:31:23.087Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:35:03.312156",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:35:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkb4xxlfs2u",
+      "text": "This Study Finds a Chilling Link Between Personality Type and #Trump Support\n\nMalevolent traits and reduced #empathy go hand in hand.\nwww.zmescience.com/science/news...",
+      "text_cleaned": "This Study Finds a Chilling Link Between Personality Type and Support Malevolent traits and reduced go hand in hand.",
+      "text_preview": "This Study Finds a Chilling Link Between Personality Type and #Trump Support\n\nMalevolent traits and reduced #empathy go hand in hand.\nwww.zmescience.com/science/news...",
+      "author": "ajnamdeplume.bsky.social",
+      "author_display_name": "@ajnamdeplume #Resist \u270a\ufe0f\ud83d\uddfd\u2696\ufe0f",
+      "created_at": "2025-08-04T03:33:36.795Z",
+      "hashtags": "['#Trump' '#empathy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:35:03.312134",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:35:10.007000",
+      "text_length": 168,
+      "text_cleaned_length": 116,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkawpikrg2p",
+      "text": "BILL UPDATE:\n\nH.2086: Rights for the TSA Workforce Act\n\nACTION: Referred to the Subcommittee on Transportation and Maritime Security.\n\n#congress #economy #labor",
+      "text_cleaned": "BILL UPDATE: H.2086: Rights for the TSA Workforce Act ACTION: Referred to the Subcommittee on Transportation and Maritime Security.",
+      "text_preview": "BILL UPDATE:\n\nH.2086: Rights for the TSA Workforce Act\n\nACTION: Referred to the Subcommittee on Transportation and Maritime Security.\n\n#congress #economy #labor",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T03:30:04.721Z",
+      "hashtags": "['#labor' '#congress' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T03:35:03.311875",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 03:35:10.007000",
+      "text_length": 160,
+      "text_cleaned_length": 131,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    }
+  ]
+}
