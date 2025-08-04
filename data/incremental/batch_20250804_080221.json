@@ -1,0 +1,203 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_080221",
+    "post_count": 7,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 07:55:10.014000",
+    "latest_received_at": "2025-08-04 08:00:10.010000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkpq7gh7k2y",
+      "text": "\"just days after both countries failed to reach trade agreements with the U.S. by an Aug. 1 deadline set by President Donald T\u044f\u0446mp.\"\nCorrection, THREE parties present in these negotiations. \ud83c\uddf2\ud83c\uddfd & \ud83c\udde8\ud83c\udde6 didn't fail anything, FOTUS is failing \ud83c\uddfa\ud83c\uddf8.\nToo hell with his \"deadlines\".\n\n#nastycanadian #resist #trump",
+      "text_cleaned": "\"just days after both countries failed to reach trade agreements with the U.S. by an Aug. 1 deadline set by President Donald T\u044f\u0446mp.\" Correction, THREE parties present in these negotiations. \ud83c\uddf2\ud83c\uddfd & \ud83c\udde8\ud83c\udde6 didn't fail anything, FOTUS is failing \ud83c\uddfa\ud83c\uddf8. Too hell with his \"deadlines\".",
+      "text_preview": "\"just days after both countries failed to reach trade agreements with the U.S. by an Aug. 1 deadline set by President Donald T\u044f\u0446mp.\"\nCorrection, THREE parties present in these negotiations. \ud83c\uddf2\ud83c\uddfd & \ud83c\udde8\ud83c\udde6 di...",
+      "author": "b-blasphemous.bsky.social",
+      "author_display_name": "\ud83c\udf41 { \ud835\udcdd\ud835\udcea\ud835\udcfc\ud835\udcfd\ud835\udd02 \ud835\udcd2\ud835\udcea\ud835\udcf7\ud835\udcea\ud835\udced\ud835\udcf2\ud835\udcea\ud835\udcf7 } \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-04T07:54:54.543Z",
+      "hashtags": "['#resist' '#trump' '#nastycanadian']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:00:03.601709",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:00:10.010000",
+      "text_length": 302,
+      "text_cleaned_length": 271,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvkpyo27jc2d",
+      "text": "\u201eWir werden die Arzneimittelpreise um 1000 Prozent, um 1100, 1200, 1300, 1400 Prozent gesenkt haben\u00bb, erkl\u00e4rte #Trump. Und entl\u00e4sst die Statistikchefin, weil die laut ihm falsche Zahlen gebracht hat.\nErfahrt morgen, wie die Arbeitslosigkeit in den USA um 350% zur\u00fcckgegangen ist.",
+      "text_cleaned": "\u201eWir werden die Arzneimittelpreise um 1000 Prozent, um 1100, 1200, 1300, 1400 Prozent gesenkt haben\u00bb, erkl\u00e4rte . Und entl\u00e4sst die Statistikchefin, weil die laut ihm falsche Zahlen gebracht hat. Erfahrt morgen, wie die Arbeitslosigkeit in den USA um 350% zur\u00fcckgegangen ist.",
+      "text_preview": "\u201eWir werden die Arzneimittelpreise um 1000 Prozent, um 1100, 1200, 1300, 1400 Prozent gesenkt haben\u00bb, erkl\u00e4rte #Trump. Und entl\u00e4sst die Statistikchefin, weil die laut ihm falsche Zahlen gebracht hat.\n...",
+      "author": "milchaufex1984.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T07:59:38.305Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:00:03.601687",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:00:10.010000",
+      "text_length": 279,
+      "text_cleaned_length": 273,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkptz4mik22",
+      "text": "Tariffs are a Sales #TAX . We consumers pay them. No seems to report this\u2026.He boasts it\u2019s raising billions like its free money. #TRUMP makes the people PAY more by increasing the prices by increasing the TAX!! \ud83d\ude31",
+      "text_cleaned": "Tariffs are a Sales . We consumers pay them. No seems to report this\u2026.He boasts it\u2019s raising billions like its free money. makes the people PAY more by increasing the prices by increasing the TAX!! \ud83d\ude31",
+      "text_preview": "Tariffs are a Sales #TAX . We consumers pay them. No seems to report this\u2026.He boasts it\u2019s raising billions like its free money. #TRUMP makes the people PAY more by increasing the prices by increasing ...",
+      "author": "therealenzooo.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T07:57:02.146Z",
+      "hashtags": "['#TAX' '#TRUMP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:00:03.601701",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:00:10.010000",
+      "text_length": 211,
+      "text_cleaned_length": 199,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkpwjyiq72q",
+      "text": "\n#Putin   #Trump   #Ukraine   #Zelenskyy",
+      "text_cleaned": "",
+      "text_preview": "\n#Putin   #Trump   #Ukraine   #Zelenskyy",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-04T07:58:33.767628+00:00",
+      "hashtags": "['#Putin' '#Trump' '#Zelenskyy' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:00:03.601693",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:00:10.010000",
+      "text_length": 40,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkplimuf62n",
+      "text": "\u00c8 ACCADUTO IERI: Trump schiera sottomarini, quali sono le armi della flotta Usa ... LEGGI TUTTO #Trump #Sottomarini #FlottaUsa #Nucleare #Russia",
+      "text_cleaned": "\u00c8 ACCADUTO IERI: Trump schiera sottomarini, quali sono le armi della flotta Usa ... LEGGI TUTTO",
+      "text_preview": "\u00c8 ACCADUTO IERI: Trump schiera sottomarini, quali sono le armi della flotta Usa ... LEGGI TUTTO #Trump #Sottomarini #FlottaUsa #Nucleare #Russia",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-04T07:52:16Z",
+      "hashtags": "['#Sottomarini' '#Russia' '#Nucleare' '#Trump' '#FlottaUsa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:55:03.771738",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:55:10.014000",
+      "text_length": 144,
+      "text_cleaned_length": 95,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkpmcq2ah24",
+      "text": "\u00c8 ACCADUTO IERI: Trump schiera sottomarini nucleari. Russia: \"Non sono minaccia\" ... LEGGI TUTTO #Trump #NaviNucleari #Russia #Ucraina #Guerra",
+      "text_cleaned": "\u00c8 ACCADUTO IERI: Trump schiera sottomarini nucleari. Russia: \"Non sono minaccia\" ... LEGGI TUTTO",
+      "text_preview": "\u00c8 ACCADUTO IERI: Trump schiera sottomarini nucleari. Russia: \"Non sono minaccia\" ... LEGGI TUTTO #Trump #NaviNucleari #Russia #Ucraina #Guerra",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-04T07:52:43Z",
+      "hashtags": "['#Russia' '#Guerra' '#Trump' '#Ucraina' '#NaviNucleari']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:55:03.771729",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:55:10.014000",
+      "text_length": 142,
+      "text_cleaned_length": 96,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkpjs6t5k2z",
+      "text": "#Netanyahu e #Trump sono solo due vigliacchi, puzzolenti e luridi assassini.\n\n#genocidio\n#gaza",
+      "text_cleaned": "e sono solo due vigliacchi, puzzolenti e luridi assassini.",
+      "text_preview": "#Netanyahu e #Trump sono solo due vigliacchi, puzzolenti e luridi assassini.\n\n#genocidio\n#gaza",
+      "author": "bcasola.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T07:51:19.334Z",
+      "hashtags": "['#gaza' '#Netanyahu' '#genocidio' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:55:03.771746",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:55:10.014000",
+      "text_length": 94,
+      "text_cleaned_length": 58,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
