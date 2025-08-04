@@ -1,0 +1,392 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_191752",
+    "post_count": 14,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 19:10:10.007000",
+    "latest_received_at": "2025-08-04 19:15:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlvl24iso27",
+      "text": "\u2728MYSTIC IN MY POCKET\u2728Each day, you\u2019ll walk beside one of the great Christian mystics\ud83d\udcda amazon.com/author/mystic1 $2.99\n\n#mysticism #catholic #spiritual #mindfulness ##faith #christian #mystics #art #photography #beautiful #nature #travel #happy #trump #maga #dems #jesus #christian #faith #belief",
+      "text_cleaned": "\u2728MYSTIC IN MY POCKET\u2728Each day, you\u2019ll walk beside one of the great Christian mystics\ud83d\udcda amazon.com/author/mystic1 $2.99 #",
+      "text_preview": "\u2728MYSTIC IN MY POCKET\u2728Each day, you\u2019ll walk beside one of the great Christian mystics\ud83d\udcda amazon.com/author/mystic1 $2.99\n\n#mysticism #catholic #spiritual #mindfulness ##faith #christian #mystics #art #ph...",
+      "author": "1mystic1.bsky.social",
+      "author_display_name": "Mystic 1",
+      "created_at": "2025-08-04T19:12:03.350Z",
+      "hashtags": "['#spiritual' '#art' '#jesus' '#catholic' '#christian' '#happy' '#trump'\n '#mindfulness' '#beautiful' '#nature' '#travel' '#belief' '#maga'\n '#mystics' '#photography' '#faith' '#mysticism' '#dems']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:15:03.455198",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:15:10.007000",
+      "text_length": 295,
+      "text_cleaned_length": 119,
+      "hashtag_count": 18,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlvmqusfp26",
+      "text": "8/4/25 - Happy 235th birthday to the U.S.Coast Guard! https://www.reddit.com/r/trumptweets/comments/1mhltnl/8425_happy_235th_birthday_to_the_uscoast_guard/\n#truthsocial #trump",
+      "text_cleaned": "8/4/25 - Happy 235th birthday to the U.S.Coast Guard!",
+      "text_preview": "8/4/25 - Happy 235th birthday to the U.S.Coast Guard! https://www.reddit.com/r/trumptweets/comments/1mhltnl/8425_happy_235th_birthday_to_the_uscoast_guard/\n#truthsocial #trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T19:13:00.511Z",
+      "hashtags": "['#trump' '#truthsocial']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:15:03.455168",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:15:10.007000",
+      "text_length": 175,
+      "text_cleaned_length": 53,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlviergzs26",
+      "text": "youtu.be/WGqeEY1eYn8?...\n\n#Trump #Epstein #Maxwell <- THEY are the sex trafficking #cabal , y'all. It's so easy to see.\n\n#Monday #BS #MAGA",
+      "text_cleaned": "youtu.be/WGqeEY1eYn8?... <- THEY are the sex trafficking , y'all. It's so easy to see.",
+      "text_preview": "youtu.be/WGqeEY1eYn8?...\n\n#Trump #Epstein #Maxwell <- THEY are the sex trafficking #cabal , y'all. It's so easy to see.\n\n#Monday #BS #MAGA",
+      "author": "rizzowang.bsky.social",
+      "author_display_name": "\ud83c\uddfa\ud83c\uddf8\u2640\ufe0f\ud83c\udf08Rizzowang",
+      "created_at": "2025-08-04T19:10:33.900Z",
+      "hashtags": "['#Epstein' '#Trump' '#MAGA' '#BS' '#Monday' '#cabal' '#Maxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:15:03.455212",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:15:10.007000",
+      "text_length": 138,
+      "text_cleaned_length": 86,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlvmja5pc2r",
+      "text": "#trump #fucktrump #trumpsucksdicks #trumpdies #trumphasastroke #maga #magats #tacotrump #letsgotaco #maga",
+      "text_cleaned": "",
+      "text_preview": "#trump #fucktrump #trumpsucksdicks #trumpdies #trumphasastroke #maga #magats #tacotrump #letsgotaco #maga",
+      "author": "turingalan.bsky.social",
+      "author_display_name": "Human First",
+      "created_at": "2025-08-04T19:12:52.788Z",
+      "hashtags": "['#magats' '#trumpdies' '#trump' '#fucktrump' '#trumphasastroke'\n '#letsgotaco' '#trumpsucksdicks' '#tacotrump' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:15:03.455176",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:15:10.007000",
+      "text_length": 105,
+      "text_cleaned_length": 0,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlvp6acxo2g",
+      "text": "\n#conflict   #India   #Russia   #Tariffs   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#conflict   #India   #Russia   #Tariffs   #Trump   #Ukraine",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T19:14:28.250552+00:00",
+      "hashtags": "['#Trump' '#Tariffs' '#Russia' '#conflict' '#Ukraine' '#India']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:15:03.455160",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:15:10.007000",
+      "text_length": 60,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlvi62fnx25",
+      "text": "\n#Trump   #Trump administration",
+      "text_cleaned": "administration",
+      "text_preview": "\n#Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T19:10:33.169200+00:00",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:15:03.455219",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:15:10.007000",
+      "text_length": 31,
+      "text_cleaned_length": 14,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlviuc5zp25",
+      "text": "\n#Trump   #Trump administration",
+      "text_cleaned": "administration",
+      "text_preview": "\n#Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T19:10:56.508869+00:00",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:15:03.455204",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:15:10.007000",
+      "text_length": 31,
+      "text_cleaned_length": 14,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlvloqebx25",
+      "text": "\n#India   #Negotiations   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#India   #Negotiations   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T19:12:31.336780+00:00",
+      "hashtags": "['#India' '#Trump' '#Negotiations']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:15:03.455183",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:15:10.007000",
+      "text_length": 32,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlvdtwsgs2h",
+      "text": "Why is it ok for #trump to keep insulting half the population by calling us lib tards?  Why is this not seen as obnoxious and why is he never called out for it?\n#trumphatesme\n#trumphatesyou\nStop the insults. Act like an adult. This is not ok!",
+      "text_cleaned": "Why is it ok for to keep insulting half the population by calling us lib tards? Why is this not seen as obnoxious and why is he never called out for it? Stop the insults. Act like an adult. This is not ok!",
+      "text_preview": "Why is it ok for #trump to keep insulting half the population by calling us lib tards?  Why is this not seen as obnoxious and why is he never called out for it?\n#trumphatesme\n#trumphatesyou\nStop the i...",
+      "author": "positiveintent.bsky.social",
+      "author_display_name": "Trying so hard to Always Presume Positive Intent.",
+      "created_at": "2025-08-04T19:08:02.031Z",
+      "hashtags": "['#trumphatesme' '#trumphatesyou' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:10:03.464262",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:10:10.007000",
+      "text_length": 242,
+      "text_cleaned_length": 205,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlvge6x422f",
+      "text": "I FULLY support #Texas #Democrats in the fight against the #TX #Republican #Fascist #Gerrymandering scheme by the #Complicit #Trump puppet #GregAbbott\n\n#Republicans know they can\u2019t win b/c their constituents have realized they chose extremist power & their #Billionaires Donors Club over them.",
+      "text_cleaned": "I FULLY support in the fight against the scheme by the puppet know they can\u2019t win b/c their constituents have realized they chose extremist power & their Donors Club over them.",
+      "text_preview": "I FULLY support #Texas #Democrats in the fight against the #TX #Republican #Fascist #Gerrymandering scheme by the #Complicit #Trump puppet #GregAbbott\n\n#Republicans know they can\u2019t win b/c their const...",
+      "author": "world-wanderer.bsky.social",
+      "author_display_name": "Juli",
+      "created_at": "2025-08-04T19:09:26.184Z",
+      "hashtags": "['#Fascist' '#Texas' '#Republicans' '#Republican' '#Complicit'\n '#GregAbbott' '#TX' '#Gerrymandering' '#Democrats' '#Billionaires'\n '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:10:03.464249",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:10:10.007000",
+      "text_length": 293,
+      "text_cleaned_length": 176,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlvbnrkrs24",
+      "text": "Some tourists and business travelers may face up to $15,000 bond to enter US - www.theguardian.com/us-news/2025... #trump",
+      "text_cleaned": "Some tourists and business travelers may face up to $15,000 bond to enter US -",
+      "text_preview": "Some tourists and business travelers may face up to $15,000 bond to enter US - www.theguardian.com/us-news/2025... #trump",
+      "author": "glynmoody.bsky.social",
+      "author_display_name": "Glyn Moody",
+      "created_at": "2025-08-04T19:06:48.459Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:10:03.464268",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:10:10.007000",
+      "text_length": 121,
+      "text_cleaned_length": 78,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvlv75jyoc2q",
+      "text": "In a move which Trump calls \u201ctransparent\u201d, ICE announces a new partnership with TEMU\u2026..\n\n#trump #ice",
+      "text_cleaned": "In a move which Trump calls \u201ctransparent\u201d, ICE announces a new partnership with TEMU\u2026..",
+      "text_preview": "In a move which Trump calls \u201ctransparent\u201d, ICE announces a new partnership with TEMU\u2026..\n\n#trump #ice",
+      "author": "lostmyticket.bsky.social",
+      "author_display_name": "Bob Osser",
+      "created_at": "2025-08-04T19:05:24.316Z",
+      "hashtags": "['#ice' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:10:03.464274",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:10:10.007000",
+      "text_length": 100,
+      "text_cleaned_length": 87,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlv6tijvo2g",
+      "text": "\n#fire   #Kentucky   #Mitch McConnell   #Trump",
+      "text_cleaned": "McConnell",
+      "text_preview": "\n#fire   #Kentucky   #Mitch McConnell   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T19:05:20.117337+00:00",
+      "hashtags": "['#Kentucky' '#fire' '#Mitch' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:10:03.464282",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:10:10.007000",
+      "text_length": 46,
+      "text_cleaned_length": 9,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlve6rdck2u",
+      "text": "Someone please step in and save #America from #trump and the #republican party!",
+      "text_cleaned": "Someone please step in and save from and the party!",
+      "text_preview": "Someone please step in and save #America from #trump and the #republican party!",
+      "author": "shellym13.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T19:08:13.386Z",
+      "hashtags": "['#America' '#republican' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:10:03.464255",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:10:10.007000",
+      "text_length": 79,
+      "text_cleaned_length": 51,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
