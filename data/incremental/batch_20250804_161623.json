@@ -1,0 +1,554 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_161623",
+    "post_count": 20,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 16:10:10.006000",
+    "latest_received_at": "2025-08-04 16:15:10.009000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvllhh524d2g",
+      "text": "Trump weighs in on American Eagle's Sydney Sweeney ad\r\n\r\nWhen President Trump was told by a reporter that Sydney Sweeney was a registered Republican, he called her recent American Eagle ad \u201cfantastic.\u201d The ad sparked debate over race, Western beauty standards, and \u201cwokeness.\u201d #shorts #trump #sydneys",
+      "text_cleaned": "Trump weighs in on American Eagle's Sydney Sweeney ad When President Trump was told by a reporter that Sydney Sweeney was a registered Republican, he called her recent American Eagle ad \u201cfantastic.\u201d The ad sparked debate over race, Western beauty standards, and \u201cwokeness.\u201d",
+      "text_preview": "Trump weighs in on American Eagle's Sydney Sweeney ad\r\n\r\nWhen President Trump was told by a reporter that Sydney Sweeney was a registered Republican, he called her recent American Eagle ad \u201cfantastic....",
+      "author": "confettimother.is.democrat",
+      "author_display_name": "\ud83c\udde8 \ud83c\udded \ud83c\uddea \ud83c\uddf7 \ud83c\uddfe \ud83c\uddf1 \ud83c\uddfa\ud83c\uddf8 \ud83c\udde8\ud83c\udde6 \ud83c\uddfa\ud83c\udde6 \ud83e\ude75 \ud83d\udc99 \ud83c\udf0a",
+      "created_at": "2025-08-04T16:11:05.055Z",
+      "hashtags": "['#trump' '#shorts' '#sydneys']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820343",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 300,
+      "text_cleaned_length": 273,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlljalipk2t",
+      "text": "#trump #economy disaster \n\u270526,000 #manufacturing jobs lost since June\n\u27051 billion of aluminum can manufacturing will migrate \u27a1\ufe0fCanada \n\u2705 previously USA sent 349 billion of goods to Canada \u27a1\ufe0flose that and destroy 9million #USAjobs \n\u2705Trump fired bureaucrat who overseas official job numbers \n#canadastrong",
+      "text_cleaned": "disaster \u270526,000 jobs lost since June \u27051 billion of aluminum can manufacturing will migrate \u27a1\ufe0fCanada \u2705 previously USA sent 349 billion of goods to Canada \u27a1\ufe0flose that and destroy 9million \u2705Trump fired bureaucrat who overseas official job numbers",
+      "text_preview": "#trump #economy disaster \n\u270526,000 #manufacturing jobs lost since June\n\u27051 billion of aluminum can manufacturing will migrate \u27a1\ufe0fCanada \n\u2705 previously USA sent 349 billion of goods to Canada \u27a1\ufe0flose that a...",
+      "author": "wertheresistance.bsky.social",
+      "author_display_name": "Green Philosophy",
+      "created_at": "2025-08-04T16:12:05.646Z",
+      "hashtags": "['#manufacturing' '#trump' '#USAjobs' '#economy' '#canadastrong']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820068",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 302,
+      "text_cleaned_length": 244,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvllh3wpn432",
+      "text": "#HakeemJeffries on how #Democrats will respond to the #Texas #redistricting scheme: \"We are going to respond & respond forcefully, however we also will operate within the constraints of the #VotingRightsAct which is not what the Texas Democrats (sic; he meant [\u2026] \n\n[Original post on masto.ai]",
+      "text_cleaned": "on how will respond to the scheme: \"We are going to respond & respond forcefully, however we also will operate within the constraints of the which is not what the Texas Democrats (sic; he meant [\u2026] [Original post on masto.ai]",
+      "text_preview": "#HakeemJeffries on how #Democrats will respond to the #Texas #redistricting scheme: \"We are going to respond & respond forcefully, however we also will operate within the constraints of the #VotingRig...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-04T16:10:40.000Z",
+      "hashtags": "['#HakeemJeffries' '#redistricting' '#VotingRightsAct' '#Democrats'\n '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820351",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 293,
+      "text_cleaned_length": 225,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlli3cmtk2o",
+      "text": "This #MickMulvaney?\n\n#Trump #FifthColumn #RICO #Parscale #Mulvaney #NRA #GOP #FEC #gunreform #gunlaws #guncontrol #guns #Butina #Torshin #Putin #Russia #LaPierre #North #NinaByzantina #RightToBearArms #BridgesLLC #Katehon #Spencer #Kouprianova #Keene #Clark #Rogozin #Clay #Kushner #TrumpRussia\u202c",
+      "text_cleaned": "This ? \u202c",
+      "text_preview": "This #MickMulvaney?\n\n#Trump #FifthColumn #RICO #Parscale #Mulvaney #NRA #GOP #FEC #gunreform #gunlaws #guncontrol #guns #Butina #Torshin #Putin #Russia #LaPierre #North #NinaByzantina #RightToBearArms...",
+      "author": "gilliganista.bsky.social",
+      "author_display_name": "Gilliganista!\u2122\ufe0f",
+      "created_at": "2025-08-04T16:11:26.556Z",
+      "hashtags": "['#North' '#Kushner' '#NRA' '#Kouprianova' '#guns' '#gunlaws' '#Clark'\n '#RICO' '#Parscale' '#Katehon' '#RightToBearArms' '#Spencer' '#Clay'\n '#GOP' '#FEC' '#LaPierre' '#Rogozin' '#Torshin' '#NinaByzantina' '#Trump'\n '#gunreform' '#Keene' '#guncontrol' '#TrumpRussia' '#Russia' '#Mulvaney'\n '#FifthColumn' '#BridgesLLC' '#MickMulvaney' '#Putin' '#Butina']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820336",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 295,
+      "text_cleaned_length": 8,
+      "hashtag_count": 31,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvllfybqj72z",
+      "text": "Wall Street rallies and US stocks recover much of Friday\u2019s wipeout This upcoming week may have fewer fireworks than last week.\n\nInterest | Match | Feed",
+      "text_cleaned": "Wall Street rallies and US stocks recover much of Friday\u2019s wipeout This upcoming week may have fewer fireworks than last week. Interest | Match | Feed",
+      "text_preview": "Wall Street rallies and US stocks recover much of Friday\u2019s wipeout This upcoming week may have fewer fireworks than last week.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-04T16:10:16Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820081",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 151,
+      "text_cleaned_length": 150,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvllnwkhdo2e",
+      "text": "Trump firing of BLS head imperils trust in economic data\n#Trump",
+      "text_cleaned": "Trump firing of BLS head imperils trust in economic data",
+      "text_preview": "Trump firing of BLS head imperils trust in economic data\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T16:14:42.413Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820295",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 63,
+      "text_cleaned_length": 56,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvllivj2w22j",
+      "text": "Release the files !!!!\nNOW!!\n#trump\n#epstein\n#pedophile\n#corruption\n#felon\nyoutu.be/1GiIZ_CDYFU?...",
+      "text_cleaned": "Release the files !!!! NOW!! youtu.be/1GiIZ_CDYFU?...",
+      "text_preview": "Release the files !!!!\nNOW!!\n#trump\n#epstein\n#pedophile\n#corruption\n#felon\nyoutu.be/1GiIZ_CDYFU?...",
+      "author": "muzikmyk.bsky.social",
+      "author_display_name": "Michael John Lalikos",
+      "created_at": "2025-08-04T16:11:54.031Z",
+      "hashtags": "['#pedophile' '#corruption' '#epstein' '#trump' '#felon']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820318",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 99,
+      "text_cleaned_length": 53,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvllnyrnnw2e",
+      "text": "Damning Book Reveals Trump Talked About \u201cP*ssy\u201d With Epstein Friend\n#Trump",
+      "text_cleaned": "Damning Book Reveals Trump Talked About \u201cP*ssy\u201d With Epstein Friend",
+      "text_preview": "Damning Book Reveals Trump Talked About \u201cP*ssy\u201d With Epstein Friend\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T16:14:45.168Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820278",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 74,
+      "text_cleaned_length": 67,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvllnwwcn62y",
+      "text": "Trump Weighs In on Sydney Sweeney as if He Has Nothing Better to Do\n#Trump",
+      "text_cleaned": "Trump Weighs In on Sydney Sweeney as if He Has Nothing Better to Do",
+      "text_preview": "Trump Weighs In on Sydney Sweeney as if He Has Nothing Better to Do\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T16:14:42.977Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820290",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 74,
+      "text_cleaned_length": 67,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvllnxrvow2f",
+      "text": "Trump fires labor stats head after shaky jobs report.\n#Trump",
+      "text_cleaned": "Trump fires labor stats head after shaky jobs report.",
+      "text_preview": "Trump fires labor stats head after shaky jobs report.\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T16:14:44.127Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820284",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 60,
+      "text_cleaned_length": 53,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlll2bmv22c",
+      "text": "Donny\u2019s golden touch does it again\u2026 #trump #musk #tesla",
+      "text_cleaned": "Donny\u2019s golden touch does it again\u2026",
+      "text_preview": "Donny\u2019s golden touch does it again\u2026 #trump #musk #tesla",
+      "author": "freedomfunnies.bsky.social",
+      "author_display_name": "Freedom Funnies",
+      "created_at": "2025-08-04T16:13:06.130Z",
+      "hashtags": "['#trump' '#tesla' '#musk']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:15:04.820301",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:15:10.009000",
+      "text_length": 55,
+      "text_cleaned_length": 35,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvll634sms26",
+      "text": "\ud83d\udd34 Nouvelle vid\u00e9o \ud83d\udd34\n#Bruxelles perd au poker contre #Trump et\u2026 s\u2019en f\u00e9licite. Une chronique sur le g\u00e9nie strat\u00e9gique de l\u2019#UE : plier avant m\u00eame que Trump n\u2019ait tir\u00e9..\n\ud83d\uddd3\ufe0f Le #10septembre, la riposte s\u2019organise.\n\u25b6\ufe0f \u00c0 voir ici \ud83d\ude09\ud83d\udc47 youtu.be/2lUg3pm3n6g?...\n#ChroniqueSatirique",
+      "text_cleaned": "\ud83d\udd34 Nouvelle vid\u00e9o \ud83d\udd34 perd au poker contre et\u2026 s\u2019en f\u00e9licite. Une chronique sur le g\u00e9nie strat\u00e9gique de l\u2019 : plier avant m\u00eame que Trump n\u2019ait tir\u00e9.. \ud83d\uddd3\ufe0f Le , la riposte s\u2019organise. \u25b6\ufe0f \u00c0 voir ici \ud83d\ude09\ud83d\udc47 youtu.be/2lUg3pm3n6g?...",
+      "text_preview": "\ud83d\udd34 Nouvelle vid\u00e9o \ud83d\udd34\n#Bruxelles perd au poker contre #Trump et\u2026 s\u2019en f\u00e9licite. Une chronique sur le g\u00e9nie strat\u00e9gique de l\u2019#UE : plier avant m\u00eame que Trump n\u2019ait tir\u00e9..\n\ud83d\uddd3\ufe0f Le #10septembre, la riposte s\u2019...",
+      "author": "megalipm.bsky.social",
+      "author_display_name": "Magali Mangin",
+      "created_at": "2025-08-04T16:05:50.823Z",
+      "hashtags": "['#UE' '#ChroniqueSatirique' '#Bruxelles' '#Trump' '#10septembre']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:10:03.996859",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:10:10.006000",
+      "text_length": 271,
+      "text_cleaned_length": 218,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvllap5xec26",
+      "text": "Stay on top of the day\u2019s biggest stories with News Takes \u2014 a @surf.social custom feed featuring 100+ trusted journalists and media outlets, created by Flipboard\u2019s editors.\n\nPin it to Home for quick access to posts like this one from @newsguy.bsky.social. \n\n\ud83d\udccc bsky.app/profile/flip...\n\n#News #Trump",
+      "text_cleaned": "Stay on top of the day\u2019s biggest stories with News Takes \u2014 a .social custom feed featuring 100+ trusted journalists and media outlets, created by Flipboard\u2019s editors. Pin it to Home for quick access to posts like this one from .bsky.social. \ud83d\udccc bsky.app/profile/flip...",
+      "text_preview": "Stay on top of the day\u2019s biggest stories with News Takes \u2014 a @surf.social custom feed featuring 100+ trusted journalists and media outlets, created by Flipboard\u2019s editors.\n\nPin it to Home for quick ac...",
+      "author": "flipboard.com",
+      "author_display_name": "Flipboard",
+      "created_at": "2025-08-04T16:07:18.941Z",
+      "hashtags": "['#News' '#Trump']",
+      "mentions": "['@surf.social' '@newsguy.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:10:03.996837",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:10:10.006000",
+      "text_length": 297,
+      "text_cleaned_length": 267,
+      "hashtag_count": 2,
+      "mention_count": 2,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlkyovg7qd2",
+      "text": "#HakeemJeffries on the #Texas #redistricting scheme: \"These extremists want to be able to choose their voters as opposed to allowing the Texas voters to choose the people who should be privileged to represent them in Washington. It's #theft. That's what [\u2026] \n\n[Original post on masto.ai]",
+      "text_cleaned": "on the scheme: \"These extremists want to be able to choose their voters as opposed to allowing the Texas voters to choose the people who should be privileged to represent them in Washington. It's . That's what [\u2026] [Original post on masto.ai]",
+      "text_preview": "#HakeemJeffries on the #Texas #redistricting scheme: \"These extremists want to be able to choose their voters as opposed to allowing the Texas voters to choose the people who should be privileged to r...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-04T16:02:36.000Z",
+      "hashtags": "['#theft' '#redistricting' '#HakeemJeffries' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:10:03.996907",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:10:10.006000",
+      "text_length": 287,
+      "text_cleaned_length": 241,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvll6fctak2p",
+      "text": "Because of the direction US is being pushed towards or at least attempting to turn #Democracy to #Autocracy, many #Americans are looking for an alternative country to live in. #Trump opened the door to hate spreading. He does nothing good for the US!\n\nwww.realtor.com/news/trends/...",
+      "text_cleaned": "Because of the direction US is being pushed towards or at least attempting to turn to , many are looking for an alternative country to live in. opened the door to hate spreading. He does nothing good for the US!",
+      "text_preview": "Because of the direction US is being pushed towards or at least attempting to turn #Democracy to #Autocracy, many #Americans are looking for an alternative country to live in. #Trump opened the door t...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T16:06:01.506Z",
+      "hashtags": "['#Autocracy' '#Americans' '#Trump' '#Democracy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:10:03.996848",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:10:10.006000",
+      "text_length": 283,
+      "text_cleaned_length": 211,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvll4dqtis2j",
+      "text": "Yes we\u2019re all aware, #trump is an open #pedophile #Nazi who tampered with the election & is putting Americans in concentration camps. \n\nWhat are you doing to oust him & the rest of his regime?",
+      "text_cleaned": "Yes we\u2019re all aware, is an open who tampered with the election & is putting Americans in concentration camps. What are you doing to oust him & the rest of his regime?",
+      "text_preview": "Yes we\u2019re all aware, #trump is an open #pedophile #Nazi who tampered with the election & is putting Americans in concentration camps. \n\nWhat are you doing to oust him & the rest of his regime?",
+      "author": "darlingdayz.bsky.social",
+      "author_display_name": "Days Lynden \u2600\ufe0f",
+      "created_at": "2025-08-04T16:04:52.760Z",
+      "hashtags": "['#Nazi' '#pedophile' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:10:03.996875",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:10:10.006000",
+      "text_length": 192,
+      "text_cleaned_length": 166,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlldkvexc24",
+      "text": "TODAY: Plastic Is Karma + #Plastic #Microplastics #UNTreaty #Petrochemicals #Trump #Netanyahu #Starvation #FreeSpeech #Redistricting #Texas #Illinois #Russia #NuclearSub #Torture #AnimalAbuse #Cats #BBC #BobDylan #Economy\nmailchi.mp/newsvandal/n...",
+      "text_cleaned": "TODAY: Plastic Is Karma + mailchi.mp/newsvandal/n...",
+      "text_preview": "TODAY: Plastic Is Karma + #Plastic #Microplastics #UNTreaty #Petrochemicals #Trump #Netanyahu #Starvation #FreeSpeech #Redistricting #Texas #Illinois #Russia #NuclearSub #Torture #AnimalAbuse #Cats #B...",
+      "author": "newsvandal.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T16:08:55.127Z",
+      "hashtags": "['#Texas' '#Starvation' '#AnimalAbuse' '#BobDylan' '#FreeSpeech'\n '#Petrochemicals' '#Torture' '#Netanyahu' '#NuclearSub' '#Microplastics'\n '#BBC' '#Economy' '#UNTreaty' '#Russia' '#Redistricting' '#Plastic'\n '#Cats' '#Illinois' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:10:03.996526",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:10:10.006000",
+      "text_length": 248,
+      "text_cleaned_length": 52,
+      "hashtag_count": 19,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvllbimvcl2l",
+      "text": "Wall Street rallies and US stocks recover much of Friday\u2019s wipeout This upcoming week may have fewer fireworks than last week.\n\nInterest | Match | Feed",
+      "text_cleaned": "Wall Street rallies and US stocks recover much of Friday\u2019s wipeout This upcoming week may have fewer fireworks than last week. Interest | Match | Feed",
+      "text_preview": "Wall Street rallies and US stocks recover much of Friday\u2019s wipeout This upcoming week may have fewer fireworks than last week.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-04T16:07:45Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:10:03.996552",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:10:10.006000",
+      "text_length": 151,
+      "text_cleaned_length": 150,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvllcoypn72c",
+      "text": "Wall Street rallies and US stocks recover much of Friday\u2019s wipeout This upcoming week may have fewer fireworks than last week.\n\nInterest | Match | Feed",
+      "text_cleaned": "Wall Street rallies and US stocks recover much of Friday\u2019s wipeout This upcoming week may have fewer fireworks than last week. Interest | Match | Feed",
+      "text_preview": "Wall Street rallies and US stocks recover much of Friday\u2019s wipeout This upcoming week may have fewer fireworks than last week.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-04T16:08:25Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:10:03.996543",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:10:10.006000",
+      "text_length": 151,
+      "text_cleaned_length": 150,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvll5dcxps2c",
+      "text": "#Trump should worry about possible election fraud along with his close affiliation with #Epstein  #KamalaWon\n\nwww.gregpalast.com/trump-lost-v...",
+      "text_cleaned": "should worry about possible election fraud along with his close affiliation with",
+      "text_preview": "#Trump should worry about possible election fraud along with his close affiliation with #Epstein  #KamalaWon\n\nwww.gregpalast.com/trump-lost-v...",
+      "author": "2yourfreedom.bsky.social",
+      "author_display_name": "PC",
+      "created_at": "2025-08-04T16:05:25.858Z",
+      "hashtags": "['#KamalaWon' '#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:10:03.996867",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:10:10.006000",
+      "text_length": 144,
+      "text_cleaned_length": 80,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    }
+  ]
+}
