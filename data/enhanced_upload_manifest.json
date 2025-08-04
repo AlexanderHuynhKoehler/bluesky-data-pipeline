@@ -1,20 +1,20 @@
 {
   "latest_enhanced_upload": {
-    "timestamp": "20250803_225058",
-    "filename": "enhanced_20250803_225058.json",
-    "post_count": 16,
-    "original_batch": "batch_20250804_023010.json",
+    "timestamp": "20250803_225059",
+    "filename": "enhanced_20250803_225059.json",
+    "post_count": 5,
+    "original_batch": "batch_20250804_024024.json",
     "status": "ready_for_databricks_import"
   },
   "enhancement_info": {
-    "timestamp": "20250803_225058",
-    "original_batch": "batch_20250804_023010.json",
-    "enhanced_post_count": 16,
+    "timestamp": "20250803_225059",
+    "original_batch": "batch_20250804_024024.json",
+    "enhanced_post_count": 5,
     "ml_processing_complete": true,
     "college_cluster_processing": {
-      "sentiment_coverage": 15,
-      "emotion_coverage": 15,
-      "processing_speed": 227.80427057072563,
+      "sentiment_coverage": 4,
+      "emotion_coverage": 4,
+      "processing_speed": 265.8867322520606,
       "processed_by": "continuous_sentiment_fixed"
     }
   },
