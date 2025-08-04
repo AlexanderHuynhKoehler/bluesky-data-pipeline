@@ -1,0 +1,473 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_233934",
+    "post_count": 17,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 23:30:10.012000",
+    "latest_received_at": "2025-08-04 23:35:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvme5i47gk2e",
+      "text": "\ud83c\uddfa\ud83c\uddf8 Redadas, expulsiones y detenciones: la represi\u00f3n migratoria en #EEUU se endurece bajo #Trump.\n\nEste mi\u00e9rcoles con Eduardo Art\u00e9s y Adriana Palomera del Centro de Estudios Migratorios de la Universidsd de Santiago por @hispantv.bsky.social\n\n\ud83d\udd59 22:00 \ud83c\udde8\ud83c\uddf1\ud83c\udde6\ud83c\uddf7 | 21:00 \ud83c\uddfb\ud83c\uddea | 19:00 \ud83c\uddf2\ud83c\uddfd\n\n#Migraci\u00f3n",
+      "text_cleaned": "\ud83c\uddfa\ud83c\uddf8 Redadas, expulsiones y detenciones: la represi\u00f3n migratoria en se endurece bajo . Este mi\u00e9rcoles con Eduardo Art\u00e9s y Adriana Palomera del Centro de Estudios Migratorios de la Universidsd de Santiago por .bsky.social \ud83d\udd59 22:00 \ud83c\udde8\ud83c\uddf1\ud83c\udde6\ud83c\uddf7 | 21:00 \ud83c\uddfb\ud83c\uddea | 19:00 \ud83c\uddf2\ud83c\uddfd",
+      "text_preview": "\ud83c\uddfa\ud83c\uddf8 Redadas, expulsiones y detenciones: la represi\u00f3n migratoria en #EEUU se endurece bajo #Trump.\n\nEste mi\u00e9rcoles con Eduardo Art\u00e9s y Adriana Palomera del Centro de Estudios Migratorios de la Universid...",
+      "author": "negroyblancohtv.bsky.social",
+      "author_display_name": "Negro y Blanco - HispanTV",
+      "created_at": "2025-08-04T23:32:54.425Z",
+      "hashtags": "['#Migraci\u00f3n' '#Trump' '#EEUU']",
+      "mentions": "['@hispantv.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:35:03.789652",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:35:10.007000",
+      "text_length": 288,
+      "text_cleaned_length": 253,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvme56kqzc2q",
+      "text": "Tariffs are back\u2014and inflation is reacting fast.\nThis spike in tariff-sensitive CPI shows how fast policy shifts can hit your wallet (and your trades).\n\nTrack macro risks the smart way\" stocknews.ai/pricing?via=...\n\n#inflation #stocks #trading #economy #macro #tariffs #donaldtrump #trump #finance",
+      "text_cleaned": "Tariffs are back\u2014and inflation is reacting fast. This spike in tariff-sensitive CPI shows how fast policy shifts can hit your wallet (and your trades). Track macro risks the smart way\" stocknews.ai/pricing?via=...",
+      "text_preview": "Tariffs are back\u2014and inflation is reacting fast.\nThis spike in tariff-sensitive CPI shows how fast policy shifts can hit your wallet (and your trades).\n\nTrack macro risks the smart way\" stocknews.ai/p...",
+      "author": "krishnatrading.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T23:32:44.413Z",
+      "hashtags": "['#stocks' '#trump' '#macro' '#economy' '#trading' '#tariffs'\n '#donaldtrump' '#finance' '#inflation']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:35:03.789298",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:35:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 213,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmdyv7nhk27",
+      "text": "#BlueCollarWriter Labor News Update - August 4, 2025: \nwww.bluecollarwriter.com/home/labor-n...\n\n#1u #UnionStrong #UnionYes #ItsBetterInAUnion #LaborHistory #NLRB #Jobs #Economy",
+      "text_cleaned": "Labor News Update - August 4, 2025:",
+      "text_preview": "#BlueCollarWriter Labor News Update - August 4, 2025: \nwww.bluecollarwriter.com/home/labor-n...\n\n#1u #UnionStrong #UnionYes #ItsBetterInAUnion #LaborHistory #NLRB #Jobs #Economy",
+      "author": "bluecollarwriter.bsky.social",
+      "author_display_name": "BlueCollarWriter",
+      "created_at": "2025-08-04T23:30:20.367Z",
+      "hashtags": "['#ItsBetterInAUnion' '#1u' '#UnionStrong' '#Jobs' '#UnionYes'\n '#LaborHistory' '#Economy' '#BlueCollarWriter' '#NLRB']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:35:03.789323",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:35:10.007000",
+      "text_length": 177,
+      "text_cleaned_length": 35,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvme63ei522u",
+      "text": "Just curious\u2026What\u2019s the one thing Pedo-dent Donald #Trump can do to #MATHA \u2026Make America Truly Happy Again?\n\nAny thoughts?\u2026",
+      "text_cleaned": "Just curious\u2026What\u2019s the one thing Pedo-dent Donald can do to \u2026Make America Truly Happy Again? Any thoughts?\u2026",
+      "text_preview": "Just curious\u2026What\u2019s the one thing Pedo-dent Donald #Trump can do to #MATHA \u2026Make America Truly Happy Again?\n\nAny thoughts?\u2026",
+      "author": "spyforgod.bsky.social",
+      "author_display_name": "QuantumBeing \u270c\ud83c\udffd\ud83d\udc7d\ud83e\udd1f\ud83c\udffd",
+      "created_at": "2025-08-04T23:33:14.619Z",
+      "hashtags": "['#Trump' '#MATHA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:35:03.789640",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:35:10.007000",
+      "text_length": 123,
+      "text_cleaned_length": 108,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvme4vz2a22k",
+      "text": "#trump #FuckTrump #TrumpQuotes #theangrycheeto #maga #pedopresident #trumpisapedorapist #releasetheepsteinfiles #nazi #americaneagle #sydneysweeney #sydneysweeneyhasgreatjeans",
+      "text_cleaned": "",
+      "text_preview": "#trump #FuckTrump #TrumpQuotes #theangrycheeto #maga #pedopresident #trumpisapedorapist #releasetheepsteinfiles #nazi #americaneagle #sydneysweeney #sydneysweeneyhasgreatjeans",
+      "author": "theangrycheeto.bsky.social",
+      "author_display_name": "The Angry Cheeto",
+      "created_at": "2025-08-04T23:32:35.438Z",
+      "hashtags": "['#theangrycheeto' '#maga' '#trump' '#sydneysweeney' '#TrumpQuotes'\n '#americaneagle' '#sydneysweeneyhasgreatjeans' '#trumpisapedorapist'\n '#pedopresident' '#releasetheepsteinfiles' '#nazi' '#FuckTrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:35:03.789684",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:35:10.007000",
+      "text_length": 175,
+      "text_cleaned_length": 0,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvme6chxgk2y",
+      "text": "I wonder if #Trump is so addled he thinks For All Mankind is real.",
+      "text_cleaned": "I wonder if is so addled he thinks For All Mankind is real.",
+      "text_preview": "I wonder if #Trump is so addled he thinks For All Mankind is real.",
+      "author": "johnhampshire.bsky.social",
+      "author_display_name": "John Hampshire",
+      "created_at": "2025-08-04T23:33:22.074Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:35:03.789630",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:35:10.007000",
+      "text_length": 66,
+      "text_cleaned_length": 59,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmdyz2tya25",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #trump\n4. #oc\n5. #BowserDay\n6. #digitalart\n7. #sketch\n8. #auspol\n9. #MessWithTexas\n10. #booksky\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #trump\n4. #oc\n5. #BowserDay\n6. #digitalart\n7. #sketch\n8. #auspol\n9. #MessWithTexas\n10. #booksky\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-04T23:30:24Z",
+      "hashtags": "['#digitalart' '#trump' '#booksky' '#auspol' '#MessWithTexas' '#sketch'\n '#bb27' '#BowserDay' '#art' '#oc']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:35:03.789708",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:35:10.007000",
+      "text_length": 181,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvme3irvn227",
+      "text": "Trump\u2019s favorite word\u2026 #rigged #trump",
+      "text_cleaned": "Trump\u2019s favorite word\u2026",
+      "text_preview": "Trump\u2019s favorite word\u2026 #rigged #trump",
+      "author": "tbrouse.bsky.social",
+      "author_display_name": "Tim Brouse",
+      "created_at": "2025-08-04T23:31:48.025Z",
+      "hashtags": "['#rigged' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:35:03.789694",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:35:10.007000",
+      "text_length": 37,
+      "text_cleaned_length": 22,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmdpks6hc2i",
+      "text": "#Texas #GovernorAbbott #GreggAbbott\n#GOP #Republicans\n\nTexas #Republikkkan Governor tries to bully #Democrats into attending the State House so he can pass electoral gerrymandering to wipe out 5 Democrat seats and disenfranchise predominantly black & brown voters.\n\n#Corruption #Trump",
+      "text_cleaned": "Texas Governor tries to bully into attending the State House so he can pass electoral gerrymandering to wipe out 5 Democrat seats and disenfranchise predominantly black & brown voters.",
+      "text_preview": "#Texas #GovernorAbbott #GreggAbbott\n#GOP #Republicans\n\nTexas #Republikkkan Governor tries to bully #Democrats into attending the State House so he can pass electoral gerrymandering to wipe out 5 Democ...",
+      "author": "opinionbitch.bsky.social",
+      "author_display_name": "Opinionated Bitch \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf5\ud83c\uddf8\ud83c\uddfa\ud83c\uddf3\ud83c\uddea\ud83c\uddfa\ud83c\uddeb\ud83c\uddf7\ud83c\uddf8\ud83c\uddea\ud83c\udde6\ud83c\uddfa\ud83d\udc08\ud83e\udd8b\ud83c\udf08\u262e\ufe0f\u2764\ufe0f",
+      "created_at": "2025-08-04T23:25:07.475Z",
+      "hashtags": "['#Republicans' '#Texas' '#Republikkkan' '#Trump' '#Democrats'\n '#GovernorAbbott' '#Corruption' '#GreggAbbott' '#GOP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:30:03.340834",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:30:10.012000",
+      "text_length": 284,
+      "text_cleaned_length": 184,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvmdwzzaek2n",
+      "text": "\ud83d\udc69\ud83c\udffc\u200d\ud83e\uddb0\ud83c\udfb6(VIDEO/SOUND)\nNOT TODAY BUT **TOMORROW**\n\nThe weekly edition of #ZYDECAJUN radio will be available.\n\nTOMORROW, if you don't see the link in your stream #SEARCH for\n \n\"MUSIC 250805\"\n\nfor some great #ZYDECO #CAJUN music listening.\n#bb27 #art #Trump #Texas #filmsky #EpsteinFiles #digitalart #twitch",
+      "text_cleaned": "\ud83d\udc69\ud83c\udffc\u200d\ud83e\uddb0\ud83c\udfb6(VIDEO/SOUND) NOT TODAY BUT **TOMORROW** The weekly edition of radio will be available. TOMORROW, if you don't see the link in your stream for \"MUSIC 250805\" for some great music listening.",
+      "text_preview": "\ud83d\udc69\ud83c\udffc\u200d\ud83e\uddb0\ud83c\udfb6(VIDEO/SOUND)\nNOT TODAY BUT **TOMORROW**\n\nThe weekly edition of #ZYDECAJUN radio will be available.\n\nTOMORROW, if you don't see the link in your stream #SEARCH for\n \n\"MUSIC 250805\"\n\nfor some grea...",
+      "author": "zydecogary.bsky.social",
+      "author_display_name": "ZydecoGary",
+      "created_at": "2025-08-04T23:29:18.322Z",
+      "hashtags": "['#Trump' '#Texas' '#filmsky' '#EpsteinFiles' '#bb27' '#digitalart' '#art'\n '#CAJUN' '#twitch' '#ZYDECO' '#SEARCH' '#ZYDECAJUN']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:30:03.340755",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:30:10.012000",
+      "text_length": 301,
+      "text_cleaned_length": 194,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmdrxqck22n",
+      "text": "\ud83e\udd6b\nThe #QUESTION is - #CAN YOU #ZYDECO #DANCE? \n\nWell, CAN you?\n\n**ZYDECO MUSIC & DANCE - TRY THEM - ENJOY THEM**\n\nEncourage #ZYDECO #DANCING\n\n#MUSIC FUN #FUN DANCING\n#bb27 #art #Oc #Trump #Texas #filmsky #MessWithTexas #EpsteinFiles #digitalart #twitch #GaiasMelody #Genshin #\ubc14\uc774 #\uc7ac\ub2e8\uc0ac\ub2d8\uc774_\ubbf8\ucce4\uc5b4\uc694 #\ud63c\ub9c8\ub8e8_\ucc9c\uc8fc\ud669\uc548",
+      "text_cleaned": "\ud83e\udd6b The is - YOU ? Well, CAN you? **ZYDECO MUSIC & DANCE - TRY THEM - ENJOY THEM** Encourage FUN DANCING",
+      "text_preview": "\ud83e\udd6b\nThe #QUESTION is - #CAN YOU #ZYDECO #DANCE? \n\nWell, CAN you?\n\n**ZYDECO MUSIC & DANCE - TRY THEM - ENJOY THEM**\n\nEncourage #ZYDECO #DANCING\n\n#MUSIC FUN #FUN DANCING\n#bb27 #art #Oc #Trump #Texas #film...",
+      "author": "zydecogary.bsky.social",
+      "author_display_name": "ZydecoGary",
+      "created_at": "2025-08-04T23:26:28.159Z",
+      "hashtags": "['#EpsteinFiles' '#bb27' '#art' '#Genshin' '#FUN' '#\uc7ac\ub2e8\uc0ac\ub2d8\uc774_\ubbf8\ucce4\uc5b4\uc694' '#DANCE'\n '#CAN' '#Texas' '#GaiasMelody' '#Oc' '#\ubc14\uc774' '#twitch' '#DANCING' '#Trump'\n '#filmsky' '#MessWithTexas' '#digitalart' '#QUESTION' '#\ud63c\ub9c8\ub8e8_\ucc9c\uc8fc\ud669\uc548'\n '#ZYDECO' '#MUSIC']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:30:03.340813",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:30:10.012000",
+      "text_length": 300,
+      "text_cleaned_length": 102,
+      "hashtag_count": 22,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmdubfqzc2f",
+      "text": "\u2728\u2728 WATCHING \u2728\u2728\n\n#spiritual #mysticism #faith #awakening #belief #jesus #god #orthodox #christ #catholic #contemplation  #christian #meditation #mindfulness #compassion #forgiveness  #CatholicFaith #OrthodoxChristianity\u2028#ChristianSpirituality #CatholicDevotion\u2028#Orthodox #love  #trump #maga #art",
+      "text_cleaned": "\u2728\u2728 WATCHING \u2728\u2728",
+      "text_preview": "\u2728\u2728 WATCHING \u2728\u2728\n\n#spiritual #mysticism #faith #awakening #belief #jesus #god #orthodox #christ #catholic #contemplation  #christian #meditation #mindfulness #compassion #forgiveness  #CatholicFaith #Or...",
+      "author": "1mystic1.bsky.social",
+      "author_display_name": "Mystic 1",
+      "created_at": "2025-08-04T23:27:45.409Z",
+      "hashtags": "['#trump' '#Orthodox' '#mindfulness' '#mysticism' '#art' '#catholic'\n '#meditation' '#christian' '#ChristianSpirituality' '#CatholicFaith'\n '#faith' '#belief' '#contemplation' '#spiritual' '#orthodox' '#awakening'\n '#god' '#CatholicDevotion' '#love' '#maga' '#forgiveness' '#christ'\n '#jesus' '#OrthodoxChristianity' '#compassion']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:30:03.340778",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:30:10.012000",
+      "text_length": 294,
+      "text_cleaned_length": 14,
+      "hashtag_count": 25,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmdtotyzc2r",
+      "text": "#UnitedStates of #Israel \n#MIGA\n\nThe previous #Trump administration #request:\n\npledge to link #disaster #funds to #Israel #boycott stance \n\nwas #unconstitutional & #treasonous",
+      "text_cleaned": "of The previous administration : pledge to link to stance was &",
+      "text_preview": "#UnitedStates of #Israel \n#MIGA\n\nThe previous #Trump administration #request:\n\npledge to link #disaster #funds to #Israel #boycott stance \n\nwas #unconstitutional & #treasonous",
+      "author": "usamailbox.bsky.social",
+      "author_display_name": "USA",
+      "created_at": "2025-08-04T23:27:25.933Z",
+      "hashtags": "['#request' '#disaster' '#boycott' '#Trump' '#MIGA' '#unconstitutional'\n '#UnitedStates' '#treasonous' '#Israel' '#funds']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:30:03.340788",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:30:10.012000",
+      "text_length": 175,
+      "text_cleaned_length": 63,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvmdurdw7k2t",
+      "text": "Here's an example of #Trump #GOP cuts killing #womens #healthcare in the #USA\n#PlannedParenthood \nopen.substack.com/pub/steady/p...",
+      "text_cleaned": "Here's an example of cuts killing in the open.substack.com/pub/steady/p...",
+      "text_preview": "Here's an example of #Trump #GOP cuts killing #womens #healthcare in the #USA\n#PlannedParenthood \nopen.substack.com/pub/steady/p...",
+      "author": "nandanainthegarden.bsky.social",
+      "author_display_name": "Nandana",
+      "created_at": "2025-08-04T23:28:02.126Z",
+      "hashtags": "['#Trump' '#USA' '#womens' '#healthcare' '#GOP' '#PlannedParenthood']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:30:03.340764",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:30:10.012000",
+      "text_length": 131,
+      "text_cleaned_length": 74,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmdruyk6j2q",
+      "text": "\n#Abbott   #air force   #evidence   #Force   #Jobs   #politics   #Texas   #Trump   #vote   #White House",
+      "text_cleaned": "force House",
+      "text_preview": "\n#Abbott   #air force   #evidence   #Force   #Jobs   #politics   #Texas   #Trump   #vote   #White House",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T23:26:31.415357+00:00",
+      "hashtags": "['#White' '#Texas' '#Trump' '#vote' '#air' '#Abbott' '#politics' '#Force'\n '#evidence' '#Jobs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:30:03.340798",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:30:10.012000",
+      "text_length": 103,
+      "text_cleaned_length": 11,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmdruuc7c2r",
+      "text": "A perfect description of #trump!! #TrumpIsUnfitForOffice",
+      "text_cleaned": "A perfect description of !!",
+      "text_preview": "A perfect description of #trump!! #TrumpIsUnfitForOffice",
+      "author": "darleneryan.bsky.social",
+      "author_display_name": "Darlene Ryan \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-04T23:26:25.136Z",
+      "hashtags": "['#trump' '#TrumpIsUnfitForOffice']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:30:03.340819",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:30:10.012000",
+      "text_length": 56,
+      "text_cleaned_length": 27,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmdqgbt2s2z",
+      "text": "#democracy #trump #putin",
+      "text_cleaned": "",
+      "text_preview": "#democracy #trump #putin",
+      "author": "hazbay.bsky.social",
+      "author_display_name": "Blue Underground News",
+      "created_at": "2025-08-04T23:25:36Z",
+      "hashtags": "['#trump' '#putin' '#democracy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:30:03.340825",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:30:10.012000",
+      "text_length": 24,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
