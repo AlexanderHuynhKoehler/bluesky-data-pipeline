@@ -1,0 +1,419 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_213843",
+    "post_count": 15,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 21:30:10.007000",
+    "latest_received_at": "2025-08-04 21:35:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvm5j23phk2h",
+      "text": "Too Many People Are Still Trying To Normalize #SEXOFFENDER  #CONVICT #Trump!\n\n\"SLOOGA\" (Russian for 'Servant') \u202aTrump IS #KOMPROMAT!\n\n2017-21: Retained National Defense Information (NDI).\u202c\n\u202a2021: Removed NDI!\u202c\n\u202a2025: Trump IS Causing, \"Grave Damage To The National Security\".\u202c\n\n#VOTE U.S. BACK!\n\ud83c\uddfa\ud83c\uddf8 \ud83d\uddfd \ud83e\udd85",
+      "text_cleaned": "Too Many People Are Still Trying To Normalize ! \"SLOOGA\" (Russian for 'Servant') \u202aTrump IS ! 2017-21: Retained National Defense Information (NDI).\u202c \u202a2021: Removed NDI!\u202c \u202a2025: Trump IS Causing, \"Grave Damage To The National Security\".\u202c U.S. BACK! \ud83c\uddfa\ud83c\uddf8 \ud83d\uddfd \ud83e\udd85",
+      "text_preview": "Too Many People Are Still Trying To Normalize #SEXOFFENDER  #CONVICT #Trump!\n\n\"SLOOGA\" (Russian for 'Servant') \u202aTrump IS #KOMPROMAT!\n\n2017-21: Retained National Defense Information (NDI).\u202c\n\u202a2021: Remo...",
+      "author": "mepafford.org",
+      "author_display_name": "Mike Pafford",
+      "created_at": "2025-08-04T21:34:06.188Z",
+      "hashtags": "['#CONVICT' '#Trump' '#KOMPROMAT' '#SEXOFFENDER' '#VOTE']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.419983",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 301,
+      "text_cleaned_length": 253,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm5fsu4mk25",
+      "text": "TRUMP ACTUALLY WROTE THIS. The President of the United States wrote this while he is being accused of raping underage girls. \"Sidney Sweeney, a registered Republican, has the HOTTEST ad out there. It's for American Eagle, and the jeans are 'flying of [sic] the shelves.' Go get 'em Sidney,\" #trump",
+      "text_cleaned": "TRUMP ACTUALLY WROTE THIS. The President of the United States wrote this while he is being accused of raping underage girls. \"Sidney Sweeney, a registered Republican, has the HOTTEST ad out there. It's for American Eagle, and the jeans are 'flying of [sic] the shelves.' Go get 'em Sidney,\"",
+      "text_preview": "TRUMP ACTUALLY WROTE THIS. The President of the United States wrote this while he is being accused of raping underage girls. \"Sidney Sweeney, a registered Republican, has the HOTTEST ad out there. It'...",
+      "author": "ventandwhine.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T21:32:17.939Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.420003",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 297,
+      "text_cleaned_length": 290,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm5cuqyles2",
+      "text": "\"The Trump administration has asked NASA employees to draw up plans to end at least two major satellite missions. It is unclear why the Trump administration seeks to end the missions. The equipment in space is state of the art and is expected to function for many more years. The data the two [\u2026]",
+      "text_cleaned": "\"The Trump administration has asked NASA employees to draw up plans to end at least two major satellite missions. It is unclear why the Trump administration seeks to end the missions. The equipment in space is state of the art and is expected to function for many more years. The data the two [\u2026]",
+      "text_preview": "\"The Trump administration has asked NASA employees to draw up plans to end at least two major satellite missions. It is unclear why the Trump administration seeks to end the missions. The equipment in...",
+      "author": "helma.mastodon.social.ap.brid.gy",
+      "author_display_name": "Helma",
+      "created_at": "2025-08-04T21:30:33.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.420045",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 296,
+      "text_cleaned_length": 296,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvm5c4y2ks2m",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict pedophile #WhiteNationalist wannabe dictator, #Trump & his Admin\n\nIn 11/26, WE MUST NEVER VOTE 4 #Republicans\n\nTYVM @indivisible.org\n\n#BlueCrew\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict pedophile wannabe dictator, & his Admin In 11/26, WE MUST NEVER VOTE 4 TYVM .org",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict pedophile #WhiteNationalist wannabe dictator, #Trump & his Admin\n\nIn 11/26,...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T21:30:14.329Z",
+      "hashtags": "['#Change' '#TRUTHSOCIAL' '#Trump' '#WhiteNationalist' '#BlueCrew'\n '#Congress' '#Republicans']",
+      "mentions": "['@indivisible.org']",
+      "engagement": {
+        "likes": 2,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.420074",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 175,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 5.0
+    },
+    {
+      "post_id": "3lvm5f5mqf22n",
+      "text": "Manipulating official data is standard practice of authoritarian rulers: the propaganda of their \"Ministry of Truth\" can not be contradicted.\nThe #Trump \"ministry\" is that in both senses: part of government and part of the personality cult.\n#TrumpDivtator\nwww.nytimes.com/2025/08/03/b...",
+      "text_cleaned": "Manipulating official data is standard practice of authoritarian rulers: the propaganda of their \"Ministry of Truth\" can not be contradicted. The \"ministry\" is that in both senses: part of government and part of the personality cult.",
+      "text_preview": "Manipulating official data is standard practice of authoritarian rulers: the propaganda of their \"Ministry of Truth\" can not be contradicted.\nThe #Trump \"ministry\" is that in both senses: part of gove...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-04T21:31:55.676Z",
+      "hashtags": "['#Trump' '#TrumpDivtator']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.420025",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 287,
+      "text_cleaned_length": 233,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm5dek4ez24",
+      "text": "Kerr County declined federal flood mitigation funds just because they came from #Biden.\nTheir leaders chose politics over protection.\nTheir priorities were loud and clear.\n\n#TexasFloods #TexasPolitics #KerrCounty #GOP #Democrats #news #politicalnews #FloodRelief #Abbott",
+      "text_cleaned": "Kerr County declined federal flood mitigation funds just because they came from . Their leaders chose politics over protection. Their priorities were loud and clear.",
+      "text_preview": "Kerr County declined federal flood mitigation funds just because they came from #Biden.\nTheir leaders chose politics over protection.\nTheir priorities were loud and clear.\n\n#TexasFloods #TexasPolitics...",
+      "author": "laotraversiontv.bsky.social",
+      "author_display_name": "La Otra Versi\u00f3n con Nimia Amaya",
+      "created_at": "2025-08-04T21:30:55.359568368Z",
+      "hashtags": "['#KerrCounty' '#politicalnews' '#FloodRelief' '#Biden' '#news'\n '#TexasFloods' '#Democrats' '#GOP' '#Abbott' '#TexasPolitics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.420292",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 270,
+      "text_cleaned_length": 165,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm5cled3c2f",
+      "text": "#Harris was never going to win. #Democrats need to steal #Trump 's playbook. | Your Turn\nWhat are #democrats doing wrong, what are they doing right and where does the party go next? #USATODAY Forum participants had a lot to say. Here's what they told us.",
+      "text_cleaned": "was never going to win. need to steal 's playbook. | Your Turn What are doing wrong, what are they doing right and where does the party go next? Forum participants had a lot to say. Here's what they told us.",
+      "text_preview": "#Harris was never going to win. #Democrats need to steal #Trump 's playbook. | Your Turn\nWhat are #democrats doing wrong, what are they doing right and where does the party go next? #USATODAY Forum pa...",
+      "author": "usaneeds3rdparty.bsky.social",
+      "author_display_name": "Independent Moderate",
+      "created_at": "2025-08-04T21:30:29.418Z",
+      "hashtags": "['#democrats' '#Harris' '#Democrats' '#Trump' '#USATODAY']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.420057",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 254,
+      "text_cleaned_length": 207,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm5fs67h22t",
+      "text": "Stubb ja Trump puhuivat puhelimessa mutta eiv\u00e4t Palestiinasta ja Israelista. \n\nMin\u00e4 olen ihminen, #Stubb ja #Trump eiv\u00e4t. \n\n#FreePalestine #IsraelWarcriminal #GazaGenocide #NetanyahuWarcriminal",
+      "text_cleaned": "Stubb ja Trump puhuivat puhelimessa mutta eiv\u00e4t Palestiinasta ja Israelista. Min\u00e4 olen ihminen, ja eiv\u00e4t.",
+      "text_preview": "Stubb ja Trump puhuivat puhelimessa mutta eiv\u00e4t Palestiinasta ja Israelista. \n\nMin\u00e4 olen ihminen, #Stubb ja #Trump eiv\u00e4t. \n\n#FreePalestine #IsraelWarcriminal #GazaGenocide #NetanyahuWarcriminal",
+      "author": "tempputerava.bsky.social",
+      "author_display_name": "TemppuTer\u00e4v\u00e4",
+      "created_at": "2025-08-04T21:32:17.200Z",
+      "hashtags": "['#Stubb' '#NetanyahuWarcriminal' '#IsraelWarcriminal' '#GazaGenocide'\n '#FreePalestine' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.420015",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 193,
+      "text_cleaned_length": 105,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm5ddissk2m",
+      "text": "Did you notice the gold trim Trump added to the Oval Office fireplace mimics the general style of Jeffrey Epstein's townhouse fireplace?\n\n#epstein #trump",
+      "text_cleaned": "Did you notice the gold trim Trump added to the Oval Office fireplace mimics the general style of Jeffrey Epstein's townhouse fireplace?",
+      "text_preview": "Did you notice the gold trim Trump added to the Oval Office fireplace mimics the general style of Jeffrey Epstein's townhouse fireplace?\n\n#epstein #trump",
+      "author": "arty-san.bsky.social",
+      "author_display_name": "Arty-san",
+      "created_at": "2025-08-04T21:30:54.720Z",
+      "hashtags": "['#trump' '#epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.420036",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 153,
+      "text_cleaned_length": 136,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm5btyjgh2i",
+      "text": "We\u2019re Not Saying You Should Ruin Trump\u2019s White House Christmas, But ...\n#Trump",
+      "text_cleaned": "We\u2019re Not Saying You Should Ruin Trump\u2019s White House Christmas, But ...",
+      "text_preview": "We\u2019re Not Saying You Should Ruin Trump\u2019s White House Christmas, But ...\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T21:30:03.112Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.420085",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 78,
+      "text_cleaned_length": 71,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvm5ikhgvs2q",
+      "text": "www.instagram.com/reel/DMNrJWu... \n\n#trump #usa #maga #fake #windmill #trillions",
+      "text_cleaned": "",
+      "text_preview": "www.instagram.com/reel/DMNrJWu... \n\n#trump #usa #maga #fake #windmill #trillions",
+      "author": "ylvie.bsky.social",
+      "author_display_name": "Ylvie Rainmaker",
+      "created_at": "2025-08-04T21:33:48.592532Z",
+      "hashtags": "['#fake' '#trump' '#windmill' '#usa' '#trillions' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:35:04.419993",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:35:10.008000",
+      "text_length": 80,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm53txxg226",
+      "text": "Donald Trump: Dax erholt sich nach B\u00f6rsen-Gewitter \u2013 Schweizer Aktien gehen auf Talfahrt\n\nwww.capital.de/geld-versich... via @dascapital.bsky.social\n\n#Wirtschaft #Finanzen #B\u00f6rse #Boerse #Aktien #Dax #Trump #Versicherung #greatif",
+      "text_cleaned": "Donald Trump: Dax erholt sich nach B\u00f6rsen-Gewitter \u2013 Schweizer Aktien gehen auf Talfahrt via .bsky.social",
+      "text_preview": "Donald Trump: Dax erholt sich nach B\u00f6rsen-Gewitter \u2013 Schweizer Aktien gehen auf Talfahrt\n\nwww.capital.de/geld-versich... via @dascapital.bsky.social\n\n#Wirtschaft #Finanzen #B\u00f6rse #Boerse #Aktien #Dax ...",
+      "author": "greatif.bsky.social",
+      "author_display_name": "greatif",
+      "created_at": "2025-08-04T21:26:43.567Z",
+      "hashtags": "['#Boerse' '#Dax' '#Finanzen' '#Versicherung' '#Aktien' '#Wirtschaft'\n '#Trump' '#greatif' '#B\u00f6rse']",
+      "mentions": "['@dascapital.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:30:03.918068",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:30:10.007000",
+      "text_length": 229,
+      "text_cleaned_length": 105,
+      "hashtag_count": 9,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvm54uns7k25",
+      "text": "He is building a palace ballroom because he thinks he is a 17th century French King. But he should remember that the last French king who lived in a palace died by guillotine #Trump",
+      "text_cleaned": "He is building a palace ballroom because he thinks he is a 17th century French King. But he should remember that the last French king who lived in a palace died by guillotine",
+      "text_preview": "He is building a palace ballroom because he thinks he is a 17th century French King. But he should remember that the last French king who lived in a palace died by guillotine #Trump",
+      "author": "ventandwhine.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T21:27:17.839Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:30:03.918057",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:30:10.007000",
+      "text_length": 181,
+      "text_cleaned_length": 174,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm57eqe6227",
+      "text": "#Trump is #scared to death, then #Russia release his secrets, \n\nhe is able start #nuclear war as #coverup",
+      "text_cleaned": "is to death, then release his secrets, he is able start war as",
+      "text_preview": "#Trump is #scared to death, then #Russia release his secrets, \n\nhe is able start #nuclear war as #coverup",
+      "author": "usamailbox.bsky.social",
+      "author_display_name": "USA",
+      "created_at": "2025-08-04T21:28:41.808Z",
+      "hashtags": "['#Russia' '#nuclear' '#coverup' '#Trump' '#scared']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:30:03.918050",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:30:10.007000",
+      "text_length": 105,
+      "text_cleaned_length": 62,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvm4zwhsx22h",
+      "text": "#trump #fitness #epstein #donaldtrump #GOP #MAGA #news",
+      "text_cleaned": "",
+      "text_preview": "#trump #fitness #epstein #donaldtrump #GOP #MAGA #news",
+      "author": "chrisbritt.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T21:25:39.068Z",
+      "hashtags": "['#GOP' '#epstein' '#trump' '#news' '#MAGA' '#fitness' '#donaldtrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T21:30:03.918076",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 21:30:10.007000",
+      "text_length": 54,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 4.0
+    }
+  ]
+}
