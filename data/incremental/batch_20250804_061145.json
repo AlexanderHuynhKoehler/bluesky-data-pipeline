@@ -1,0 +1,365 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_061145",
+    "post_count": 13,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 06:05:10.008000",
+    "latest_received_at": "2025-08-04 06:10:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkjrlha7k2s",
+      "text": "\u23e9Paralell -W\u00e4hrung, den Bitcoin, den #Trump -Coin usw, erschafft,um die Pr\u00e4sidenten - Clique noch schamloser bereichern zu k\u00f6nnen, damit aber ganz bewusst auf den Crash des $ setzt. Die andere S\u00e4ule - die Dominanz amerikanischer Konzerne bei digitalen Services - steht zwar noch solide\u23e9",
+      "text_cleaned": "\u23e9Paralell -W\u00e4hrung, den Bitcoin, den -Coin usw, erschafft,um die Pr\u00e4sidenten - Clique noch schamloser bereichern zu k\u00f6nnen, damit aber ganz bewusst auf den Crash des $ setzt. Die andere S\u00e4ule - die Dominanz amerikanischer Konzerne bei digitalen Services - steht zwar noch solide\u23e9",
+      "text_preview": "\u23e9Paralell -W\u00e4hrung, den Bitcoin, den #Trump -Coin usw, erschafft,um die Pr\u00e4sidenten - Clique noch schamloser bereichern zu k\u00f6nnen, damit aber ganz bewusst auf den Crash des $ setzt. Die andere S\u00e4ule -...",
+      "author": "karlmelnyk.bsky.social",
+      "author_display_name": "Karl Melnyk",
+      "created_at": "2025-08-04T06:08:18.253Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:10:03.306643",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:10:10.007000",
+      "text_length": 286,
+      "text_cleaned_length": 279,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjlk3efu2n",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmeta.bsky.social",
+      "author_display_name": "Cosmic Meta Digital",
+      "created_at": "2025-08-04T06:04:55.313Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:10:03.306666",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:10:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjpf2bic23",
+      "text": "I hope #Republicans -at least those who have  daughters -will not support a pardon for #GhislaineMaxwell\nfor God's sake -many of them have capitulated to #trump out of fear or whatever -but there has to be a line FFS!",
+      "text_cleaned": "I hope -at least those who have daughters -will not support a pardon for for God's sake -many of them have capitulated to out of fear or whatever -but there has to be a line FFS!",
+      "text_preview": "I hope #Republicans -at least those who have  daughters -will not support a pardon for #GhislaineMaxwell\nfor God's sake -many of them have capitulated to #trump out of fear or whatever -but there has ...",
+      "author": "msjaggers.bsky.social",
+      "author_display_name": "Ms Jaggers",
+      "created_at": "2025-08-04T06:07:04.429Z",
+      "hashtags": "['#trump' '#Republicans' '#GhislaineMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:10:03.306650",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:10:10.007000",
+      "text_length": 217,
+      "text_cleaned_length": 178,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvkjrqjsec25",
+      "text": "\u2018He has trouble completing a thought\u2019: bizarre public appearances again cast doubt on Trump\u2019s mental acuity\nwww.theguardian.com/us-news/2025...\n\n#trump #theemperorhasnoclothes",
+      "text_cleaned": "\u2018He has trouble completing a thought\u2019: bizarre public appearances again cast doubt on Trump\u2019s mental acuity",
+      "text_preview": "\u2018He has trouble completing a thought\u2019: bizarre public appearances again cast doubt on Trump\u2019s mental acuity\nwww.theguardian.com/us-news/2025...\n\n#trump #theemperorhasnoclothes",
+      "author": "antonhein.com",
+      "author_display_name": "Anton",
+      "created_at": "2025-08-04T06:08:23.581Z",
+      "hashtags": "['#trump' '#theemperorhasnoclothes']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:10:03.306633",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:10:10.007000",
+      "text_length": 175,
+      "text_cleaned_length": 107,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjmuxrkh2b",
+      "text": "\"The elephant in the White House ...\" (Alan Moir 4/8/25)\n#VicNews #Trump #MAGA #GOP #tarrifs #Epstein #pedophile",
+      "text_cleaned": "\"The elephant in the White House ...\" (Alan Moir 4/8/25)",
+      "text_preview": "\"The elephant in the White House ...\" (Alan Moir 4/8/25)\n#VicNews #Trump #MAGA #GOP #tarrifs #Epstein #pedophile",
+      "author": "victoriannews.com.au",
+      "author_display_name": "Geelan Mitchell Media",
+      "created_at": "2025-08-04T06:05:39Z",
+      "hashtags": "['#tarrifs' '#pedophile' '#GOP' '#MAGA' '#VicNews' '#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:10:03.306658",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:10:10.007000",
+      "text_length": 112,
+      "text_cleaned_length": 56,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjtbg6vn2s",
+      "text": "Click Subscribe. #BankOfEngland #Inflation #InterestRates #Economy #Finance",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #BankOfEngland #Inflation #InterestRates #Economy #Finance",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-04T06:09:14Z",
+      "hashtags": "['#Inflation' '#InterestRates' '#Economy' '#BankOfEngland' '#Finance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:10:03.306330",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:10:10.007000",
+      "text_length": 75,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjthjsl62y",
+      "text": "Click Subscribe. #Japan #Ishiba #Trump #AutoTariff #TradeTalks",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Japan #Ishiba #Trump #AutoTariff #TradeTalks",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-04T06:09:21Z",
+      "hashtags": "['#Ishiba' '#AutoTariff' '#TradeTalks' '#Japan' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:10:03.306623",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:10:10.007000",
+      "text_length": 62,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjczq3pb2l",
+      "text": "#Environnement | Alors que les effets du r\u00e9chauffement climatique sont d\u00e9j\u00e0 l\u00e0, le gouvernement #Trump fait un pas de + dans sa politique radicalement anti-\u00e9cologiste. Reconnaitre la dangerosit\u00e9 des gaz \u00e0 effet de serre est une des bases de la lutte contre le r\u00e9chauffement.\nwww.liberation.fr/en...\n",
+      "text_cleaned": "| Alors que les effets du r\u00e9chauffement climatique sont d\u00e9j\u00e0 l\u00e0, le gouvernement fait un pas de + dans sa politique radicalement anti-\u00e9cologiste. Reconnaitre la dangerosit\u00e9 des gaz \u00e0 effet de serre est une des bases de la lutte contre le r\u00e9chauffement.",
+      "text_preview": "#Environnement | Alors que les effets du r\u00e9chauffement climatique sont d\u00e9j\u00e0 l\u00e0, le gouvernement #Trump fait un pas de + dans sa politique radicalement anti-\u00e9cologiste. Reconnaitre la dangerosit\u00e9 des g...",
+      "author": "ldh.fr",
+      "author_display_name": "LDH France",
+      "created_at": "2025-08-04T06:00:06.000Z",
+      "hashtags": "['#Trump' '#Environnement']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:05:03.100302",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:05:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 252,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkji6aomk23",
+      "text": "No way! Don't pardon #ghislaineMaxwell -she'll just lie to protect #Trump anyway & there are other sources -more info is emerging now",
+      "text_cleaned": "No way! Don't pardon -she'll just lie to protect anyway & there are other sources -more info is emerging now",
+      "text_preview": "No way! Don't pardon #ghislaineMaxwell -she'll just lie to protect #Trump anyway & there are other sources -more info is emerging now",
+      "author": "msjaggers.bsky.social",
+      "author_display_name": "Ms Jaggers",
+      "created_at": "2025-08-04T06:03:02.419Z",
+      "hashtags": "['#ghislaineMaxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:05:03.100288",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:05:10.008000",
+      "text_length": 133,
+      "text_cleaned_length": 108,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvkjcvwlak2x",
+      "text": "\ud83d\udd57 07:58 | RTL Nieuws\n\ud83d\udd38 #Trump #Netanyahu #Inlichtingendienst #IDF #Veiligheidsdienst",
+      "text_cleaned": "\ud83d\udd57 07:58 | RTL Nieuws \ud83d\udd38",
+      "text_preview": "\ud83d\udd57 07:58 | RTL Nieuws\n\ud83d\udd38 #Trump #Netanyahu #Inlichtingendienst #IDF #Veiligheidsdienst",
+      "author": "nieuwsjunkies.nl",
+      "author_display_name": "NieuwsJunkies.nl",
+      "created_at": "2025-08-04T06:00:05.161998+00:00",
+      "hashtags": "['#Veiligheidsdienst' '#IDF' '#Netanyahu' '#Inlichtingendienst' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:05:03.100311",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:05:10.008000",
+      "text_length": 84,
+      "text_cleaned_length": 22,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjkat2ik2s",
+      "text": "#Caifornia #LosAngeles This is what #LAPD #fascism looks like! #Trump #NAZI",
+      "text_cleaned": "This is what looks like!",
+      "text_preview": "#Caifornia #LosAngeles This is what #LAPD #fascism looks like! #Trump #NAZI",
+      "author": "pi-qui.bsky.social",
+      "author_display_name": "Pi-Qui Djinn Djinni",
+      "created_at": "2025-08-04T06:04:12.224Z",
+      "hashtags": "['#LosAngeles' '#fascism' '#NAZI' '#LAPD' '#Caifornia' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:05:03.100276",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:05:10.008000",
+      "text_length": 75,
+      "text_cleaned_length": 24,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjiqjct62u",
+      "text": "\n#Sanctions   #Steve Witkoff   #Trump   #Ukraine",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Sanctions   #Steve Witkoff   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-04T06:03:28.502548+00:00",
+      "hashtags": "['#Steve' '#Trump' '#Ukraine' '#Sanctions']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:05:03.100282",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:05:10.008000",
+      "text_length": 48,
+      "text_cleaned_length": 7,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkje43kgs24",
+      "text": "#MAGAts #Trump #America #Christofascism",
+      "text_cleaned": "",
+      "text_preview": "#MAGAts #Trump #America #Christofascism",
+      "author": "shannondrake.bsky.social",
+      "author_display_name": "Shannon Drake \ud83c\udf12\ud83c\udf15\ud83c\udf18",
+      "created_at": "2025-08-04T06:00:45.929Z",
+      "hashtags": "['#Christofascism' '#America' '#MAGAts' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:05:03.100295",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:05:10.008000",
+      "text_length": 39,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    }
+  ]
+}
