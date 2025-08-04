@@ -1,0 +1,581 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_100337",
+    "post_count": 21,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 09:55:10.009000",
+    "latest_received_at": "2025-08-04 10:00:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkwmzvmkc2x",
+      "text": "#Zelensky Chief of Staff Yermak on #Trump warning of US nuclear submarines to former #Russia President Medvedev\n\n\"Moment US nuclear submarines appeared, one Russian drunk \u2014 who had just been threatening nuclear war on X \u2014 suddenly went silent.\n\nRussia understands only one thing: strength\"\n\n#Ukraine",
+      "text_cleaned": "Chief of Staff Yermak on warning of US nuclear submarines to former President Medvedev \"Moment US nuclear submarines appeared, one Russian drunk \u2014 who had just been threatening nuclear war on X \u2014 suddenly went silent. Russia understands only one thing: strength\"",
+      "text_preview": "#Zelensky Chief of Staff Yermak on #Trump warning of US nuclear submarines to former #Russia President Medvedev\n\n\"Moment US nuclear submarines appeared, one Russian drunk \u2014 who had just been threateni...",
+      "author": "scottlucas.bsky.social",
+      "author_display_name": "Scott Lucas",
+      "created_at": "2025-08-04T09:58:24.277Z",
+      "hashtags": "['#Ukraine' '#Trump' '#Russia' '#Zelensky']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896734",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 262,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwgzkmlk2b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:55:02.589Z",
+      "hashtags": "['#Beliefs' '#Epstien' '#Trump' '#Obama' '#Effect' '#Karma' '#media'\n '#Cause' '#Treason']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896781",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwisvobc2b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:56:02.720Z",
+      "hashtags": "['#Beliefs' '#Epstien' '#Trump' '#Obama' '#Effect' '#Karma' '#media'\n '#Cause' '#Treason']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896772",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwkhntqs2b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:56:58.039Z",
+      "hashtags": "['#Beliefs' '#Epstien' '#Trump' '#Obama' '#Effect' '#Karma' '#media'\n '#Cause' '#Treason']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896758",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwn5iu2c2b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:58:28.053Z",
+      "hashtags": "['#Beliefs' '#Epstien' '#Trump' '#Obama' '#Effect' '#Karma' '#media'\n '#Cause' '#Treason']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896718",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwldjisz2w",
+      "text": "Click Subscribe. #MarketWatch #Investing #FinancialNews #StockMarket #Economy",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #MarketWatch #Investing #FinancialNews #StockMarket #Economy",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-04T09:57:27Z",
+      "hashtags": "['#FinancialNews' '#Economy' '#Investing' '#MarketWatch' '#StockMarket']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896395",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 77,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwn3u6is22",
+      "text": "Somebody needs to take a remedial math class.\n#Trump #Math #Stupid",
+      "text_cleaned": "Somebody needs to take a remedial math class.",
+      "text_preview": "Somebody needs to take a remedial math class.\n#Trump #Math #Stupid",
+      "author": "snagglepussdan.bsky.social",
+      "author_display_name": "Dan Smith",
+      "created_at": "2025-08-04T09:58:26.327Z",
+      "hashtags": "['#Math' '#Trump' '#Stupid']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896726",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 66,
+      "text_cleaned_length": 45,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwl3a6qh2q",
+      "text": "\n#Bolsonaro   #Jair Bolsonaro   #Trump",
+      "text_cleaned": "Bolsonaro",
+      "text_preview": "\n#Bolsonaro   #Jair Bolsonaro   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T09:57:25.322973+00:00",
+      "hashtags": "['#Jair' '#Bolsonaro' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896749",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 38,
+      "text_cleaned_length": 9,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwjasinc2u",
+      "text": "but we should thank him #Trump #Genocide",
+      "text_cleaned": "but we should thank him",
+      "text_preview": "but we should thank him #Trump #Genocide",
+      "author": "pantznabunch.bsky.social",
+      "author_display_name": "PantzNaBunch",
+      "created_at": "2025-08-04T09:56:17.298Z",
+      "hashtags": "['#Genocide' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896765",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 40,
+      "text_cleaned_length": 23,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwm2ce722n",
+      "text": "#Trump ... #Elon ... Need I say more ?",
+      "text_cleaned": "... ... Need I say more ?",
+      "text_preview": "#Trump ... #Elon ... Need I say more ?",
+      "author": "markh360.bsky.social",
+      "author_display_name": "MarkH",
+      "created_at": "2025-08-04T09:57:51.132Z",
+      "hashtags": "['#Elon' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T10:00:02.896740",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 10:00:10.008000",
+      "text_length": 38,
+      "text_cleaned_length": 25,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkw7vrzac2b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:51:03.757Z",
+      "hashtags": "['#Karma' '#Treason' '#Cause' '#Obama' '#Trump' '#Effect' '#Beliefs'\n '#Epstien' '#media']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541838",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwblenfk2b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:51:59.941Z",
+      "hashtags": "['#Karma' '#Treason' '#Cause' '#Obama' '#Trump' '#Effect' '#Beliefs'\n '#Epstien' '#media']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541817",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwdriwrs2b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:53:13.484Z",
+      "hashtags": "['#Karma' '#Treason' '#Cause' '#Obama' '#Trump' '#Effect' '#Beliefs'\n '#Epstien' '#media']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541799",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwcmcd6c2b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:52:34.469Z",
+      "hashtags": "['#Karma' '#Treason' '#Cause' '#Obama' '#Trump' '#Effect' '#Beliefs'\n '#Epstien' '#media']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541809",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwerlkds2b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:53:47.122Z",
+      "hashtags": "['#Karma' '#Treason' '#Cause' '#Obama' '#Trump' '#Effect' '#Beliefs'\n '#Epstien' '#media']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541775",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwb5stks2c",
+      "text": "They scream \u201choax\u201d to protect the names on the Epstein list.\nDeep state. Distract the public. Bury the truth.\nThis isn\u2019t justice.\nIt\u2019s protection for predators in suits.\nThe transformation is complete.\n\nCheck your voter registration.\n\n#Epstein #Trump #MAGA",
+      "text_cleaned": "They scream \u201choax\u201d to protect the names on the Epstein list. Deep state. Distract the public. Bury the truth. This isn\u2019t justice. It\u2019s protection for predators in suits. The transformation is complete. Check your voter registration.",
+      "text_preview": "They scream \u201choax\u201d to protect the names on the Epstein list.\nDeep state. Distract the public. Bury the truth.\nThis isn\u2019t justice.\nIt\u2019s protection for predators in suits.\nThe transformation is complete...",
+      "author": "jxdirector.bsky.social",
+      "author_display_name": "Jonathan X",
+      "created_at": "2025-08-04T09:51:45.721Z",
+      "hashtags": "['#Epstein' '#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541827",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 256,
+      "text_cleaned_length": 232,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwe7abes2b",
+      "text": "'At least 1,400 people have been killed [BY ISRAEL] while seeking aid since 27 May, most of whom were killed near GHF sites...' #Israel #GHF #Netanyahu #warcriminal #Palestine #Gaza #OccupiedWestBank #genocide #jewishterrorists #crimesgainsthumanity #USA #Trump  www.theguardian.com/world/2025/a...",
+      "text_cleaned": "'At least 1,400 people have been killed [BY ISRAEL] while seeking aid since 27 May, most of whom were killed near GHF sites...'",
+      "text_preview": "'At least 1,400 people have been killed [BY ISRAEL] while seeking aid since 27 May, most of whom were killed near GHF sites...' #Israel #GHF #Netanyahu #warcriminal #Palestine #Gaza #OccupiedWestBank ...",
+      "author": "maximgrosky.bsky.social",
+      "author_display_name": "Max G",
+      "created_at": "2025-08-04T09:53:27.879Z",
+      "hashtags": "['#USA' '#OccupiedWestBank' '#Gaza' '#jewishterrorists'\n '#crimesgainsthumanity' '#Trump' '#Palestine' '#genocide' '#Israel'\n '#warcriminal' '#GHF' '#Netanyahu']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541790",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 298,
+      "text_cleaned_length": 127,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkw6adfy22b",
+      "text": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks are in trouble civilly & criminally. Be wise, not a biased puppet\n\nopen.spotify.com/track/51czDX...",
+      "text_cleaned": "Snakes & Lions don\u2019t mix! that promote hate go extinct. No Predictions please. & is Conspiracy is Not affected by opinion! folks are in trouble civilly & criminally. Be wise, not a biased puppet open.spotify.com/track/51czDX...",
+      "text_preview": "Snakes & Lions don\u2019t mix!\n#Beliefs that promote hate go extinct. #Obama #Trump #Epstien No Predictions please. #Cause & #Effect is #Karma Conspiracy is #Treason Not affected by opinion! #media folks a...",
+      "author": "truebuddhism.bsky.social",
+      "author_display_name": "John Charles Harman",
+      "created_at": "2025-08-04T09:50:07.703Z",
+      "hashtags": "['#Karma' '#Treason' '#Cause' '#Obama' '#Trump' '#Effect' '#Beliefs'\n '#Epstien' '#media']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541847",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 298,
+      "text_cleaned_length": 227,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkw6ctz3h27",
+      "text": "youtu.be/71kLKplXiqM #economy #economics   if you trust republicans more on economics there's only one possible explanation: A bag of rocks is smarter than you, You are stupid.\n\n#economy #economics",
+      "text_cleaned": "youtu.be/71kLKplXiqM if you trust republicans more on economics there's only one possible explanation: A bag of rocks is smarter than you, You are stupid.",
+      "text_preview": "youtu.be/71kLKplXiqM #economy #economics   if you trust republicans more on economics there's only one possible explanation: A bag of rocks is smarter than you, You are stupid.\n\n#economy #economics",
+      "author": "kythra.bsky.social",
+      "author_display_name": "Kythra Suntamer",
+      "created_at": "2025-08-04T09:50:10.345Z",
+      "hashtags": "['#economy' '#economics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541393",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 197,
+      "text_cleaned_length": 154,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwfaguos24",
+      "text": "\ud83d\udfe2 Importance: 85/100\n#news #Featured #TopStories #World #donaldtrump #reuters #trump\n\nThe Kremlin said on Monday that everyone should be careful about nuclear rhetoric, in its first response to a...",
+      "text_cleaned": "\ud83d\udfe2 Importance: 85/100 The Kremlin said on Monday that everyone should be careful about nuclear rhetoric, in its first response to a...",
+      "text_preview": "\ud83d\udfe2 Importance: 85/100\n#news #Featured #TopStories #World #donaldtrump #reuters #trump\n\nThe Kremlin said on Monday that everyone should be careful about nuclear rhetoric, in its first response to a...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-04T09:46:32+00:00",
+      "hashtags": "['#TopStories' '#donaldtrump' '#reuters' '#World' '#Featured' '#news'\n '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541900",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 198,
+      "text_cleaned_length": 133,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkwgd2xc225",
+      "text": "{ #Epstein, #Pedophilia, #Republicans, #Trump }",
+      "text_cleaned": "{ , , , }",
+      "text_preview": "{ #Epstein, #Pedophilia, #Republicans, #Trump }",
+      "author": "alangnixon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T09:54:39.009Z",
+      "hashtags": "['#Pedophilia' '#Epstein' '#Trump' '#Republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:55:03.541765",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:55:10.009000",
+      "text_length": 47,
+      "text_cleaned_length": 9,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
