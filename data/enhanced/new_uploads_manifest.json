@@ -1,0 +1,18 @@
+{
+  "pending_imports": [
+    {
+      "timestamp": "20250803_231740",
+      "filename": "enhanced_20250803_231740.json",
+      "post_count": 20,
+      "original_batch": "batch_20250804_000550.json",
+      "status": "waiting_for_databricks_import",
+      "uploaded_at": "2025-08-03T23:17:40.585516"
+    }
+  ],
+  "databricks_import_instructions": {
+    "new_files_location": "data/enhanced/new/",
+    "processed_files_location": "data/enhanced/processed/",
+    "table_target": "social_media.bluesky_enhanced_clean",
+    "import_type": "incremental_append"
+  }
+}
