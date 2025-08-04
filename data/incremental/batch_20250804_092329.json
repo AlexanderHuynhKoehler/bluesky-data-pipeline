@@ -1,0 +1,338 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_092329",
+    "post_count": 12,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 09:15:10.008000",
+    "latest_received_at": "2025-08-04 09:20:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvku7lzyzm2u",
+      "text": "BILL UPDATE:\n\nS.2673: A bill to require the Secretary of Defense and the Secretary of Homeland Security to improve the transition of medics into the civilian workforce in certain health care occup...\n\nACTION: Read twice and referred to the Committee on Veterans' Affairs.\n\n#economy #healthcare #labor",
+      "text_cleaned": "BILL UPDATE: S.2673: A bill to require the Secretary of Defense and the Secretary of Homeland Security to improve the transition of medics into the civilian workforce in certain health care occup... ACTION: Read twice and referred to the Committee on Veterans' Affairs.",
+      "text_preview": "BILL UPDATE:\n\nS.2673: A bill to require the Secretary of Defense and the Secretary of Homeland Security to improve the transition of medics into the civilian workforce in certain health care occup...\n...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T09:15:04.429Z",
+      "hashtags": "['#healthcare' '#economy' '#labor']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:20:02.887501",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:20:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 269,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkuhmk6ms2p",
+      "text": "It finally makes sense why bully #Trump has been so uncharacteristically kind to both #Russia and #Israel all these years. \n\n#Blackmail can be a very powerful motivator. \n\nI wonder if we\u2019ll ever have a chance to see those #videos.",
+      "text_cleaned": "It finally makes sense why bully has been so uncharacteristically kind to both and all these years. can be a very powerful motivator. I wonder if we\u2019ll ever have a chance to see those .",
+      "text_preview": "It finally makes sense why bully #Trump has been so uncharacteristically kind to both #Russia and #Israel all these years. \n\n#Blackmail can be a very powerful motivator. \n\nI wonder if we\u2019ll ever have ...",
+      "author": "murrayvetstein.bsky.social",
+      "author_display_name": "Murray Vetstein",
+      "created_at": "2025-08-04T09:19:35.015Z",
+      "hashtags": "['#Trump' '#Russia' '#Israel' '#Blackmail' '#videos']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:20:02.887749",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:20:10.006000",
+      "text_length": 230,
+      "text_cleaned_length": 185,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkufog4hk2x",
+      "text": "Deranged #Trump paves over White House Rose Garden lawn with concrete to build an oversized and needless ballroom www.the-independent.com/bulletin/new...",
+      "text_cleaned": "Deranged paves over White House Rose Garden lawn with concrete to build an oversized and needless ballroom",
+      "text_preview": "Deranged #Trump paves over White House Rose Garden lawn with concrete to build an oversized and needless ballroom www.the-independent.com/bulletin/new...",
+      "author": "zenarchie.bsky.social",
+      "author_display_name": "ZenArchie",
+      "created_at": "2025-08-04T09:18:29.866Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:20:02.887765",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:20:10.006000",
+      "text_length": 153,
+      "text_cleaned_length": 106,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkugtx5go2w",
+      "text": "\n#India   #Russia   #Stephen Miller   #Trump   #Ukraine   #war   #White House",
+      "text_cleaned": "Miller House",
+      "text_preview": "\n#India   #Russia   #Stephen Miller   #Trump   #Ukraine   #war   #White House",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T09:19:16.004112+00:00",
+      "hashtags": "['#Russia' '#Trump' '#Ukraine' '#India' '#White' '#Stephen' '#war']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:20:02.887757",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:20:10.006000",
+      "text_length": 77,
+      "text_cleaned_length": 12,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkudbuzmd2v",
+      "text": "\n#Executive   #power   #Trump   #Washington",
+      "text_cleaned": "",
+      "text_preview": "\n#Executive   #power   #Trump   #Washington",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T09:17:16.322726+00:00",
+      "hashtags": "['#Trump' '#power' '#Executive' '#Washington']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:20:02.887777",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:20:10.006000",
+      "text_length": 43,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkudm3cwk2j",
+      "text": "\n#Trump   #universities   #war",
+      "text_cleaned": "",
+      "text_preview": "\n#Trump   #universities   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T09:17:27.100413+00:00",
+      "hashtags": "['#Trump' '#universities' '#war']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:20:02.887770",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:20:10.006000",
+      "text_length": 30,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvku7tbqos2j",
+      "text": "\n#Boomer   #taxes   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Boomer   #taxes   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T09:15:20.436740+00:00",
+      "hashtags": "['#Trump' '#Boomer' '#taxes']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:20:02.887790",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:20:10.006000",
+      "text_length": 26,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkuct646x2n",
+      "text": "\n#Trump   #White House",
+      "text_cleaned": "House",
+      "text_preview": "\n#Trump   #White House",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T09:17:00.979205+00:00",
+      "hashtags": "['#Trump' '#White']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:20:02.887784",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:20:10.006000",
+      "text_length": 22,
+      "text_cleaned_length": 5,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvku3gxy722z",
+      "text": "Vakantiegroeten uit het tarievenparadijs.\n\n\u270f\ufe0f door Joep Bertrams.\n\n#Trump #tarieven #handelsoorlog #vakantie",
+      "text_cleaned": "Vakantiegroeten uit het tarievenparadijs. \u270f\ufe0f door Joep Bertrams.",
+      "text_preview": "Vakantiegroeten uit het tarievenparadijs.\n\n\u270f\ufe0f door Joep Bertrams.\n\n#Trump #tarieven #handelsoorlog #vakantie",
+      "author": "groene.nl",
+      "author_display_name": "De Groene Amsterdammer",
+      "created_at": "2025-08-04T09:12:46.498Z",
+      "hashtags": "['#handelsoorlog' '#vakantie' '#Trump' '#tarieven']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:15:03.283073",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:15:10.008000",
+      "text_length": 108,
+      "text_cleaned_length": 64,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvktxcf37s22",
+      "text": "Clear violation of #HIPAA.\nanother attack on our rights by the #trump administration",
+      "text_cleaned": "Clear violation of . another attack on our rights by the administration",
+      "text_preview": "Clear violation of #HIPAA.\nanother attack on our rights by the #trump administration",
+      "author": "johnnybarbu.bsky.social",
+      "author_display_name": "JohnnyMangu",
+      "created_at": "2025-08-04T09:10:27.473Z",
+      "hashtags": "['#trump' '#HIPAA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:15:03.283098",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:15:10.008000",
+      "text_length": 84,
+      "text_cleaned_length": 71,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvktzhxnwq2f",
+      "text": "\u27a1\ufe0f  Leggi l'articolo: #Trump #Witkoff #Mosca #Russia #Ucraina",
+      "text_cleaned": "\u27a1\ufe0f Leggi l'articolo:",
+      "text_preview": "\u27a1\ufe0f  Leggi l'articolo: #Trump #Witkoff #Mosca #Russia #Ucraina",
+      "author": "qnazionale.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T09:11:40Z",
+      "hashtags": "['#Trump' '#Russia' '#Witkoff' '#Ucraina' '#Mosca']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:15:03.283090",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:15:10.008000",
+      "text_length": 61,
+      "text_cleaned_length": 20,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvku3a7afc2m",
+      "text": "\n#Opposition   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Opposition   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T09:12:46.220618+00:00",
+      "hashtags": "['#Trump' '#Opposition']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:15:03.283081",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:15:10.008000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
