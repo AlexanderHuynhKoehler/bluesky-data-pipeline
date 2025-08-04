@@ -1,0 +1,338 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_114359",
+    "post_count": 12,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 11:35:10.007000",
+    "latest_received_at": "2025-08-04 11:40:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvl4bs2p2s2m",
+      "text": "Suivant une \u00e9tude de #NAFSA, le choix de limiter le nombre d'\u00e9tudiants internationaux dans les universit\u00e9s par l'administration #Trump pourrait avoir un effet imm\u00e9diat :\n\u25aa\ufe0f150 000 \u00e9tudiants de moins arrivant cet automne ;\n\u25aa\ufe0fperte de 7 Mds $ ;\n\u25aa\ufe0fperte de 60 000 emplois.\n\n#ESR",
+      "text_cleaned": "Suivant une \u00e9tude de , le choix de limiter le nombre d'\u00e9tudiants internationaux dans les universit\u00e9s par l'administration pourrait avoir un effet imm\u00e9diat : \u25aa\ufe0f150 000 \u00e9tudiants de moins arrivant cet automne ; \u25aa\ufe0fperte de 7 Mds $ ; \u25aa\ufe0fperte de 60 000 emplois.",
+      "text_preview": "Suivant une \u00e9tude de #NAFSA, le choix de limiter le nombre d'\u00e9tudiants internationaux dans les universit\u00e9s par l'administration #Trump pourrait avoir un effet imm\u00e9diat :\n\u25aa\ufe0f150 000 \u00e9tudiants de moins a...",
+      "author": "pvandeweghe.bsky.social",
+      "author_display_name": "Pierre van de Weghe ",
+      "created_at": "2025-08-04T11:39:29.407Z",
+      "hashtags": "['#Trump' '#ESR' '#NAFSA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:40:03.434945",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:40:10.006000",
+      "text_length": 275,
+      "text_cleaned_length": 256,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl426gbpk2c",
+      "text": "\u201canecdotal evidence suggests that #companies, which have been holding back on passing #tariff costs on to #consumers in the hope that #Trump would back down, are getting ready to raise #prices.\u201d open.substack.com/pub/paulkrug...",
+      "text_cleaned": "\u201canecdotal evidence suggests that , which have been holding back on passing costs on to in the hope that would back down, are getting ready to raise .\u201d open.substack.com/pub/paulkrug...",
+      "text_preview": "\u201canecdotal evidence suggests that #companies, which have been holding back on passing #tariff costs on to #consumers in the hope that #Trump would back down, are getting ready to raise #prices.\u201d open....",
+      "author": "dbcurren.bsky.social",
+      "author_display_name": "Don Curren \ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-04T11:35:13.934Z",
+      "hashtags": "['#Trump' '#consumers' '#companies' '#tariff' '#prices']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:40:03.434981",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:40:10.006000",
+      "text_length": 228,
+      "text_cleaned_length": 185,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvl432xxes22",
+      "text": "LAS NOTICIAS: Trump confirma el despliegue de submarinos nucleares, Rusia advierte y China sorprende\n\nhttps://youtu.be/5MbiPv-QWNM\u00a0\n\n\u00a0#lasnoticias #trump #submarinos #nuclear #rusia #china #armasnucleares #breakingnews #geopolitica #news",
+      "text_cleaned": "LAS NOTICIAS: Trump confirma el despliegue de submarinos nucleares, Rusia advierte y China sorprende",
+      "text_preview": "LAS NOTICIAS: Trump confirma el despliegue de submarinos nucleares, Rusia advierte y China sorprende\n\nhttps://youtu.be/5MbiPv-QWNM\u00a0\n\n\u00a0#lasnoticias #trump #submarinos #nuclear #rusia #china #armasnucle...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-04T11:35:43.722030Z",
+      "hashtags": "['#rusia' '#lasnoticias' '#geopolitica' '#trump' '#china'\n '#armasnucleares' '#news' '#submarinos' '#nuclear' '#breakingnews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:40:03.434971",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:40:10.006000",
+      "text_length": 237,
+      "text_cleaned_length": 100,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl466pppr2z",
+      "text": "The August / September issue of The Progressive is OUT NOW.\n#democracy #justice #Fascism #Trump\nClick the link to get your copy today for ONLY $7.50: \n\n #usa #gop #fascists\n\n\ud83d\udc49 Vote 'em Out!\n",
+      "text_cleaned": "The August / September issue of The Progressive is OUT NOW. Click the link to get your copy today for ONLY $7.50: \ud83d\udc49 Vote 'em Out!",
+      "text_preview": "The August / September issue of The Progressive is OUT NOW.\n#democracy #justice #Fascism #Trump\nClick the link to get your copy today for ONLY $7.50: \n\n #usa #gop #fascists\n\n\ud83d\udc49 Vote 'em Out!\n",
+      "author": "cubanx.bsky.social",
+      "author_display_name": "CubanX",
+      "created_at": "2025-08-04T11:37:28.404734+00:00",
+      "hashtags": "['#democracy' '#usa' '#Trump' '#justice' '#fascists' '#gop' '#Fascism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:40:03.434955",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:40:10.006000",
+      "text_length": 190,
+      "text_cleaned_length": 129,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl42qaix42t",
+      "text": "Smarter homes and new scenarios: China elevates consumption through policy push #economy bit.ly/45jLwBW",
+      "text_cleaned": "Smarter homes and new scenarios: China elevates consumption through policy push bit.ly/45jLwBW",
+      "text_preview": "Smarter homes and new scenarios: China elevates consumption through policy push #economy bit.ly/45jLwBW",
+      "author": "chinadaily.bsky.social",
+      "author_display_name": "China Daily",
+      "created_at": "2025-08-04T11:35:32.575765+00:00",
+      "hashtags": "['#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:40:03.434686",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:40:10.006000",
+      "text_length": 103,
+      "text_cleaned_length": 94,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl44iahkk23",
+      "text": "Recession incoming. #Trump",
+      "text_cleaned": "Recession incoming.",
+      "text_preview": "Recession incoming. #Trump",
+      "author": "nicksones.bsky.social",
+      "author_display_name": "Nick Sones",
+      "created_at": "2025-08-04T11:36:31.339Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:40:03.434961",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:40:10.006000",
+      "text_length": 26,
+      "text_cleaned_length": 19,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3wssmagn2",
+      "text": "#epstein #epsteinfiles #epsteinlist #trump\nWhat in the holy hell:\n\n8. I personally witnessed four sexual encounters that the Plaintiff was forced to have with Mr.\nTrump during this period, including the fourth of these encounters where Mr. Trump forcibly raped her\ndespite her pleas to stop.\n\n12 [\u2026]",
+      "text_cleaned": "What in the holy hell: 8. I personally witnessed four sexual encounters that the Plaintiff was forced to have with Mr. Trump during this period, including the fourth of these encounters where Mr. Trump forcibly raped her despite her pleas to stop. 12 [\u2026]",
+      "text_preview": "#epstein #epsteinfiles #epsteinlist #trump\nWhat in the holy hell:\n\n8. I personally witnessed four sexual encounters that the Plaintiff was forced to have with Mr.\nTrump during this period, including t...",
+      "author": "10tothe22.mastodon.social.ap.brid.gy",
+      "author_display_name": "10tothe22",
+      "created_at": "2025-08-04T11:33:18.000Z",
+      "hashtags": "['#epsteinfiles' '#epsteinlist' '#epstein' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:35:03.623460",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:35:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 254,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3vwctos2h",
+      "text": "The guy who is going around claiming he lowered drug prices by 1500% accused a career statistician of 'faking' numbers to make him look bad.\n#Trump\n#JobsReport",
+      "text_cleaned": "The guy who is going around claiming he lowered drug prices by 1500% accused a career statistician of 'faking' numbers to make him look bad.",
+      "text_preview": "The guy who is going around claiming he lowered drug prices by 1500% accused a career statistician of 'faking' numbers to make him look bad.\n#Trump\n#JobsReport",
+      "author": "hmandia.bsky.social",
+      "author_display_name": "Holly M",
+      "created_at": "2025-08-04T11:32:51.183Z",
+      "hashtags": "['#Trump' '#JobsReport']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:35:03.623467",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:35:10.007000",
+      "text_length": 159,
+      "text_cleaned_length": 140,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvl3reokop2e",
+      "text": "\u2018There\u2019s an appetite for this brand of politics\u2019: the independent politician making a bid for US Senate\n#Trump",
+      "text_cleaned": "\u2018There\u2019s an appetite for this brand of politics\u2019: the independent politician making a bid for US Senate",
+      "text_preview": "\u2018There\u2019s an appetite for this brand of politics\u2019: the independent politician making a bid for US Senate\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T11:30:17.901Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:35:03.623542",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:35:10.007000",
+      "text_length": 110,
+      "text_cleaned_length": 103,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3rldo4k22",
+      "text": "PBS is for the kids! SHARE AND FOLLOW IF YOU AGREE! #woke #PBS #anti #trump #ProAmerica",
+      "text_cleaned": "PBS is for the kids! SHARE AND FOLLOW IF YOU AGREE!",
+      "text_preview": "PBS is for the kids! SHARE AND FOLLOW IF YOU AGREE! #woke #PBS #anti #trump #ProAmerica",
+      "author": "krgee455.bsky.social",
+      "author_display_name": "Friendly Anti-chump Pro-America",
+      "created_at": "2025-08-04T11:30:25.489Z",
+      "hashtags": "['#trump' '#anti' '#ProAmerica' '#woke' '#PBS']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:35:03.623535",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:35:10.007000",
+      "text_length": 87,
+      "text_cleaned_length": 51,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3rukri22e",
+      "text": "These fukkkers #trump #Miller #jdvance fully intend to destroy anything and everything",
+      "text_cleaned": "These fukkkers fully intend to destroy anything and everything",
+      "text_preview": "These fukkkers #trump #Miller #jdvance fully intend to destroy anything and everything",
+      "author": "missplaced.bsky.social",
+      "author_display_name": "MissPlaced ",
+      "created_at": "2025-08-04T11:30:35.159Z",
+      "hashtags": "['#jdvance' '#Miller' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:35:03.623526",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:35:10.007000",
+      "text_length": 86,
+      "text_cleaned_length": 62,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3tw62ac2l",
+      "text": "desk-russie.eu/2025/07/28/l...\n\n#epstein #trump #KGB #poutine",
+      "text_cleaned": "desk-russie.eu/2025/07/28/l...",
+      "text_preview": "desk-russie.eu/2025/07/28/l...\n\n#epstein #trump #KGB #poutine",
+      "author": "daphnis61.bsky.social",
+      "author_display_name": "Daphnis61",
+      "created_at": "2025-08-04T11:31:43.950Z",
+      "hashtags": "['#KGB' '#epstein' '#trump' '#poutine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:35:03.623517",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:35:10.007000",
+      "text_length": 61,
+      "text_cleaned_length": 30,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
