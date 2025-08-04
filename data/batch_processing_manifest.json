@@ -1,13 +1,6 @@
 {
   "available_batches": [
     {
-      "timestamp": "20250804_051118",
-      "filename": "batch_20250804_051118.json",
-      "post_count": 10,
-      "time_window": "10_minutes",
-      "status": "available_for_processing"
-    },
-    {
       "timestamp": "20250804_051207",
       "filename": "batch_20250804_051207.json",
       "post_count": 10,
@@ -349,7 +342,14 @@
       "post_count": 9,
       "time_window": "10_minutes",
       "status": "available_for_processing"
+    },
+    {
+      "timestamp": "20250804_092306",
+      "filename": "batch_20250804_092306.json",
+      "post_count": 12,
+      "time_window": "10_minutes",
+      "status": "available_for_processing"
     }
   ],
-  "last_updated": "20250804_091326"
+  "last_updated": "20250804_092306"
 }
