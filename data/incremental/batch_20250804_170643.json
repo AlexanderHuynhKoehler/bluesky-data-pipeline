@@ -1,0 +1,662 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_170643",
+    "post_count": 24,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 17:00:10.007000",
+    "latest_received_at": "2025-08-04 17:05:10.013000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlo7hgq6s2f",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let\u2019s compel #Congress to impeach & convict pedophile, felon, narcissistic pathological liar & racist wannabe dictator, #Trump, & his Admin.\n\nTYVM @pamrichmond1.bsky.social \n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let\u2019s compel to impeach & convict pedophile, felon, narcissistic pathological liar & racist wannabe dictator, , & his Admin. TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let\u2019s compel #Congress to impeach & convict pedophile, felon, narcissistic pathological liar & racist wannabe dictat...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T17:00:18.508Z",
+      "hashtags": "['#Congress' '#Trump' '#TRUTHSOCIAL' '#BlueCrew' '#Change']",
+      "mentions": "['@pamrichmond1.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482869",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 300,
+      "text_cleaned_length": 206,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvloc4qlns2p",
+      "text": "Wake up #Republicans, yes you too #MAGA. You all are being played! #Trump and his puppets are playing you all. He needs you for one thing only, to believe his lies, his ongoing con. He is held up by outside powers, they control allowing him to think he is in control but he is so easily manipulated.",
+      "text_cleaned": "Wake up , yes you too . You all are being played! and his puppets are playing you all. He needs you for one thing only, to believe his lies, his ongoing con. He is held up by outside powers, they control allowing him to think he is in control but he is so easily manipulated.",
+      "text_preview": "Wake up #Republicans, yes you too #MAGA. You all are being played! #Trump and his puppets are playing you all. He needs you for one thing only, to believe his lies, his ongoing con. He is held up by o...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T17:01:47.964Z",
+      "hashtags": "['#Trump' '#Republicans' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482816",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 299,
+      "text_cleaned_length": 275,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvloexs43c2v",
+      "text": "#palestina #freegaza #moda #mode #outfit #style #fashion #freepelestine #stopgenocide #genocidio #trump #usa #russia #china #mexico #france #uk #australia #japon #canada #india #brazil #libertad \ud83e\udec2\u262e\ufe0f\ud83d\udc4b\ud83d\udc4d\ud83d\udc4f\u270c\ufe0f\ud83c\udf0f\ud83d\udd4a\ufe0f\ud83c\udff3\ufe0f\u270a\ud83d\ude4c\ud83d\udc9c\ud83d\ude4b\u200d\u2640\ufe0f\ud83c\udf39\ud83c\udf49\ud83c\uddf5\ud83c\uddf8\ud83c\uddf5\ud83c\uddf8\ud83c\uddf5\ud83c\uddf8",
+      "text_cleaned": "\ud83e\udec2\u262e\ufe0f\ud83d\udc4b\ud83d\udc4d\ud83d\udc4f\u270c\ufe0f\ud83c\udf0f\ud83d\udd4a\ufe0f\ud83c\udff3\ufe0f\u270a\ud83d\ude4c\ud83d\udc9c\ud83d\ude4b\u200d\u2640\ufe0f\ud83c\udf39\ud83c\udf49\ud83c\uddf5\ud83c\uddf8\ud83c\uddf5\ud83c\uddf8\ud83c\uddf5\ud83c\uddf8",
+      "text_preview": "#palestina #freegaza #moda #mode #outfit #style #fashion #freepelestine #stopgenocide #genocidio #trump #usa #russia #china #mexico #france #uk #australia #japon #canada #india #brazil #libertad \ud83e\udec2\u262e\ufe0f\ud83d\udc4b\ud83d\udc4d...",
+      "author": "demetrioymedio.bsky.social",
+      "author_display_name": "Demetrioymedio",
+      "created_at": "2025-08-04T17:03:23.360Z",
+      "hashtags": "['#freepelestine' '#freegaza' '#trump' '#stopgenocide' '#brazil' '#moda'\n '#japon' '#china' '#style' '#mode' '#australia' '#canada' '#russia'\n '#libertad' '#mexico' '#india' '#outfit' '#usa' '#france' '#palestina'\n '#fashion' '#uk' '#genocidio']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482787",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 223,
+      "text_cleaned_length": 28,
+      "hashtag_count": 23,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlof5iib72f",
+      "text": "\u00daLTIMA HORA: China desaf\u00eda a Trump rechazando sus demandas de no comprar petr\u00f3leo de Rusia e Ir\u00e1n\n\nhttps://youtu.be/-bCydfOyh1s\n\n#ultimahora #china #eeuu #trump #rusia #iran #petr\u00f3leo #acuerdoscomerciales #economia #negociostv #noticias #actualidad #breakingnews #noticiaseconomicas #news",
+      "text_cleaned": "\u00daLTIMA HORA: China desaf\u00eda a Trump rechazando sus demandas de no comprar petr\u00f3leo de Rusia e Ir\u00e1n",
+      "text_preview": "\u00daLTIMA HORA: China desaf\u00eda a Trump rechazando sus demandas de no comprar petr\u00f3leo de Rusia e Ir\u00e1n\n\nhttps://youtu.be/-bCydfOyh1s\n\n#ultimahora #china #eeuu #trump #rusia #iran #petr\u00f3leo #acuerdoscomerci...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-04T17:03:29.256587Z",
+      "hashtags": "['#actualidad' '#rusia' '#breakingnews' '#noticias' '#iran'\n '#acuerdoscomerciales' '#news' '#trump' '#petr\u00f3leo' '#negociostv' '#eeuu'\n '#noticiaseconomicas' '#ultimahora' '#economia' '#china']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482768",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 288,
+      "text_cleaned_length": 97,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlodtk6vc2w",
+      "text": "Why don't the Washington Commanders change their name like Don Old wants - if he's so fond of them he would probably love The Washington Orangeskins! He must be the dumbest of all times! #DonIdiot #DonOld #Trump #WashingtonCommanders #DOAT",
+      "text_cleaned": "Why don't the Washington Commanders change their name like Don Old wants - if he's so fond of them he would probably love The Washington Orangeskins! He must be the dumbest of all times!",
+      "text_preview": "Why don't the Washington Commanders change their name like Don Old wants - if he's so fond of them he would probably love The Washington Orangeskins! He must be the dumbest of all times! #DonIdiot #Do...",
+      "author": "jensbud.bsky.social",
+      "author_display_name": "JensBud",
+      "created_at": "2025-08-04T17:02:45.426Z",
+      "hashtags": "['#DOAT' '#WashingtonCommanders' '#Trump' '#DonOld' '#DonIdiot']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482806",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 239,
+      "text_cleaned_length": 186,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlobl7td224",
+      "text": "The more #Trump talks about firing BLS commissioner the more he proves how wrong it was\n\n#TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsmells #terrorism #ArrestTrumpNow #RussianAsset #TrumpStinks\n\nwww.youtube.com/watch?v=E9Bh...",
+      "text_cleaned": "The more talks about firing BLS commissioner the more he proves how wrong it was",
+      "text_preview": "The more #Trump talks about firing BLS commissioner the more he proves how wrong it was\n\n#TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsmells #te...",
+      "author": "oden-gjallarhornet.bsky.social",
+      "author_display_name": "Oden",
+      "created_at": "2025-08-04T17:01:29.588Z",
+      "hashtags": "['#TrumpRapist' '#donaldtrump' '#TrumpStinks' '#Trumpsmells'\n '#TrumpTraitor' '#Fascism' '#Trump' '#RussianAsset' '#TrumpFascist'\n '#TrumpLies' '#Russia' '#ArrestTrumpNow' '#TrumpRacist' '#terrorism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482838",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 283,
+      "text_cleaned_length": 80,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvloghv63c2q",
+      "text": "Rashid Khalidid on Why He Won't Teach at Columbia This Fall\nDemocracy Now!\n@democracynow.org \n#US #Politics #Economics #Academia #Fahrenheit451 #Project2025 #Despotism #Trump #TrumpRegime #AmericanApartheid #IsraeliApartheid",
+      "text_cleaned": "Rashid Khalidid on Why He Won't Teach at Columbia This Fall Democracy Now! .org",
+      "text_preview": "Rashid Khalidid on Why He Won't Teach at Columbia This Fall\nDemocracy Now!\n@democracynow.org \n#US #Politics #Economics #Academia #Fahrenheit451 #Project2025 #Despotism #Trump #TrumpRegime #AmericanApa...",
+      "author": "muiren.bsky.social",
+      "author_display_name": "M. N\u00ed S\u00eddach",
+      "created_at": "2025-08-04T17:04:13.866Z",
+      "hashtags": "['#Politics' '#Economics' '#AmericanApartheid' '#IsraeliApartheid'\n '#Trump' '#US' '#Despotism' '#Fahrenheit451' '#Project2025'\n '#TrumpRegime' '#Academia']",
+      "mentions": "['@democracynow.org']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482733",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 224,
+      "text_cleaned_length": 79,
+      "hashtag_count": 11,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlog772o224",
+      "text": "#Epstein Files Audio Leaks \u2014 Explosive #Trump Revelations & Details | Epstein Trump News-N18L\n\n#justiceforkatiejohnson #JeffreyEpstein #Pedophile #Childmolestor #donaldtrump #TrumpRapist #Trump \n\nwww.youtube.com/watch?v=QNuM...",
+      "text_cleaned": "Files Audio Leaks \u2014 Explosive Revelations & Details | Epstein Trump News-N18L",
+      "text_preview": "#Epstein Files Audio Leaks \u2014 Explosive #Trump Revelations & Details | Epstein Trump News-N18L\n\n#justiceforkatiejohnson #JeffreyEpstein #Pedophile #Childmolestor #donaldtrump #TrumpRapist #Trump \n\nwww....",
+      "author": "oden-gjallarhornet.bsky.social",
+      "author_display_name": "Oden",
+      "created_at": "2025-08-04T17:04:04.753Z",
+      "hashtags": "['#JeffreyEpstein' '#TrumpRapist' '#donaldtrump' '#Epstein' '#Trump'\n '#Pedophile' '#Childmolestor' '#justiceforkatiejohnson']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482744",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 227,
+      "text_cleaned_length": 77,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlobp42vs22",
+      "text": "I'm guessing that the main reason the #Trump Admin hasn't moved on the #IVFpledge is that they can't figure out a way for only White people to use it.\nYet.\n#TrumpIsUnfitForOffice",
+      "text_cleaned": "I'm guessing that the main reason the Admin hasn't moved on the is that they can't figure out a way for only White people to use it. Yet.",
+      "text_preview": "I'm guessing that the main reason the #Trump Admin hasn't moved on the #IVFpledge is that they can't figure out a way for only White people to use it.\nYet.\n#TrumpIsUnfitForOffice",
+      "author": "cogitoergowtf.bsky.social",
+      "author_display_name": "Frankp",
+      "created_at": "2025-08-04T17:01:33.643Z",
+      "hashtags": "['#IVFpledge' '#Trump' '#TrumpIsUnfitForOffice']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482826",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 178,
+      "text_cleaned_length": 137,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlo76aopc2g",
+      "text": "BILL UPDATE:\n\nS.838: ACRE Act of 2025\n\nACTION: Read twice and referred to the Committee on Finance.\n\n#congress #economy",
+      "text_cleaned": "BILL UPDATE: S.838: ACRE Act of 2025 ACTION: Read twice and referred to the Committee on Finance.",
+      "text_preview": "BILL UPDATE:\n\nS.838: ACRE Act of 2025\n\nACTION: Read twice and referred to the Committee on Finance.\n\n#congress #economy",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T17:00:05.977Z",
+      "hashtags": "['#congress' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482422",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 119,
+      "text_cleaned_length": 97,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvlofebgfk2f",
+      "text": "#DonaldTrump knows he & the #MAGA #republicans have NO goddamn chance in a fair #election, especially now that he & his followers basically screwed over everyone that is not a billionaire. So as he always does, #Trump finds a way to CHEAT & STEAL to get ahead.\n\nThey must be stopped in their tracks!",
+      "text_cleaned": "knows he & the have NO goddamn chance in a fair , especially now that he & his followers basically screwed over everyone that is not a billionaire. So as he always does, finds a way to CHEAT & STEAL to get ahead. They must be stopped in their tracks!",
+      "text_preview": "#DonaldTrump knows he & the #MAGA #republicans have NO goddamn chance in a fair #election, especially now that he & his followers basically screwed over everyone that is not a billionaire. So as he al...",
+      "author": "someonewithrbf.bsky.social",
+      "author_display_name": "SomeoneWithRBF\ud83e\udee4",
+      "created_at": "2025-08-04T17:03:36.519Z",
+      "hashtags": "['#election' '#MAGA' '#Trump' '#DonaldTrump' '#republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482753",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 299,
+      "text_cleaned_length": 250,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvloczaywc2x",
+      "text": "Cortney Cowley and Chase Farha at the Kansas City Fed found that while 67% of manufacturing firms and 60% of services firms in the region are reporting higher costs for raw materials, fewer firms are raising their final prices for consumers. www.kansascityfed.org/research/eco...\n\n#EconSky #Economy",
+      "text_cleaned": "Cortney Cowley and Chase Farha at the Kansas City Fed found that while 67% of manufacturing firms and 60% of services firms in the region are reporting higher costs for raw materials, fewer firms are raising their final prices for consumers.",
+      "text_preview": "Cortney Cowley and Chase Farha at the Kansas City Fed found that while 67% of manufacturing firms and 60% of services firms in the region are reporting higher costs for raw materials, fewer firms are ...",
+      "author": "kansascityfed.bsky.social",
+      "author_display_name": "Federal Reserve Bank of Kansas City",
+      "created_at": "2025-08-04T17:02:17.860Z",
+      "hashtags": "['#Economy' '#EconSky']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482405",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 298,
+      "text_cleaned_length": 241,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlo73bu5t2n",
+      "text": "\n#Delhi   #India   #Modi   #New Delhi   #Russia   #Tariffs   #Trump   #Trump administration",
+      "text_cleaned": "Delhi administration",
+      "text_preview": "\n#Delhi   #India   #Modi   #New Delhi   #Russia   #Tariffs   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T17:00:12.187132+00:00",
+      "hashtags": "['#Delhi' '#Tariffs' '#Modi' '#India' '#Trump' '#Russia' '#New']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482879",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 91,
+      "text_cleaned_length": 20,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlodwt4cs2j",
+      "text": "A pardon for Maxwell is an admission of guilt. \n\n#Resist #Trump #Epstein #Maxwell #Pardon #Corruption #MAGA #GOP #Project2025",
+      "text_cleaned": "A pardon for Maxwell is an admission of guilt.",
+      "text_preview": "A pardon for Maxwell is an admission of guilt. \n\n#Resist #Trump #Epstein #Maxwell #Pardon #Corruption #MAGA #GOP #Project2025",
+      "author": "oppohq.bsky.social",
+      "author_display_name": "OppositionHQ",
+      "created_at": "2025-08-04T17:02:48.860Z",
+      "hashtags": "['#Corruption' '#MAGA' '#Maxwell' '#Epstein' '#Trump' '#Resist' '#Pardon'\n '#Project2025' '#GOP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482797",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 125,
+      "text_cleaned_length": 46,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlo7stemm25",
+      "text": "\n#Congress   #Election   #evidence   #fires   #Harris   #Jobs   #Kamala Harris   #Trump",
+      "text_cleaned": "Harris",
+      "text_preview": "\n#Congress   #Election   #evidence   #fires   #Harris   #Jobs   #Kamala Harris   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T17:00:36.880996+00:00",
+      "hashtags": "['#Election' '#fires' '#Congress' '#Jobs' '#evidence' '#Harris' '#Trump'\n '#Kamala']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482848",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 87,
+      "text_cleaned_length": 6,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlo7jfyr72q",
+      "text": "\n#Congress   #Maga   #Nancy Mace   #South Carolina   #Trump",
+      "text_cleaned": "Mace Carolina",
+      "text_preview": "\n#Congress   #Maga   #Nancy Mace   #South Carolina   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T17:00:27.002664+00:00",
+      "hashtags": "['#Congress' '#Maga' '#Nancy' '#Trump' '#South']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:05:04.482856",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:05:10.013000",
+      "text_length": 59,
+      "text_cleaned_length": 13,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlo27z2yx52",
+      "text": "Why is #trump now writing like an infantile high school mean girl now? \"Taylor is no longer hot she's a looser\". Look at the hot American Eagle ad now. Woke are loosers. My daddy bought me a Jag for my sweet 16th and I'm a looser. Also..Jaguar is a #British [\u2026] \n\n[Original post on mstdn.social]",
+      "text_cleaned": "Why is now writing like an infantile high school mean girl now? \"Taylor is no longer hot she's a looser\". Look at the hot American Eagle ad now. Woke are loosers. My daddy bought me a Jag for my sweet 16th and I'm a looser. Also..Jaguar is a [\u2026] [Original post on mstdn.social]",
+      "text_preview": "Why is #trump now writing like an infantile high school mean girl now? \"Taylor is no longer hot she's a looser\". Look at the hot American Eagle ad now. Woke are loosers. My daddy bought me a Jag for m...",
+      "author": "praetor.mstdn.social.ap.brid.gy",
+      "author_display_name": "Knut \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\uddf3\ud83c\uddf4\ud83e\uddf8",
+      "created_at": "2025-08-04T16:57:15.000Z",
+      "hashtags": "['#British' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:00:04.921064",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:00:10.007000",
+      "text_length": 295,
+      "text_cleaned_length": 277,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlo42l5lc2p",
+      "text": "We should demand all our #politicians have integrity! We do not have many that do.\n\nWe need #honesty, #truth and #facts delivered to us daily, not the bullshit we get now. Yes, I am talking about #Trump but I can roll so many in office who do not give the people what we want and need.",
+      "text_cleaned": "We should demand all our have integrity! We do not have many that do. We need , and delivered to us daily, not the bullshit we get now. Yes, I am talking about but I can roll so many in office who do not give the people what we want and need.",
+      "text_preview": "We should demand all our #politicians have integrity! We do not have many that do.\n\nWe need #honesty, #truth and #facts delivered to us daily, not the bullshit we get now. Yes, I am talking about #Tru...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T16:58:24.362Z",
+      "hashtags": "['#politicians' '#honesty' '#truth' '#Trump' '#facts']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:00:04.921049",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:00:10.007000",
+      "text_length": 285,
+      "text_cleaned_length": 242,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlny5xxnys2",
+      "text": "Addled #authoritarian, flailing #fascist #DementedDon has broken the #American #Economy, but is desperately trying to keep the damage a secret by firing people who refuse to lie on his behalf. Proper #economists are calling him out.\n___\nEconomists defend #labor data chief fired by #Trump - [\u2026]",
+      "text_cleaned": "Addled , flailing has broken the , but is desperately trying to keep the damage a secret by firing people who refuse to lie on his behalf. Proper are calling him out. ___ Economists defend data chief fired by - [\u2026]",
+      "text_preview": "Addled #authoritarian, flailing #fascist #DementedDon has broken the #American #Economy, but is desperately trying to keep the damage a secret by firing people who refuse to lie on his behalf. Proper ...",
+      "author": "wms.c.im.ap.brid.gy",
+      "author_display_name": "We Must Strike",
+      "created_at": "2025-08-04T16:09:54.000Z",
+      "hashtags": "['#DementedDon' '#American' '#economists' '#Economy' '#fascist' '#Trump'\n '#authoritarian' '#labor']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:00:04.920949",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:00:10.007000",
+      "text_length": 294,
+      "text_cleaned_length": 214,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlo3h4jqs2i",
+      "text": "Oh boo hoo, #trump. My state (Wa) helps SUPPORT many of the red states. We have some of the lowest utility costs in the US and are thriving with one of the highest minimum wages offered by any state. As far as disasters go, the biggest one we have right now is the GOP.",
+      "text_cleaned": "Oh boo hoo, . My state (Wa) helps SUPPORT many of the red states. We have some of the lowest utility costs in the US and are thriving with one of the highest minimum wages offered by any state. As far as disasters go, the biggest one we have right now is the GOP.",
+      "text_preview": "Oh boo hoo, #trump. My state (Wa) helps SUPPORT many of the red states. We have some of the lowest utility costs in the US and are thriving with one of the highest minimum wages offered by any state. ...",
+      "author": "roam-town-girl.bsky.social",
+      "author_display_name": "Becca",
+      "created_at": "2025-08-04T16:58:03.959Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:00:04.921057",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:00:10.007000",
+      "text_length": 269,
+      "text_cleaned_length": 263,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlnyylrkc2r",
+      "text": "PVTV, Political Views TV news and views 8/4/25\n#US #China #India #Sanctions #RussianOil, #Russia #ShadowFleet,\n#Trump vs #BLS, #Trump vs #JackSmith, #Trump #Appointments, #Trump vs #NinthCircuit, #Texas vs #Democrats #Quorum #Gerrymandering, #Trump #TruthSocial\nopen.spotify.com/episode/5xYX...",
+      "text_cleaned": "PVTV, Political Views TV news and views 8/4/25 , , vs , vs , , vs , vs , open.spotify.com/episode/5xYX...",
+      "text_preview": "PVTV, Political Views TV news and views 8/4/25\n#US #China #India #Sanctions #RussianOil, #Russia #ShadowFleet,\n#Trump vs #BLS, #Trump vs #JackSmith, #Trump #Appointments, #Trump vs #NinthCircuit, #Tex...",
+      "author": "politicalviewstv.bsky.social",
+      "author_display_name": "Peter Lawrence",
+      "created_at": "2025-08-04T16:56:41.619Z",
+      "hashtags": "['#China' '#Gerrymandering' '#Appointments' '#JackSmith' '#NinthCircuit'\n '#RussianOil' '#Sanctions' '#ShadowFleet' '#US' '#Quorum' '#Trump'\n '#TruthSocial' '#BLS' '#Democrats' '#India' '#Russia' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:00:04.921076",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:00:10.007000",
+      "text_length": 294,
+      "text_cleaned_length": 105,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnzbilsk2l",
+      "text": "Today's republican party is the party of red tape, road blocks, tariffs, and restrictions... way to ruin the US for business. \ud83d\udcc9\ud83d\udd25\ud83d\udca9 #JobsReport #Economy #15Kbond",
+      "text_cleaned": "Today's republican party is the party of red tape, road blocks, tariffs, and restrictions... way to ruin the US for business. \ud83d\udcc9\ud83d\udd25\ud83d\udca9",
+      "text_preview": "Today's republican party is the party of red tape, road blocks, tariffs, and restrictions... way to ruin the US for business. \ud83d\udcc9\ud83d\udd25\ud83d\udca9 #JobsReport #Economy #15Kbond",
+      "author": "jimwitkins.bsky.social",
+      "author_display_name": "Jim Witkins",
+      "created_at": "2025-08-04T16:56:50.954Z",
+      "hashtags": "['#Economy' '#15Kbond' '#JobsReport']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 2,
+        "replies": 2
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:00:04.920777",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:00:10.007000",
+      "text_length": 159,
+      "text_cleaned_length": 129,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 9.0
+    },
+    {
+      "post_id": "3lvlo5i7l6y2w",
+      "text": "\n#attack   #Muse   #sovereignty   #Trump   #Washington   #Yes",
+      "text_cleaned": "",
+      "text_preview": "\n#attack   #Muse   #sovereignty   #Trump   #Washington   #Yes",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:59:18.644319+00:00",
+      "hashtags": "['#sovereignty' '#Muse' '#Washington' '#Trump' '#attack' '#Yes']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:00:04.921040",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:00:10.007000",
+      "text_length": 61,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnwaft5m2g",
+      "text": "\n#Kremlin   #Medvedev   #nuclear   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Kremlin   #Medvedev   #nuclear   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:55:15.577157+00:00",
+      "hashtags": "['#Medvedev' '#nuclear' '#Kremlin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:00:04.921082",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:00:10.007000",
+      "text_length": 41,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
