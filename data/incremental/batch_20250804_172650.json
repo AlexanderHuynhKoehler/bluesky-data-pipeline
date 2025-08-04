@@ -1,0 +1,608 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_172650",
+    "post_count": 22,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 17:20:10.008000",
+    "latest_received_at": "2025-08-04 17:25:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlpjje6ts2s",
+      "text": "Trump about #TaylorSwift: \"I can't stand her.\"\n\nRE: #TruthSocial -Most posts by #POTUS #Trump look \"personal\". He's just using a presidential political broomstick for his #witchhunts. \n\nIF #LauraLoomer CAN'T SEE THAT ___.\n\nOK. Trump's not a misogynist.\nIs Satanic Warlock more accurate?",
+      "text_cleaned": "Trump about : \"I can't stand her.\" RE: -Most posts by look \"personal\". He's just using a presidential political broomstick for his . IF CAN'T SEE THAT ___. OK. Trump's not a misogynist. Is Satanic Warlock more accurate?",
+      "text_preview": "Trump about #TaylorSwift: \"I can't stand her.\"\n\nRE: #TruthSocial -Most posts by #POTUS #Trump look \"personal\". He's just using a presidential political broomstick for his #witchhunts. \n\nIF #LauraLoome...",
+      "author": "cmoneyspinner.bsky.social",
+      "author_display_name": "[\u1d1b\u0280\u1d07\u1d00\u1d1b\u029c\u028f\u029f \ua730\u1d0fx \u1d00\u1d0b\u1d00 \u1d04\u1d0d\u1d0f\u0274\u1d07\u028f\ua731\u1d18\u026a\u0274\u0274\u1d07\u0280] \ud83d\udc96",
+      "created_at": "2025-08-04T17:23:49.798Z",
+      "hashtags": "['#LauraLoomer' '#TaylorSwift' '#witchhunts' '#TruthSocial' '#POTUS'\n '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441835",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 286,
+      "text_cleaned_length": 219,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpgjh4v22d",
+      "text": "Epstein Partner Ghislaine Maxwell Moved To Cushy Minimum Security Prison In Texas After Meeting With Trump Lawyer\n\nFollow @uInterview for the best viral videos, celebrity interviews, and news\n\n#GhislaineMaxwell #Epstein #Trump #prisonnews\n\nuinterview.com/news/epstein...",
+      "text_cleaned": "Epstein Partner Ghislaine Maxwell Moved To Cushy Minimum Security Prison In Texas After Meeting With Trump Lawyer Follow for the best viral videos, celebrity interviews, and news uinterview.com/news/epstein...",
+      "text_preview": "Epstein Partner Ghislaine Maxwell Moved To Cushy Minimum Security Prison In Texas After Meeting With Trump Lawyer\n\nFollow @uInterview for the best viral videos, celebrity interviews, and news\n\n#Ghisla...",
+      "author": "uinterview.bsky.social",
+      "author_display_name": "uinterview",
+      "created_at": "2025-08-04T17:22:09.244Z",
+      "hashtags": "['#Trump' '#prisonnews' '#Epstein' '#GhislaineMaxwell']",
+      "mentions": "['@uInterview']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441881",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 270,
+      "text_cleaned_length": 209,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpi2gvtc2d",
+      "text": "Trump Revives Presidential Fitness Test For Public Schools That Obama Dropped\n\nFollow @uInterview for the best viral videos, celebrity interviews, and news\n\n#Trump #fitness #schools #educationpolicy\n\nuinterview.com/news/trump-r...",
+      "text_cleaned": "Trump Revives Presidential Fitness Test For Public Schools That Obama Dropped Follow for the best viral videos, celebrity interviews, and news uinterview.com/news/trump-r...",
+      "text_preview": "Trump Revives Presidential Fitness Test For Public Schools That Obama Dropped\n\nFollow @uInterview for the best viral videos, celebrity interviews, and news\n\n#Trump #fitness #schools #educationpolicy\n\n...",
+      "author": "uinterview.bsky.social",
+      "author_display_name": "uinterview",
+      "created_at": "2025-08-04T17:23:00.618Z",
+      "hashtags": "['#Trump' '#fitness' '#schools' '#educationpolicy']",
+      "mentions": "['@uInterview']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441844",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 230,
+      "text_cleaned_length": 173,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpdzfag22o",
+      "text": "Trump, the Epstein cover up, and the American Eagle eugenist ad are all part of the same machine.\n\nAlso, can we start calling Sydney Sweeney \u2018SS Barbie\u2019 now? \ud83e\udd14 \n\n#trump #coverup #epstein #sydneysweeney #americaneagle #propaganda",
+      "text_cleaned": "Trump, the Epstein cover up, and the American Eagle eugenist ad are all part of the same machine. Also, can we start calling Sydney Sweeney \u2018SS Barbie\u2019 now? \ud83e\udd14",
+      "text_preview": "Trump, the Epstein cover up, and the American Eagle eugenist ad are all part of the same machine.\n\nAlso, can we start calling Sydney Sweeney \u2018SS Barbie\u2019 now? \ud83e\udd14 \n\n#trump #coverup #epstein #sydneysweene...",
+      "author": "afronaut.bsky.social",
+      "author_display_name": "afronaut",
+      "created_at": "2025-08-04T17:20:45.297Z",
+      "hashtags": "['#coverup' '#epstein' '#trump' '#americaneagle' '#sydneysweeney'\n '#propaganda']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441909",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 228,
+      "text_cleaned_length": 158,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpgognes2b",
+      "text": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "text_cleaned": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions.",
+      "text_preview": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T17:22:14.472Z",
+      "hashtags": "['#Epstein' '#PedoFiles' '#MAGA' '#DJT' '#PedoPrez' '#EpsteinFiles'\n '#POTUS' '#POTUS47' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441864",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 177,
+      "text_cleaned_length": 98,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpe5nkps23",
+      "text": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "text_cleaned": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions.",
+      "text_preview": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T17:20:49.764Z",
+      "hashtags": "['#Epstein' '#PedoFiles' '#MAGA' '#DJT' '#PedoPrez' '#EpsteinFiles'\n '#POTUS' '#POTUS47' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441896",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 177,
+      "text_cleaned_length": 98,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpk3fhis2f",
+      "text": "youtube.com/watch?v=ake-... #news #trump ##epstein #pedos #ai #censorship ##surveillance #dystopia #tattoo",
+      "text_cleaned": "youtube.com/watch?v=ake-... # #",
+      "text_preview": "youtube.com/watch?v=ake-... #news #trump ##epstein #pedos #ai #censorship ##surveillance #dystopia #tattoo",
+      "author": "kobayashimarushio.bsky.social",
+      "author_display_name": "Kobayashi Maru (\u30b3\u30d0\u30e4\u30b7\u4e38)",
+      "created_at": "2025-08-04T17:24:08.727Z",
+      "hashtags": "['#epstein' '#pedos' '#dystopia' '#trump' '#ai' '#news' '#surveillance'\n '#censorship' '#tattoo']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441826",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 106,
+      "text_cleaned_length": 31,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpgnw3422u",
+      "text": "Due to the expected conflict with Pakistan/China, #India is heavily dependent on the #US / #Trump",
+      "text_cleaned": "Due to the expected conflict with Pakistan/China, is heavily dependent on the /",
+      "text_preview": "Due to the expected conflict with Pakistan/China, #India is heavily dependent on the #US / #Trump",
+      "author": "alvariusnezza.bsky.social",
+      "author_display_name": "Sin OfTheDay",
+      "created_at": "2025-08-04T17:22:13.916Z",
+      "hashtags": "['#Trump' '#India' '#US']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441872",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 97,
+      "text_cleaned_length": 79,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpecjwms2k",
+      "text": "no there is not, \nhowever #Trump sure as hell will find a way to corrupt the numbers.",
+      "text_cleaned": "no there is not, however sure as hell will find a way to corrupt the numbers.",
+      "text_preview": "no there is not, \nhowever #Trump sure as hell will find a way to corrupt the numbers.",
+      "author": "dogma2015k8s.bsky.social",
+      "author_display_name": "Kaz",
+      "created_at": "2025-08-04T17:20:54.888Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441887",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 85,
+      "text_cleaned_length": 77,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlphpbu2c2f",
+      "text": "This is an older article of #GhislaineMaxwell \n#Trump  #pedophile allegedly/most absolutely.",
+      "text_cleaned": "This is an older article of allegedly/most absolutely.",
+      "text_preview": "This is an older article of #GhislaineMaxwell \n#Trump  #pedophile allegedly/most absolutely.",
+      "author": "moethemick1.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T17:22:48.918Z",
+      "hashtags": "['#Trump' '#pedophile' '#GhislaineMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441852",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 92,
+      "text_cleaned_length": 54,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpcdcxjc2e",
+      "text": "Trump Loses It as Elizabeth Warren Exposes His Terrible Economy\n#Trump",
+      "text_cleaned": "Trump Loses It as Elizabeth Warren Exposes His Terrible Economy",
+      "text_preview": "Trump Loses It as Elizabeth Warren Exposes His Terrible Economy\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T17:19:48.418Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:25:03.441916",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:25:10.008000",
+      "text_length": 70,
+      "text_cleaned_length": 63,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlp22m3vc2y",
+      "text": "real #TRUTHSOCIAL: \ud83d\udc47\n\nWITH YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let\u2019s compel #Congress to impeach & convict pedophile, felon, narcissistic pathological liar & racist wannabe dictator, #Trump, & his Admin.\n\nTYVM @hawkeye8.bsky.social \n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : \ud83d\udc47 WITH YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let\u2019s compel to impeach & convict pedophile, felon, narcissistic pathological liar & racist wannabe dictator, , & his Admin. TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL: \ud83d\udc47\n\nWITH YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let\u2019s compel #Congress to impeach & convict pedophile, felon, narcissistic pathological liar & racist wannabe di...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T17:15:11.021Z",
+      "hashtags": "['#BlueCrew' '#Change' '#Congress' '#Trump' '#TRUTHSOCIAL']",
+      "mentions": "['@hawkeye8.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.438120",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 210,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvlozxqxl22g",
+      "text": "BILL UPDATE:\n\nH.2978: GUARD Act\n\nACTION: Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisd...\n\n#congress #economy",
+      "text_cleaned": "BILL UPDATE: H.2978: GUARD Act ACTION: Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisd...",
+      "text_preview": "BILL UPDATE:\n\nH.2978: GUARD Act\n\nACTION: Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, ...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T17:15:06.025Z",
+      "hashtags": "['#economy' '#congress']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.437695",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 298,
+      "text_cleaned_length": 276,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvlp2j7nsk2p",
+      "text": "#Trump is a liar and a baby! Such a child he is! How anyone can support this person at anything just boggles the mind! Do you people, not listen to him speak?\n\nTrump says the Bureau of Labor Statistics orchestrated a \u2018scam.\u2019 Here\u2019s how the jobs report really works\n\nwww.cnn.com/2025/08/04/b...",
+      "text_cleaned": "is a liar and a baby! Such a child he is! How anyone can support this person at anything just boggles the mind! Do you people, not listen to him speak? Trump says the Bureau of Labor Statistics orchestrated a \u2018scam.\u2019 Here\u2019s how the jobs report really works",
+      "text_preview": "#Trump is a liar and a baby! Such a child he is! How anyone can support this person at anything just boggles the mind! Do you people, not listen to him speak?\n\nTrump says the Bureau of Labor Statistic...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T17:15:26.347Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.438107",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 293,
+      "text_cleaned_length": 256,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlp7vnh5c2p",
+      "text": "How can #Trump fire a stats person when the idiot dies not realize that a 1000% or 1500% of anything means that seller is going buyer money.\n\nNow you know why he had failed casinos and so many failed businesses.\n\nHe does not have a clue but mostly he talks out of arse!",
+      "text_cleaned": "How can fire a stats person when the idiot dies not realize that a 1000% or 1500% of anything means that seller is going buyer money. Now you know why he had failed casinos and so many failed businesses. He does not have a clue but mostly he talks out of arse!",
+      "text_preview": "How can #Trump fire a stats person when the idiot dies not realize that a 1000% or 1500% of anything means that seller is going buyer money.\n\nNow you know why he had failed casinos and so many failed ...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T17:18:27.154Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.437992",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 269,
+      "text_cleaned_length": 260,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlp337awr27",
+      "text": "\"Rusia no necesita desplegar misiles en Venezuela. Puede llegar a EEUU sin problema\". Manj\u00f3n\n\nhttps://youtu.be/f2gUlypoByA\u00a0\n\n#rusia #eeuu #misiles #venezuela #nuclear #nuclearwar #uspresident #trump #guerranuclear #putin #geopolitica #negociostv",
+      "text_cleaned": "\"Rusia no necesita desplegar misiles en Venezuela. Puede llegar a EEUU sin problema\". Manj\u00f3n",
+      "text_preview": "\"Rusia no necesita desplegar misiles en Venezuela. Puede llegar a EEUU sin problema\". Manj\u00f3n\n\nhttps://youtu.be/f2gUlypoByA\u00a0\n\n#rusia #eeuu #misiles #venezuela #nuclear #nuclearwar #uspresident #trump #...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-04T17:15:45.060259Z",
+      "hashtags": "['#rusia' '#putin' '#eeuu' '#nuclear' '#nuclearwar' '#guerranuclear'\n '#trump' '#negociostv' '#venezuela' '#misiles' '#uspresident'\n '#geopolitica']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.438098",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 245,
+      "text_cleaned_length": 92,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpcbwjit2b",
+      "text": "California Republican to introduce bill banning middecade redistricting\n#Trump",
+      "text_cleaned": "California Republican to introduce bill banning middecade redistricting",
+      "text_preview": "California Republican to introduce bill banning middecade redistricting\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T17:19:46.592Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.437983",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 78,
+      "text_cleaned_length": 71,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlp5cwwze2l",
+      "text": "#ZeeBusiness\u3000Trump Says: Will Raise Tariffs on Indian\u00a0Imports\n\nTrump Says: Will Raise Tariffs on Indian Imports \u091f\u094d\u0930\u0902\u092a \u0915\u093e \u092d\u093e\u0930\u0924 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u092c\u0921\u093c\u093e \u092c\u092f\u093e\u0928... \u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0915\u0939\u093e '\u092d\u093e\u0930\u0924 \u0938\u0947 \u0907\u0902\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0914\u0930 \u091f\u0948\u0930\u093f\u092b \u092c\u0922\u093c\u093e\u090a\u0902\u0917\u093e' #Trump #Tariff #India #USmarkets #Tariffwar #NarendraModi About Zee Business: Zee Business is\u2026",
+      "text_cleaned": "Trump Says: Will Raise Tariffs on Indian Imports Trump Says: Will Raise Tariffs on Indian Imports \u091f\u094d\u0930\u0902\u092a \u0915\u093e \u092d\u093e\u0930\u0924 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u092c\u0921\u093c\u093e \u092c\u092f\u093e\u0928... \u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0915\u0939\u093e '\u092d\u093e\u0930\u0924 \u0938\u0947 \u0907\u0902\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0914\u0930 \u091f\u0948\u0930\u093f\u092b \u092c\u0922\u093c\u093e\u090a\u0902\u0917\u093e' About Zee Business: Zee Business is\u2026",
+      "text_preview": "#ZeeBusiness\u3000Trump Says: Will Raise Tariffs on Indian\u00a0Imports\n\nTrump Says: Will Raise Tariffs on Indian Imports \u091f\u094d\u0930\u0902\u092a \u0915\u093e \u092d\u093e\u0930\u0924 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u092c\u0921\u093c\u093e \u092c\u092f\u093e\u0928... \u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0915\u0939\u093e '\u092d\u093e\u0930\u0924 \u0938\u0947 \u0907\u0902\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0914\u0930 \u091f\u0948\u0930\u093f\u092b \u092c\u0922\u093c\u093e\u090a\u0902\u0917\u093e' ...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-04T17:16:58Z",
+      "hashtags": "['#ZeeBusiness' '#Tariff' '#Trump' '#Tariffwar' '#NarendraModi' '#India'\n '#USmarkets']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.438081",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 294,
+      "text_cleaned_length": 222,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlozsr3o223",
+      "text": "\"What Germans think of the current situation in the US\" \nyoutu.be/Y50Lnx2dWm4?...\n  #fascism #nazism #trump",
+      "text_cleaned": "\"What Germans think of the current situation in the US\" youtu.be/Y50Lnx2dWm4?...",
+      "text_preview": "\"What Germans think of the current situation in the US\" \nyoutu.be/Y50Lnx2dWm4?...\n  #fascism #nazism #trump",
+      "author": "martensjd.bsky.social",
+      "author_display_name": "Jeff Martens",
+      "created_at": "2025-08-04T17:15:02.800Z",
+      "hashtags": "['#fascism' '#nazism' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.438128",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 107,
+      "text_cleaned_length": 80,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpccfju72j",
+      "text": "Gov. Greg Abbott\u2019s options to force a redistricting vote are more limited than they appear\n#Trump",
+      "text_cleaned": "Gov. Greg Abbott\u2019s options to force a redistricting vote are more limited than they appear",
+      "text_preview": "Gov. Greg Abbott\u2019s options to force a redistricting vote are more limited than they appear\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T17:19:47.566Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.437971",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 97,
+      "text_cleaned_length": 90,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpccbvxq2y",
+      "text": "GOP effort forms to stop redistricting war between California's Newsom and Texas' Abbott\n#Trump",
+      "text_cleaned": "GOP effort forms to stop redistricting war between California's Newsom and Texas' Abbott",
+      "text_preview": "GOP effort forms to stop redistricting war between California's Newsom and Texas' Abbott\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T17:19:47.203Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.437977",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 95,
+      "text_cleaned_length": 88,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlpccjtik2f",
+      "text": "Charlamagne tha God swipes at Trump after president\u2019s criticism\n#Trump",
+      "text_cleaned": "Charlamagne tha God swipes at Trump after president\u2019s criticism",
+      "text_preview": "Charlamagne tha God swipes at Trump after president\u2019s criticism\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T17:19:47.710Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:20:04.437965",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:20:10.008000",
+      "text_length": 70,
+      "text_cleaned_length": 63,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
