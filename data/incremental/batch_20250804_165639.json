@@ -1,0 +1,932 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_165639",
+    "post_count": 34,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 16:50:10.008000",
+    "latest_received_at": "2025-08-04 16:55:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlnmocask2s",
+      "text": "If I see MONEY MOVES like that, I THINK: money laundering?\n\nMoney funneled out of #USTreasury into someone's bank account, buried in accounting records \u201cmiscellaneous expense\u201d.\n\n#POTUS #Trump -We saw #TimScott try to fudge figures so you could fire #JeromePowell & how a #hushmoney pyt was recorded.",
+      "text_cleaned": "If I see MONEY MOVES like that, I THINK: money laundering? Money funneled out of into someone's bank account, buried in accounting records \u201cmiscellaneous expense\u201d. -We saw try to fudge figures so you could fire & how a pyt was recorded.",
+      "text_preview": "If I see MONEY MOVES like that, I THINK: money laundering?\n\nMoney funneled out of #USTreasury into someone's bank account, buried in accounting records \u201cmiscellaneous expense\u201d.\n\n#POTUS #Trump -We saw ...",
+      "author": "cmoneyspinner.bsky.social",
+      "author_display_name": "[\u1d1b\u0280\u1d07\u1d00\u1d1b\u029c\u028f\u029f \ua730\u1d0fx \u1d00\u1d0b\u1d00 \u1d04\u1d0d\u1d0f\u0274\u1d07\u028f\ua731\u1d18\u026a\u0274\u0274\u1d07\u0280] \ud83d\udc96",
+      "created_at": "2025-08-04T16:49:48.169Z",
+      "hashtags": "['#Trump' '#USTreasury' '#hushmoney' '#POTUS' '#JeromePowell' '#TimScott']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760525",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 236,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnohiqy22i",
+      "text": "\u2049\ufe0f Okay this is usually a troll account but can someone tell me *seriously* why the USA is not in \"our federal government is in a crisis, and is possibly majorly influenced by a foreign power\" mode, and instead is in, \"status quo\" mode?\n\n#epstein #files #trump #gaetz #usa #politics\n\n#donkeybrainvirus",
+      "text_cleaned": "\u2049\ufe0f Okay this is usually a troll account but can someone tell me *seriously* why the USA is not in \"our federal government is in a crisis, and is possibly majorly influenced by a foreign power\" mode, and instead is in, \"status quo\" mode?",
+      "text_preview": "\u2049\ufe0f Okay this is usually a troll account but can someone tell me *seriously* why the USA is not in \"our federal government is in a crisis, and is possibly majorly influenced by a foreign power\" mode, a...",
+      "author": "raunchydonkeybrain.bsky.social",
+      "author_display_name": "Mr. Donkey Brain",
+      "created_at": "2025-08-04T16:50:48.153Z",
+      "hashtags": "['#donkeybrainvirus' '#gaetz' '#usa' '#epstein' '#trump' '#politics'\n '#files']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760508",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 301,
+      "text_cleaned_length": 236,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlntt7xns2a",
+      "text": "\ud83d\udcfa\ud83c\uddf2\ud83c\uddfd \u00bfIntervenci\u00f3n en M\u00e9xico? Trump revive el viejo sue\u00f1o del \"Golfo de Am\u00e9rica\" con un discurso imperial disfrazado de lucha contra el narco. Rub\u00e9n Luengas y Pablo Moctezuma lo analizan en Gringo! \ud83c\udf99\ud83d\udd25\n\n\ud83d\udd17 tinyurl.com/m9y95z46\n\n#M\u00e9xico #Trump #Gringo",
+      "text_cleaned": "\ud83d\udcfa\ud83c\uddf2\ud83c\uddfd \u00bfIntervenci\u00f3n en M\u00e9xico? Trump revive el viejo sue\u00f1o del \"Golfo de Am\u00e9rica\" con un discurso imperial disfrazado de lucha contra el narco. Rub\u00e9n Luengas y Pablo Moctezuma lo analizan en Gringo! \ud83c\udf99\ud83d\udd25 \ud83d\udd17 tinyurl.com/m9y95z46",
+      "text_preview": "\ud83d\udcfa\ud83c\uddf2\ud83c\uddfd \u00bfIntervenci\u00f3n en M\u00e9xico? Trump revive el viejo sue\u00f1o del \"Golfo de Am\u00e9rica\" con un discurso imperial disfrazado de lucha contra el narco. Rub\u00e9n Luengas y Pablo Moctezuma lo analizan en Gringo! \ud83c\udf99\ud83d\udd25\n...",
+      "author": "hispantv.bsky.social",
+      "author_display_name": "HispanTV",
+      "created_at": "2025-08-04T16:53:48.219Z",
+      "hashtags": "['#Gringo' '#M\u00e9xico' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760433",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 247,
+      "text_cleaned_length": 222,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnvabjk22p",
+      "text": "#Trump brags he ended wars. \n\nHe has not done a dam thing. Ask any of the countries he claims to ended their wars. They will tell you he did nothing orbarely nothing. They will tell you #Trump makes up shit. He screwing the US up to likes if has not seen since 1929 crash! It is on him!",
+      "text_cleaned": "brags he ended wars. He has not done a dam thing. Ask any of the countries he claims to ended their wars. They will tell you he did nothing orbarely nothing. They will tell you makes up shit. He screwing the US up to likes if has not seen since 1929 crash! It is on him!",
+      "text_preview": "#Trump brags he ended wars. \n\nHe has not done a dam thing. Ask any of the countries he claims to ended their wars. They will tell you he did nothing orbarely nothing. They will tell you #Trump makes u...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T16:54:35.457Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760390",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 286,
+      "text_cleaned_length": 270,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnq52ook2z",
+      "text": "A handful from the 2 August 2025\n\"Rage Against the Regime\" protest at Monroe Park in Richmond, Virginia, organized by @50501virginia.bsky.social  and Punks 4 Liberation.\n\n#rva #protest #photography #photojournalism #trump #rageagainsttheregime #fascism",
+      "text_cleaned": "A handful from the 2 August 2025 \"Rage Against the Regime\" protest at Monroe Park in Richmond, Virginia, organized by .bsky.social and Punks 4 Liberation.",
+      "text_preview": "A handful from the 2 August 2025\n\"Rage Against the Regime\" protest at Monroe Park in Richmond, Virginia, organized by @50501virginia.bsky.social  and Punks 4 Liberation.\n\n#rva #protest #photography #p...",
+      "author": "hudsonimages.com",
+      "author_display_name": "Tom Hudson",
+      "created_at": "2025-08-04T16:51:44.300Z",
+      "hashtags": "['#photojournalism' '#rageagainsttheregime' '#protest' '#rva'\n '#photography' '#fascism' '#trump']",
+      "mentions": "['@50501virginia.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760472",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 252,
+      "text_cleaned_length": 154,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnrltadc2t",
+      "text": "Trump administration issues new warning to states: DO NOT BOYCOTT ISRAEL OR RISK DISASTER FUNDING: www.newsweek.com/donald-trump... \n\nTrump: Making israel great! Odd how he keeps picking israel over Americans! #trump #israel #netanyahu #MIGA",
+      "text_cleaned": "Trump administration issues new warning to states: DO NOT BOYCOTT ISRAEL OR RISK DISASTER FUNDING: Trump: Making israel great! Odd how he keeps picking israel over Americans!",
+      "text_preview": "Trump administration issues new warning to states: DO NOT BOYCOTT ISRAEL OR RISK DISASTER FUNDING: www.newsweek.com/donald-trump... \n\nTrump: Making israel great! Odd how he keeps picking israel over A...",
+      "author": "imoutclimbing.bsky.social",
+      "author_display_name": "Douglas Dunlap",
+      "created_at": "2025-08-04T16:52:33.346Z",
+      "hashtags": "['#israel' '#netanyahu' '#MIGA' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760461",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 241,
+      "text_cleaned_length": 174,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnonk5pp2t",
+      "text": "Trump's promising to cut drug prices by up to 1500%?! He just told big pharma to match global low prices, or else! Americans pay WAY too much for meds. This is a HUGE fight! \n\n#Trump #DrugPrices #BigPharma #Healthcare",
+      "text_cleaned": "Trump's promising to cut drug prices by up to 1500%?! He just told big pharma to match global low prices, or else! Americans pay WAY too much for meds. This is a HUGE fight!",
+      "text_preview": "Trump's promising to cut drug prices by up to 1500%?! He just told big pharma to match global low prices, or else! Americans pay WAY too much for meds. This is a HUGE fight! \n\n#Trump #DrugPrices #BigP...",
+      "author": "meaww.com",
+      "author_display_name": "MEAWW News",
+      "created_at": "2025-08-04T16:50:54.309Z",
+      "hashtags": "['#BigPharma' '#Healthcare' '#Trump' '#DrugPrices']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760498",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 217,
+      "text_cleaned_length": 173,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnpomlkfe2",
+      "text": "It's going to be more like The Quarter of the Long Knives.\n\nProbably.\n\n#authoritarianism #fascism #dictatorship #Trump #GOP #Republicans #USPol #LoyaltyOaths #purge #NightOfTheLongKnives",
+      "text_cleaned": "It's going to be more like The Quarter of the Long Knives. Probably.",
+      "text_preview": "It's going to be more like The Quarter of the Long Knives.\n\nProbably.\n\n#authoritarianism #fascism #dictatorship #Trump #GOP #Republicans #USPol #LoyaltyOaths #purge #NightOfTheLongKnives",
+      "author": "ricardoharvin.mstdn.social.ap.brid.gy",
+      "author_display_name": "Ricardo Harvin",
+      "created_at": "2025-08-04T16:51:20.000Z",
+      "hashtags": "['#Trump' '#purge' '#authoritarianism' '#GOP' '#LoyaltyOaths' '#fascism'\n '#dictatorship' '#Republicans' '#NightOfTheLongKnives' '#USPol']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760483",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 186,
+      "text_cleaned_length": 68,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlnumzfps2t",
+      "text": "America: land of free pedos, home of sexual assault survivors \ud83c\uddfa\ud83c\uddf8\n\nDon\u2019t stop demanding the release of the Epstein file \n\n#epstein #trump",
+      "text_cleaned": "America: land of free pedos, home of sexual assault survivors \ud83c\uddfa\ud83c\uddf8 Don\u2019t stop demanding the release of the Epstein file",
+      "text_preview": "America: land of free pedos, home of sexual assault survivors \ud83c\uddfa\ud83c\uddf8\n\nDon\u2019t stop demanding the release of the Epstein file \n\n#epstein #trump",
+      "author": "scarlettweeter.bsky.social",
+      "author_display_name": "Scarlet Sweater \ud83e\udd75\ud83e\udd75 \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\uddf5\ud83c\uddf8",
+      "created_at": "2025-08-04T16:54:15.267Z",
+      "hashtags": "['#epstein' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760406",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 136,
+      "text_cleaned_length": 117,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnn4zgwk2n",
+      "text": "Seriously, where is Dan Bongino??  Is he alive?  When was the last sighting of him?\n\n#Epstein   #Bongino   #FBI   #Trump   #PedoPres",
+      "text_cleaned": "Seriously, where is Dan Bongino?? Is he alive? When was the last sighting of him?",
+      "text_preview": "Seriously, where is Dan Bongino??  Is he alive?  When was the last sighting of him?\n\n#Epstein   #Bongino   #FBI   #Trump   #PedoPres",
+      "author": "webgypsy.bsky.social",
+      "author_display_name": "ReSister",
+      "created_at": "2025-08-04T16:50:03.611Z",
+      "hashtags": "['#Trump' '#FBI' '#PedoPres' '#Bongino' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760516",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 132,
+      "text_cleaned_length": 81,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnuusejc2r",
+      "text": "Wait - I thought #Trump was gong to reduce grocery prices on #DayOne. What? That\u2019s not true?",
+      "text_cleaned": "Wait - I thought was gong to reduce grocery prices on . What? That\u2019s not true?",
+      "text_preview": "Wait - I thought #Trump was gong to reduce grocery prices on #DayOne. What? That\u2019s not true?",
+      "author": "soberdash18.bsky.social",
+      "author_display_name": "Soberdash ",
+      "created_at": "2025-08-04T16:54:23.425Z",
+      "hashtags": "['#DayOne' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760397",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 92,
+      "text_cleaned_length": 78,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlntsbd6s2m",
+      "text": "His mental health is crashing at a frightening pace\n\n#Trump",
+      "text_cleaned": "His mental health is crashing at a frightening pace",
+      "text_preview": "His mental health is crashing at a frightening pace\n\n#Trump",
+      "author": "charliesaito22.bsky.social",
+      "author_display_name": "Chris Nagano",
+      "created_at": "2025-08-04T16:53:47.080Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760440",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 59,
+      "text_cleaned_length": 51,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvlnso2k522s",
+      "text": "Hitler Didn\u2019t Start With Camps Either\n\n#trump #maga #republicans",
+      "text_cleaned": "Hitler Didn\u2019t Start With Camps Either",
+      "text_preview": "Hitler Didn\u2019t Start With Camps Either\n\n#trump #maga #republicans",
+      "author": "kbsez.bsky.social",
+      "author_display_name": "KB Sez",
+      "created_at": "2025-08-04T16:53:09.239Z",
+      "hashtags": "['#maga' '#trump' '#republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760447",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 64,
+      "text_cleaned_length": 37,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlnsfwkzm2q",
+      "text": "\n#Election   #protest   #Texas   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Election   #protest   #Texas   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:53:07.162042+00:00",
+      "hashtags": "['#protest' '#Texas' '#Trump' '#Election']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760453",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 39,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnudptb227",
+      "text": "Jolie coup de pub sur le dos de #Trump",
+      "text_cleaned": "Jolie coup de pub sur le dos de",
+      "text_preview": "Jolie coup de pub sur le dos de #Trump",
+      "author": "richard-alexandre.bsky.social",
+      "author_display_name": "P\u00e2tes riches",
+      "created_at": "2025-08-04T16:54:05.516Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760423",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 38,
+      "text_cleaned_length": 31,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnugryxq2o",
+      "text": "\n#attack   #Right-Wing   #Trump",
+      "text_cleaned": "-Wing",
+      "text_preview": "\n#attack   #Right-Wing   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:54:15.161996+00:00",
+      "hashtags": "['#Right' '#Trump' '#attack']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760414",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 31,
+      "text_cleaned_length": 5,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnolf3pu2q",
+      "text": "\n#charge   #Jobs   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#charge   #Jobs   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:50:58.654588+00:00",
+      "hashtags": "['#charge' '#Jobs' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:55:04.760491",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:55:10.007000",
+      "text_length": 25,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlneapqxc23",
+      "text": "real #TRUTHSOCIAL:\n\nWITH YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let\u2019s compel #Congress to impeach & convict pedophile, felon, narcissistic pathological liar & racist wannabe dictator, #Trump, & his Admin.\n\nTYVM @kodiak149.bsky.social \n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : WITH YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let\u2019s compel to impeach & convict pedophile, felon, narcissistic pathological liar & racist wannabe dictator, , & his Admin. TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nWITH YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let\u2019s compel #Congress to impeach & convict pedophile, felon, narcissistic pathological liar & racist wannabe dict...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T16:45:05.495Z",
+      "hashtags": "['#Congress' '#Change' '#BlueCrew' '#TRUTHSOCIAL' '#Trump']",
+      "mentions": "['@kodiak149.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886956",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 208,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlnl47rwtz2",
+      "text": "\u201cWe\u2019re not going to tolerate our #democracy being stolen in a modern-day stagecoach heist by bunch of law breaking cowboys,\u201d New York Gov. #KathyHochul said Monday, flanked by several of the #Texas] lawmakers who fled. \u201cIf [#Republicans are willing to rewrite rules to give themselves an [\u2026]",
+      "text_cleaned": "\u201cWe\u2019re not going to tolerate our being stolen in a modern-day stagecoach heist by bunch of law breaking cowboys,\u201d New York Gov. said Monday, flanked by several of the ] lawmakers who fled. \u201cIf [ are willing to rewrite rules to give themselves an [\u2026]",
+      "text_preview": "\u201cWe\u2019re not going to tolerate our #democracy being stolen in a modern-day stagecoach heist by bunch of law breaking cowboys,\u201d New York Gov. #KathyHochul said Monday, flanked by several of the #Texas] l...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-04T16:48:49.000Z",
+      "hashtags": "['#democracy' '#Texas' '#KathyHochul' '#Republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886774",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 291,
+      "text_cleaned_length": 249,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnk7wcvk22",
+      "text": "Miserable fucking lying piece of shit continues fucking over his absurdly gullible base, to no one's surprise, except the hopeless rubes who ever believed him in the first place.\n#Trump\n#IVFLies\n#TrumpIsUnfitForOffice",
+      "text_cleaned": "Miserable fucking lying piece of shit continues fucking over his absurdly gullible base, to no one's surprise, except the hopeless rubes who ever believed him in the first place.",
+      "text_preview": "Miserable fucking lying piece of shit continues fucking over his absurdly gullible base, to no one's surprise, except the hopeless rubes who ever believed him in the first place.\n#Trump\n#IVFLies\n#Trum...",
+      "author": "cogitoergowtf.bsky.social",
+      "author_display_name": "Frankp",
+      "created_at": "2025-08-04T16:48:25.974Z",
+      "hashtags": "['#TrumpIsUnfitForOffice' '#Trump' '#IVFLies']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886801",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 217,
+      "text_cleaned_length": 178,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnixhj462o",
+      "text": "\u00daLTIMA HORA | Rusia estar\u00eda planeando el despliegue de misiles Oreshnik en Venezuela\n\nhttps://youtu.be/8nSutSfFb4Q\n\n#ultimahora #rusia #eeuu #oreshnik #venezuela #moscu #misiles #venezuela #nuclear #nuclearwar #uspresident #trump #guerranuclear #putin #geopolitica #negociostv",
+      "text_cleaned": "\u00daLTIMA HORA | Rusia estar\u00eda planeando el despliegue de misiles Oreshnik en Venezuela",
+      "text_preview": "\u00daLTIMA HORA | Rusia estar\u00eda planeando el despliegue de misiles Oreshnik en Venezuela\n\nhttps://youtu.be/8nSutSfFb4Q\n\n#ultimahora #rusia #eeuu #oreshnik #venezuela #moscu #misiles #venezuela #nuclear #n...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-04T16:47:43.398631Z",
+      "hashtags": "['#ultimahora' '#uspresident' '#rusia' '#trump' '#putin' '#nuclear'\n '#nuclearwar' '#guerranuclear' '#misiles' '#negociostv' '#oreshnik'\n '#geopolitica' '#moscu' '#venezuela' '#eeuu']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886838",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 276,
+      "text_cleaned_length": 84,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlngiazs22e",
+      "text": "I still would absolutely love to connect with others in this field and/or people that are into:\n#Computers #Technology #Network\n#Pokemon #TCG\u2019s\n#D&D\n#Books #Comics\n#Geocaching\n#Hiking #Camping #Outdoors\n#Economy #Markets\n#Trading #Stocks #Crypto",
+      "text_cleaned": "I still would absolutely love to connect with others in this field and/or people that are into: \u2019s &D",
+      "text_preview": "I still would absolutely love to connect with others in this field and/or people that are into:\n#Computers #Technology #Network\n#Pokemon #TCG\u2019s\n#D&D\n#Books #Comics\n#Geocaching\n#Hiking #Camping #Outdoo...",
+      "author": "c-note97.bsky.social",
+      "author_display_name": "C-Note",
+      "created_at": "2025-08-04T16:46:20.502Z",
+      "hashtags": "['#Crypto' '#Hiking' '#Comics' '#Economy' '#Camping' '#Technology'\n '#Markets' '#Pokemon' '#D' '#TCG' '#Stocks' '#Books' '#Computers'\n '#Geocaching' '#Outdoors' '#Network' '#Trading']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886497",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 245,
+      "text_cleaned_length": 101,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnlzp5yc2j",
+      "text": "You don\u2019t pardon #GhislaineMaxwell unless you\u2019re scared of what she might say. If #Trump does it, he\u2019s not protecting her, he\u2019s protecting himself.\n\nNo one pardons a child trafficker by accident.\n\nNo prez. has ever done it.\n\nNo sex trafficker has ever been on a pardon list.\n\nNo reason except guilt.",
+      "text_cleaned": "You don\u2019t pardon unless you\u2019re scared of what she might say. If does it, he\u2019s not protecting her, he\u2019s protecting himself. No one pardons a child trafficker by accident. No prez. has ever done it. No sex trafficker has ever been on a pardon list. No reason except guilt.",
+      "text_preview": "You don\u2019t pardon #GhislaineMaxwell unless you\u2019re scared of what she might say. If #Trump does it, he\u2019s not protecting her, he\u2019s protecting himself.\n\nNo one pardons a child trafficker by accident.\n\nNo ...",
+      "author": "aprivateguy.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T16:49:26.572Z",
+      "hashtags": "['#GhislaineMaxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886755",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 270,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnkg43ys2s",
+      "text": "This is the hell seniors are facing interacting with Trump's Social Security Administration. WATCH HERE:::\n@democrats.senate.gov #socialsecurity #SSA #trump",
+      "text_cleaned": "This is the hell seniors are facing interacting with Trump's Social Security Administration. WATCH HERE::: .senate.gov",
+      "text_preview": "This is the hell seniors are facing interacting with Trump's Social Security Administration. WATCH HERE:::\n@democrats.senate.gov #socialsecurity #SSA #trump",
+      "author": "ncpssm.bsky.social",
+      "author_display_name": "NCPSSM",
+      "created_at": "2025-08-04T16:48:32.470Z",
+      "hashtags": "['#SSA' '#trump' '#socialsecurity']",
+      "mentions": "['@democrats.senate.gov']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886791",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 156,
+      "text_cleaned_length": 118,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnflosvs2l",
+      "text": "Brexit's parallels with Trump tariffs tell a tale \n#Brexit #NorthernIreland #Belfast #Scotland #DUP #UrsulaVonDerLeyen #MichelBarnier #DavidFrost #KeirStarmer #KingCharlesIII #EU #MichaelGove #Economy\nwww.reuters.com/markets/brex...",
+      "text_cleaned": "Brexit's parallels with Trump tariffs tell a tale",
+      "text_preview": "Brexit's parallels with Trump tariffs tell a tale \n#Brexit #NorthernIreland #Belfast #Scotland #DUP #UrsulaVonDerLeyen #MichelBarnier #DavidFrost #KeirStarmer #KingCharlesIII #EU #MichaelGove #Economy...",
+      "author": "phatznewsroom.bsky.social",
+      "author_display_name": "PhatzNewsRoom",
+      "created_at": "2025-08-04T16:45:50.555Z",
+      "hashtags": "['#KeirStarmer' '#DUP' '#Economy' '#Brexit' '#EU' '#NorthernIreland'\n '#MichaelGove' '#KingCharlesIII' '#DavidFrost' '#Belfast'\n '#MichelBarnier' '#UrsulaVonDerLeyen' '#Scotland']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886525",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 232,
+      "text_cleaned_length": 49,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnlk6bls2p",
+      "text": "Problem #Mulvaney is #Trump needs to surround himself with yes people, people who bend on knee to him, morning, noon and night. He need them to feed him lies he needs to survive!",
+      "text_cleaned": "Problem is needs to surround himself with yes people, people who bend on knee to him, morning, noon and night. He need them to feed him lies he needs to survive!",
+      "text_preview": "Problem #Mulvaney is #Trump needs to surround himself with yes people, people who bend on knee to him, morning, noon and night. He need them to feed him lies he needs to survive!",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T16:49:10.291Z",
+      "hashtags": "['#Mulvaney' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886764",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 178,
+      "text_cleaned_length": 161,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnhimplx2n",
+      "text": "\n#campaign   #deportation   #Homeland Security   #Marcus   #Mass   #Propaganda   #Trump   #Trump administration",
+      "text_cleaned": "Security administration",
+      "text_preview": "\n#campaign   #deportation   #Homeland Security   #Marcus   #Mass   #Propaganda   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:47:00.882911+00:00",
+      "hashtags": "['#Marcus' '#deportation' '#Homeland' '#Propaganda' '#Trump' '#Mass'\n '#campaign']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886868",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 111,
+      "text_cleaned_length": 23,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnfsl7nc2c",
+      "text": "Similar to Brexit another example of self imposed harm on a massive scale #Trump #trade #AmericaFirst \ud83e\udd14",
+      "text_cleaned": "Similar to Brexit another example of self imposed harm on a massive scale \ud83e\udd14",
+      "text_preview": "Similar to Brexit another example of self imposed harm on a massive scale #Trump #trade #AmericaFirst \ud83e\udd14",
+      "author": "iancambrook.bsky.social",
+      "author_display_name": "Ian Cambrook",
+      "created_at": "2025-08-04T16:45:57.777Z",
+      "hashtags": "['#AmericaFirst' '#Trump' '#trade']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886942",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 103,
+      "text_cleaned_length": 75,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnjwxr4z24",
+      "text": "\ud83d\udd61 18:45 | NPO Radio 1\n\ud83d\udd38 #Trump #Netanyahu #Gijzelaars #Bevrijd #Veiligheidsdienst",
+      "text_cleaned": "\ud83d\udd61 18:45 | NPO Radio 1 \ud83d\udd38",
+      "text_preview": "\ud83d\udd61 18:45 | NPO Radio 1\n\ud83d\udd38 #Trump #Netanyahu #Gijzelaars #Bevrijd #Veiligheidsdienst",
+      "author": "nieuwsjunkies.nl",
+      "author_display_name": "NieuwsJunkies.nl",
+      "created_at": "2025-08-04T16:48:15.2845961+00:00",
+      "hashtags": "['#Netanyahu' '#Bevrijd' '#Trump' '#Veiligheidsdienst' '#Gijzelaars']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886824",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 81,
+      "text_cleaned_length": 23,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnhxpqtk2q",
+      "text": "\n#Amazon   #deportation   #ICE   #Trump   #Trump administration",
+      "text_cleaned": "administration",
+      "text_preview": "\n#Amazon   #deportation   #ICE   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:47:16.697599+00:00",
+      "hashtags": "['#deportation' '#Amazon' '#Trump' '#ICE']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886856",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 63,
+      "text_cleaned_length": 14,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnkpvu222p",
+      "text": "youtu.be/iHpFJOh_iDY?...\n#Trump #worstoftheworst\n#MAGA #TinyTrump",
+      "text_cleaned": "youtu.be/iHpFJOh_iDY?...",
+      "text_preview": "youtu.be/iHpFJOh_iDY?...\n#Trump #worstoftheworst\n#MAGA #TinyTrump",
+      "author": "rizzowang.bsky.social",
+      "author_display_name": "\ud83c\uddfa\ud83c\uddf8\u2640\ufe0f\ud83c\udf08Rizzowang",
+      "created_at": "2025-08-04T16:48:42.752Z",
+      "hashtags": "['#TinyTrump' '#worstoftheworst' '#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886782",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 65,
+      "text_cleaned_length": 24,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnh6tgch2n",
+      "text": "\n#Nancy Mace   #Right-Wing   #South Carolina   #Trump",
+      "text_cleaned": "Mace -Wing Carolina",
+      "text_preview": "\n#Nancy Mace   #Right-Wing   #South Carolina   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:46:50.606369+00:00",
+      "hashtags": "['#Trump' '#South' '#Nancy' '#Right']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886879",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 53,
+      "text_cleaned_length": 19,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlnjues242g",
+      "text": "\n#Kremlin   #nuclear   #Russia   #Trump   #Ukraine   #war",
+      "text_cleaned": "",
+      "text_preview": "\n#Kremlin   #nuclear   #Russia   #Trump   #Ukraine   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:48:20.304050+00:00",
+      "hashtags": "['#Kremlin' '#Russia' '#war' '#Trump' '#nuclear' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886810",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 57,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlni7aloa2w",
+      "text": "\n#Hamas   #Trump   #war",
+      "text_cleaned": "",
+      "text_preview": "\n#Hamas   #Trump   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T16:47:24.597752+00:00",
+      "hashtags": "['#Trump' '#war' '#Hamas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T16:50:03.886847",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 16:50:10.008000",
+      "text_length": 23,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
