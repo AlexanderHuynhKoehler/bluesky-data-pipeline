@@ -1,0 +1,527 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_141533",
+    "post_count": 19,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 14:10:10.008000",
+    "latest_received_at": "2025-08-04 14:15:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlewy6vpk2i",
+      "text": "\ud83d\udea8 Leaked fundraiser tapes reveal Trump privately threatened to bomb Moscow and Beijing while portraying Putin and Xi as admirable leaders to Americans, underscoring a striking contradiction in his messaging among audiences.\n\nopen.substack.com/pub/theintel...\n\n#USA #Trump #uspoli #Russia",
+      "text_cleaned": "\ud83d\udea8 Leaked fundraiser tapes reveal Trump privately threatened to bomb Moscow and Beijing while portraying Putin and Xi as admirable leaders to Americans, underscoring a striking contradiction in his messaging among audiences. open.substack.com/pub/theintel...",
+      "text_preview": "\ud83d\udea8 Leaked fundraiser tapes reveal Trump privately threatened to bomb Moscow and Beijing while portraying Putin and Xi as admirable leaders to Americans, underscoring a striking contradiction in his mes...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-04T14:14:30.411Z",
+      "hashtags": "['#Trump' '#Russia' '#USA' '#uspoli']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:15:04.299713",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:15:10.007000",
+      "text_length": 287,
+      "text_cleaned_length": 257,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlerv2iy22e",
+      "text": "Trump says weak jobs data 'rigged': www.newsweek.com/donald-trump... \n\nTranslated to English: Trump says jobs data will be 'rigged'.\n\nHe's a 5th grader... He's dying to tell you all of his clandestine lies and secrets. He needs approval like most need water... #trump #Jobs  #StockMarket",
+      "text_cleaned": "Trump says weak jobs data 'rigged': Translated to English: Trump says jobs data will be 'rigged'. He's a 5th grader... He's dying to tell you all of his clandestine lies and secrets. He needs approval like most need water...",
+      "text_preview": "Trump says weak jobs data 'rigged': www.newsweek.com/donald-trump... \n\nTranslated to English: Trump says jobs data will be 'rigged'.\n\nHe's a 5th grader... He's dying to tell you all of his clandestine...",
+      "author": "imoutclimbing.bsky.social",
+      "author_display_name": "Douglas Dunlap",
+      "created_at": "2025-08-04T14:11:39.353Z",
+      "hashtags": "['#Jobs' '#StockMarket' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:15:04.299720",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:15:10.007000",
+      "text_length": 287,
+      "text_cleaned_length": 224,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvleoqjbsk2e",
+      "text": "\ud83d\udd25 #BonusAsiloNido \u203c\ufe0f \ud83d\ude31 Bonus asilo nido: chi rischia di perderlo con la nuova regola? \ud83d\udea8 Scopri tutto nel nuovo articolo su ORA ULTIMA: www.oraultima.com/bonus-asilo-...\n\n#OraUltima #4agosto #saelanews #buongiorno #italia #news #economia #finanza #economy #finance #money",
+      "text_cleaned": "\ud83d\udd25 \u203c\ufe0f \ud83d\ude31 Bonus asilo nido: chi rischia di perderlo con la nuova regola? \ud83d\udea8 Scopri tutto nel nuovo articolo su ORA ULTIMA:",
+      "text_preview": "\ud83d\udd25 #BonusAsiloNido \u203c\ufe0f \ud83d\ude31 Bonus asilo nido: chi rischia di perderlo con la nuova regola? \ud83d\udea8 Scopri tutto nel nuovo articolo su ORA ULTIMA: www.oraultima.com/bonus-asilo-...\n\n#OraUltima #4agosto #saelanews...",
+      "author": "oraultima.bsky.social",
+      "author_display_name": "ORA ULTIMA",
+      "created_at": "2025-08-04T14:09:53.931Z",
+      "hashtags": "['#saelanews' '#italia' '#economia' '#economy' '#4agosto' '#finance'\n '#money' '#BonusAsiloNido' '#finanza' '#buongiorno' '#OraUltima' '#news']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:15:04.299440",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:15:10.007000",
+      "text_length": 270,
+      "text_cleaned_length": 118,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlex3rcts2g",
+      "text": "Vice-l\u00edder da oposi\u00e7\u00e3o, Sanderson, diz que governo n\u00e3o tem condi\u00e7\u00f5es de resolver tarifa\u00e7o de Trump. Resposta deve vir com C\u00e2mara e Senado e vota\u00e7\u00e3o do PL da anistia. cd.leg.br/xxQPoi21hI\n\n#trump #anistia #radiodacidadania",
+      "text_cleaned": "Vice-l\u00edder da oposi\u00e7\u00e3o, Sanderson, diz que governo n\u00e3o tem condi\u00e7\u00f5es de resolver tarifa\u00e7o de Trump. Resposta deve vir com C\u00e2mara e Senado e vota\u00e7\u00e3o do PL da anistia. cd.leg.br/xxQPoi21hI",
+      "text_preview": "Vice-l\u00edder da oposi\u00e7\u00e3o, Sanderson, diz que governo n\u00e3o tem condi\u00e7\u00f5es de resolver tarifa\u00e7o de Trump. Resposta deve vir com C\u00e2mara e Senado e vota\u00e7\u00e3o do PL da anistia. cd.leg.br/xxQPoi21hI\n\n#trump #anis...",
+      "author": "radiocamara.bsky.social",
+      "author_display_name": "R\u00e1dio C\u00e2mara",
+      "created_at": "2025-08-04T14:14:34.164Z",
+      "hashtags": "['#radiodacidadania' '#trump' '#anistia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:15:04.299705",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:15:10.007000",
+      "text_length": 221,
+      "text_cleaned_length": 186,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlex2l75u2y",
+      "text": "\n#Bundesrat   #Regierung   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Bundesrat   #Regierung   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T14:14:39.470941+00:00",
+      "hashtags": "['#Trump' '#Bundesrat' '#Regierung']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:15:04.299696",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:15:10.007000",
+      "text_length": 33,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlefcbhww42",
+      "text": "\u201cAll options must be on the table \u2014 including Democratic state legislatures using their power to fight back & pursue #redistricting mid-cycle in order to protect our #democracy,\u201d the group\u2019s president, Heather Williams, said in a statement.\n\n#Democrats in #California have said they could hold a [\u2026]",
+      "text_cleaned": "\u201cAll options must be on the table \u2014 including Democratic state legislatures using their power to fight back & pursue mid-cycle in order to protect our ,\u201d the group\u2019s president, Heather Williams, said in a statement. in have said they could hold a [\u2026]",
+      "text_preview": "\u201cAll options must be on the table \u2014 including Democratic state legislatures using their power to fight back & pursue #redistricting mid-cycle in order to protect our #democracy,\u201d the group\u2019s president...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-04T14:04:31.000Z",
+      "hashtags": "['#redistricting' '#California' '#Democrats' '#democracy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848955",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 250,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvledqpuzw52",
+      "text": "#Democrats who control other #states are threatening to retaliate by drawing new maps of their own if #Texas #Republicans carry out their plan. On Monday, the Democratic Legislative Campaign Committee called on Democratic state lawmakers from around the country to prepare for carving up their [\u2026]",
+      "text_cleaned": "who control other are threatening to retaliate by drawing new maps of their own if carry out their plan. On Monday, the Democratic Legislative Campaign Committee called on Democratic state lawmakers from around the country to prepare for carving up their [\u2026]",
+      "text_preview": "#Democrats who control other #states are threatening to retaliate by drawing new maps of their own if #Texas #Republicans carry out their plan. On Monday, the Democratic Legislative Campaign Committee...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-04T14:03:40.000Z",
+      "hashtags": "['#Texas' '#Democrats' '#Republicans' '#states']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848982",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 297,
+      "text_cleaned_length": 258,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvleht72xn32",
+      "text": "#Republicans in #Ohio plan to redraw their map soon, & other states could join the fray, as well.\n#Illinois Gov. #JBPritzker (D), who is hosting some of the #Texas #Democrats, said at a Sunday news conference that he\u2019s considering all options in his state. But he did not offer any concrete steps [\u2026]",
+      "text_cleaned": "in plan to redraw their map soon, & other states could join the fray, as well. Gov. (D), who is hosting some of the , said at a Sunday news conference that he\u2019s considering all options in his state. But he did not offer any concrete steps [\u2026]",
+      "text_preview": "#Republicans in #Ohio plan to redraw their map soon, & other states could join the fray, as well.\n#Illinois Gov. #JBPritzker (D), who is hosting some of the #Texas #Democrats, said at a Sunday news co...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-04T14:05:55.000Z",
+      "hashtags": "['#Illinois' '#JBPritzker' '#Texas' '#Ohio' '#Democrats' '#Republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848920",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 242,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlellyuys2a",
+      "text": "Pessimistic about the future but optimistic about people. & the threat is from leaders who embody the dark triad: Machiavellian, narcisists , psychopaths using monopoly & violence. Tax wealth or face collapse.  #US #Trump #project2025 #Politics #Resist \n\nwww.theguardian.com/environment/...",
+      "text_cleaned": "Pessimistic about the future but optimistic about people. & the threat is from leaders who embody the dark triad: Machiavellian, narcisists , psychopaths using monopoly & violence. Tax wealth or face collapse.",
+      "text_preview": "Pessimistic about the future but optimistic about people. & the threat is from leaders who embody the dark triad: Machiavellian, narcisists , psychopaths using monopoly & violence. Tax wealth or face ...",
+      "author": "organicbotanic.bsky.social",
+      "author_display_name": "Sue McBean\ud83c\uddfa\ud83c\udde6\u26f5\ufe0f\ud83d\udc9a\ud83c\udf31\u270d\ufe0f\ud83d\udcf8",
+      "created_at": "2025-08-04T14:08:08.536Z",
+      "hashtags": "['#Trump' '#US' '#project2025' '#Resist' '#Politics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848897",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 290,
+      "text_cleaned_length": 209,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvleo6nhxc2g",
+      "text": "youtube.com/live/xDIQ11z...\n\nWe all know it. #trump the Turd confessed: \u201cYou don\u2019t have to vote; you\u2019ll never have to vote again.\u201d\nWe\u2019ll never be able to\u2026\nWhy talk about 2026\u201d? \nIt\u2019s not gonna happen.\ntrump is a Criminal.\nIt\u2019s his only Brand.",
+      "text_cleaned": "youtube.com/live/xDIQ11z... We all know it. the Turd confessed: \u201cYou don\u2019t have to vote; you\u2019ll never have to vote again.\u201d We\u2019ll never be able to\u2026 Why talk about 2026\u201d? It\u2019s not gonna happen. trump is a Criminal. It\u2019s his only Brand.",
+      "text_preview": "youtube.com/live/xDIQ11z...\n\nWe all know it. #trump the Turd confessed: \u201cYou don\u2019t have to vote; you\u2019ll never have to vote again.\u201d\nWe\u2019ll never be able to\u2026\nWhy talk about 2026\u201d? \nIt\u2019s not gonna happen....",
+      "author": "medgrant.bsky.social",
+      "author_display_name": "Ned Grant",
+      "created_at": "2025-08-04T14:09:35.194Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848879",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 242,
+      "text_cleaned_length": 233,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvleivrsxk2h",
+      "text": "Morning Joe TORCHES GOP Over Trump\u2019s BLS Firing \ud83d\udd25\ud83e\udde2 \u2018Baghdad Bob\u2019 Vibes? #politicalnewsnetwork, #viral, #fyp, #politics, #trendingnews, #MorningJoe, #DonaldTrump, #GOP, #BaghdadBob, #BLS, #fakenews, #propaganda, #economy, #2025news, #truthmatters www.tiktok.com/t/ZP8k9vHYx/",
+      "text_cleaned": "Morning Joe TORCHES GOP Over Trump\u2019s BLS Firing \ud83d\udd25\ud83e\udde2 \u2018Baghdad Bob\u2019 Vibes? , , , , , , , , , , , , , ,",
+      "text_preview": "Morning Joe TORCHES GOP Over Trump\u2019s BLS Firing \ud83d\udd25\ud83e\udde2 \u2018Baghdad Bob\u2019 Vibes? #politicalnewsnetwork, #viral, #fyp, #politics, #trendingnews, #MorningJoe, #DonaldTrump, #GOP, #BaghdadBob, #BLS, #fakenews, #p...",
+      "author": "politcalnewsntwrk.bsky.social",
+      "author_display_name": "Political News Network",
+      "created_at": "2025-08-04T14:06:38.121Z",
+      "hashtags": "['#propaganda' '#fyp' '#fakenews' '#DonaldTrump' '#BaghdadBob'\n '#politicalnewsnetwork' '#BLS' '#2025news' '#truthmatters' '#politics'\n '#MorningJoe' '#trendingnews' '#GOP' '#viral' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848485",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 273,
+      "text_cleaned_length": 99,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlegf46nz2o",
+      "text": "Sydney Sweeney has never been far from headlines - but her latest controversy has nothing to do with fashion or film. \n\nRead More: www.ibtimes.co.uk/sydney-sween... \n\n#SydneySweeney #Trump #Republican #PoliticalControversy #ViralAd",
+      "text_cleaned": "Sydney Sweeney has never been far from headlines - but her latest controversy has nothing to do with fashion or film. Read More:",
+      "text_preview": "Sydney Sweeney has never been far from headlines - but her latest controversy has nothing to do with fashion or film. \n\nRead More: www.ibtimes.co.uk/sydney-sween... \n\n#SydneySweeney #Trump #Republican...",
+      "author": "ibtimes.bsky.social",
+      "author_display_name": "International Business Times",
+      "created_at": "2025-08-04T14:05:13.508Z",
+      "hashtags": "['#Trump' '#SydneySweeney' '#Republican' '#PoliticalControversy'\n '#ViralAd']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848933",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 231,
+      "text_cleaned_length": 128,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvleo7rxgc2y",
+      "text": "Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. PoliticsThe indictment and subsequent conviction.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/CxEI3FD2",
+      "text_cleaned": "Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. PoliticsThe indictment and subsequent conviction.... .ai",
+      "text_preview": "Trump indictment related to hush money payment An Unprecedented Criminal Case and its Lasting Impact on U.S. PoliticsThe indictment and subsequent conviction.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-04T14:09:36.080Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848867",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 208,
+      "text_cleaned_length": 165,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlemmiy7c24",
+      "text": "#economy \n\n@cnbc.com @foxnews.com.web.brid.gy @washingtonpost.com @nationalreview.bsky.social @epochtimes.bsky.social @newsmax.com @newsnation.bsky.social",
+      "text_cleaned": ".com .com.web.brid.gy .com .bsky.social .bsky.social .com .bsky.social",
+      "text_preview": "#economy \n\n@cnbc.com @foxnews.com.web.brid.gy @washingtonpost.com @nationalreview.bsky.social @epochtimes.bsky.social @newsmax.com @newsnation.bsky.social",
+      "author": "jeaucitizen.bsky.social",
+      "author_display_name": "Jeau Citizen",
+      "created_at": "2025-08-04T14:08:42.608Z",
+      "hashtags": "['#economy']",
+      "mentions": "['@epochtimes.bsky.social' '@washingtonpost.com' '@cnbc.com'\n '@nationalreview.bsky.social' '@newsnation.bsky.social'\n '@foxnews.com.web.brid.gy' '@newsmax.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848460",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 154,
+      "text_cleaned_length": 70,
+      "hashtag_count": 1,
+      "mention_count": 7,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlehn2a4k2x",
+      "text": "#Trump Fighter jets/ increased air traffic/ helicopters, etc. not endangering Scotland Puffins?  www.indiatvnews.com/news/world/f...",
+      "text_cleaned": "Fighter jets/ increased air traffic/ helicopters, etc. not endangering Scotland Puffins?",
+      "text_preview": "#Trump Fighter jets/ increased air traffic/ helicopters, etc. not endangering Scotland Puffins?  www.indiatvnews.com/news/world/f...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T14:05:55.410Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848911",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 132,
+      "text_cleaned_length": 88,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvledmvbfw32",
+      "text": "American Men.....\"I'm rooting for the Rapist, I am a MAN!\"\n\n#USPOL #Trump",
+      "text_cleaned": "American Men.....\"I'm rooting for the Rapist, I am a MAN!\"",
+      "text_preview": "American Men.....\"I'm rooting for the Rapist, I am a MAN!\"\n\n#USPOL #Trump",
+      "author": "lazarou.mastodon.social.ap.brid.gy",
+      "author_display_name": "Lazarou Monkey Terror \ud83d\ude80\ud83d\udc99\ud83c\udf08",
+      "created_at": "2025-08-04T14:03:38.000Z",
+      "hashtags": "['#USPOL' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848991",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 73,
+      "text_cleaned_length": 58,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlekhihe22d",
+      "text": "#MAGAFodder Trump Tariff  Disinformation  Program\n\n#USA #Trump",
+      "text_cleaned": "Trump Tariff Disinformation Program",
+      "text_preview": "#MAGAFodder Trump Tariff  Disinformation  Program\n\n#USA #Trump",
+      "author": "mythicaldragoness.bsky.social",
+      "author_display_name": "MythicalDragoness \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-04T14:07:30.248Z",
+      "hashtags": "['#Trump' '#USA' '#MAGAFodder']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848904",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 62,
+      "text_cleaned_length": 35,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvlegilrug2d",
+      "text": "WHNT 19Alabama News Beacon #AutoParts #Manufacturing #Economy",
+      "text_cleaned": "WHNT 19Alabama News Beacon",
+      "text_preview": "WHNT 19Alabama News Beacon #AutoParts #Manufacturing #Economy",
+      "author": "xstreamfm.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T14:05:16Z",
+      "hashtags": "['#Economy' '#Manufacturing' '#AutoParts']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848501",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 61,
+      "text_cleaned_length": 26,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlent6cwk27",
+      "text": "#Newsnight #Trump #Rump #Krasnov #MAGA #GreatAgain",
+      "text_cleaned": "",
+      "text_preview": "#Newsnight #Trump #Rump #Krasnov #MAGA #GreatAgain",
+      "author": "richardibbo.bsky.social",
+      "author_display_name": "Richard Ibbotson",
+      "created_at": "2025-08-04T14:09:23.163Z",
+      "hashtags": "['#Trump' '#Krasnov' '#Newsnight' '#GreatAgain' '#Rump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T14:10:03.848888",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 14:10:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    }
+  ]
+}
