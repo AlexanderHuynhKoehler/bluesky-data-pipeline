@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_062149",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 06:15:10.007000",
+    "latest_received_at": "2025-08-04 06:20:10.036000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkk5abzpip2",
+      "text": "Morning, all,\n\nPutin\u2019s regime has been threatening the use of nuclear weapons since he invaded Ukraine three years ago (actually, earlier) so why has Trump chosen this moment to escalate by \u201cdeploying nuclear submarines\u201d in response?\n\nWell, I guess nuclear Armageddon would take our minds (what\u2019s [\u2026]",
+      "text_cleaned": "Morning, all, Putin\u2019s regime has been threatening the use of nuclear weapons since he invaded Ukraine three years ago (actually, earlier) so why has Trump chosen this moment to escalate by \u201cdeploying nuclear submarines\u201d in response? Well, I guess nuclear Armageddon would take our minds (what\u2019s [\u2026]",
+      "text_preview": "Morning, all,\n\nPutin\u2019s regime has been threatening the use of nuclear weapons since he invaded Ukraine three years ago (actually, earlier) so why has Trump chosen this moment to escalate by \u201cdeploying...",
+      "author": "philipcjames.mas.to.ap.brid.gy",
+      "author_display_name": "Philip C James",
+      "created_at": "2025-08-04T06:14:44.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:20:03.270666",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:20:10.036000",
+      "text_length": 300,
+      "text_cleaned_length": 298,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkkd4h46c2u",
+      "text": "#Albanese reportedly is scared of meeting face to face with #Trump in the White House.\n\nWell, whatever potential confrontation Albo is running away from with Trump would be child's play compared to the rage he can expect from #Netanyahu if he gets the call from him he wants. \n\nHe surely knows that.",
+      "text_cleaned": "reportedly is scared of meeting face to face with in the White House. Well, whatever potential confrontation Albo is running away from with Trump would be child's play compared to the rage he can expect from if he gets the call from him he wants. He surely knows that.",
+      "text_preview": "#Albanese reportedly is scared of meeting face to face with #Trump in the White House.\n\nWell, whatever potential confrontation Albo is running away from with Trump would be child's play compared to th...",
+      "author": "timbadrick.bsky.social",
+      "author_display_name": "Tim Badrick",
+      "created_at": "2025-08-04T06:18:06.501Z",
+      "hashtags": "['#Netanyahu' '#Albanese' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:20:03.270641",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:20:10.036000",
+      "text_length": 299,
+      "text_cleaned_length": 268,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkkahsiqaj2",
+      "text": "Donald Trump is childishly spiteful and vindictive \u2013 once he finally realises Putin has been playing him for years there is a risk Two Dolls Donny will precipitate nuclear war through his misjudged vengeful reactions.\n\n#SlavaUkrayini\n#EpsteinFiles #GOP #MAGA\n#Trump #Krasnov #A25 #POTUS45 + [\u2026]",
+      "text_cleaned": "Donald Trump is childishly spiteful and vindictive \u2013 once he finally realises Putin has been playing him for years there is a risk Two Dolls Donny will precipitate nuclear war through his misjudged vengeful reactions. + [\u2026]",
+      "text_preview": "Donald Trump is childishly spiteful and vindictive \u2013 once he finally realises Putin has been playing him for years there is a risk Two Dolls Donny will precipitate nuclear war through his misjudged ve...",
+      "author": "philipcjames.mas.to.ap.brid.gy",
+      "author_display_name": "Philip C James",
+      "created_at": "2025-08-04T06:16:33.000Z",
+      "hashtags": "['#MAGA' '#EpsteinFiles' '#SlavaUkrayini' '#POTUS45' '#Trump' '#A25'\n '#GOP' '#Krasnov']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:20:03.270659",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:20:10.036000",
+      "text_length": 294,
+      "text_cleaned_length": 223,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvkk5rh2hm2k",
+      "text": "BILL UPDATE:\n\nS.2064: Helping Tobacco Users Quit Act\n\nACTION: Read twice and referred to the Committee on Finance.\n\n#congress #economy",
+      "text_cleaned": "BILL UPDATE: S.2064: Helping Tobacco Users Quit Act ACTION: Read twice and referred to the Committee on Finance.",
+      "text_preview": "BILL UPDATE:\n\nS.2064: Helping Tobacco Users Quit Act\n\nACTION: Read twice and referred to the Committee on Finance.\n\n#congress #economy",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T06:15:05.323Z",
+      "hashtags": "['#congress' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:20:03.270391",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:20:10.036000",
+      "text_length": 134,
+      "text_cleaned_length": 112,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkkcqwqku2y",
+      "text": "Trump: \"Non penso che a Gaza sia genocidio\" ... LEGGI TUTTO #Trump #Gaza #genocidio #Hamas #Israele",
+      "text_cleaned": "Trump: \"Non penso che a Gaza sia genocidio\" ... LEGGI TUTTO",
+      "text_preview": "Trump: \"Non penso che a Gaza sia genocidio\" ... LEGGI TUTTO #Trump #Gaza #genocidio #Hamas #Israele",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-04T06:17:54Z",
+      "hashtags": "['#Trump' '#Hamas' '#Gaza' '#genocidio' '#Israele']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:20:03.270648",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:20:10.036000",
+      "text_length": 99,
+      "text_cleaned_length": 59,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjxrm3gs2i",
+      "text": "www.commondreams.org/opinion/why-...\n\nConvicted sex trafficker Ghislaine Maxwell met with the DOJ\u2019s #2 in July. Days later, she was moved from a violent Florida lockup to a comfier Texas camp. Funny how good behavior\u2014and the right connections\u2014can smooth out even a 20-year sentence.\n\n#trump #epstein",
+      "text_cleaned": "Convicted sex trafficker Ghislaine Maxwell met with the DOJ\u2019s in July. Days later, she was moved from a violent Florida lockup to a comfier Texas camp. Funny how good behavior\u2014and the right connections\u2014can smooth out even a 20-year sentence.",
+      "text_preview": "www.commondreams.org/opinion/why-...\n\nConvicted sex trafficker Ghislaine Maxwell met with the DOJ\u2019s #2 in July. Days later, she was moved from a violent Florida lockup to a comfier Texas camp. Funny h...",
+      "author": "moxymcmxlvii.bsky.social",
+      "author_display_name": "GW",
+      "created_at": "2025-08-04T06:11:46.027Z",
+      "hashtags": "['#trump' '#epstein' '#2']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:15:03.479143",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:15:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 241,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvkjuisd4s2l",
+      "text": "I dazi di #Trump sono tasse al popolo americano: sono cos\u00ec fascisti ormai, che si autoinfliggono delle sanzioni e sognano l\u2019autarchia. Finiranno per affogare nel proprio debito. Il rischio \u00e8 che nel frattempo scatenino guerre di conquista, come la #Russia di Putin.",
+      "text_cleaned": "I dazi di sono tasse al popolo americano: sono cos\u00ec fascisti ormai, che si autoinfliggono delle sanzioni e sognano l\u2019autarchia. Finiranno per affogare nel proprio debito. Il rischio \u00e8 che nel frattempo scatenino guerre di conquista, come la di Putin.",
+      "text_preview": "I dazi di #Trump sono tasse al popolo americano: sono cos\u00ec fascisti ormai, che si autoinfliggono delle sanzioni e sognano l\u2019autarchia. Finiranno per affogare nel proprio debito. Il rischio \u00e8 che nel f...",
+      "author": "pppagliaro.bsky.social",
+      "author_display_name": "Pasqualepaolo Pagliaro",
+      "created_at": "2025-08-04T06:09:56.135Z",
+      "hashtags": "['#Trump' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:15:03.479155",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:15:10.007000",
+      "text_length": 265,
+      "text_cleaned_length": 250,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkjywgt622h",
+      "text": "Oh yeah, that's the guy who fired the person in charge of the country's economic statistics for messing up the numbers (which she didn't). \n\nSo after cutting 100 percent, what do you do to cut the remaining 1400%?\n\n(Thanks @baswisselink.com)\n#Trump",
+      "text_cleaned": "Oh yeah, that's the guy who fired the person in charge of the country's economic statistics for messing up the numbers (which she didn't). So after cutting 100 percent, what do you do to cut the remaining 1400%? (Thanks .com)",
+      "text_preview": "Oh yeah, that's the guy who fired the person in charge of the country's economic statistics for messing up the numbers (which she didn't). \n\nSo after cutting 100 percent, what do you do to cut the rem...",
+      "author": "hmblank.bsky.social",
+      "author_display_name": "Herbert Blankesteijn",
+      "created_at": "2025-08-04T06:12:24.656Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@baswisselink.com']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:15:03.479133",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:15:10.007000",
+      "text_length": 248,
+      "text_cleaned_length": 225,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvkk2d4i6s2x",
+      "text": "David v Goliath - Canadian Firm to Sue Trump and US Administration for Fraud on an International Scale.\nopen.substack.com/pub/propicsm...\n\n#Trump #Tariffs #Lawsuits #Trumpchallenge #Trumplawsuit #TariffImpact #Legal #Law #internationallaw #TrumpFiles #PresidentTrump  #News",
+      "text_cleaned": "David v Goliath - Canadian Firm to Sue Trump and US Administration for Fraud on an International Scale. open.substack.com/pub/propicsm...",
+      "text_preview": "David v Goliath - Canadian Firm to Sue Trump and US Administration for Fraud on an International Scale.\nopen.substack.com/pub/propicsm...\n\n#Trump #Tariffs #Lawsuits #Trumpchallenge #Trumplawsuit #Tari...",
+      "author": "propicstv.bsky.social",
+      "author_display_name": "ProPics TV",
+      "created_at": "2025-08-04T06:13:11.500Z",
+      "hashtags": "['#PresidentTrump' '#internationallaw' '#Trumplawsuit' '#Tariffs' '#Trump'\n '#Law' '#TrumpFiles' '#TariffImpact' '#Lawsuits' '#News' '#Legal'\n '#Trumpchallenge']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:15:03.479124",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:15:10.007000",
+      "text_length": 273,
+      "text_cleaned_length": 137,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkk2hejpc23",
+      "text": "Oligarchs already own the White House. Don't be so Naive. Biden's Oligarch List reads like the Washington Zionists All~Star Squad. And more than a few are on #EpsteinsList  #Biden www.forbes.com.au/news/billion...",
+      "text_cleaned": "Oligarchs already own the White House. Don't be so Naive. Biden's Oligarch List reads like the Washington Zionists All~Star Squad. And more than a few are on",
+      "text_preview": "Oligarchs already own the White House. Don't be so Naive. Biden's Oligarch List reads like the Washington Zionists All~Star Squad. And more than a few are on #EpsteinsList  #Biden www.forbes.com.au/ne...",
+      "author": "bargdaffy.bsky.social",
+      "author_display_name": "Bargdaffy",
+      "created_at": "2025-08-04T06:13:15.961Z",
+      "hashtags": "['#Biden' '#EpsteinsList']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:15:03.479338",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:15:10.007000",
+      "text_length": 213,
+      "text_cleaned_length": 157,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
