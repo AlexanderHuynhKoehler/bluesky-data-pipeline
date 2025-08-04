@@ -76,7 +76,14 @@
       "post_count": 16,
       "time_window": "10_minutes",
       "status": "available_for_processing"
+    },
+    {
+      "timestamp": "20250804_024024",
+      "filename": "batch_20250804_024024.json",
+      "post_count": 5,
+      "time_window": "10_minutes",
+      "status": "available_for_processing"
     }
   ],
-  "last_updated": "20250804_023010"
+  "last_updated": "20250804_024024"
 }
