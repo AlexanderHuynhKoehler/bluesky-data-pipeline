@@ -1,0 +1,635 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_190749",
+    "post_count": 23,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 19:00:10.007000",
+    "latest_received_at": "2025-08-04 19:05:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvluw5zojc2y",
+      "text": "#TRUMP IS UNFIT AS OUR #PRESIDENT.\n\nW/ YOUR Change.org PETITION & OUR PEACEFUL PROTESTS & CALLS, we must compel #Congress to impeach, convict, & remove #Trump & his Admin. In 11/26, we VOTE OUT #MAGA #GOP.\n\nLet\u2019s ridicule #Trump w/ \u201cYou\u2019re fired!\u201d\n\n#BlueCrew #megaboost\nwww.change.org/p/with-this-...",
+      "text_cleaned": "IS UNFIT AS OUR . W/ YOUR Change.org PETITION & OUR PEACEFUL PROTESTS & CALLS, we must compel to impeach, convict, & remove & his Admin. In 11/26, we VOTE OUT . Let\u2019s ridicule w/ \u201cYou\u2019re fired!\u201d",
+      "text_preview": "#TRUMP IS UNFIT AS OUR #PRESIDENT.\n\nW/ YOUR Change.org PETITION & OUR PEACEFUL PROTESTS & CALLS, we must compel #Congress to impeach, convict, & remove #Trump & his Admin. In 11/26, we VOTE OUT #MAGA ...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T19:00:22.683Z",
+      "hashtags": "['#TRUMP' '#PRESIDENT' '#megaboost' '#Congress' '#MAGA' '#GOP' '#Trump'\n '#BlueCrew']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.592138",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 194,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvlux3bayk2s",
+      "text": "#trump \n\n#US #USA #U.S. #America \ud83c\uddfa\ud83c\uddf8\n\n@texasobserver.org #MAGA @texastribune.org #Texas @texasmonthly.bsky.social @houstonchronicle.com @dallasnews.com #TX #GOP @utexaspress.bsky.social \n@universityoftexas.bsky.social \n@aggiesfootball.bsky.social @elpasoyoungdems.com\n@texasdemocrats.bsky.social",
+      "text_cleaned": ".S. \ud83c\uddfa\ud83c\uddf8 .org .org .bsky.social .com .com .bsky.social .bsky.social .bsky.social .com .bsky.social",
+      "text_preview": "#trump \n\n#US #USA #U.S. #America \ud83c\uddfa\ud83c\uddf8\n\n@texasobserver.org #MAGA @texastribune.org #Texas @texasmonthly.bsky.social @houstonchronicle.com @dallasnews.com #TX #GOP @utexaspress.bsky.social \n@universityoft...",
+      "author": "jeaucitizen.bsky.social",
+      "author_display_name": "Jeau Citizen",
+      "created_at": "2025-08-04T19:00:53.492Z",
+      "hashtags": "['#trump' '#U' '#Texas' '#USA' '#America' '#US' '#TX' '#MAGA' '#GOP']",
+      "mentions": "['@houstonchronicle.com' '@universityoftexas.bsky.social'\n '@texasobserver.org' '@utexaspress.bsky.social'\n '@aggiesfootball.bsky.social' '@texasmonthly.bsky.social'\n '@elpasoyoungdems.com' '@dallasnews.com' '@texastribune.org'\n '@texasdemocrats.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.592111",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 294,
+      "text_cleaned_length": 96,
+      "hashtag_count": 9,
+      "mention_count": 10,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluvppgav2a",
+      "text": "BILL UPDATE:\n\nS.2524: A bill to amend Public Law 119-21 to repeal the prohibition on making payments under the Medicaid program to certain entities.\n\nACTION: Read twice and referred to the Committee on Finance.\n\n#economy #healthcare #medicaid",
+      "text_cleaned": "BILL UPDATE: S.2524: A bill to amend Public Law 119-21 to repeal the prohibition on making payments under the Medicaid program to certain entities. ACTION: Read twice and referred to the Committee on Finance.",
+      "text_preview": "BILL UPDATE:\n\nS.2524: A bill to amend Public Law 119-21 to repeal the prohibition on making payments under the Medicaid program to certain entities.\n\nACTION: Read twice and referred to the Committee o...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T19:00:06.059Z",
+      "hashtags": "['#medicaid' '#healthcare' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.591556",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 242,
+      "text_cleaned_length": 208,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvluznprmc24",
+      "text": "\u27a4 D\u00e9cision en attente de l\u2019approbation du cabinet cette semaine.\n\n\u27a4 #Trump aurait donn\u00e9 son \u00ab feu vert \u00bb au plan.",
+      "text_cleaned": "\u27a4 D\u00e9cision en attente de l\u2019approbation du cabinet cette semaine. \u27a4 aurait donn\u00e9 son \u00ab feu vert \u00bb au plan.",
+      "text_preview": "\u27a4 D\u00e9cision en attente de l\u2019approbation du cabinet cette semaine.\n\n\u27a4 #Trump aurait donn\u00e9 son \u00ab feu vert \u00bb au plan.",
+      "author": "alt31.bsky.social",
+      "author_display_name": "\u25bc ALT-31",
+      "created_at": "2025-08-04T19:02:19.963Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.592007",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 113,
+      "text_cleaned_length": 105,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvlv3baq7k2t",
+      "text": "#Trump #Epstein #Maxwell #Mar-a-Lago\nTrump's Mar-a-Lago Spa Was Tailor-Made for Epstein\nopen.substack.com/pub/meidasto...",
+      "text_cleaned": "-a-Lago Trump's Mar-a-Lago Spa Was Tailor-Made for Epstein open.substack.com/pub/meidasto...",
+      "text_preview": "#Trump #Epstein #Maxwell #Mar-a-Lago\nTrump's Mar-a-Lago Spa Was Tailor-Made for Epstein\nopen.substack.com/pub/meidasto...",
+      "author": "skycog.bsky.social",
+      "author_display_name": "Casey",
+      "created_at": "2025-08-04T19:03:13.998Z",
+      "hashtags": "['#Maxwell' '#Trump' '#Mar' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.591991",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 121,
+      "text_cleaned_length": 92,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlv4azbrk2n",
+      "text": "\n#Jobs   #obama   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Jobs   #obama   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T19:03:53.645823+00:00",
+      "hashtags": "['#Jobs' '#obama' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.591891",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 24,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluy5ppcs2l",
+      "text": "No matter what #Trump says, all you hear is, \"Epstein Epstein Epstein.\"\n\n#epstein #epsteinfiles\n#sydneysweeney #yaylorswift\n#pedophile #paedophile\n#jeffreyepstein #GhislaineMaxwell\n#DonaldTrump #MelaniaTrump\n#maga #resist\n#jailbait #grabembythepussy\n#theyletyoudoit",
+      "text_cleaned": "No matter what says, all you hear is, \"Epstein Epstein Epstein.\"",
+      "text_preview": "No matter what #Trump says, all you hear is, \"Epstein Epstein Epstein.\"\n\n#epstein #epsteinfiles\n#sydneysweeney #yaylorswift\n#pedophile #paedophile\n#jeffreyepstein #GhislaineMaxwell\n#DonaldTrump #Melan...",
+      "author": "totesmanly.bsky.social",
+      "author_display_name": "Totes Manly",
+      "created_at": "2025-08-04T19:01:29.631Z",
+      "hashtags": "['#MelaniaTrump' '#jeffreyepstein' '#epstein' '#pedophile'\n '#grabembythepussy' '#epsteinfiles' '#jailbait' '#paedophile'\n '#theyletyoudoit' '#resist' '#GhislaineMaxwell' '#DonaldTrump' '#maga'\n '#sydneysweeney' '#Trump' '#yaylorswift']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.592090",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 265,
+      "text_cleaned_length": 64,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluvlhurk2u",
+      "text": "\n#Indien   #Krieg   #Russland   #Trump   #Ukraine   #Ukraine-Krieg   #Waffenruhe   #Z\u00f6lle",
+      "text_cleaned": "-Krieg",
+      "text_preview": "\n#Indien   #Krieg   #Russland   #Trump   #Ukraine   #Ukraine-Krieg   #Waffenruhe   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T19:00:09.722683+00:00",
+      "hashtags": "['#Z\u00f6lle' '#Waffenruhe' '#Russland' '#Krieg' '#Indien' '#Trump' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.592151",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 89,
+      "text_cleaned_length": 6,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlv4jblrz2m",
+      "text": "\n#airport   #deportation   #ICE   #Mass   #migrant   #Trump   #Trump administration",
+      "text_cleaned": "administration",
+      "text_preview": "\n#airport   #deportation   #ICE   #Mass   #migrant   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T19:04:02.301344+00:00",
+      "hashtags": "['#airport' '#migrant' '#Mass' '#ICE' '#Trump' '#deportation']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.591880",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 83,
+      "text_cleaned_length": 14,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluwgjhyd2j",
+      "text": "\n#Moskau   #Raketen   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Moskau   #Raketen   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T19:00:38.092462+00:00",
+      "hashtags": "['#Raketen' '#Moskau' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.592122",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 28,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluy5tlnx2k",
+      "text": "\n#Handelsstreit   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Handelsstreit   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T19:01:36.087117+00:00",
+      "hashtags": "['#Trump' '#Handelsstreit']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:05:03.592073",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:05:10.007000",
+      "text_length": 24,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluo54oas22",
+      "text": "Everybody knows that her crimes are the most heinous. Offends the moral fabric of society. So egregious that they earn the perpetrators a severe beat down or worse. So it shocks our consciousness that #Trump would ease her punishment, but of course we're not a desperate #PEDO trying to stay hidden.",
+      "text_cleaned": "Everybody knows that her crimes are the most heinous. Offends the moral fabric of society. So egregious that they earn the perpetrators a severe beat down or worse. So it shocks our consciousness that would ease her punishment, but of course we're not a desperate trying to stay hidden.",
+      "text_preview": "Everybody knows that her crimes are the most heinous. Offends the moral fabric of society. So egregious that they earn the perpetrators a severe beat down or worse. So it shocks our consciousness that...",
+      "author": "jmeldritch.bsky.social",
+      "author_display_name": "\u13ac\u13de\u13a0\u13a1\u13a5\u13a2\u13e3\u13bb",
+      "created_at": "2025-08-04T18:55:53.464Z",
+      "hashtags": "['#PEDO' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763574",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 286,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluqh5zlk2c",
+      "text": "It costs $16,000 to have a child at a time when an average wage earner can't afford an apartment.  This is why the birthrate is falling. Republicans have done nothing to reduce the cost of living or make having a child affordable. It's also why America is addicted to immigrant labor. \n#GOP\n#Trump",
+      "text_cleaned": "It costs $16,000 to have a child at a time when an average wage earner can't afford an apartment. This is why the birthrate is falling. Republicans have done nothing to reduce the cost of living or make having a child affordable. It's also why America is addicted to immigrant labor.",
+      "text_preview": "It costs $16,000 to have a child at a time when an average wage earner can't afford an apartment.  This is why the birthrate is falling. Republicans have done nothing to reduce the cost of living or m...",
+      "author": "road2lexington.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T18:57:11.101Z",
+      "hashtags": "['#GOP' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763537",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 283,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlurmw5qk2g",
+      "text": "Play ball with #trump and you get cushier conditions\nAbsolve Trump of any #Epstein #Evil and you get a full pardon?\nEven see your prosecutors jailed?\n\n#USA has lost its moral compass - I think it once had one\n\n#news #itvnews #c4news #skynews #bbcnews",
+      "text_cleaned": "Play ball with and you get cushier conditions Absolve Trump of any and you get a full pardon? Even see your prosecutors jailed? has lost its moral compass - I think it once had one",
+      "text_preview": "Play ball with #trump and you get cushier conditions\nAbsolve Trump of any #Epstein #Evil and you get a full pardon?\nEven see your prosecutors jailed?\n\n#USA has lost its moral compass - I think it once...",
+      "author": "outsidemarginals.bsky.social",
+      "author_display_name": "Outside The Marginals",
+      "created_at": "2025-08-04T18:57:50.689Z",
+      "hashtags": "['#bbcnews' '#USA' '#Evil' '#Epstein' '#c4news' '#trump' '#itvnews'\n '#skynews' '#news']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763522",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 250,
+      "text_cleaned_length": 180,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlutrslow2w",
+      "text": "Three months after its military setback, India is still struggling. Trump\u2019s punitive tariffs, China-Pakistan closeness, and domestic unrest paint a bleak picture. Modi's balancing act is crumbling.\n#Trump #Modi #USTariffs",
+      "text_cleaned": "Three months after its military setback, India is still struggling. Trump\u2019s punitive tariffs, China-Pakistan closeness, and domestic unrest paint a bleak picture. Modi's balancing act is crumbling.",
+      "text_preview": "Three months after its military setback, India is still struggling. Trump\u2019s punitive tariffs, China-Pakistan closeness, and domestic unrest paint a bleak picture. Modi's balancing act is crumbling.\n#T...",
+      "author": "stratheia.bsky.social",
+      "author_display_name": "Stratheia ",
+      "created_at": "2025-08-04T18:59:00.891Z",
+      "hashtags": "['#USTariffs' '#Trump' '#Modi']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763512",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 221,
+      "text_cleaned_length": 197,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluo7w6j22p",
+      "text": "If The Donald is dim, why didn't he join the police?\n#aclockworkorange #stanleykubrick #kubrick #warrenclarke #donaldtrump #donaldjtrump #donald #trump #MAGA #TrumpIsUnfitForOffice #movie #movies #film #films",
+      "text_cleaned": "If The Donald is dim, why didn't he join the police?",
+      "text_preview": "If The Donald is dim, why didn't he join the police?\n#aclockworkorange #stanleykubrick #kubrick #warrenclarke #donaldtrump #donaldjtrump #donald #trump #MAGA #TrumpIsUnfitForOffice #movie #movies #fil...",
+      "author": "ivovynckier.bsky.social",
+      "author_display_name": "Ivo Vynckier",
+      "created_at": "2025-08-04T18:55:56.396Z",
+      "hashtags": "['#donaldjtrump' '#donald' '#donaldtrump' '#MAGA' '#movies'\n '#stanleykubrick' '#TrumpIsUnfitForOffice' '#aclockworkorange' '#trump'\n '#warrenclarke' '#movie' '#films' '#kubrick' '#film']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763566",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 208,
+      "text_cleaned_length": 52,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlumba55k25",
+      "text": "US #economy on the verge of a #recession says Moody's Chief Economist < So, is Trump gonna fire Moody? finance.yahoo.com/news/top-eco...",
+      "text_cleaned": "US on the verge of a says Moody's Chief Economist < So, is Trump gonna fire Moody? finance.yahoo.com/news/top-eco...",
+      "text_preview": "US #economy on the verge of a #recession says Moody's Chief Economist < So, is Trump gonna fire Moody? finance.yahoo.com/news/top-eco...",
+      "author": "whodat35.bsky.social",
+      "author_display_name": "Lee West",
+      "created_at": "2025-08-04T18:54:50.662Z",
+      "hashtags": "['#economy' '#recession']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 3,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763208",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 136,
+      "text_cleaned_length": 116,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lvlutrglzm2q",
+      "text": "\n#Handelskrieg   #Handelspartner   #Indien   #Putin   #Putin-Regime   #Russland   #Trump   #Umgang mit Russland",
+      "text_cleaned": "-Regime mit Russland",
+      "text_preview": "\n#Handelskrieg   #Handelspartner   #Indien   #Putin   #Putin-Regime   #Russland   #Trump   #Umgang mit Russland",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T18:59:08.870537+00:00",
+      "hashtags": "['#Umgang' '#Putin' '#Handelskrieg' '#Russland' '#Indien'\n '#Handelspartner' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763503",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 111,
+      "text_cleaned_length": 20,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlupslegs2b",
+      "text": "VENEZ SUR YOUTUBE  \ud83e\udd73\n\nA propos de #Trump et #Epstein \n\n#LaChute",
+      "text_cleaned": "VENEZ SUR YOUTUBE \ud83e\udd73 A propos de et",
+      "text_preview": "VENEZ SUR YOUTUBE  \ud83e\udd73\n\nA propos de #Trump et #Epstein \n\n#LaChute",
+      "author": "zgur.bsky.social",
+      "author_display_name": "Zgur (le m\u00eame mais sans le _ , BlueSky n'en veut pas)",
+      "created_at": "2025-08-04T18:56:49.520Z",
+      "hashtags": "['#Epstein' '#LaChute' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763553",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 63,
+      "text_cleaned_length": 34,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvluurhxu22t",
+      "text": "\n#Handelsbeziehungen   #Regierung   #Trump   #Z\u00f6lle",
+      "text_cleaned": "",
+      "text_preview": "\n#Handelsbeziehungen   #Regierung   #Trump   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T18:59:42.472899+00:00",
+      "hashtags": "['#Z\u00f6lle' '#Trump' '#Regierung' '#Handelsbeziehungen']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763485",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 51,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluuwtvgc26",
+      "text": "youtu.be/WGqeEY1eYn8?...\n#Trump #Loomer #FDJT",
+      "text_cleaned": "youtu.be/WGqeEY1eYn8?...",
+      "text_preview": "youtu.be/WGqeEY1eYn8?...\n#Trump #Loomer #FDJT",
+      "author": "rizzowang.bsky.social",
+      "author_display_name": "\ud83c\uddfa\ud83c\uddf8\u2640\ufe0f\ud83c\udf08Rizzowang",
+      "created_at": "2025-08-04T18:59:41.765Z",
+      "hashtags": "['#FDJT' '#Trump' '#Loomer']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763492",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 45,
+      "text_cleaned_length": 24,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvluqzv5lr2y",
+      "text": "\n#Europa   #Moskau   #Russland   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Europa   #Moskau   #Russland   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T18:57:37.065115+00:00",
+      "hashtags": "['#Europa' '#Russland' '#Trump' '#Moskau']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763529",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 39,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlupxcz2m2q",
+      "text": "\n#Abstimmung   #Texas   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Abstimmung   #Texas   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T18:57:00.821480+00:00",
+      "hashtags": "['#Texas' '#Abstimmung' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T19:00:03.763544",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 19:00:10.007000",
+      "text_length": 30,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
