@@ -1,0 +1,338 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_014955",
+    "post_count": 12,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 01:40:10.007000",
+    "latest_received_at": "2025-08-04 01:45:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvk2tbjye22l",
+      "text": "\u0631\u0648\u0628\u0648\u062a \u0635\u064a\u0646\u064a \u064a\u0639\u0645\u0644 \u0641\u064a \u0627\u0644\u062a\u0636\u0627\u0631\u064a\u0633 \u0627\u0644\u0648\u0639\u0631\u0629 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0637\u0628\u0627\u0639\u0629 \u062b\u0644\u0627\u062b\u064a\u0629 \u0627\u0644\u0623\u0628\u0639\u0627\u062f.\n#Chinese robot operates in rough terrain using 3D printing. #iran #trump #elonmusk #CoolieUnleashed #CopaAm\u00e9ricaFem #Venezuela #BBNaija #BBNajia #BBNaijaS10 #NocheDorada #memecoin #LOLLAPALOOZA #KCONLA2025",
+      "text_cleaned": "\u0631\u0648\u0628\u0648\u062a \u0635\u064a\u0646\u064a \u064a\u0639\u0645\u0644 \u0641\u064a \u0627\u0644\u062a\u0636\u0627\u0631\u064a\u0633 \u0627\u0644\u0648\u0639\u0631\u0629 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0637\u0628\u0627\u0639\u0629 \u062b\u0644\u0627\u062b\u064a\u0629 \u0627\u0644\u0623\u0628\u0639\u0627\u062f. robot operates in rough terrain using 3D printing.",
+      "text_preview": "\u0631\u0648\u0628\u0648\u062a \u0635\u064a\u0646\u064a \u064a\u0639\u0645\u0644 \u0641\u064a \u0627\u0644\u062a\u0636\u0627\u0631\u064a\u0633 \u0627\u0644\u0648\u0639\u0631\u0629 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0637\u0628\u0627\u0639\u0629 \u062b\u0644\u0627\u062b\u064a\u0629 \u0627\u0644\u0623\u0628\u0639\u0627\u062f.\n#Chinese robot operates in rough terrain using 3D printing. #iran #trump #elonmusk #CoolieUnleashed #CopaAm\u00e9ricaFem #Venezuela #BBNa...",
+      "author": "bahrain-news.bsky.social",
+      "author_display_name": "Bahrain News | \u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+      "created_at": "2025-08-04T01:40:48.838Z",
+      "hashtags": "['#iran' '#Chinese' '#BBNaija' '#KCONLA2025' '#BBNajia' '#NocheDorada'\n '#CopaAm\u00e9ricaFem' '#LOLLAPALOOZA' '#elonmusk' '#trump' '#Venezuela'\n '#memecoin' '#CoolieUnleashed' '#BBNaijaS10']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:45:03.709702",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:45:10.008000",
+      "text_length": 273,
+      "text_cleaned_length": 118,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvk2z64qns2x",
+      "text": "\"If you're a young person walking into a mansion or someone's island and all the people who are present are acting as though this is OK and you're the only one who thinks it's weird, it's hard to say something,\" De Georgiou told Savannah Guthrie.\n#EpsteinFiles #Trump",
+      "text_cleaned": "\"If you're a young person walking into a mansion or someone's island and all the people who are present are acting as though this is OK and you're the only one who thinks it's weird, it's hard to say something,\" De Georgiou told Savannah Guthrie.",
+      "text_preview": "\"If you're a young person walking into a mansion or someone's island and all the people who are present are acting as though this is OK and you're the only one who thinks it's weird, it's hard to say ...",
+      "author": "pqpolitics.bsky.social",
+      "author_display_name": "Pete Quily",
+      "created_at": "2025-08-04T01:44:06.588Z",
+      "hashtags": "['#EpsteinFiles' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:45:03.709672",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:45:10.008000",
+      "text_length": 267,
+      "text_cleaned_length": 246,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk2tfvbf22m",
+      "text": "Trump and MAGA cheated hard in 2024 so that they could make the R-word and P-word fashionable again, so fuck it, here goes...\n\nTrump is a retarded pussy.\n\n#Trump #MAGA #Epstein",
+      "text_cleaned": "Trump and MAGA cheated hard in 2024 so that they could make the R-word and P-word fashionable again, so fuck it, here goes... Trump is a retarded pussy.",
+      "text_preview": "Trump and MAGA cheated hard in 2024 so that they could make the R-word and P-word fashionable again, so fuck it, here goes...\n\nTrump is a retarded pussy.\n\n#Trump #MAGA #Epstein",
+      "author": "fairlyvocal.bsky.social",
+      "author_display_name": "\ud83c\udde8\ud83c\udde6 Fairly\u2022Vocal\u2022Pete \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-04T01:40:53.404Z",
+      "hashtags": "['#Trump' '#Epstein' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:45:03.709688",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:45:10.008000",
+      "text_length": 176,
+      "text_cleaned_length": 152,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk2ydlyis24",
+      "text": "#Melania was allegedly introduced to #Trump by #Epstein and they first had sex while on Epstein\u2019s plane. \nShe doesn\u2019t want this story told. You know what to do.",
+      "text_cleaned": "was allegedly introduced to by and they first had sex while on Epstein\u2019s plane. She doesn\u2019t want this story told. You know what to do.",
+      "text_preview": "#Melania was allegedly introduced to #Trump by #Epstein and they first had sex while on Epstein\u2019s plane. \nShe doesn\u2019t want this story told. You know what to do.",
+      "author": "sheeshwoman.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T01:43:38.775Z",
+      "hashtags": "['#Trump' '#Melania' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:45:03.709679",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:45:10.008000",
+      "text_length": 160,
+      "text_cleaned_length": 134,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk2ski6zh2w",
+      "text": "\n#Jobs   #Trump   #Trump administration   #White House",
+      "text_cleaned": "administration House",
+      "text_preview": "\n#Jobs   #Trump   #Trump administration   #White House",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T01:40:31.812499+00:00",
+      "hashtags": "['#Trump' '#Jobs' '#White']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:45:03.709709",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:45:10.008000",
+      "text_length": 54,
+      "text_cleaned_length": 20,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk2rivlbw2j",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-04T01:39:49.271Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:40:03.567471",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:40:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk2ly5k4k2f",
+      "text": "Well. Instead of saving the pregnant teen's life now you got double dead. Only in #Texas. #AbortionRights #Healthcare #GOP #Republican #Trump #MAGA",
+      "text_cleaned": "Well. Instead of saving the pregnant teen's life now you got double dead. Only in .",
+      "text_preview": "Well. Instead of saving the pregnant teen's life now you got double dead. Only in #Texas. #AbortionRights #Healthcare #GOP #Republican #Trump #MAGA",
+      "author": "liddokun.bsky.social",
+      "author_display_name": "Liddokun",
+      "created_at": "2025-08-04T01:36:44.114Z",
+      "hashtags": "['#Healthcare' '#Republican' '#GOP' '#Texas' '#Trump' '#AbortionRights'\n '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:40:03.567496",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:40:10.007000",
+      "text_length": 147,
+      "text_cleaned_length": 83,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk2lf5pwa2v",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-04T01:36:24.020Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:40:03.567507",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:40:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk2ldlqcs26",
+      "text": "#Trump lied??\n\nI\u2019m shocked.",
+      "text_cleaned": "lied?? I\u2019m shocked.",
+      "text_preview": "#Trump lied??\n\nI\u2019m shocked.",
+      "author": "blackholeentropy.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T01:36:22.559Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:40:03.567514",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:40:10.007000",
+      "text_length": 27,
+      "text_cleaned_length": 19,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvk2qtwwds2o",
+      "text": "Doesn't this guy look a lot like #Trump?\n\n\u2757 MrJokerAntiall \u2757 \n\n\ud83d\udcab\ud83e\ude81\ud83c\udfad\ud83e\udd80\ud83c\udf3e\u270c\ufe0f\ud83d\udc3e\ud83c\udccf",
+      "text_cleaned": "Doesn't this guy look a lot like ? \u2757 MrJokerAntiall \u2757 \ud83d\udcab\ud83e\ude81\ud83c\udfad\ud83e\udd80\ud83c\udf3e\u270c\ufe0f\ud83d\udc3e\ud83c\udccf",
+      "text_preview": "Doesn't this guy look a lot like #Trump?\n\n\u2757 MrJokerAntiall \u2757 \n\n\ud83d\udcab\ud83e\ude81\ud83c\udfad\ud83e\udd80\ud83c\udf3e\u270c\ufe0f\ud83d\udc3e\ud83c\udccf",
+      "author": "mrjokerantiall.bsky.social",
+      "author_display_name": "MrjokerAntiall",
+      "created_at": "2025-08-04T01:39:27.475Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:40:03.567479",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:40:10.007000",
+      "text_length": 72,
+      "text_cleaned_length": 63,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk2jqfv6k2f",
+      "text": "\u26f3\n\n#kith #kidsinthehall #scottthompson #mannycoon #trump #underpar #epstein #epsteinfiles #epsteinlist #golf",
+      "text_cleaned": "\u26f3",
+      "text_preview": "\u26f3\n\n#kith #kidsinthehall #scottthompson #mannycoon #trump #underpar #epstein #epsteinfiles #epsteinlist #golf",
+      "author": "peaksinthehall.bsky.social",
+      "author_display_name": "Peaks in the Hall",
+      "created_at": "2025-08-04T01:35:28.873Z",
+      "hashtags": "['#epsteinfiles' '#mannycoon' '#scottthompson' '#kith' '#underpar'\n '#epstein' '#trump' '#golf' '#kidsinthehall' '#epsteinlist']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:40:03.567526",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:40:10.007000",
+      "text_length": 108,
+      "text_cleaned_length": 1,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvk2nhtaf22s",
+      "text": "Can you say #Dementia and of course add in just plain old #Stupidity #Politics #Trump",
+      "text_cleaned": "Can you say and of course add in just plain old",
+      "text_preview": "Can you say #Dementia and of course add in just plain old #Stupidity #Politics #Trump",
+      "author": "mrikigai.bsky.social",
+      "author_display_name": "Mark Fields",
+      "created_at": "2025-08-04T01:37:34.109Z",
+      "hashtags": "['#Stupidity' '#Politics' '#Trump' '#Dementia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T01:40:03.567487",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 01:40:10.007000",
+      "text_length": 85,
+      "text_cleaned_length": 47,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
