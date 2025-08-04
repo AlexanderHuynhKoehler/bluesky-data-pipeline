@@ -1,0 +1,689 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_152558",
+    "post_count": 25,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 15:20:10.007000",
+    "latest_received_at": "2025-08-04 15:25:10.012000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlirk2kxs2w",
+      "text": "Dummy #Trump spews more confabulatory nonsense. He doesn't realize that if he cut drug prices 1500% that would mean that drug companies would be paying people to use their drugs. This begs the question then, where's MY check from Big Pharma?\n\nyoutu.be/cSj_J6Rxs3U?...",
+      "text_cleaned": "Dummy spews more confabulatory nonsense. He doesn't realize that if he cut drug prices 1500% that would mean that drug companies would be paying people to use their drugs. This begs the question then, where's MY check from Big Pharma? youtu.be/cSj_J6Rxs3U?...",
+      "text_preview": "Dummy #Trump spews more confabulatory nonsense. He doesn't realize that if he cut drug prices 1500% that would mean that drug companies would be paying people to use their drugs. This begs the questio...",
+      "author": "erflynncomics.com",
+      "author_display_name": "E.R. Flynn - Cartoonist and Illustrator",
+      "created_at": "2025-08-04T15:23:02.788Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266298",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 267,
+      "text_cleaned_length": 259,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlisqxcys2l",
+      "text": "#Trump's so stupid...\n\nOriginal any pill price: $25.00\n\nIf #Trump cut the price by 1,500% that would be $375, the new price would be: \u2212$350 That means the \"cut\" is so large that you\u2019d have a negative price \u2014 essentially, the pharmaceutical company be paying you $350 to take it.",
+      "text_cleaned": "'s so stupid... Original any pill price: $25.00 If cut the price by 1,500% that would be $375, the new price would be: \u2212$350 That means the \"cut\" is so large that you\u2019d have a negative price \u2014 essentially, the pharmaceutical company be paying you $350 to take it.",
+      "text_preview": "#Trump's so stupid...\n\nOriginal any pill price: $25.00\n\nIf #Trump cut the price by 1,500% that would be $375, the new price would be: \u2212$350 That means the \"cut\" is so large that you\u2019d have a negative ...",
+      "author": "brucesview.bsky.social",
+      "author_display_name": "Bruce \ud83d\udc99\ud83d\udc9a",
+      "created_at": "2025-08-04T15:23:43.574Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266252",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 278,
+      "text_cleaned_length": 263,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvliqwpjfk2w",
+      "text": "\ud83c\udf10 CryptoNewz \u2014 Aug 4\n\n\ud83d\udea8 Trump to announce new Fed governor\n\ud83d\udcc9 Powell out? Rate cuts on the horizon?\n\ud83d\udcc8 BTC +5%, ETH & SOL rebounding\n\u26a1\ufe0f Market shifting risk-on\n\nNext moves are forming. Don\u2019t blink \ud83d\udc40 \n\n#Crypto #BTC #Altcoins #Macro #Fed #CT #Trump",
+      "text_cleaned": "\ud83c\udf10 CryptoNewz \u2014 Aug 4 \ud83d\udea8 Trump to announce new Fed governor \ud83d\udcc9 Powell out? Rate cuts on the horizon? \ud83d\udcc8 BTC +5%, ETH & SOL rebounding \u26a1\ufe0f Market shifting risk-on Next moves are forming. Don\u2019t blink \ud83d\udc40",
+      "text_preview": "\ud83c\udf10 CryptoNewz \u2014 Aug 4\n\n\ud83d\udea8 Trump to announce new Fed governor\n\ud83d\udcc9 Powell out? Rate cuts on the horizon?\n\ud83d\udcc8 BTC +5%, ETH & SOL rebounding\n\u26a1\ufe0f Market shifting risk-on\n\nNext moves are forming. Don\u2019t blink \ud83d\udc40 \n\n#...",
+      "author": "cryptonewz.info",
+      "author_display_name": "CRYPTO NEWZ",
+      "created_at": "2025-08-04T15:22:42.503Z",
+      "hashtags": "['#Fed' '#Macro' '#Crypto' '#Trump' '#Altcoins' '#CT' '#BTC']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266319",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 244,
+      "text_cleaned_length": 194,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlirrnzyc2w",
+      "text": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "text_cleaned": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions.",
+      "text_preview": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T15:23:10.766Z",
+      "hashtags": "['#EpsteinFiles' '#DJT' '#POTUS47' '#MAGA' '#PedoPrez' '#Epstein' '#POTUS'\n '#Trump' '#PedoFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266282",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 177,
+      "text_cleaned_length": 98,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlinf4g5s2k",
+      "text": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "text_cleaned": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions.",
+      "text_preview": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T15:20:43.388Z",
+      "hashtags": "['#EpsteinFiles' '#DJT' '#POTUS47' '#MAGA' '#PedoPrez' '#Epstein' '#POTUS'\n '#Trump' '#PedoFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266350",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 177,
+      "text_cleaned_length": 98,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlir32io22w",
+      "text": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "text_cleaned": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions.",
+      "text_preview": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T15:22:47.057Z",
+      "hashtags": "['#EpsteinFiles' '#DJT' '#POTUS47' '#MAGA' '#PedoPrez' '#Epstein' '#POTUS'\n '#Trump' '#PedoFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266307",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 177,
+      "text_cleaned_length": 98,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlislye3k2w",
+      "text": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "text_cleaned": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions.",
+      "text_preview": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T15:23:38.367Z",
+      "hashtags": "['#EpsteinFiles' '#DJT' '#POTUS47' '#MAGA' '#PedoPrez' '#Epstein' '#POTUS'\n '#Trump' '#PedoFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266262",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 177,
+      "text_cleaned_length": 98,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlioltdo22i",
+      "text": "'Irked' Trump's tantrum may have plunged US economy into decades of chaos\n\n#USA #Trump #uspoli \n\nwww.rawstory.com/trump-job-nu...",
+      "text_cleaned": "'Irked' Trump's tantrum may have plunged US economy into decades of chaos",
+      "text_preview": "'Irked' Trump's tantrum may have plunged US economy into decades of chaos\n\n#USA #Trump #uspoli \n\nwww.rawstory.com/trump-job-nu...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-04T15:21:23.985Z",
+      "hashtags": "['#Trump' '#USA' '#uspoli']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266339",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 129,
+      "text_cleaned_length": 73,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvlitobbqs2q",
+      "text": "| etsy.me/3RHihSQ   | ctrendfx.com #Trump #Tariffs #India #RussianOil #TradeWar",
+      "text_cleaned": "| etsy.me/3RHihSQ | ctrendfx.com",
+      "text_preview": "| etsy.me/3RHihSQ   | ctrendfx.com #Trump #Tariffs #India #RussianOil #TradeWar",
+      "author": "ctrendfx.bsky.social",
+      "author_display_name": "CTrend FX - Algorithmic Trading Solutions",
+      "created_at": "2025-08-04T15:24:14Z",
+      "hashtags": "['#India' '#TradeWar' '#Trump' '#Tariffs' '#RussianOil']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266234",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 79,
+      "text_cleaned_length": 32,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlipfqmrk2w",
+      "text": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "text_cleaned": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions.",
+      "text_preview": "Those who voted for the known 34-count convicted felon-in-chief are now accomplice to his actions. \n#POTUS47 #POTUS #Trump #DJT #MAGA #PedoPrez #PedoFiles #EpsteinFiles #Epstein",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T15:21:51.159Z",
+      "hashtags": "['#EpsteinFiles' '#DJT' '#POTUS47' '#MAGA' '#PedoPrez' '#Epstein' '#POTUS'\n '#Trump' '#PedoFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266332",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 177,
+      "text_cleaned_length": 98,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvliscnkks2i",
+      "text": "Why Trump's $200 million ballroom is a sign of his own doom\n\n#USA #Trump #uspoli \n\nwww.rawstory.com/trump-ballro...",
+      "text_cleaned": "Why Trump's $200 million ballroom is a sign of his own doom",
+      "text_preview": "Why Trump's $200 million ballroom is a sign of his own doom\n\n#USA #Trump #uspoli \n\nwww.rawstory.com/trump-ballro...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-04T15:23:28.576Z",
+      "hashtags": "['#Trump' '#USA' '#uspoli']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266270",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 115,
+      "text_cleaned_length": 59,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlincdekc2n",
+      "text": "#Trump, you're next you pedo. You can run but you can't hide.",
+      "text_cleaned": ", you're next you pedo. You can run but you can't hide.",
+      "text_preview": "#Trump, you're next you pedo. You can run but you can't hide.",
+      "author": "mermaid16.bsky.social",
+      "author_display_name": "Long cool woman",
+      "created_at": "2025-08-04T15:20:40.469Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266357",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 61,
+      "text_cleaned_length": 55,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlisxqfc22x",
+      "text": "#Trump #EpsteinClientList #EpsteinCoverup #TrumpIsNotFitToBePresident",
+      "text_cleaned": "",
+      "text_preview": "#Trump #EpsteinClientList #EpsteinCoverup #TrumpIsNotFitToBePresident",
+      "author": "geta52.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T15:23:50.687Z",
+      "hashtags": "['#Trump' '#EpsteinClientList' '#EpsteinCoverup'\n '#TrumpIsNotFitToBePresident']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266243",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 69,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlirrcxik2x",
+      "text": "#Trump #TrumpIsNotFitToBePresident #ImpeachTrumpNOW",
+      "text_cleaned": "",
+      "text_preview": "#Trump #TrumpIsNotFitToBePresident #ImpeachTrumpNOW",
+      "author": "geta52.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T15:23:10.402Z",
+      "hashtags": "['#Trump' '#ImpeachTrumpNOW' '#TrumpIsNotFitToBePresident']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:25:04.266290",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:25:10.012000",
+      "text_length": 51,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvliksc6k22d",
+      "text": "#Trump, ViolentDon doesn't see the humanity of immigrants. He would rather help a sex trafficker of young girls than immigrants who work hard and lead difficult lives. Most undocumented immigrants lead desperate lives because this country is not the land of milk and honey. Dumbo has a dark soul.",
+      "text_cleaned": ", ViolentDon doesn't see the humanity of immigrants. He would rather help a sex trafficker of young girls than immigrants who work hard and lead difficult lives. Most undocumented immigrants lead desperate lives because this country is not the land of milk and honey. Dumbo has a dark soul.",
+      "text_preview": "#Trump, ViolentDon doesn't see the humanity of immigrants. He would rather help a sex trafficker of young girls than immigrants who work hard and lead difficult lives. Most undocumented immigrants lea...",
+      "author": "neoliberaldon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T15:19:16.545Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.668964",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 290,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvliljxmt22w",
+      "text": "\u201cWhat we see are the classic signs of dementia, which is gross deterioration from someone\u2019s baseline and function,\u201d John Gartner, a psychologist and author who spent 28 years as an assistant professor of psychiatry at Johns Hopkins, said in June. #trump \n\nwww.theguardian.com/us-news/2025...",
+      "text_cleaned": "\u201cWhat we see are the classic signs of dementia, which is gross deterioration from someone\u2019s baseline and function,\u201d John Gartner, a psychologist and author who spent 28 years as an assistant professor of psychiatry at Johns Hopkins, said in June.",
+      "text_preview": "\u201cWhat we see are the classic signs of dementia, which is gross deterioration from someone\u2019s baseline and function,\u201d John Gartner, a psychologist and author who spent 28 years as an assistant professor...",
+      "author": "bradradio.bsky.social",
+      "author_display_name": "Brad Omland",
+      "created_at": "2025-08-04T15:19:41.365Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.668949",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 291,
+      "text_cleaned_length": 246,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlienchs22x",
+      "text": "The #WhiteHouse is loading up on pedoph!les, y'all.\n\nBirds of a feather, or whatever...\ud83e\udd2c\n\nShoutout to Black Information Network for covering this news when other #media are largely ignoring it.\n\nwww.binnews.com/alternate/am...\n\n#president #donaldtrump #Trump #usa\ud83c\uddfa\ud83c\uddf8  #unitedstates #familyvalues #GOP",
+      "text_cleaned": "The is loading up on pedoph!les, y'all. Birds of a feather, or whatever...\ud83e\udd2c Shoutout to Black Information Network for covering this news when other are largely ignoring it. \ud83c\uddfa\ud83c\uddf8",
+      "text_preview": "The #WhiteHouse is loading up on pedoph!les, y'all.\n\nBirds of a feather, or whatever...\ud83e\udd2c\n\nShoutout to Black Information Network for covering this news when other #media are largely ignoring it.\n\nwww.b...",
+      "author": "debbiehollistx.bsky.social",
+      "author_display_name": "Debbie Hollis",
+      "created_at": "2025-08-04T15:15:49.982Z",
+      "hashtags": "['#unitedstates' '#WhiteHouse' '#president' '#donaldtrump' '#usa' '#GOP'\n '#Trump' '#familyvalues' '#media']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.669004",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 175,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvlicy456k2s",
+      "text": "\ud83d\udccc Inscreva-se no canal e acompanhe o Matinal, de segunda a sexta, ao vivo, sempre \u00e0s 8h. Um programa apresentado por Guilherme Amado e Beatriz Bulla para come\u00e7ar o dia bem informado!\n\n#Lula #Trump #Pol\u00edticaExterna #Brasil #EUA #Diplomacia #Rela\u00e7\u00f5esInternacionais #Matinal #AmadoMundo",
+      "text_cleaned": "\ud83d\udccc Inscreva-se no canal e acompanhe o Matinal, de segunda a sexta, ao vivo, sempre \u00e0s 8h. Um programa apresentado por Guilherme Amado e Beatriz Bulla para come\u00e7ar o dia bem informado!",
+      "text_preview": "\ud83d\udccc Inscreva-se no canal e acompanhe o Matinal, de segunda a sexta, ao vivo, sempre \u00e0s 8h. Um programa apresentado por Guilherme Amado e Beatriz Bulla para come\u00e7ar o dia bem informado!\n\n#Lula #Trump #Po...",
+      "author": "amadomundo.bsky.social",
+      "author_display_name": "amadomundo",
+      "created_at": "2025-08-04T15:14:54.202Z",
+      "hashtags": "['#Rela\u00e7\u00f5esInternacionais' '#Matinal' '#AmadoMundo' '#Lula' '#EUA'\n '#Pol\u00edticaExterna' '#Trump' '#Brasil' '#Diplomacia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.669030",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 283,
+      "text_cleaned_length": 182,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlildvxkk26",
+      "text": "T\u044f\u262dmp firing the well-respected economist head of the BLS  \"is a grave error by the administration and one that will have ramifications for years to come.\"\n#trump #economy #bls\ncontrarian.substack.com/p/hottest-yu...",
+      "text_cleaned": "T\u044f\u262dmp firing the well-respected economist head of the BLS \"is a grave error by the administration and one that will have ramifications for years to come.\" contrarian.substack.com/p/hottest-yu...",
+      "text_preview": "T\u044f\u262dmp firing the well-respected economist head of the BLS  \"is a grave error by the administration and one that will have ramifications for years to come.\"\n#trump #economy #bls\ncontrarian.substack.com...",
+      "author": "kozmob.bsky.social",
+      "author_display_name": "Kozmo  \ud83c\udf0a\u00af\\_(\u30c4)_/\u00af\ud83c\udf0a",
+      "created_at": "2025-08-04T15:19:35.018Z",
+      "hashtags": "['#economy' '#trump' '#bls']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.668667",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 216,
+      "text_cleaned_length": 194,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlie5gd2c2y",
+      "text": "That's why #Powell shouldn't resign his Fed board seat in May 2026.\nForce #Trump to nominate Hassett (or Warsh or whoever he wants as the Fed Chair) to the Fed board now, so he won't get another vote on the board.",
+      "text_cleaned": "That's why shouldn't resign his Fed board seat in May 2026. Force to nominate Hassett (or Warsh or whoever he wants as the Fed Chair) to the Fed board now, so he won't get another vote on the board.",
+      "text_preview": "That's why #Powell shouldn't resign his Fed board seat in May 2026.\nForce #Trump to nominate Hassett (or Warsh or whoever he wants as the Fed Chair) to the Fed board now, so he won't get another vote ...",
+      "author": "therealtuckfrumper.bsky.social",
+      "author_display_name": "Tuck Frump \u274c\ud83d\udc51",
+      "created_at": "2025-08-04T15:15:33.333Z",
+      "hashtags": "['#Powell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.669011",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 213,
+      "text_cleaned_length": 198,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlidurybk2o",
+      "text": "If genocide  and the total destruction off  gaza is being nice.\nThem what's being brutal and a barbarian .\n\nWhat a people,  powerful  and no human compassion, god help you if you have to be ruled by them.\nBeware.\n#trump",
+      "text_cleaned": "If genocide and the total destruction off gaza is being nice. Them what's being brutal and a barbarian . What a people, powerful and no human compassion, god help you if you have to be ruled by them. Beware.",
+      "text_preview": "If genocide  and the total destruction off  gaza is being nice.\nThem what's being brutal and a barbarian .\n\nWhat a people,  powerful  and no human compassion, god help you if you have to be ruled by t...",
+      "author": "meish100.bsky.social",
+      "author_display_name": "Meish",
+      "created_at": "2025-08-04T15:15:24.276Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.669020",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 219,
+      "text_cleaned_length": 207,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvliezs5tc2n",
+      "text": "That\u2019ll be the same #Trump who\u2019ll one day claim that #Epstein or #Maxwell hired a micromycologist to surreptitiously guide his pre-presidential mushroom into a Stormy lady garden\u2026",
+      "text_cleaned": "That\u2019ll be the same who\u2019ll one day claim that or hired a micromycologist to surreptitiously guide his pre-presidential mushroom into a Stormy lady garden\u2026",
+      "text_preview": "That\u2019ll be the same #Trump who\u2019ll one day claim that #Epstein or #Maxwell hired a micromycologist to surreptitiously guide his pre-presidential mushroom into a Stormy lady garden\u2026",
+      "author": "embrajeff.bsky.social",
+      "author_display_name": "Caledonia\u2019s Auntie Cissy-Jay",
+      "created_at": "2025-08-04T15:16:03.075Z",
+      "hashtags": "['#Trump' '#Maxwell' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.668993",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 179,
+      "text_cleaned_length": 154,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlik2c7ds2l",
+      "text": "\ud83d\udcac #Trump said on Monday he will substantially raise tariffs on #India over its purchases of Russian oil.\n\nwww.reuters.com/world/india/...\n\n#USA #Russia",
+      "text_cleaned": "\ud83d\udcac said on Monday he will substantially raise tariffs on over its purchases of Russian oil.",
+      "text_preview": "\ud83d\udcac #Trump said on Monday he will substantially raise tariffs on #India over its purchases of Russian oil.\n\nwww.reuters.com/world/india/...\n\n#USA #Russia",
+      "author": "rvps2001.bsky.social",
+      "author_display_name": "Russia-Ukraine Daily News",
+      "created_at": "2025-08-04T15:18:51.379Z",
+      "hashtags": "['#Trump' '#Russia' '#USA' '#India']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.668979",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 151,
+      "text_cleaned_length": 90,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlikmgmlk2i",
+      "text": "'Reality eroding before our eyes': Trump called out for 'absurd' claim about drug prices\n\n#USA #Trump #uspoli \n\nwww.rawstory.com/donald-trump...",
+      "text_cleaned": "'Reality eroding before our eyes': Trump called out for 'absurd' claim about drug prices",
+      "text_preview": "'Reality eroding before our eyes': Trump called out for 'absurd' claim about drug prices\n\n#USA #Trump #uspoli \n\nwww.rawstory.com/donald-trump...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-04T15:19:10.398Z",
+      "hashtags": "['#USA' '#Trump' '#uspoli']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.668971",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 144,
+      "text_cleaned_length": 88,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvliiwndjs2o",
+      "text": "#trump\nThe tariffs  start next week.",
+      "text_cleaned": "The tariffs start next week.",
+      "text_preview": "#trump\nThe tariffs  start next week.",
+      "author": "meish100.bsky.social",
+      "author_display_name": "Meish",
+      "created_at": "2025-08-04T15:18:13.995Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T15:20:04.668986",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 15:20:10.007000",
+      "text_length": 36,
+      "text_cleaned_length": 28,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
