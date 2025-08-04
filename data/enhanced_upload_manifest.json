@@ -1,0 +1,26 @@
+{
+  "latest_enhanced_upload": {
+    "timestamp": "20250803_202923",
+    "filename": "enhanced_20250803_202923.json",
+    "post_count": 20,
+    "original_batch": "batch_20250804_000550.json",
+    "status": "ready_for_databricks_import"
+  },
+  "enhancement_info": {
+    "timestamp": "20250803_202923",
+    "original_batch": "batch_20250804_000550.json",
+    "enhanced_post_count": 20,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 20,
+      "emotion_coverage": 20,
+      "processing_speed": 242.697829067919,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  },
+  "databricks_import_instructions": {
+    "table_target": "social_media.bluesky_enhanced_posts",
+    "import_type": "merge_upsert",
+    "key_column": "post_id"
+  }
+}
