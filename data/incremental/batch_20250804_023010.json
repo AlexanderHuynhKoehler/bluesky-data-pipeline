@@ -1,0 +1,446 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_023010",
+    "post_count": 16,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 02:20:10.007000",
+    "latest_received_at": "2025-08-04 02:25:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvk5a6xu622x",
+      "text": "Prime Minister Mark #Carney and Dominic LeBlanc, the minister responsible for Canada-U.S. trade, expressed confidence a new trade deal will be reached with the U.S., even after President Donald #Trump imposed 35% tariffs late last week. #cdnpoli \nyoutu.be/BGn-9qG77Eg",
+      "text_cleaned": "Prime Minister Mark and Dominic LeBlanc, the minister responsible for Canada-U.S. trade, expressed confidence a new trade deal will be reached with the U.S., even after President Donald imposed 35% tariffs late last week. youtu.be/BGn-9qG77Eg",
+      "text_preview": "Prime Minister Mark #Carney and Dominic LeBlanc, the minister responsible for Canada-U.S. trade, expressed confidence a new trade deal will be reached with the U.S., even after President Donald #Trump...",
+      "author": "karenpaulscbc.bsky.social",
+      "author_display_name": "Karen Pauls",
+      "created_at": "2025-08-04T02:23:49.839Z",
+      "hashtags": "['#Trump' '#cdnpoli' '#Carney']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:25:03.240523",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:25:10.008000",
+      "text_length": 267,
+      "text_cleaned_length": 242,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvk4zmycxo2c",
+      "text": "There\u2019s a quote in George Orwell\u2019s 1984 that seems appropriate after Trump\u2019s shocking move to fire the head of the US Bureau of Labor Statistics after she produced numbers he didn\u2019t like. #business #the #economy",
+      "text_cleaned": "There\u2019s a quote in George Orwell\u2019s 1984 that seems appropriate after Trump\u2019s shocking move to fire the head of the US Bureau of Labor Statistics after she produced numbers he didn\u2019t like.",
+      "text_preview": "There\u2019s a quote in George Orwell\u2019s 1984 that seems appropriate after Trump\u2019s shocking move to fire the head of the US Bureau of Labor Statistics after she produced numbers he didn\u2019t like. #business #t...",
+      "author": "aussienews.bsky.social",
+      "author_display_name": "Aussie News",
+      "created_at": "2025-08-04T02:20:09Z",
+      "hashtags": "['#the' '#economy' '#business']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:25:03.240278",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:25:10.008000",
+      "text_length": 211,
+      "text_cleaned_length": 187,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvk53lgfas2z",
+      "text": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watch?v=WTbQ...",
+      "text_cleaned": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y",
+      "text_preview": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watc...",
+      "author": "unvtinbuoisang.bsky.social",
+      "author_display_name": "UNV Tin Bu\u1ed5i S\u00e1ng",
+      "created_at": "2025-08-04T02:21:15.128Z",
+      "hashtags": "['#DonaldTrump' '#hoaky24h' '#topnews' '#tintuc24h' '#tinmoi' '#tinnong'\n '#nguoiviet' '#youtubetiegviet' '#vietyoutube' '#tinhoaky' '#trump'\n '#tiengviet' '#tintuc' '#tin24h']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:25:03.240544",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:25:10.008000",
+      "text_length": 211,
+      "text_cleaned_length": 34,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk4zobrwc2z",
+      "text": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watch?v=JB5k...",
+      "text_cleaned": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y",
+      "text_preview": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watc...",
+      "author": "unvtinbuoisang.bsky.social",
+      "author_display_name": "UNV Tin Bu\u1ed5i S\u00e1ng",
+      "created_at": "2025-08-04T02:20:11.014Z",
+      "hashtags": "['#DonaldTrump' '#hoaky24h' '#topnews' '#tintuc24h' '#tinmoi' '#tinnong'\n '#nguoiviet' '#youtubetiegviet' '#vietyoutube' '#tinhoaky' '#trump'\n '#tiengviet' '#tintuc' '#tin24h']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:25:03.240566",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:25:10.008000",
+      "text_length": 211,
+      "text_cleaned_length": 34,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk54bsn6c2p",
+      "text": "\"Drunks and Pedophiles\" -a brief look at the #Trump administration",
+      "text_cleaned": "\"Drunks and Pedophiles\" -a brief look at the administration",
+      "text_preview": "\"Drunks and Pedophiles\" -a brief look at the #Trump administration",
+      "author": "duzabear.com",
+      "author_display_name": "DUZA BEAR",
+      "created_at": "2025-08-04T02:21:38.568Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:25:03.240530",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:25:10.008000",
+      "text_length": 66,
+      "text_cleaned_length": 59,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk53tewip2m",
+      "text": "Click Subscribe. #IndianRupee #USTariffs #RBIPolicy #Economy #FinanceNews",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #IndianRupee #USTariffs #RBIPolicy #Economy #FinanceNews",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-04T02:21:23Z",
+      "hashtags": "['#Economy' '#RBIPolicy' '#FinanceNews' '#USTariffs' '#IndianRupee']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:25:03.240243",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:25:10.008000",
+      "text_length": 73,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk53kyaro2q",
+      "text": "Click Subscribe. #Trump #Statistician #Economy #Politics #News",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Trump #Statistician #Economy #Politics #News",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-04T02:21:14Z",
+      "hashtags": "['#Economy' '#Trump' '#Politics' '#Statistician' '#News']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:25:03.240262",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:25:10.008000",
+      "text_length": 62,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk57shois2l",
+      "text": "If only #biden was alive to see this\n\n\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "text_cleaned": "If only was alive to see this \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "text_preview": "If only #biden was alive to see this\n\n\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "author": "eddy-comrade25.bsky.social",
+      "author_display_name": "N99mani",
+      "created_at": "2025-08-04T02:23:36.728Z",
+      "hashtags": "['#biden']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:25:03.240829",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:25:10.008000",
+      "text_length": 42,
+      "text_cleaned_length": 34,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk4upnmym2p",
+      "text": "#ZeeBusiness\u3000Wall Street Wobbles! Dow Crashes 542 Points on Dismal Jobs\u00a0Data\n\nWall Street Wobbles! Dow Crashes 542 Points on Dismal Jobs Data Global Market Update | \u0930\u094b\u091c\u0917\u093e\u0930 \u0915\u0947 \u092c\u0947\u0939\u0926 \u0916\u0930\u093e\u092c \u0906\u0902\u0915\u0921\u093c\u094b\u0902 \u0938\u0947 \u0932\u0941\u0922\u093c\u0915\u0947 \u0905\u092e\u0947\u0930\u093f\u0915\u0940 \u092c\u093e\u091c\u093e\u0930... \u0921\u093e\u0913 542 \u0905\u0902\u0915, \u0928\u0948\u0938\u094d\u0921\u0948\u0915 472 \u0905\u0902\u0915 \u091f\u0942\u091f\u093e #Jobs #Trump #Nifty #July #Nasdaq About Zee\u2026",
+      "text_cleaned": "Wall Street Wobbles! Dow Crashes 542 Points on Dismal Jobs Data Wall Street Wobbles! Dow Crashes 542 Points on Dismal Jobs Data Global Market Update | \u0930\u094b\u091c\u0917\u093e\u0930 \u0915\u0947 \u092c\u0947\u0939\u0926 \u0916\u0930\u093e\u092c \u0906\u0902\u0915\u0921\u093c\u094b\u0902 \u0938\u0947 \u0932\u0941\u0922\u093c\u0915\u0947 \u0905\u092e\u0947\u0930\u093f\u0915\u0940 \u092c\u093e\u091c\u093e\u0930... \u0921\u093e\u0913 542 \u0905\u0902\u0915, \u0928\u0948\u0938\u094d\u0921\u0948\u0915 472 \u0905\u0902\u0915 \u091f\u0942\u091f\u093e About Zee\u2026",
+      "text_preview": "#ZeeBusiness\u3000Wall Street Wobbles! Dow Crashes 542 Points on Dismal Jobs\u00a0Data\n\nWall Street Wobbles! Dow Crashes 542 Points on Dismal Jobs Data Global Market Update | \u0930\u094b\u091c\u0917\u093e\u0930 \u0915\u0947 \u092c\u0947\u0939\u0926 \u0916\u0930\u093e\u092c \u0906\u0902\u0915\u0921\u093c\u094b\u0902 \u0938\u0947 \u0932\u0941\u0922\u093c...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-04T02:17:23Z",
+      "hashtags": "['#July' '#Jobs' '#Trump' '#Nifty' '#Nasdaq' '#ZeeBusiness']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:20:03.482266",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:20:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 250,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk4tqgt3ew2",
+      "text": "Via #pbs\n\nHow have #Trump's polices affected you, positively or negatively? PBS News wants to hear from you.\nPBS News is interested in hearing from you about the direct effects of his administration's policies on your life \u2013 positive or negative\nYour responses will be shared w PBS News staff [\u2026]",
+      "text_cleaned": "Via How have 's polices affected you, positively or negatively? PBS News wants to hear from you. PBS News is interested in hearing from you about the direct effects of his administration's policies on your life \u2013 positive or negative Your responses will be shared w PBS News staff [\u2026]",
+      "text_preview": "Via #pbs\n\nHow have #Trump's polices affected you, positively or negatively? PBS News wants to hear from you.\nPBS News is interested in hearing from you about the direct effects of his administration's...",
+      "author": "dancingdogs.forall.social.ap.brid.gy",
+      "author_display_name": "Lorraine C. \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-04T02:16:48.000Z",
+      "hashtags": "['#Trump' '#pbs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:20:03.482280",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:20:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 284,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvk4t4q3vc26",
+      "text": "This is a #MustSee...! Watching .@MickMulvaney twist himself into a perverted, political pretzel in order to justify his support of #Trump is mind blowing. .@mehdirhasan is a bad #MoFo...!\n\nTrump, Epstein & immigration: Mehdi Hasan & Mick Mulvaney | He... youtu.be/wolqWDmbp4A?...",
+      "text_cleaned": "This is a ...! Watching . twist himself into a perverted, political pretzel in order to justify his support of is mind blowing. . is a bad ...! Trump, Epstein & immigration: Mehdi Hasan & Mick Mulvaney | He... youtu.be/wolqWDmbp4A?...",
+      "text_preview": "This is a #MustSee...! Watching .@MickMulvaney twist himself into a perverted, political pretzel in order to justify his support of #Trump is mind blowing. .@mehdirhasan is a bad #MoFo...!\n\nTrump, Eps...",
+      "author": "footebrowne.bsky.social",
+      "author_display_name": "FooteBrowne - Kicking Down Doors to Save Democracy...!",
+      "created_at": "2025-08-04T02:16:31.281Z",
+      "hashtags": "['#MoFo' '#Trump' '#MustSee']",
+      "mentions": "['@MickMulvaney' '@mehdirhasan']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:20:03.482288",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:20:10.007000",
+      "text_length": 280,
+      "text_cleaned_length": 234,
+      "hashtag_count": 3,
+      "mention_count": 2,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk4xi53ts2r",
+      "text": "OPINION \u201cthe president didn\u2019t just challenge the findings; he fired the statistician. That\u2019s not governing. That\u2019s board flipping.\u201d My nearly 5 year old grand daughter playing snakes & ladders is more mature & socialised than #Trump #fascism #USA www.nytimes.com/2025/08/03/o...",
+      "text_cleaned": "OPINION \u201cthe president didn\u2019t just challenge the findings; he fired the statistician. That\u2019s not governing. That\u2019s board flipping.\u201d My nearly 5 year old grand daughter playing snakes & ladders is more mature & socialised than",
+      "text_preview": "OPINION \u201cthe president didn\u2019t just challenge the findings; he fired the statistician. That\u2019s not governing. That\u2019s board flipping.\u201d My nearly 5 year old grand daughter playing snakes & ladders is more...",
+      "author": "mediaactive.bsky.social",
+      "author_display_name": "MediaActive \u25aa\ufe0fEQUALITY \u25aa\ufe0fJUSTICE \u25aa\ufe0fPEACE",
+      "created_at": "2025-08-04T02:18:57.460Z",
+      "hashtags": "['#fascism' '#Trump' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:20:03.482199",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:20:10.007000",
+      "text_length": 278,
+      "text_cleaned_length": 225,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk4ucgggk25",
+      "text": "Mid #Election\n\n#Trump asked Texas(R) to redistrict now,mid-decade,to cut up 5 districts that vote #Democrat & create districts(R) will almost certainly win.5 additional seats will help (R) hold control of House of Representatives despite unpopularity heathercoxrichardson.substack.com/p/august-2-2025",
+      "text_cleaned": "Mid asked Texas(R) to redistrict now,mid-decade,to cut up 5 districts that vote & create districts(R) will almost certainly win.5 additional seats will help (R) hold control of House of Representatives despite unpopularity heathercoxrichardson.substack.com/p/august-2-2025",
+      "text_preview": "Mid #Election\n\n#Trump asked Texas(R) to redistrict now,mid-decade,to cut up 5 districts that vote #Democrat & create districts(R) will almost certainly win.5 additional seats will help (R) hold contro...",
+      "author": "jackhill.bsky.social",
+      "author_display_name": "Jack Hill",
+      "created_at": "2025-08-04T02:17:10.808Z",
+      "hashtags": "['#Trump' '#Election' '#Democrat']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:20:03.482272",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:20:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 272,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk4ww6g6m2t",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-04T02:18:38.454Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:20:03.482214",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:20:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvk4x6sh7c2x",
+      "text": "The Oracle of Omaha speaks about tariffs ....\n\n#trump #tariffs",
+      "text_cleaned": "The Oracle of Omaha speaks about tariffs ....",
+      "text_preview": "The Oracle of Omaha speaks about tariffs ....\n\n#trump #tariffs",
+      "author": "lostmyticket.bsky.social",
+      "author_display_name": "Bob Osser",
+      "created_at": "2025-08-04T02:18:47.671Z",
+      "hashtags": "['#trump' '#tariffs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:20:03.482205",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:20:10.007000",
+      "text_length": 62,
+      "text_cleaned_length": 45,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvk4vzbjjc2h",
+      "text": "#Trump pedo from #EpsteinTrumpFiles",
+      "text_cleaned": "pedo from",
+      "text_preview": "#Trump pedo from #EpsteinTrumpFiles",
+      "author": "arturgeorgio.bsky.social",
+      "author_display_name": "Artur Georgio",
+      "created_at": "2025-08-04T02:18:08.321Z",
+      "hashtags": "['#EpsteinTrumpFiles' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T02:20:03.482220",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 02:20:10.007000",
+      "text_length": 35,
+      "text_cleaned_length": 9,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
