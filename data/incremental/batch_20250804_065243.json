@@ -1,0 +1,203 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_065243",
+    "post_count": 7,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 06:45:10.007000",
+    "latest_received_at": "2025-08-04 06:50:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvklvnq5upr2",
+      "text": "* One is reminded of the courtesy port call made in 2005 by HMS Spartan to Rio de Janeiro.\n\nAllowing the public to view the Dry Deck Shelter (DDS) on her quarterdeck was a not-so-subtle post-Falklands War reminder to the navy of Brazil\u2019s neighbour Argentina of the [\u2026] \n\n[Original post on mas.to]",
+      "text_cleaned": "* One is reminded of the courtesy port call made in 2005 by HMS Spartan to Rio de Janeiro. Allowing the public to view the Dry Deck Shelter (DDS) on her quarterdeck was a not-so-subtle post-Falklands War reminder to the navy of Brazil\u2019s neighbour Argentina of the [\u2026] [Original post on mas.to]",
+      "text_preview": "* One is reminded of the courtesy port call made in 2005 by HMS Spartan to Rio de Janeiro.\n\nAllowing the public to view the Dry Deck Shelter (DDS) on her quarterdeck was a not-so-subtle post-Falklands...",
+      "author": "philipcjames.mas.to.ap.brid.gy",
+      "author_display_name": "Philip C James",
+      "created_at": "2025-08-04T06:46:20.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:50:03.079715",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:50:10.008000",
+      "text_length": 296,
+      "text_cleaned_length": 293,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvklt6kves2i",
+      "text": "theconversation.com/from-printin...\n\nSwap the printing press for social media, and it\u2019s d\u00e9j\u00e0 vu: viral nonsense, fearmongering, and people getting destroyed for clicks. Same con, different century\u2014only now the pitchforks are digital, and the publishers are billionaires with algorithms.\n\n#trump #maga",
+      "text_cleaned": "theconversation.com/from-printin... Swap the printing press for social media, and it\u2019s d\u00e9j\u00e0 vu: viral nonsense, fearmongering, and people getting destroyed for clicks. Same con, different century\u2014only now the pitchforks are digital, and the publishers are billionaires with algorithms.",
+      "text_preview": "theconversation.com/from-printin...\n\nSwap the printing press for social media, and it\u2019s d\u00e9j\u00e0 vu: viral nonsense, fearmongering, and people getting destroyed for clicks. Same con, different century\u2014onl...",
+      "author": "moxymcmxlvii.bsky.social",
+      "author_display_name": "GW",
+      "created_at": "2025-08-04T06:44:59.335Z",
+      "hashtags": "['#maga' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:50:03.079724",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:50:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 285,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvklxwrets2i",
+      "text": "#JeffreyEpstein #GhislaineMaxwell #Trump #Pedophile #Paedophile #MeToo #ChurchToo\nBack when I was on Twitter I followed alot of sexual abuse survivors & they always reminded us that media coverage of abusers can be very triggering & encouraged us to take breaks & use self care. Take care of you. \ud83d\udc99\ud83d\udc99",
+      "text_cleaned": "Back when I was on Twitter I followed alot of sexual abuse survivors & they always reminded us that media coverage of abusers can be very triggering & encouraged us to take breaks & use self care. Take care of you. \ud83d\udc99\ud83d\udc99",
+      "text_preview": "#JeffreyEpstein #GhislaineMaxwell #Trump #Pedophile #Paedophile #MeToo #ChurchToo\nBack when I was on Twitter I followed alot of sexual abuse survivors & they always reminded us that media coverage of ...",
+      "author": "sandybeaches21.bsky.social",
+      "author_display_name": "SandyBeaches21.bsky.social",
+      "created_at": "2025-08-04T06:47:38.931Z",
+      "hashtags": "['#Paedophile' '#MeToo' '#GhislaineMaxwell' '#JeffreyEpstein' '#Pedophile'\n '#ChurchToo' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:50:03.079705",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:50:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 217,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkm2bu4k22b",
+      "text": "Done! #Australia #auspol #Israel #GHF #Netanyahu #warcriminal #zionazis #Palestine #Gaza #OccupiedWestBank #genocide #jewishterrorists #crimesgainsthumanity #USA #Trump #unfit",
+      "text_cleaned": "Done!",
+      "text_preview": "Done! #Australia #auspol #Israel #GHF #Netanyahu #warcriminal #zionazis #Palestine #Gaza #OccupiedWestBank #genocide #jewishterrorists #crimesgainsthumanity #USA #Trump #unfit",
+      "author": "maximgrosky.bsky.social",
+      "author_display_name": "Max G",
+      "created_at": "2025-08-04T06:48:57.664Z",
+      "hashtags": "['#OccupiedWestBank' '#Australia' '#genocide' '#warcriminal' '#USA' '#GHF'\n '#auspol' '#Netanyahu' '#crimesgainsthumanity' '#unfit' '#zionazis'\n '#Gaza' '#Israel' '#Trump' '#Palestine' '#jewishterrorists']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:50:03.079689",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:50:10.008000",
+      "text_length": 175,
+      "text_cleaned_length": 5,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkloxhzds2m",
+      "text": "Erika McEntarfer, hoofd van het Amerikaanse CBS, is door Donald #Trump ontslagen nadat ze teleurstellende cijfers over de  ontwikkeling vd werkgelegenheid had gepubliceerd. Een oud idee: Margaret Thatcher zette het mes in het Engelse CBS om te voorkomen dat de oppositie zijn kritiek kon onderbouwen.",
+      "text_cleaned": "Erika McEntarfer, hoofd van het Amerikaanse CBS, is door Donald ontslagen nadat ze teleurstellende cijfers over de ontwikkeling vd werkgelegenheid had gepubliceerd. Een oud idee: Margaret Thatcher zette het mes in het Engelse CBS om te voorkomen dat de oppositie zijn kritiek kon onderbouwen.",
+      "text_preview": "Erika McEntarfer, hoofd van het Amerikaanse CBS, is door Donald #Trump ontslagen nadat ze teleurstellende cijfers over de  ontwikkeling vd werkgelegenheid had gepubliceerd. Een oud idee: Margaret That...",
+      "author": "paulusjansen.bsky.social",
+      "author_display_name": "Paulus Jansen",
+      "created_at": "2025-08-04T06:42:37.684Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:45:03.070803",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:45:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 292,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvklladdic2z",
+      "text": "vt.tiktok.com/ZSSmBRRAK/ David v Goliath - Canadian Firm to Sue Trump and US Administration for Fraud on an International Scale.\nopen.substack.com/pub/propicsm...\n\n#Trump #Tariffs #Lawsuits #Trumpchallenge #Trumplawsuit #TariffImpact #Legal #Law #internationallaw #TrumpFiles #PresidentTrump #News",
+      "text_cleaned": "vt.tiktok.com/ZSSmBRRAK/ David v Goliath - Canadian Firm to Sue Trump and US Administration for Fraud on an International Scale. open.substack.com/pub/propicsm...",
+      "text_preview": "vt.tiktok.com/ZSSmBRRAK/ David v Goliath - Canadian Firm to Sue Trump and US Administration for Fraud on an International Scale.\nopen.substack.com/pub/propicsm...\n\n#Trump #Tariffs #Lawsuits #Trumpchal...",
+      "author": "propicstv.bsky.social",
+      "author_display_name": "ProPics TV",
+      "created_at": "2025-08-04T06:40:32.750Z",
+      "hashtags": "['#Trumpchallenge' '#News' '#Tariffs' '#TariffImpact' '#Law'\n '#internationallaw' '#Legal' '#PresidentTrump' '#Trump' '#Trumplawsuit'\n '#TrumpFiles' '#Lawsuits']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:45:03.070813",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:45:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 162,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvklk6e4hs27",
+      "text": "Ger\u00f3nimo. 2025. Acuarela. 29'7 cm x 21 cm. Juan Jos\u00e9 Valencia Rodr\u00edguez. Juanjo Valencia Juan Jos\u00e9 Valencia \n\n#arte #art #trump #ger\u00f3nimo #indio #deaplazados #usa #trump #Cultura #comunidas #pueblo #usa #desplazamiento\n\nwww.juanjosvalencia.net\nstore.juanjosevalencia.net",
+      "text_cleaned": "Ger\u00f3nimo. 2025. Acuarela. 29'7 cm x 21 cm. Juan Jos\u00e9 Valencia Rodr\u00edguez. Juanjo Valencia Juan Jos\u00e9 Valencia store.juanjosevalencia.net",
+      "text_preview": "Ger\u00f3nimo. 2025. Acuarela. 29'7 cm x 21 cm. Juan Jos\u00e9 Valencia Rodr\u00edguez. Juanjo Valencia Juan Jos\u00e9 Valencia \n\n#arte #art #trump #ger\u00f3nimo #indio #deaplazados #usa #trump #Cultura #comunidas #pueblo #u...",
+      "author": "juanjovalencia.bsky.social",
+      "author_display_name": "Juanjo Valencia",
+      "created_at": "2025-08-04T06:39:57.098Z",
+      "hashtags": "['#arte' '#deaplazados' '#Cultura' '#ger\u00f3nimo' '#indio' '#usa' '#trump'\n '#art' '#pueblo' '#desplazamiento' '#comunidas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:45:03.070823",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:45:10.007000",
+      "text_length": 270,
+      "text_cleaned_length": 134,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    }
+  ]
+}
