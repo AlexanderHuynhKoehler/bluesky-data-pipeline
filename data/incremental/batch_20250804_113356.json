@@ -1,0 +1,527 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_113356",
+    "post_count": 19,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 11:25:10.008000",
+    "latest_received_at": "2025-08-04 11:30:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvl3puxkjk2p",
+      "text": "\ud83e\udd14 Ever wondered about the history of \ud83c\uddec\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 relations\u2753 It's a rollercoaster ride that shows no signs of stopping under a second #Trump administration \u27a1\ufe0f check out the relevant chapter of our latest book!\n\n\ud83d\udd17 tepsa.eu/book-on-the-... @unidue.bsky.social @sfu.ac.at @oegfe.bsky.social @eliamep.bsky.social",
+      "text_cleaned": "\ud83e\udd14 Ever wondered about the history of \ud83c\uddec\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 relations\u2753 It's a rollercoaster ride that shows no signs of stopping under a second administration \u27a1\ufe0f check out the relevant chapter of our latest book! \ud83d\udd17 tepsa.eu/book-on-the-... .bsky.social .ac.at .bsky.social .bsky.social",
+      "text_preview": "\ud83e\udd14 Ever wondered about the history of \ud83c\uddec\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 relations\u2753 It's a rollercoaster ride that shows no signs of stopping under a second #Trump administration \u27a1\ufe0f check out the relevant chapter of our latest book...",
+      "author": "tepsa.bsky.social",
+      "author_display_name": "Trans European Policy Studies Association (TEPSA)",
+      "created_at": "2025-08-04T11:29:28.469Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@oegfe.bsky.social' '@sfu.ac.at' '@eliamep.bsky.social'\n '@unidue.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.444992",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 267,
+      "hashtag_count": 1,
+      "mention_count": 4,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3nbs3js25",
+      "text": "\ud83d\udd3bYOUR 401K SINKS: No Jobs + Trump Tariffs\n\u2753KILL THE MESSENGER: Can U Trust Future # \n\ud83d\udc72EPSTEIN: Trump Can\u2019t Make Story Go Away\n\ud83e\udd16ChatGPT: Passes \u2018I\u2019m Not A Robot\u2019 Test\n\ud83d\udcfaDEAD: Loni Anderson, Star of \u2018WKRP\u2019\n\u27a1\ufe0fGISERMANGROUP: Gets YOU Noticed\n\nopen.substack.com/pub/giserman...\n#BreakingNews #Trump #Epstein",
+      "text_cleaned": "\ud83d\udd3bYOUR 401K SINKS: No Jobs + Trump Tariffs \u2753KILL THE MESSENGER: Can U Trust Future # \ud83d\udc72EPSTEIN: Trump Can\u2019t Make Story Go Away \ud83e\udd16ChatGPT: Passes \u2018I\u2019m Not A Robot\u2019 Test \ud83d\udcfaDEAD: Loni Anderson, Star of \u2018WKRP\u2019 \u27a1\ufe0fGISERMANGROUP: Gets YOU Noticed open.substack.com/pub/giserman...",
+      "text_preview": "\ud83d\udd3bYOUR 401K SINKS: No Jobs + Trump Tariffs\n\u2753KILL THE MESSENGER: Can U Trust Future # \n\ud83d\udc72EPSTEIN: Trump Can\u2019t Make Story Go Away\n\ud83e\udd16ChatGPT: Passes \u2018I\u2019m Not A Robot\u2019 Test\n\ud83d\udcfaDEAD: Loni Anderson, Star of \u2018WKR...",
+      "author": "gisermangroup.bsky.social",
+      "author_display_name": "GisermanGroup.com",
+      "created_at": "2025-08-04T11:28:01.260Z",
+      "hashtags": "['#BreakingNews' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445047",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 301,
+      "text_cleaned_length": 269,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3qfl2dk2s",
+      "text": "@charlamagnethagod.bsky.social just when you thought you were the bigger, N*gg*r, #Trump shows that you are just another 'Sleazebag' N*gg*r!  \nYou seemed to have all the answers during the election... Now, look at you. You would be upset if the Black Community called U a Uncle Tom, but a Sleazebag?\ud83d\ude02",
+      "text_cleaned": ".bsky.social just when you thought you were the bigger, N*gg*r, shows that you are just another 'Sleazebag' N*gg*r! You seemed to have all the answers during the election... Now, look at you. You would be upset if the Black Community called U a Uncle Tom, but a Sleazebag?\ud83d\ude02",
+      "text_preview": "@charlamagnethagod.bsky.social just when you thought you were the bigger, N*gg*r, #Trump shows that you are just another 'Sleazebag' N*gg*r!  \nYou seemed to have all the answers during the election......",
+      "author": "labellofoglia.bsky.social",
+      "author_display_name": "La Bello Foglia",
+      "created_at": "2025-08-04T11:29:45.886Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@charlamagnethagod.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.444984",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 273,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3ez4ozk2v",
+      "text": "#Trump is shattered to pieces in approval ratings, i.e. by Gallup.\nOne analyst noticed that he is \"!bad poop crazy\" as his cognitive disorder accelerates.\nFor example he claimed, that \"he ended the war in #Ruanda\", which was 1994!\n\nTrump's on breaking mood conditions!\nwww.youtube.com/watch?v=CzuE...",
+      "text_cleaned": "is shattered to pieces in approval ratings, i.e. by Gallup. One analyst noticed that he is \"!bad poop crazy\" as his cognitive disorder accelerates. For example he claimed, that \"he ended the war in \", which was 1994! Trump's on breaking mood conditions!",
+      "text_preview": "#Trump is shattered to pieces in approval ratings, i.e. by Gallup.\nOne analyst noticed that he is \"!bad poop crazy\" as his cognitive disorder accelerates.\nFor example he claimed, that \"he ended the wa...",
+      "author": "angrybeast.bsky.social",
+      "author_display_name": "Angry Beast",
+      "created_at": "2025-08-04T11:23:23.735Z",
+      "hashtags": "['#Ruanda' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445105",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 253,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3ojop3s2b",
+      "text": "\"Once you have seen that Donald Trump is confabulating, it cannot be unseen and all sorts of other mildly disturbing incidents suddenly fall into place.\"\n#USA #Trump #BatshitCrazy #unfit #felon #TrumpCrimeFamily #Treason #autocracy #Obscurantism #ChristoFascism #MAGA thehill.com/opinion/camp...",
+      "text_cleaned": "\"Once you have seen that Donald Trump is confabulating, it cannot be unseen and all sorts of other mildly disturbing incidents suddenly fall into place.\" thehill.com/opinion/camp...",
+      "text_preview": "\"Once you have seen that Donald Trump is confabulating, it cannot be unseen and all sorts of other mildly disturbing incidents suddenly fall into place.\"\n#USA #Trump #BatshitCrazy #unfit #felon #Trump...",
+      "author": "maximgrosky.bsky.social",
+      "author_display_name": "Max G",
+      "created_at": "2025-08-04T11:28:43.091Z",
+      "hashtags": "['#felon' '#Trump' '#TrumpCrimeFamily' '#ChristoFascism' '#MAGA'\n '#BatshitCrazy' '#unfit' '#Treason' '#Obscurantism' '#autocracy' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445026",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 295,
+      "text_cleaned_length": 181,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3odt4622t",
+      "text": "#Russia #Trump #Epstein @scotnational.bsky.social @rollingstone.com @us.theguardian.com @msnbc.com @pbsnews.org @npr.org @nytimes.com @usatoday.com @bbcnewsnight.bsky.social @theglobeandmail.com @theintercept.com @news.dw.com @english.lemonde.fr Many thanks! @kylekulinskishow.bsky.social",
+      "text_cleaned": ".bsky.social .com .theguardian.com .com .org .org .com .com .bsky.social .com .com .dw.com .lemonde.fr Many thanks! .bsky.social",
+      "text_preview": "#Russia #Trump #Epstein @scotnational.bsky.social @rollingstone.com @us.theguardian.com @msnbc.com @pbsnews.org @npr.org @nytimes.com @usatoday.com @bbcnewsnight.bsky.social @theglobeandmail.com @thei...",
+      "author": "mal-c.bsky.social",
+      "author_display_name": "Mal",
+      "created_at": "2025-08-04T11:28:36.931Z",
+      "hashtags": "['#Russia' '#Epstein' '#Trump']",
+      "mentions": "['@theintercept.com' '@nytimes.com' '@pbsnews.org' '@rollingstone.com'\n '@theglobeandmail.com' '@scotnational.bsky.social'\n '@bbcnewsnight.bsky.social' '@english.lemonde.fr' '@usatoday.com'\n '@kylekulinskishow.bsky.social' '@msnbc.com' '@us.theguardian.com'\n '@npr.org' '@news.dw.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445038",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 288,
+      "text_cleaned_length": 128,
+      "hashtag_count": 3,
+      "mention_count": 14,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3oucg6s26",
+      "text": "The August / September issue of The Progressive is OUT NOW.\n#democracy #justice #Fascism #Trump\nClick the link to get your copy today for ONLY $7.50: bit.ly/4llD9Mc",
+      "text_cleaned": "The August / September issue of The Progressive is OUT NOW. Click the link to get your copy today for ONLY $7.50: bit.ly/4llD9Mc",
+      "text_preview": "The August / September issue of The Progressive is OUT NOW.\n#democracy #justice #Fascism #Trump\nClick the link to get your copy today for ONLY $7.50: bit.ly/4llD9Mc",
+      "author": "theprogressivemag.bsky.social",
+      "author_display_name": "The Progressive Magazine",
+      "created_at": "2025-08-04T11:28:54.223Z",
+      "hashtags": "['#Fascism' '#justice' '#Trump' '#democracy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445009",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 164,
+      "text_cleaned_length": 128,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3iqk55s2y",
+      "text": "\u0130svi\u00e7re\u2019nin ABD tarifelerine kar\u015f\u0131 yeni \u00f6nerisi masada olaynet.net/2025/08/isvi... #guy parmelin #isvi\u00e7re abd gerilimi #ticaret diplomasisi #trump tarifesi #D\u00fcnya",
+      "text_cleaned": "\u0130svi\u00e7re\u2019nin ABD tarifelerine kar\u015f\u0131 yeni \u00f6nerisi masada olaynet.net/2025/08/isvi... parmelin abd gerilimi diplomasisi tarifesi",
+      "text_preview": "\u0130svi\u00e7re\u2019nin ABD tarifelerine kar\u015f\u0131 yeni \u00f6nerisi masada olaynet.net/2025/08/isvi... #guy parmelin #isvi\u00e7re abd gerilimi #ticaret diplomasisi #trump tarifesi #D\u00fcnya",
+      "author": "olaynet.bsky.social",
+      "author_display_name": "OLAYNET.NET",
+      "created_at": "2025-08-04T11:25:28.955Z",
+      "hashtags": "['#isvi\u00e7re' '#ticaret' '#guy' '#D\u00fcnya' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445076",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 162,
+      "text_cleaned_length": 125,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3lvzrxk2k",
+      "text": "#taco #trump does what ..?! \ud83e\udd2a\ud83c\udf2e\ud83c\uddee\ud83c\uddf1 #gaza #hamas #israel #iran #terrorism",
+      "text_cleaned": "does what ..?! \ud83e\udd2a\ud83c\udf2e\ud83c\uddee\ud83c\uddf1",
+      "text_preview": "#taco #trump does what ..?! \ud83e\udd2a\ud83c\udf2e\ud83c\uddee\ud83c\uddf1 #gaza #hamas #israel #iran #terrorism",
+      "author": "andyger.bsky.social",
+      "author_display_name": "Der Motzmichel auf Bluesky!!! \ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\udde6\ud83c\uddea\ud83c\uddfa\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83d\udd4a\ufe0f\u262e\ufe0f\ud83c\udf4d\u2764\ufe0f\ud83e\udd2a\ud83d\ude80\ud83d\udd96\ud83c\udffd\u270c\ud83c\udffd\ud83d\udd95\ud83c\udffc\ud83d\ude48\ud83e\udd21",
+      "created_at": "2025-08-04T11:27:15.374Z",
+      "hashtags": "['#hamas' '#iran' '#taco' '#gaza' '#trump' '#israel' '#terrorism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445056",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 70,
+      "text_cleaned_length": 19,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3owz6xs2m",
+      "text": "\n#killed   #Putin   #Sanctions   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War   #Zelenskyy",
+      "text_cleaned": "Witkoff War",
+      "text_preview": "\n#killed   #Putin   #Sanctions   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War   #Zelenskyy",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-04T11:29:03.747470+00:00",
+      "hashtags": "['#Trump' '#Sanctions' '#Ukraine' '#Steve' '#Putin' '#Zelenskyy' '#killed']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445002",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 95,
+      "text_cleaned_length": 11,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3oj74a22z",
+      "text": "\n#fire   #Global trade   #Putin   #Trump   #Ukraine   #Zelenskyy",
+      "text_cleaned": "trade",
+      "text_preview": "\n#fire   #Global trade   #Putin   #Trump   #Ukraine   #Zelenskyy",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-04T11:28:49.267064+00:00",
+      "hashtags": "['#fire' '#Trump' '#Ukraine' '#Putin' '#Zelenskyy' '#Global']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445017",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 64,
+      "text_cleaned_length": 5,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3kad5uk2e",
+      "text": "#Trump destruction of America",
+      "text_cleaned": "destruction of America",
+      "text_preview": "#Trump destruction of America",
+      "author": "missplaced.bsky.social",
+      "author_display_name": "MissPlaced ",
+      "created_at": "2025-08-04T11:26:19.058Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445069",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 29,
+      "text_cleaned_length": 22,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3klvkfs27",
+      "text": "#truth #imgay #real #noai #lies #trump",
+      "text_cleaned": "",
+      "text_preview": "#truth #imgay #real #noai #lies #trump",
+      "author": "dumbdog.pet",
+      "author_display_name": "Star",
+      "created_at": "2025-08-04T11:26:31.186Z",
+      "hashtags": "['#real' '#lies' '#truth' '#noai' '#trump' '#imgay']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:30:03.445063",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:30:10.008000",
+      "text_length": 38,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lvl3gwnotk2t",
+      "text": "The defense industry in booming thanks to the aggression of #Putin and the cowardly indecisive venal attitude of #Trump.\nI guess workers saw an opportunity to get a share of the windfall.\n#Ukraine #Ukrainewar\nwww.bbc.com/news/article...",
+      "text_cleaned": "The defense industry in booming thanks to the aggression of and the cowardly indecisive venal attitude of . I guess workers saw an opportunity to get a share of the windfall.",
+      "text_preview": "The defense industry in booming thanks to the aggression of #Putin and the cowardly indecisive venal attitude of #Trump.\nI guess workers saw an opportunity to get a share of the windfall.\n#Ukraine #Uk...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-04T11:24:28.254Z",
+      "hashtags": "['#Trump' '#Ukraine' '#Putin' '#Ukrainewar']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:25:03.593716",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:25:10.008000",
+      "text_length": 236,
+      "text_cleaned_length": 174,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3d776jk2r",
+      "text": "#Trump #regime Censored freedom of speech on American Universities applies only when Israel is involved #Isra\u00ebl \n\n#AMERICAFIRST\n\n@glenngreenwaldd.bsky.social \nyoutu.be/UQK6f0a4Z5g?...",
+      "text_cleaned": "Censored freedom of speech on American Universities applies only when Israel is involved .bsky.social youtu.be/UQK6f0a4Z5g?...",
+      "text_preview": "#Trump #regime Censored freedom of speech on American Universities applies only when Israel is involved #Isra\u00ebl \n\n#AMERICAFIRST\n\n@glenngreenwaldd.bsky.social \nyoutu.be/UQK6f0a4Z5g?...",
+      "author": "latindancelover51.bsky.social",
+      "author_display_name": "joisk@\ud83c\uddf5\ud83c\uddf8",
+      "created_at": "2025-08-04T11:22:22.995Z",
+      "hashtags": "['#Trump' '#Isra\u00ebl' '#AMERICAFIRST' '#regime']",
+      "mentions": "['@glenngreenwaldd.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:25:03.593759",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:25:10.008000",
+      "text_length": 183,
+      "text_cleaned_length": 126,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3gjvmak2w",
+      "text": "1sgcal\n\nThe truth about our nation's economy in relation to the way Democrats & Republicans deal with it. The truth is in the data.\n\n#maga #cult #trump #fraud #economy\n\nwww.instagram.com/reel/DM5tC5f...",
+      "text_cleaned": "1sgcal The truth about our nation's economy in relation to the way Democrats & Republicans deal with it. The truth is in the data.",
+      "text_preview": "1sgcal\n\nThe truth about our nation's economy in relation to the way Democrats & Republicans deal with it. The truth is in the data.\n\n#maga #cult #trump #fraud #economy\n\nwww.instagram.com/reel/DM5tC5f....",
+      "author": "usmedic91-a.bsky.social",
+      "author_display_name": "Luis Angel Rosario",
+      "created_at": "2025-08-04T11:24:14.873Z",
+      "hashtags": "['#economy' '#fraud' '#maga' '#cult' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:25:03.593397",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:25:10.008000",
+      "text_length": 202,
+      "text_cleaned_length": 130,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl3ed5cac2y",
+      "text": "Hindistan\u2019dan Trump\u2019a enerji resti olaynet.net/2025/08/hind... #hindistan rusya enerji #nyt haberi #petrol diplomasisi #trump yapt\u0131r\u0131m\u0131 #Genel",
+      "text_cleaned": "Hindistan\u2019dan Trump\u2019a enerji resti olaynet.net/2025/08/hind... rusya enerji haberi diplomasisi yapt\u0131r\u0131m\u0131",
+      "text_preview": "Hindistan\u2019dan Trump\u2019a enerji resti olaynet.net/2025/08/hind... #hindistan rusya enerji #nyt haberi #petrol diplomasisi #trump yapt\u0131r\u0131m\u0131 #Genel",
+      "author": "olaynet.bsky.social",
+      "author_display_name": "OLAYNET.NET",
+      "created_at": "2025-08-04T11:23:00.684Z",
+      "hashtags": "['#hindistan' '#nyt' '#trump' '#petrol' '#Genel']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:25:03.593747",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:25:10.008000",
+      "text_length": 142,
+      "text_cleaned_length": 104,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvl3clx4ns2y",
+      "text": "Brezilya\u2019da Trump\u2019a g\u00fcmr\u00fck tepkisi olaynet.net/2025/08/brez... #brezilya protestosu #lula yan\u0131t\u0131 #trump tarifesi #une \u00f6nc\u00fcl\u00fc\u011f\u00fc #D\u00fcnya",
+      "text_cleaned": "Brezilya\u2019da Trump\u2019a g\u00fcmr\u00fck tepkisi olaynet.net/2025/08/brez... protestosu yan\u0131t\u0131 tarifesi \u00f6nc\u00fcl\u00fc\u011f\u00fc",
+      "text_preview": "Brezilya\u2019da Trump\u2019a g\u00fcmr\u00fck tepkisi olaynet.net/2025/08/brez... #brezilya protestosu #lula yan\u0131t\u0131 #trump tarifesi #une \u00f6nc\u00fcl\u00fc\u011f\u00fc #D\u00fcnya",
+      "author": "olaynet.bsky.social",
+      "author_display_name": "OLAYNET.NET",
+      "created_at": "2025-08-04T11:22:02.812Z",
+      "hashtags": "['#une' '#D\u00fcnya' '#trump' '#lula' '#brezilya']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:25:03.593771",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:25:10.008000",
+      "text_length": 133,
+      "text_cleaned_length": 98,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvl3fwfens2k",
+      "text": "..die fahren den #Trump Kurs \nAlles NAZIS \ud83d\udc7f",
+      "text_cleaned": "..die fahren den Kurs Alles NAZIS \ud83d\udc7f",
+      "text_preview": "..die fahren den #Trump Kurs \nAlles NAZIS \ud83d\udc7f",
+      "author": "animusmundus17.bsky.social",
+      "author_display_name": "Animus Mundus",
+      "created_at": "2025-08-04T11:23:54.426Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:25:03.593736",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:25:10.008000",
+      "text_length": 43,
+      "text_cleaned_length": 35,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
