@@ -1,0 +1,419 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_171646",
+    "post_count": 15,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 17:10:10.009000",
+    "latest_received_at": "2025-08-04 17:15:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvlorey5dt32",
+      "text": "KYIV POST:\nCustoms Chief Selection Process Launched in Ukraine\n\nThe Ukrainian government has formed a selection committee to start the process of reforming the state customs service, a condition to unlock the ninth review under the IMF program.\n\nhttps://www.kyivpost.com/post/57524\n\n#Ukraine #Economy",
+      "text_cleaned": "KYIV POST: Customs Chief Selection Process Launched in Ukraine The Ukrainian government has formed a selection committee to start the process of reforming the state customs service, a condition to unlock the ninth review under the IMF program.",
+      "text_preview": "KYIV POST:\nCustoms Chief Selection Process Launched in Ukraine\n\nThe Ukrainian government has formed a selection committee to start the process of reforming the state customs service, a condition to un...",
+      "author": "ukrdef.mstdn.social.ap.brid.gy",
+      "author_display_name": "",
+      "created_at": "2025-08-04T17:10:12.000Z",
+      "hashtags": "['#Ukraine' '#Economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:15:03.982445",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:15:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 243,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvloqqklp22p",
+      "text": "#Trump wants Anericans starting in school to have fitness test like I had when kids which is find. We need more physical activities. But know this, #Trump real hard physical activity in his life is swinging #GolfClub and if you watch his swing, it is close to #CharlesBarkleys swing.",
+      "text_cleaned": "wants Anericans starting in school to have fitness test like I had when kids which is find. We need more physical activities. But know this, real hard physical activity in his life is swinging and if you watch his swing, it is close to swing.",
+      "text_preview": "#Trump wants Anericans starting in school to have fitness test like I had when kids which is find. We need more physical activities. But know this, #Trump real hard physical activity in his life is sw...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T17:09:58.500Z",
+      "hashtags": "['#CharlesBarkleys' '#GolfClub' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:15:03.982890",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:15:10.007000",
+      "text_length": 283,
+      "text_cleaned_length": 242,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlornecss2x",
+      "text": "#MichaelWolff The first six months of Trump, in government. The present, the past, about #Epstein #Bannon and the future in his own words. It has been a very interesting interview that resumes very well, the disgrace of #Trump Check it out! \nyoutu.be/HlrRr4ljLFM",
+      "text_cleaned": "The first six months of Trump, in government. The present, the past, about and the future in his own words. It has been a very interesting interview that resumes very well, the disgrace of Check it out! youtu.be/HlrRr4ljLFM",
+      "text_preview": "#MichaelWolff The first six months of Trump, in government. The present, the past, about #Epstein #Bannon and the future in his own words. It has been a very interesting interview that resumes very we...",
+      "author": "arceventos.bsky.social",
+      "author_display_name": "ANGELA ESMERALDA",
+      "created_at": "2025-08-04T17:10:28.700Z",
+      "hashtags": "['#Bannon' '#MichaelWolff' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:15:03.982771",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:15:10.007000",
+      "text_length": 262,
+      "text_cleaned_length": 223,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlor3y24x2h",
+      "text": "\u2728MYSTIC IN MY POCKET\u2728Each day, you\u2019ll walk beside one of the great Christian mystics\ud83d\udcda amazon.com/author/mystic1 $2.99\n\n#mysticism #catholic #spiritual #mindfulness ##faith #christian #mystics #art #photography #beautiful #nature #travel #happy #trump #maga #dems #jesus #christian #faith #belief",
+      "text_cleaned": "\u2728MYSTIC IN MY POCKET\u2728Each day, you\u2019ll walk beside one of the great Christian mystics\ud83d\udcda amazon.com/author/mystic1 $2.99 #",
+      "text_preview": "\u2728MYSTIC IN MY POCKET\u2728Each day, you\u2019ll walk beside one of the great Christian mystics\ud83d\udcda amazon.com/author/mystic1 $2.99\n\n#mysticism #catholic #spiritual #mindfulness ##faith #christian #mystics #art #ph...",
+      "author": "1mystic1.bsky.social",
+      "author_display_name": "Mystic 1",
+      "created_at": "2025-08-04T17:10:10.435Z",
+      "hashtags": "['#beautiful' '#spiritual' '#christian' '#mysticism' '#maga' '#art'\n '#happy' '#mystics' '#faith' '#photography' '#jesus' '#dems' '#belief'\n '#travel' '#mindfulness' '#catholic' '#nature' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:15:03.982879",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:15:10.007000",
+      "text_length": 295,
+      "text_cleaned_length": 119,
+      "hashtag_count": 18,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvloyqymh52u",
+      "text": "\"Rusia no necesita desplegar misiles en Venezuela. Puede llegar a EEUU sin problema\". Manj\u00f3n\n\nhttps://youtu.be/f2gUlypoByA\u00a0\n\n#rusia #eeuu #misiles #venezuela #nuclear #nuclearwar #uspresident #trump #guerranuclear #putin #geopolitica #negociostv",
+      "text_cleaned": "\"Rusia no necesita desplegar misiles en Venezuela. Puede llegar a EEUU sin problema\". Manj\u00f3n",
+      "text_preview": "\"Rusia no necesita desplegar misiles en Venezuela. Puede llegar a EEUU sin problema\". Manj\u00f3n\n\nhttps://youtu.be/f2gUlypoByA\u00a0\n\n#rusia #eeuu #misiles #venezuela #nuclear #nuclearwar #uspresident #trump #...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-04T17:14:27.243537Z",
+      "hashtags": "['#geopolitica' '#venezuela' '#negociostv' '#misiles' '#eeuu' '#rusia'\n '#nuclear' '#nuclearwar' '#guerranuclear' '#uspresident' '#putin'\n '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:15:03.982734",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:15:10.007000",
+      "text_length": 245,
+      "text_cleaned_length": 92,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvloxeuvo22x",
+      "text": "#Trump set up the conditions for Ghislaine Maxwell could be set free!\n\nyoutu.be/8VYXJCi8rDc?...",
+      "text_cleaned": "set up the conditions for Ghislaine Maxwell could be set free! youtu.be/8VYXJCi8rDc?...",
+      "text_preview": "#Trump set up the conditions for Ghislaine Maxwell could be set free!\n\nyoutu.be/8VYXJCi8rDc?...",
+      "author": "bassnbaitz.bsky.social",
+      "author_display_name": "Kris",
+      "created_at": "2025-08-04T17:13:41.137Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:15:03.982740",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:15:10.007000",
+      "text_length": 95,
+      "text_cleaned_length": 87,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlovyfjss24",
+      "text": "This is presidential! \n\n#Trump & #MAGA  must go! \n\nyoutu.be/0P5593ZwWjw?...",
+      "text_cleaned": "This is presidential! & must go! youtu.be/0P5593ZwWjw?...",
+      "text_preview": "This is presidential! \n\n#Trump & #MAGA  must go! \n\nyoutu.be/0P5593ZwWjw?...",
+      "author": "aleksandrina.bsky.social",
+      "author_display_name": "Aleksandrina",
+      "created_at": "2025-08-04T17:12:54.496Z",
+      "hashtags": "['#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:15:03.982750",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:15:10.007000",
+      "text_length": 75,
+      "text_cleaned_length": 57,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvloun6gog2f",
+      "text": "\n#Ceasefire   #Putin   #Trump   #Ukraine   #Zelenskyy",
+      "text_cleaned": "",
+      "text_preview": "\n#Ceasefire   #Putin   #Trump   #Ukraine   #Zelenskyy",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-04T17:12:15.590736+00:00",
+      "hashtags": "['#Putin' '#Trump' '#Zelenskyy' '#Ceasefire' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:15:03.982763",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:15:10.007000",
+      "text_length": 53,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlovozdek25",
+      "text": "End of #Trump as we know him \ud83d\ude01",
+      "text_cleaned": "End of as we know him \ud83d\ude01",
+      "text_preview": "End of #Trump as we know him \ud83d\ude01",
+      "author": "harrylocomusic.bsky.social",
+      "author_display_name": "HARRYLOCOMUSIC",
+      "created_at": "2025-08-04T17:12:44.653Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:15:03.982756",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:15:10.007000",
+      "text_length": 30,
+      "text_cleaned_length": 23,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlok4mr5c2n",
+      "text": "\ud83c\udde6\ud83c\uddf2\ud83c\udde6\ud83c\uddffGain a better understanding of Armenia-Azerbaijan relations and the history of the Nagorno-Karabakh conflict in the latest Wyoming Star interview with Dr. Anar Valiyev and Tatul Hakobyan.\nLearn more:\nwyomingstarnews.org/2025/08/04/e...\n#politics #analytics #Karabakh #Economy",
+      "text_cleaned": "\ud83c\udde6\ud83c\uddf2\ud83c\udde6\ud83c\uddffGain a better understanding of Armenia-Azerbaijan relations and the history of the Nagorno-Karabakh conflict in the latest Wyoming Star interview with Dr. Anar Valiyev and Tatul Hakobyan. Learn more: wyomingstarnews.org/2025/08/04/e...",
+      "text_preview": "\ud83c\udde6\ud83c\uddf2\ud83c\udde6\ud83c\uddffGain a better understanding of Armenia-Azerbaijan relations and the history of the Nagorno-Karabakh conflict in the latest Wyoming Star interview with Dr. Anar Valiyev and Tatul Hakobyan.\nLearn mo...",
+      "author": "joeyans.bsky.social",
+      "author_display_name": "Joseph Yans",
+      "created_at": "2025-08-04T17:06:16.274Z",
+      "hashtags": "['#Karabakh' '#analytics' '#politics' '#Economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:10:04.483086",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:10:10.009000",
+      "text_length": 279,
+      "text_cleaned_length": 239,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvloo2pqbs2x",
+      "text": "#Trump can\u2019t fire his way out of a failed economy.\n\n#Trump can\u2019t blame Biden for his own failures. \n\n#Truth always finds its way to the sunshine.\n\nyoutu.be/DGs5JWw6DGA?...",
+      "text_cleaned": "can\u2019t fire his way out of a failed economy. can\u2019t blame Biden for his own failures. always finds its way to the sunshine. youtu.be/DGs5JWw6DGA?...",
+      "text_preview": "#Trump can\u2019t fire his way out of a failed economy.\n\n#Trump can\u2019t blame Biden for his own failures. \n\n#Truth always finds its way to the sunshine.\n\nyoutu.be/DGs5JWw6DGA?...",
+      "author": "sheri89.bsky.social",
+      "author_display_name": "Sheri-Anne",
+      "created_at": "2025-08-04T17:08:28.492Z",
+      "hashtags": "['#Truth' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:10:04.483381",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:10:10.009000",
+      "text_length": 171,
+      "text_cleaned_length": 146,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlon6v6ac2f",
+      "text": "No surprise there. #Trump wants a police state. He has abused his power and sidelined states plus the judiciary.\n#TrumpDictator\nnewrepublic.com/article/1987...",
+      "text_cleaned": "No surprise there. wants a police state. He has abused his power and sidelined states plus the judiciary. newrepublic.com/article/1987...",
+      "text_preview": "No surprise there. #Trump wants a police state. He has abused his power and sidelined states plus the judiciary.\n#TrumpDictator\nnewrepublic.com/article/1987...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-04T17:07:59.310Z",
+      "hashtags": "['#TrumpDictator' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:10:04.483387",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:10:10.009000",
+      "text_length": 159,
+      "text_cleaned_length": 137,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlomoy2ak24",
+      "text": "Exclusive: Never Before Seen Autopsy Photo of Jeffrey Epstein's Broken Bones Released\n\n#Epstein #USA #Trump #uspoli #EpsteinFiles\n\nlawandcrime.com/exclusive/ex...",
+      "text_cleaned": "Exclusive: Never Before Seen Autopsy Photo of Jeffrey Epstein's Broken Bones Released lawandcrime.com/exclusive/ex...",
+      "text_preview": "Exclusive: Never Before Seen Autopsy Photo of Jeffrey Epstein's Broken Bones Released\n\n#Epstein #USA #Trump #uspoli #EpsteinFiles\n\nlawandcrime.com/exclusive/ex...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-04T17:07:42.626Z",
+      "hashtags": "['#Epstein' '#EpsteinFiles' '#Trump' '#uspoli' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:10:04.483398",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:10:10.009000",
+      "text_length": 162,
+      "text_cleaned_length": 117,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvlooyup6s25",
+      "text": "Fleischhauer wollte auch mehr #Trump wagen. Der sieht das wahrscheinlich heute auch noch so, was bei #Spahn nicht anders sein wird.",
+      "text_cleaned": "Fleischhauer wollte auch mehr wagen. Der sieht das wahrscheinlich heute auch noch so, was bei nicht anders sein wird.",
+      "text_preview": "Fleischhauer wollte auch mehr #Trump wagen. Der sieht das wahrscheinlich heute auch noch so, was bei #Spahn nicht anders sein wird.",
+      "author": "kampfmittelfrei.bsky.social",
+      "author_display_name": "Dieter Guldin",
+      "created_at": "2025-08-04T17:09:00.112Z",
+      "hashtags": "['#Spahn' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:10:04.483374",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:10:10.009000",
+      "text_length": 131,
+      "text_cleaned_length": 117,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvlokw37nc2p",
+      "text": "#Trump knows them all!",
+      "text_cleaned": "knows them all!",
+      "text_preview": "#Trump knows them all!",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-04T17:06:42.962Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T17:10:04.483404",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 17:10:10.009000",
+      "text_length": 22,
+      "text_cleaned_length": 15,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
