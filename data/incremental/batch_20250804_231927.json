@@ -1,0 +1,473 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_231927",
+    "post_count": 17,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 23:10:10.007000",
+    "latest_received_at": "2025-08-04 23:15:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmcuvpcy22c",
+      "text": "DJT's approval ratings is declining since the beginning of his second term. His overall job approval is in the range of 37-40%, with disapproval around 55-59%.\n\nCurrent approval ratings in his presidency are among the lowest for any modern president at the same point in their term.\n#trump #predatory",
+      "text_cleaned": "DJT's approval ratings is declining since the beginning of his second term. His overall job approval is in the range of 37-40%, with disapproval around 55-59%. Current approval ratings in his presidency are among the lowest for any modern president at the same point in their term.",
+      "text_preview": "DJT's approval ratings is declining since the beginning of his second term. His overall job approval is in the range of 37-40%, with disapproval around 55-59%.\n\nCurrent approval ratings in his preside...",
+      "author": "emy331.bsky.social",
+      "author_display_name": "\u00c9milie Lessard\ud83d\udc69\ud83c\udffb\u200d\ud83e\uddbd",
+      "created_at": "2025-08-04T23:10:12.951Z",
+      "hashtags": "['#predatory' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.325194",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 281,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvmd4azxh22q",
+      "text": "#Trump Eyes Bringing #Azerbaijan, Central Asian Nations Into Abraham Accords, Sources Say @reuters.com \ud83d\ude44\n\u2022 Accords to focus on deepening ties, not diplomatic normalization\n\u2022 Azerbaijan-Armenia conflict remains a sticking point",
+      "text_cleaned": "Eyes Bringing , Central Asian Nations Into Abraham Accords, Sources Say .com \ud83d\ude44 \u2022 Accords to focus on deepening ties, not diplomatic normalization \u2022 Azerbaijan-Armenia conflict remains a sticking point",
+      "text_preview": "#Trump Eyes Bringing #Azerbaijan, Central Asian Nations Into Abraham Accords, Sources Say @reuters.com \ud83d\ude44\n\u2022 Accords to focus on deepening ties, not diplomatic normalization\n\u2022 Azerbaijan-Armenia conflic...",
+      "author": "jnavas.com",
+      "author_display_name": "John Navas \u26f5\ud83c\udf09",
+      "created_at": "2025-08-04T23:14:19.716Z",
+      "hashtags": "['#Trump' '#Azerbaijan']",
+      "mentions": "['@reuters.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.325143",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 226,
+      "text_cleaned_length": 200,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmcyxujvq2r",
+      "text": "JUST IN via @cbsnews.com's Jacob Rosen:\n\n\"Attorney General Pam #Bondi has ordered a grand jury investigation into the intelligence regarding President #Trump and Russia in the run-up to the 2016 election.\"\nwww.cbsnews.com/news/doj-rus...",
+      "text_cleaned": "JUST IN via .com's Jacob Rosen: \"Attorney General Pam has ordered a grand jury investigation into the intelligence regarding President and Russia in the run-up to the 2016 election.\"",
+      "text_preview": "JUST IN via @cbsnews.com's Jacob Rosen:\n\n\"Attorney General Pam #Bondi has ordered a grand jury investigation into the intelligence regarding President #Trump and Russia in the run-up to the 2016 elect...",
+      "author": "devonheinen.bsky.social",
+      "author_display_name": "Devon Heinen",
+      "created_at": "2025-08-04T23:12:29.793Z",
+      "hashtags": "['#Bondi' '#Trump']",
+      "mentions": "['@cbsnews.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.325163",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 237,
+      "text_cleaned_length": 182,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmd32nb3k2s",
+      "text": "So... I guess I'm not getting Silent Hill f day 1.\nI know production value has grown for games, but I don't think people have the money to blow on $100 games, I know I don't.\n#Konami #SilentHillf #GamingCanada #Economy",
+      "text_cleaned": "So... I guess I'm not getting Silent Hill f day 1. I know production value has grown for games, but I don't think people have the money to blow on $100 games, I know I don't.",
+      "text_preview": "So... I guess I'm not getting Silent Hill f day 1.\nI know production value has grown for games, but I don't think people have the money to blow on $100 games, I know I don't.\n#Konami #SilentHillf #Gam...",
+      "author": "gameitall.com",
+      "author_display_name": "Lucas \"Grimm\"",
+      "created_at": "2025-08-04T23:13:39.451Z",
+      "hashtags": "['#SilentHillf' '#Konami' '#Economy' '#GamingCanada']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.324893",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 218,
+      "text_cleaned_length": 174,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmcycvqex2d",
+      "text": "\ud83d\udfe2 Importance: 85/100\n#news #Featured #TopStories #World #russia #trump #ukraine\n\nVladimir Putin has moved at least four heavy Tu-95MS nuclear bombers closer to Europe, says a report.The strategic aircraft are...",
+      "text_cleaned": "\ud83d\udfe2 Importance: 85/100 Vladimir Putin has moved at least four heavy Tu-95MS nuclear bombers closer to Europe, says a report.The strategic aircraft are...",
+      "text_preview": "\ud83d\udfe2 Importance: 85/100\n#news #Featured #TopStories #World #russia #trump #ukraine\n\nVladimir Putin has moved at least four heavy Tu-95MS nuclear bombers closer to Europe, says a report.The strategic airc...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-04T23:04:15+00:00",
+      "hashtags": "['#TopStories' '#trump' '#russia' '#ukraine' '#news' '#Featured' '#World']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.325265",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 211,
+      "text_cleaned_length": 151,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmcydghgc2n",
+      "text": "#USPOL #USA #us #uspoli #poli #politics #cdnpoli #canada #MidasMighty #america #Trump #TRUMP #MAGA #FuckTrump #fuckmaga #Anti-Fascist #antifa #AntiTrump #AntiMAGA #tuckfrump #coup #coupdetat #chaos #disorder #confusion #fascistfelon #authoritarians #stopthecoup #ConstitutionalCrisis #FightOligarchy",
+      "text_cleaned": "-Fascist",
+      "text_preview": "#USPOL #USA #us #uspoli #poli #politics #cdnpoli #canada #MidasMighty #america #Trump #TRUMP #MAGA #FuckTrump #fuckmaga #Anti-Fascist #antifa #AntiTrump #AntiMAGA #tuckfrump #coup #coupdetat #chaos #d...",
+      "author": "robduncan.bsky.social",
+      "author_display_name": "Rob Duncan",
+      "created_at": "2025-08-04T23:12:08.003Z",
+      "hashtags": "['#AntiMAGA' '#us' '#MAGA' '#AntiTrump' '#stopthecoup' '#TRUMP' '#uspoli'\n '#FightOligarchy' '#fascistfelon' '#coupdetat' '#MidasMighty' '#canada'\n '#cdnpoli' '#antifa' '#confusion' '#america' '#disorder' '#Trump' '#USA'\n '#FuckTrump' '#Anti' '#poli' '#authoritarians' '#USPOL' '#chaos'\n '#ConstitutionalCrisis' '#tuckfrump' '#coup' '#politics' '#fuckmaga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.325179",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 8,
+      "hashtag_count": 30,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmcuphw4k2y",
+      "text": "We are Just Asking Questions\n\nIs #Trump fucking his Press Secretary? \n\nyoutu.be/zaqjeh46vEc?...",
+      "text_cleaned": "We are Just Asking Questions Is fucking his Press Secretary? youtu.be/zaqjeh46vEc?...",
+      "text_preview": "We are Just Asking Questions\n\nIs #Trump fucking his Press Secretary? \n\nyoutu.be/zaqjeh46vEc?...",
+      "author": "theadhdoverlord.bsky.social",
+      "author_display_name": "TheADHDOverlord",
+      "created_at": "2025-08-04T23:10:06.418Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.325200",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 95,
+      "text_cleaned_length": 85,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmd3z6egm2r",
+      "text": "Charlamagne tha God responds to Trump's 'racist sleazebag' remark\n#Trump",
+      "text_cleaned": "Charlamagne tha God responds to Trump's 'racist sleazebag' remark",
+      "text_preview": "Charlamagne tha God responds to Trump's 'racist sleazebag' remark\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T23:14:08.530Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.325156",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 72,
+      "text_cleaned_length": 65,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmd3wvdux2y",
+      "text": "\n#Bolsonaro   #Haft   #Jair Bolsonaro   #Justiz   #Rechtsradikale   #Trump",
+      "text_cleaned": "Bolsonaro",
+      "text_preview": "\n#Bolsonaro   #Haft   #Jair Bolsonaro   #Justiz   #Rechtsradikale   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T23:14:15.199837+00:00",
+      "hashtags": "['#Justiz' '#Jair' '#Bolsonaro' '#Rechtsradikale' '#Haft' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.325151",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 74,
+      "text_cleaned_length": 9,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmd3yhbl22s",
+      "text": "Click Subscribe #Stocks #StockMarket #Investing #Finance #Economy",
+      "text_cleaned": "Click Subscribe",
+      "text_preview": "Click Subscribe #Stocks #StockMarket #Investing #Finance #Economy",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-04T23:14:10Z",
+      "hashtags": "['#StockMarket' '#Finance' '#Investing' '#Economy' '#Stocks']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.324875",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 65,
+      "text_cleaned_length": 15,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmcw7awtc2c",
+      "text": "#Epstein #Trump #Pedophile #Predator",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Pedophile #Predator",
+      "author": "ten24get.bsky.social",
+      "author_display_name": "Bill Wong ",
+      "created_at": "2025-08-04T23:10:56.521Z",
+      "hashtags": "['#Pedophile' '#Predator' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:15:03.325187",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:15:10.007000",
+      "text_length": 36,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmcr2clm223",
+      "text": "\ud835\uddd7\ud835\uddf2\ud835\uddfd\ud835\uddfc\ud835\uddff\ud835\ude01 \ud835\udde6\ud835\uddee\ud835\uddfb\ud835\ude01\ud835\uddee \ud835\uddd6\ud835\uddf9\ud835\uddee\ud835\ude02\ud835\ude00\n\n\ud835\ude22\ud835\ude2f \ud835\ude2a\ud835\ude2d\ud835\ude2d\ud835\ude26\ud835\ude28\ud835\ude22\ud835\ude2d \ud835\ude2a\ud835\ude2e\ud835\ude2e\ud835\ude2a\ud835\ude28\ud835\ude33\ud835\ude22\ud835\ude2f\ud835\ude35 \ud835\ude38\ud835\ude29\ud835\ude30 \ud835\ude26\ud835\ude22\ud835\ude24\ud835\ude29 \ud835\ude3a\ud835\ude26\ud835\ude22\ud835\ude33 \ud835\ude37\ud835\ude2a\ud835\ude30\ud835\ude2d\ud835\ude22\ud835\ude35\ud835\ude26\ud835\ude34 \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude22\ud835\ude2a\ud835\ude33\ud835\ude34\ud835\ude31\ud835\ude22\ud835\ude24\ud835\ude26 \ud835\ude30\ud835\ude27 \ud835\ude2e\ud835\ude36\ud835\ude2d\ud835\ude35\ud835\ude2a\ud835\ude31\ud835\ude2d\ud835\ude26 \ud835\ude2f\ud835\ude22\ud835\ude35\ud835\ude2a\ud835\ude30\ud835\ude2f\ud835\ude34 \ud835\ude22\ud835\ude2f\ud835\ude25 \ud835\ude2f\ud835\ude26\ud835\ude37\ud835\ude26\ud835\ude33 \ud835\ude31\ud835\ude30\ud835\ude34\ud835\ude34\ud835\ude26\ud835\ude34\ud835\ude34 \ud835\ude22\ud835\ude2f\ud835\ude3a \ud835\ude31\ud835\ude33\ud835\ude30\ud835\ude30\ud835\ude27 \ud835\ude30\ud835\ude27 \ud835\ude24\ud835\ude2a\ud835\ude35\ud835\ude2a\ud835\ude3b\ud835\ude26\ud835\ude2f\ud835\ude34\ud835\ude29\ud835\ude2a\ud835\ude31\n\n#trump #christmas #melania #Fascism #digitalart #promptart",
+      "text_cleaned": "\ud835\uddd7\ud835\uddf2\ud835\uddfd\ud835\uddfc\ud835\uddff\ud835\ude01 \ud835\udde6\ud835\uddee\ud835\uddfb\ud835\ude01\ud835\uddee \ud835\uddd6\ud835\uddf9\ud835\uddee\ud835\ude02\ud835\ude00 \ud835\ude22\ud835\ude2f \ud835\ude2a\ud835\ude2d\ud835\ude2d\ud835\ude26\ud835\ude28\ud835\ude22\ud835\ude2d \ud835\ude2a\ud835\ude2e\ud835\ude2e\ud835\ude2a\ud835\ude28\ud835\ude33\ud835\ude22\ud835\ude2f\ud835\ude35 \ud835\ude38\ud835\ude29\ud835\ude30 \ud835\ude26\ud835\ude22\ud835\ude24\ud835\ude29 \ud835\ude3a\ud835\ude26\ud835\ude22\ud835\ude33 \ud835\ude37\ud835\ude2a\ud835\ude30\ud835\ude2d\ud835\ude22\ud835\ude35\ud835\ude26\ud835\ude34 \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude22\ud835\ude2a\ud835\ude33\ud835\ude34\ud835\ude31\ud835\ude22\ud835\ude24\ud835\ude26 \ud835\ude30\ud835\ude27 \ud835\ude2e\ud835\ude36\ud835\ude2d\ud835\ude35\ud835\ude2a\ud835\ude31\ud835\ude2d\ud835\ude26 \ud835\ude2f\ud835\ude22\ud835\ude35\ud835\ude2a\ud835\ude30\ud835\ude2f\ud835\ude34 \ud835\ude22\ud835\ude2f\ud835\ude25 \ud835\ude2f\ud835\ude26\ud835\ude37\ud835\ude26\ud835\ude33 \ud835\ude31\ud835\ude30\ud835\ude34\ud835\ude34\ud835\ude26\ud835\ude34\ud835\ude34 \ud835\ude22\ud835\ude2f\ud835\ude3a \ud835\ude31\ud835\ude33\ud835\ude30\ud835\ude30\ud835\ude27 \ud835\ude30\ud835\ude27 \ud835\ude24\ud835\ude2a\ud835\ude35\ud835\ude2a\ud835\ude3b\ud835\ude26\ud835\ude2f\ud835\ude34\ud835\ude29\ud835\ude2a\ud835\ude31",
+      "text_preview": "\ud835\uddd7\ud835\uddf2\ud835\uddfd\ud835\uddfc\ud835\uddff\ud835\ude01 \ud835\udde6\ud835\uddee\ud835\uddfb\ud835\ude01\ud835\uddee \ud835\uddd6\ud835\uddf9\ud835\uddee\ud835\ude02\ud835\ude00\n\n\ud835\ude22\ud835\ude2f \ud835\ude2a\ud835\ude2d\ud835\ude2d\ud835\ude26\ud835\ude28\ud835\ude22\ud835\ude2d \ud835\ude2a\ud835\ude2e\ud835\ude2e\ud835\ude2a\ud835\ude28\ud835\ude33\ud835\ude22\ud835\ude2f\ud835\ude35 \ud835\ude38\ud835\ude29\ud835\ude30 \ud835\ude26\ud835\ude22\ud835\ude24\ud835\ude29 \ud835\ude3a\ud835\ude26\ud835\ude22\ud835\ude33 \ud835\ude37\ud835\ude2a\ud835\ude30\ud835\ude2d\ud835\ude22\ud835\ude35\ud835\ude26\ud835\ude34 \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude22\ud835\ude2a\ud835\ude33\ud835\ude34\ud835\ude31\ud835\ude22\ud835\ude24\ud835\ude26 \ud835\ude30\ud835\ude27 \ud835\ude2e\ud835\ude36\ud835\ude2d\ud835\ude35\ud835\ude2a\ud835\ude31\ud835\ude2d\ud835\ude26 \ud835\ude2f\ud835\ude22\ud835\ude35\ud835\ude2a\ud835\ude30\ud835\ude2f\ud835\ude34 \ud835\ude22\ud835\ude2f\ud835\ude25 \ud835\ude2f\ud835\ude26\ud835\ude37\ud835\ude26\ud835\ude33 \ud835\ude31\ud835\ude30\ud835\ude34\ud835\ude34\ud835\ude26\ud835\ude34\ud835\ude34 \ud835\ude22\ud835\ude2f\ud835\ude3a \ud835\ude31\ud835\ude33\ud835\ude30\ud835\ude30\ud835\ude27 \ud835\ude30\ud835\ude27 \ud835\ude24\ud835\ude2a\ud835\ude35\ud835\ude2a\ud835\ude3b\ud835\ude26\ud835\ude2f\ud835\ude34\ud835\ude29\ud835\ude2a\ud835\ude31\n\n#trump #christmas #melania #Fascism #digitalart #promptart",
+      "author": "alanroseca.bsky.social",
+      "author_display_name": "Alan \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-04T23:08:03.550Z",
+      "hashtags": "['#melania' '#christmas' '#digitalart' '#promptart' '#Fascism' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:10:03.826151",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:10:10.007000",
+      "text_length": 199,
+      "text_cleaned_length": 138,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmcqnnko22m",
+      "text": "Again, w/ genuine & sincere respect, I post #Trump's #J6 #CapitolRiot \u2b07\ufe0f version of a \"day of love,\" as well as the #PeopleMagazine pic \u2198\ufe0f, because #Trump & his servile #Republicans intend to keep #MAGANation uneducated or misinformed, e.g. #FOXNews #DeptOfEd #PellGrants #CPB\n\n#BlueCrew #democracy",
+      "text_cleaned": "Again, w/ genuine & sincere respect, I post 's \u2b07\ufe0f version of a \"day of love,\" as well as the pic \u2198\ufe0f, because & his servile intend to keep uneducated or misinformed, e.g.",
+      "text_preview": "Again, w/ genuine & sincere respect, I post #Trump's #J6 #CapitolRiot \u2b07\ufe0f version of a \"day of love,\" as well as the #PeopleMagazine pic \u2198\ufe0f, because #Trump & his servile #Republicans intend to keep #MA...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-04T23:07:50.286Z",
+      "hashtags": "['#MAGANation' '#FOXNews' '#DeptOfEd' '#democracy' '#J6' '#CPB'\n '#CapitolRiot' '#PellGrants' '#Republicans' '#BlueCrew' '#Trump'\n '#PeopleMagazine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:10:03.826170",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:10:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 169,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmctnlgyk23",
+      "text": "\ud835\udde5\ud835\ude02\ud835\uddf1\ud835\uddfc\ud835\uddf9\ud835\uddfd\ud835\uddf5 \ud835\uddf3\ud835\uddf9\ud835\uddf2\ud835\ude04 \ud835\ude01\ud835\uddfc\ud835\uddfc \ud835\uddf0\ud835\uddf9\ud835\uddfc\ud835\ude00\ud835\uddf2 \ud835\ude01\ud835\uddfc \ud835\uddd9\ud835\uddf9\ud835\uddfc\ud835\uddff\ud835\uddf6\ud835\uddf1\ud835\uddee\n\n#trump #christmas #melania #Fascism #digitalart #promptart",
+      "text_cleaned": "\ud835\udde5\ud835\ude02\ud835\uddf1\ud835\uddfc\ud835\uddf9\ud835\uddfd\ud835\uddf5 \ud835\uddf3\ud835\uddf9\ud835\uddf2\ud835\ude04 \ud835\ude01\ud835\uddfc\ud835\uddfc \ud835\uddf0\ud835\uddf9\ud835\uddfc\ud835\ude00\ud835\uddf2 \ud835\ude01\ud835\uddfc \ud835\uddd9\ud835\uddf9\ud835\uddfc\ud835\uddff\ud835\uddf6\ud835\uddf1\ud835\uddee",
+      "text_preview": "\ud835\udde5\ud835\ude02\ud835\uddf1\ud835\uddfc\ud835\uddf9\ud835\uddfd\ud835\uddf5 \ud835\uddf3\ud835\uddf9\ud835\uddf2\ud835\ude04 \ud835\ude01\ud835\uddfc\ud835\uddfc \ud835\uddf0\ud835\uddf9\ud835\uddfc\ud835\ude00\ud835\uddf2 \ud835\ude01\ud835\uddfc \ud835\uddd9\ud835\uddf9\ud835\uddfc\ud835\uddff\ud835\uddf6\ud835\uddf1\ud835\uddee\n\n#trump #christmas #melania #Fascism #digitalart #promptart",
+      "author": "alanroseca.bsky.social",
+      "author_display_name": "Alan \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-04T23:09:30.873Z",
+      "hashtags": "['#melania' '#christmas' '#digitalart' '#promptart' '#Fascism' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:10:03.826127",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:10:10.007000",
+      "text_length": 93,
+      "text_cleaned_length": 33,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmco62wi22y",
+      "text": "#Trump 's fall from Right Wing Media Grace ... #DonaldTrump is a ... ?  [ POLL: answer in comments, as you see fit... LOL ]",
+      "text_cleaned": "'s fall from Right Wing Media Grace ... is a ... ? [ POLL: answer in comments, as you see fit... LOL ]",
+      "text_preview": "#Trump 's fall from Right Wing Media Grace ... #DonaldTrump is a ... ?  [ POLL: answer in comments, as you see fit... LOL ]",
+      "author": "kklown.bsky.social",
+      "author_display_name": "WOW",
+      "created_at": "2025-08-04T23:06:26.839Z",
+      "hashtags": "['#DonaldTrump' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:10:03.826182",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:10:10.007000",
+      "text_length": 123,
+      "text_cleaned_length": 102,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmcnpvnls26",
+      "text": "What a bunch of bullshit!\n\n#ReleaseEpsteinFiles\n#FuckTrump\n#Epstein #Trump\n\napple.news/AEI8I4fGQQ5W...",
+      "text_cleaned": "What a bunch of bullshit! apple.news/AEI8I4fGQQ5W...",
+      "text_preview": "What a bunch of bullshit!\n\n#ReleaseEpsteinFiles\n#FuckTrump\n#Epstein #Trump\n\napple.news/AEI8I4fGQQ5W...",
+      "author": "therobwilliams.com",
+      "author_display_name": "Rob Williams",
+      "created_at": "2025-08-04T23:06:11.987Z",
+      "hashtags": "['#FuckTrump' '#Epstein' '#Trump' '#ReleaseEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:10:03.826193",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:10:10.007000",
+      "text_length": 102,
+      "text_cleaned_length": 52,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmcsejl2c2g",
+      "text": "Well done #trump MAWO - Making Americans Worse Off",
+      "text_cleaned": "Well done MAWO - Making Americans Worse Off",
+      "text_preview": "Well done #trump MAWO - Making Americans Worse Off",
+      "author": "mixmitt.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T23:08:47.829Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T23:10:03.826138",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 23:10:10.007000",
+      "text_length": 50,
+      "text_cleaned_length": 43,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
