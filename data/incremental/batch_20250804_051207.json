@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_051207",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 05:05:10.045000",
+    "latest_received_at": "2025-08-04 05:10:10.010000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvkgepdtm22u",
+      "text": "#Putin cucked #Trump but Xi can\u2019t fulfill his secret promise to attack #Taiwan . Xi has been deposed, once his own #CCP discovered it. China is imploding, and the princelings are selling out (the flight of capital is apparent). Riots in #China & #Russia - their plans exposed, citizens mad\n\n3 months?",
+      "text_cleaned": "cucked but Xi can\u2019t fulfill his secret promise to attack . Xi has been deposed, once his own discovered it. China is imploding, and the princelings are selling out (the flight of capital is apparent). Riots in & - their plans exposed, citizens mad 3 months?",
+      "text_preview": "#Putin cucked #Trump but Xi can\u2019t fulfill his secret promise to attack #Taiwan . Xi has been deposed, once his own #CCP discovered it. China is imploding, and the princelings are selling out (the flig...",
+      "author": "darkangel-64.bsky.social",
+      "author_display_name": "John DarkAngel Fulton",
+      "created_at": "2025-08-04T05:07:24.892Z",
+      "hashtags": "['#CCP' '#Russia' '#China' '#Putin' '#Taiwan' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:10:03.403735",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:10:10.010000",
+      "text_length": 300,
+      "text_cleaned_length": 257,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkga5n2mk2t",
+      "text": "From the same piece, \u201dAt a recent cabinet meeting called to discuss the flooding tragedy in Texas, the war in Ukraine and Gaza, the bombing of Iran, and global tariffs, Trump went on a 13-minute monologue about how he had decorated the cabinet meeting room.\u201d Madness. #Trump #r4today",
+      "text_cleaned": "From the same piece, \u201dAt a recent cabinet meeting called to discuss the flooding tragedy in Texas, the war in Ukraine and Gaza, the bombing of Iran, and global tariffs, Trump went on a 13-minute monologue about how he had decorated the cabinet meeting room.\u201d Madness.",
+      "text_preview": "From the same piece, \u201dAt a recent cabinet meeting called to discuss the flooding tragedy in Texas, the war in Ukraine and Gaza, the bombing of Iran, and global tariffs, Trump went on a 13-minute monol...",
+      "author": "luxjude352.bsky.social",
+      "author_display_name": "LuxJude352",
+      "created_at": "2025-08-04T05:04:47.279Z",
+      "hashtags": "['#Trump' '#r4today']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:10:03.403768",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:10:10.010000",
+      "text_length": 283,
+      "text_cleaned_length": 267,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvkgi4kzqs2t",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-04T05:09:19.263Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:10:03.403724",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:10:10.010000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkgdbx7a227",
+      "text": "Trump\u2019s Peacemaking Claims \ud83c\udf0d Fuel Nobel Peace Prize Discussions - with \ud83d\udd0a Audio Analysis. RMN News Poll \ud83d\uddf3\ufe0f for Peace Prize: rmnnews.com/2025/08/04/t...\n#Trump #NobelPeacePrize #Peacemaking #IndiaPakistan #Kashmir #Modi #RMNNews",
+      "text_cleaned": "Trump\u2019s Peacemaking Claims \ud83c\udf0d Fuel Nobel Peace Prize Discussions - with \ud83d\udd0a Audio Analysis. RMN News Poll \ud83d\uddf3\ufe0f for Peace Prize: rmnnews.com/2025/08/04/t...",
+      "text_preview": "Trump\u2019s Peacemaking Claims \ud83c\udf0d Fuel Nobel Peace Prize Discussions - with \ud83d\udd0a Audio Analysis. RMN News Poll \ud83d\uddf3\ufe0f for Peace Prize: rmnnews.com/2025/08/04/t...\n#Trump #NobelPeacePrize #Peacemaking #IndiaPakist...",
+      "author": "rmn-india.bsky.social",
+      "author_display_name": "Raman Media Network RMN",
+      "created_at": "2025-08-04T05:06:37.295Z",
+      "hashtags": "['#Modi' '#IndiaPakistan' '#Trump' '#RMNNews' '#NobelPeacePrize'\n '#Peacemaking' '#Kashmir']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:10:03.403759",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:10:10.010000",
+      "text_length": 226,
+      "text_cleaned_length": 150,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkg7yzjw22t",
+      "text": "How will the Fourth Estate excuse itself in years to come when people ask how on earth he was escaping their attention with outbursts like these? #Trump #r4today",
+      "text_cleaned": "How will the Fourth Estate excuse itself in years to come when people ask how on earth he was escaping their attention with outbursts like these?",
+      "text_preview": "How will the Fourth Estate excuse itself in years to come when people ask how on earth he was escaping their attention with outbursts like these? #Trump #r4today",
+      "author": "luxjude352.bsky.social",
+      "author_display_name": "LuxJude352",
+      "created_at": "2025-08-04T05:04:47.278Z",
+      "hashtags": "['#Trump' '#r4today']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:10:03.403775",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:10:10.010000",
+      "text_length": 161,
+      "text_cleaned_length": 145,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvkgemmfqs2i",
+      "text": "Posting this for no reason at all tonight.\n\n@how2wrestling.bsky.social \n\n#summerslam #trump #wwe\n\nsoundcloud.com/how2wrestlin...",
+      "text_cleaned": "Posting this for no reason at all tonight. .bsky.social soundcloud.com/how2wrestlin...",
+      "text_preview": "Posting this for no reason at all tonight.\n\n@how2wrestling.bsky.social \n\n#summerslam #trump #wwe\n\nsoundcloud.com/how2wrestlin...",
+      "author": "ragsmusic.bsky.social",
+      "author_display_name": "rags music",
+      "created_at": "2025-08-04T05:07:22.038Z",
+      "hashtags": "['#trump' '#wwe' '#summerslam']",
+      "mentions": "['@how2wrestling.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:10:03.403745",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:10:10.010000",
+      "text_length": 128,
+      "text_cleaned_length": 86,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkfz4u5tb62",
+      "text": "France24/AFP\nDes manifestations pro-Bolsonaro dans plusieurs villes br\u00e9siliennes apr\u00e8s les sanctions am\u00e9ricaines\n\"Ce bras de fer Trump-Lula risque de tourner \u00e0 l\u2019avantage du Br\u00e9sil\"\nhttps://mcinformactions.net/des-manifestations-pro-bolsonaro-dans-plusieurs-villes-bresiliennes-apres-les\n#USA [\u2026]",
+      "text_cleaned": "France24/AFP Des manifestations pro-Bolsonaro dans plusieurs villes br\u00e9siliennes apr\u00e8s les sanctions am\u00e9ricaines \"Ce bras de fer Trump-Lula risque de tourner \u00e0 l\u2019avantage du Br\u00e9sil\" [\u2026]",
+      "text_preview": "France24/AFP\nDes manifestations pro-Bolsonaro dans plusieurs villes br\u00e9siliennes apr\u00e8s les sanctions am\u00e9ricaines\n\"Ce bras de fer Trump-Lula risque de tourner \u00e0 l\u2019avantage du Br\u00e9sil\"\nhttps://mcinformac...",
+      "author": "marieclaudes.mastodon.top.ap.brid.gy",
+      "author_display_name": "InformactionsMC",
+      "created_at": "2025-08-04T05:00:31.000Z",
+      "hashtags": "['#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:05:03.386298",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:05:10.045000",
+      "text_length": 296,
+      "text_cleaned_length": 185,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkg2aguak2t",
+      "text": "France24/AFP\nDes manifestations pro-Bolsonaro dans plusieurs villes br\u00e9siliennes apr\u00e8s les sanctions am\u00e9ricaines\n\"Ce bras de fer Trump-Lula risque de tourner \u00e0 l\u2019avantage du Br\u00e9sil\"\nmcinformactions.net/des-manifest...\n#USA #Bresil #Trump #Lula #Bolsonaro #taxes",
+      "text_cleaned": "France24/AFP Des manifestations pro-Bolsonaro dans plusieurs villes br\u00e9siliennes apr\u00e8s les sanctions am\u00e9ricaines \"Ce bras de fer Trump-Lula risque de tourner \u00e0 l\u2019avantage du Br\u00e9sil\" mcinformactions.net/des-manifest...",
+      "text_preview": "France24/AFP\nDes manifestations pro-Bolsonaro dans plusieurs villes br\u00e9siliennes apr\u00e8s les sanctions am\u00e9ricaines\n\"Ce bras de fer Trump-Lula risque de tourner \u00e0 l\u2019avantage du Br\u00e9sil\"\nmcinformactions.ne...",
+      "author": "mcinformactions.bsky.social",
+      "author_display_name": "MarieClaude S",
+      "created_at": "2025-08-04T05:01:33.730Z",
+      "hashtags": "['#taxes' '#Bresil' '#Lula' '#Bolsonaro' '#Trump' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:05:03.386273",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:05:10.045000",
+      "text_length": 261,
+      "text_cleaned_length": 217,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkfz5cqks2w",
+      "text": "'No Coincidence On The Timing' Of Maxwell's Prison Move: Prison Expert\n\n#GhislaineMaxwell #Maxwell #MaxwellPrisonMove #JeffreyEpstein #Epstein #EpsteinFiles \n\n#Trump #Republicans #TrumpIsUnfitForOffice #RepublicansAreTheProblem \n\nyoutube.com/watch?v=PsNs...",
+      "text_cleaned": "'No Coincidence On The Timing' Of Maxwell's Prison Move: Prison Expert youtube.com/watch?v=PsNs...",
+      "text_preview": "'No Coincidence On The Timing' Of Maxwell's Prison Move: Prison Expert\n\n#GhislaineMaxwell #Maxwell #MaxwellPrisonMove #JeffreyEpstein #Epstein #EpsteinFiles \n\n#Trump #Republicans #TrumpIsUnfitForOffic...",
+      "author": "matteroffactfinder.bsky.social",
+      "author_display_name": "Cheryl Hardy \ud83c\uddec\ud83c\udde7",
+      "created_at": "2025-08-04T05:00:56.895Z",
+      "hashtags": "['#MaxwellPrisonMove' '#Republicans' '#RepublicansAreTheProblem'\n '#TrumpIsUnfitForOffice' '#GhislaineMaxwell' '#Epstein' '#JeffreyEpstein'\n '#Trump' '#EpsteinFiles' '#Maxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:05:03.386290",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:05:10.045000",
+      "text_length": 257,
+      "text_cleaned_length": 98,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvkfzcesty26",
+      "text": "There are now 1,191 days until the Nov 2028 Presidential Election, and 1,265 days until the Jan 2029 Inauguration. No more #Trump",
+      "text_cleaned": "There are now 1,191 days until the Nov 2028 Presidential Election, and 1,265 days until the Jan 2029 Inauguration. No more",
+      "text_preview": "There are now 1,191 days until the Nov 2028 Presidential Election, and 1,265 days until the Jan 2029 Inauguration. No more #Trump",
+      "author": "trumpcountdown2028.bsky.social",
+      "author_display_name": "Last Days of Trump Countdown",
+      "created_at": "2025-08-04T05:01:01.8598343Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:05:03.386280",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:05:10.045000",
+      "text_length": 129,
+      "text_cleaned_length": 122,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
