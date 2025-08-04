@@ -1,0 +1,527 @@
+{
+  "batch_info": {
+    "timestamp": "20250804_111347",
+    "post_count": 19,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-04 11:05:10.009000",
+    "latest_received_at": "2025-08-04 11:10:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvl2luod622h",
+      "text": "The #Trump #MAGA plot echoes a 1984 #Canadian #comic, Shainblum\u2019s & Morrissette\u2019s NEW TRIUMPH FEATURING NORTHGUARD. A conspiracy called #ManDes ( #ManifestDestiny) tries to force #Canada & the #US to merge under a #quasiChristian #theocratic #dictatorship with #whitesupremacy elements.\n\n#FifthColumn",
+      "text_cleaned": "The plot echoes a 1984 , Shainblum\u2019s & Morrissette\u2019s NEW TRIUMPH FEATURING NORTHGUARD. A conspiracy called ( ) tries to force & the to merge under a with elements.",
+      "text_preview": "The #Trump #MAGA plot echoes a 1984 #Canadian #comic, Shainblum\u2019s & Morrissette\u2019s NEW TRIUMPH FEATURING NORTHGUARD. A conspiracy called #ManDes ( #ManifestDestiny) tries to force #Canada & the #US to ...",
+      "author": "gilliganista.bsky.social",
+      "author_display_name": "Gilliganista!\u2122\ufe0f",
+      "created_at": "2025-08-04T11:09:20.195Z",
+      "hashtags": "['#whitesupremacy' '#Canadian' '#dictatorship' '#ManifestDestiny' '#Trump'\n '#quasiChristian' '#theocratic' '#FifthColumn' '#Canada' '#comic' '#US'\n '#ManDes' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:10:03.568346",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:10:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 163,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvl2iozr522c",
+      "text": "1 Bloomberg: #Trump wants lower #interestrates. Achieving that objective will require overcoming bigger obstacles than #Fed Chair #JeromePowell.\nThere are structural forces that drive the cost of #borrowing, and right now they\u2019re pointing up \u2026 \ud83e\uddf5",
+      "text_cleaned": "1 Bloomberg: wants lower . Achieving that objective will require overcoming bigger obstacles than Chair . There are structural forces that drive the cost of , and right now they\u2019re pointing up \u2026 \ud83e\uddf5",
+      "text_preview": "1 Bloomberg: #Trump wants lower #interestrates. Achieving that objective will require overcoming bigger obstacles than #Fed Chair #JeromePowell.\nThere are structural forces that drive the cost of #bor...",
+      "author": "dbcurren.bsky.social",
+      "author_display_name": "Don Curren \ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-04T11:07:33.615Z",
+      "hashtags": "['#JeromePowell' '#borrowing' '#Trump' '#interestrates' '#Fed']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:10:03.568374",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:10:10.007000",
+      "text_length": 245,
+      "text_cleaned_length": 196,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvl2iql3sx2i",
+      "text": "8/3/25 - Erin Houchin talks about the labor statistics scam on Fox News https://www.reddit.com/r/trumptweets/comments/1mgtkhp/8325_erin_houchin_talks_about_the_labor/\n#truthsocial #trump",
+      "text_cleaned": "8/3/25 - Erin Houchin talks about the labor statistics scam on Fox News",
+      "text_preview": "8/3/25 - Erin Houchin talks about the labor statistics scam on Fox News https://www.reddit.com/r/trumptweets/comments/1mgtkhp/8325_erin_houchin_talks_about_the_labor/\n#truthsocial #trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T11:07:34.930Z",
+      "hashtags": "['#truthsocial' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:10:03.568362",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:10:10.007000",
+      "text_length": 186,
+      "text_cleaned_length": 71,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl2giqumk2g",
+      "text": "\n#ceasefire   #Russia   #Steve Witkoff   #Trump   #Trump envoy   #Ukraine",
+      "text_cleaned": "Witkoff envoy",
+      "text_preview": "\n#ceasefire   #Russia   #Steve Witkoff   #Trump   #Trump envoy   #Ukraine",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T11:06:26.639591+00:00",
+      "hashtags": "['#Russia' '#ceasefire' '#Trump' '#Steve' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:10:03.568384",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:10:10.007000",
+      "text_length": 73,
+      "text_cleaned_length": 13,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl2lifpbr2v",
+      "text": "\n#charge   #Jobs   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#charge   #Jobs   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-04T11:09:14.038322+00:00",
+      "hashtags": "['#charge' '#Trump' '#Jobs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:10:03.568354",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:10:10.007000",
+      "text_length": 25,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl2dcgsr22u",
+      "text": "PARANOID\nBREAKING: Trump's the Ozzy Osbourne of politics. It's black sabbath\n\nGhislaine Maxwell moved to prison with rope sheets + What could possibly go wrong? + Straitjacket for Trump? + Two trainspotting Brit colonels and a spook captured in Ukraine\n\nFollow #MOATS 470 #GhislaineMaxwell #Trump",
+      "text_cleaned": "PARANOID BREAKING: Trump's the Ozzy Osbourne of politics. It's black sabbath Ghislaine Maxwell moved to prison with rope sheets + What could possibly go wrong? + Straitjacket for Trump? + Two trainspotting Brit colonels and a spook captured in Ukraine Follow 470",
+      "text_preview": "PARANOID\nBREAKING: Trump's the Ozzy Osbourne of politics. It's black sabbath\n\nGhislaine Maxwell moved to prison with rope sheets + What could possibly go wrong? + Straitjacket for Trump? + Two trainsp...",
+      "author": "moatstv.bsky.social",
+      "author_display_name": "The Mother Of All Talk Shows",
+      "created_at": "2025-08-04T11:04:32.653Z",
+      "hashtags": "['#MOATS' '#GhislaineMaxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.275950",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 296,
+      "text_cleaned_length": 262,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl23feviu2d",
+      "text": "BILL UPDATE:\n\nS.2530: A bill to amend the Internal Revenue Code of 1986 to expand the ability to expense certain qualified productions.\n\nACTION: Read twice and referred to the Committee on Finance.\n\n#congress #economy",
+      "text_cleaned": "BILL UPDATE: S.2530: A bill to amend the Internal Revenue Code of 1986 to expand the ability to expense certain qualified productions. ACTION: Read twice and referred to the Committee on Finance.",
+      "text_preview": "BILL UPDATE:\n\nS.2530: A bill to amend the Internal Revenue Code of 1986 to expand the ability to expense certain qualified productions.\n\nACTION: Read twice and referred to the Committee on Finance.\n\n#...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T11:00:05.041Z",
+      "hashtags": "['#economy' '#congress']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.275717",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 217,
+      "text_cleaned_length": 195,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvl27lbvji2t",
+      "text": "\u00daLTIMA HORA | Aviones de combate de EEUU interceptan un avi\u00f3n civil cerca de la residencia de Trump\n\nhttps://youtu.be/uOlEtGjtpgQ\n\n#ultimahora #trump #aviones #eeuu #avionescombate #avioncivil #golf #Bedminster #nuevajersey #piloto #geopolitica #negociostv",
+      "text_cleaned": "\u00daLTIMA HORA | Aviones de combate de EEUU interceptan un avi\u00f3n civil cerca de la residencia de Trump",
+      "text_preview": "\u00daLTIMA HORA | Aviones de combate de EEUU interceptan un avi\u00f3n civil cerca de la residencia de Trump\n\nhttps://youtu.be/uOlEtGjtpgQ\n\n#ultimahora #trump #aviones #eeuu #avionescombate #avioncivil #golf #...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-04T11:02:27.553033Z",
+      "hashtags": "['#piloto' '#ultimahora' '#nuevajersey' '#geopolitica' '#trump'\n '#avionescombate' '#negociostv' '#Bedminster' '#avioncivil' '#eeuu'\n '#aviones' '#golf']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.276009",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 256,
+      "text_cleaned_length": 99,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl25veo2k27",
+      "text": "#Isra\u00ebl voert geen rechtvaardige oorlog meer, zo schrijven 550 oud veiligheidsfunctionarissen uit dat land aan #Trump. De Europese leiders doen er goed aan dit te onderschrijven www.bnnvara.nl/joop/artikel...",
+      "text_cleaned": "voert geen rechtvaardige oorlog meer, zo schrijven 550 oud veiligheidsfunctionarissen uit dat land aan . De Europese leiders doen er goed aan dit te onderschrijven",
+      "text_preview": "#Isra\u00ebl voert geen rechtvaardige oorlog meer, zo schrijven 550 oud veiligheidsfunctionarissen uit dat land aan #Trump. De Europese leiders doen er goed aan dit te onderschrijven www.bnnvara.nl/joop/ar...",
+      "author": "hanvanderhorst.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T11:01:31.178Z",
+      "hashtags": "['#Isra\u00ebl' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.276022",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 208,
+      "text_cleaned_length": 163,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl2ck3xzu2d",
+      "text": "\ud83d\udd34 Importance: 72/100\n#news #Featured #TopStories #World #football #georgia #trump\n\nFormer college football coach and attorney Derek Dooley launched his bid Monday morning for the Republican nomination for...",
+      "text_cleaned": "\ud83d\udd34 Importance: 72/100 Former college football coach and attorney Derek Dooley launched his bid Monday morning for the Republican nomination for...",
+      "text_preview": "\ud83d\udd34 Importance: 72/100\n#news #Featured #TopStories #World #football #georgia #trump\n\nFormer college football coach and attorney Derek Dooley launched his bid Monday morning for the Republican nomination...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-04T10:56:09+00:00",
+      "hashtags": "['#news' '#trump' '#georgia' '#football' '#World' '#TopStories'\n '#Featured']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.276091",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 207,
+      "text_cleaned_length": 145,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl2aayass2g",
+      "text": "#DonaldTrump #JeffreyEpstein\n#GhislaineMaxwell #ReleaseTheEpsteinFiles #whatistrumphiding #whoistrumpprotecting #maga #GOP #trump #PedoPOTUS #RepublicansProtectPedos\n#TrumpisaPedo #maga\n#believethechildren #believethevictims #believethesurvivors #believethewomen",
+      "text_cleaned": "",
+      "text_preview": "#DonaldTrump #JeffreyEpstein\n#GhislaineMaxwell #ReleaseTheEpsteinFiles #whatistrumphiding #whoistrumpprotecting #maga #GOP #trump #PedoPOTUS #RepublicansProtectPedos\n#TrumpisaPedo #maga\n#believethechi...",
+      "author": "lilasskicker.bsky.social",
+      "author_display_name": "\ud83d\udc9c\u270c\ud83c\udffbLilAssKicker\u270c\ud83c\udffb\ud83d\udc9c",
+      "created_at": "2025-08-04T11:02:50.447Z",
+      "hashtags": "['#GOP' '#whoistrumpprotecting' '#RepublicansProtectPedos'\n '#GhislaineMaxwell' '#believethechildren' '#PedoPOTUS' '#trump'\n '#believethevictims' '#JeffreyEpstein' '#believethewomen' '#TrumpisaPedo'\n '#whatistrumphiding' '#believethesurvivors' '#maga'\n '#ReleaseTheEpsteinFiles' '#DonaldTrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.275979",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 262,
+      "text_cleaned_length": 0,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl27r2aei2b",
+      "text": "8/3/25 - Thanking Congressman Tom Emmer for defending every of the Republican. https://www.reddit.com/r/trumptweets/comments/1mguolg/8325_thanking_congressman_tom_emmer_for_defending/\n#truthsocial #trump",
+      "text_cleaned": "8/3/25 - Thanking Congressman Tom Emmer for defending every of the Republican.",
+      "text_preview": "8/3/25 - Thanking Congressman Tom Emmer for defending every of the Republican. https://www.reddit.com/r/trumptweets/comments/1mguolg/8325_thanking_congressman_tom_emmer_for_defending/\n#truthsocial #tr...",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T11:02:33.371Z",
+      "hashtags": "['#truthsocial' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.275999",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 203,
+      "text_cleaned_length": 78,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvl2bflrzk2m",
+      "text": "#Trump removed the head of the Bureau of Labor Statistics after job growth figures were revised downwards by over 250,000 positions.",
+      "text_cleaned": "removed the head of the Bureau of Labor Statistics after job growth figures were revised downwards by over 250,000 positions.",
+      "text_preview": "#Trump removed the head of the Bureau of Labor Statistics after job growth figures were revised downwards by over 250,000 positions.",
+      "author": "theglobeandatlas.bsky.social",
+      "author_display_name": "The Globe and Atlas",
+      "created_at": "2025-08-04T11:03:27Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.275966",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 132,
+      "text_cleaned_length": 125,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl2bzmpme2b",
+      "text": "#Trump removed the head of the Bureau of Labor Statistics after job growth figures were revised downwards by over 250,000 positions.",
+      "text_cleaned": "removed the head of the Bureau of Labor Statistics after job growth figures were revised downwards by over 250,000 positions.",
+      "text_preview": "#Trump removed the head of the Bureau of Labor Statistics after job growth figures were revised downwards by over 250,000 positions.",
+      "author": "redlinerising.bsky.social",
+      "author_display_name": "Red Line Rising",
+      "created_at": "2025-08-04T11:03:48Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.275960",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 132,
+      "text_cleaned_length": 125,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl27kp4is2x",
+      "text": "How much is Trump\u2019s weak dollar and tariffs costing US? #Bessent #economy #Hassett\nwww.politico.com/newsletters/...",
+      "text_cleaned": "How much is Trump\u2019s weak dollar and tariffs costing US?",
+      "text_preview": "How much is Trump\u2019s weak dollar and tariffs costing US? #Bessent #economy #Hassett\nwww.politico.com/newsletters/...",
+      "author": "wintons.bsky.social",
+      "author_display_name": "Winton",
+      "created_at": "2025-08-04T11:02:27.095Z",
+      "hashtags": "['#economy' '#Bessent' '#Hassett']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.275699",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 115,
+      "text_cleaned_length": 55,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl25ld5xs24",
+      "text": "#Trump is the Wizard of Alcatraz",
+      "text_cleaned": "is the Wizard of Alcatraz",
+      "text_preview": "#Trump is the Wizard of Alcatraz",
+      "author": "opinionbitch.bsky.social",
+      "author_display_name": "Opinionated Bitch \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf5\ud83c\uddf8\ud83c\uddfa\ud83c\uddf3\ud83c\uddea\ud83c\uddfa\ud83c\uddeb\ud83c\uddf7\ud83c\uddf8\ud83c\uddea\ud83c\udde6\ud83c\uddfa\ud83d\udc08\ud83e\udd8b\ud83c\udf08\u262e\ufe0f\u2764\ufe0f",
+      "created_at": "2025-08-04T11:01:20.638Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.276029",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 32,
+      "text_cleaned_length": 25,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl22zsrbd2y",
+      "text": "\n#Handelsstreit   #Konflikt   #Regierung   #Trump   #Z\u00f6lle",
+      "text_cleaned": "",
+      "text_preview": "\n#Handelsstreit   #Konflikt   #Regierung   #Trump   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T11:00:01.879607+00:00",
+      "hashtags": "['#Konflikt' '#Regierung' '#Handelsstreit' '#Z\u00f6lle' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.276037",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 58,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl2a6hazc2u",
+      "text": "#AlligatorAuschwitz  #fascists #trump #epstein #rapists",
+      "text_cleaned": "",
+      "text_preview": "#AlligatorAuschwitz  #fascists #trump #epstein #rapists",
+      "author": "xraynaqueen.bsky.social",
+      "author_display_name": "XraynaVotesBlue \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\uddf2\ud83c\uddfd",
+      "created_at": "2025-08-04T11:02:47.810Z",
+      "hashtags": "['#fascists' '#rapists' '#trump' '#epstein' '#AlligatorAuschwitz']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.275986",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 55,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvl26auknp2j",
+      "text": "\n#Indien   #Trump   #Ukraine   #verhaftet",
+      "text_cleaned": "",
+      "text_preview": "\n#Indien   #Trump   #Ukraine   #verhaftet",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T11:01:49.947179+00:00",
+      "hashtags": "['#Indien' '#Ukraine' '#verhaftet' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T11:05:03.276015",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 11:05:10.009000",
+      "text_length": 41,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
