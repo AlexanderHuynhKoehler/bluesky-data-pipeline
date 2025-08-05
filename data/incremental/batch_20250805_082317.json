@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_082317",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 08:15:10.007000",
+    "latest_received_at": "2025-08-05 08:20:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvnbigttrs2q",
+      "text": "#TrumpTACO inmenging in binnenlandse aangelegenheden. Dit gedrag van Trump moet niet worden geaccepteerd. Of we gaan als NL de #USA sancties opleggen of op overheidssites kritiek publiceren op alle anti-democratische acties van #Trump. En die patriots steekt ie maar in z\u2019n achterste!!  \ud83d\udd95",
+      "text_cleaned": "inmenging in binnenlandse aangelegenheden. Dit gedrag van Trump moet niet worden geaccepteerd. Of we gaan als NL de sancties opleggen of op overheidssites kritiek publiceren op alle anti-democratische acties van . En die patriots steekt ie maar in z\u2019n achterste!! \ud83d\udd95",
+      "text_preview": "#TrumpTACO inmenging in binnenlandse aangelegenheden. Dit gedrag van Trump moet niet worden geaccepteerd. Of we gaan als NL de #USA sancties opleggen of op overheidssites kritiek publiceren op alle an...",
+      "author": "watvindikervan.bsky.social",
+      "author_display_name": "Mario Deerenberg",
+      "created_at": "2025-08-05T08:18:00.701Z",
+      "hashtags": "['#Trump' '#TrumpTACO' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:20:03.315828",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:20:10.007000",
+      "text_length": 288,
+      "text_cleaned_length": 265,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnbd6jqqk2l",
+      "text": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/j6M15LZh",
+      "text_cleaned": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... .ai",
+      "text_preview": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkwa...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-05T08:15:03.916Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:20:03.315865",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:20:10.007000",
+      "text_length": 275,
+      "text_cleaned_length": 232,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnbfu3esk2w",
+      "text": "#resist #fucktrump #maga #trump #fuckmaga #gop great job w/those promises @$$hole Trump.The grocery prices you were supposed to fix,yah right . .. fuck all you GOP trashy fake christian people who voted for Trump. Cant wait for the reckoning. Anyhow the blowback is building up pressure",
+      "text_cleaned": "great job w/those promises @$$hole Trump.The grocery prices you were supposed to fix,yah right . .. fuck all you GOP trashy fake christian people who voted for Trump. Cant wait for the reckoning. Anyhow the blowback is building up pressure",
+      "text_preview": "#resist #fucktrump #maga #trump #fuckmaga #gop great job w/those promises @$$hole Trump.The grocery prices you were supposed to fix,yah right . .. fuck all you GOP trashy fake christian people who vot...",
+      "author": "zodo.bsky.social",
+      "author_display_name": "The Resistance",
+      "created_at": "2025-08-05T08:16:33.929Z",
+      "hashtags": "['#fuckmaga' '#maga' '#gop' '#resist' '#trump' '#fucktrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:20:03.315837",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:20:10.007000",
+      "text_length": 286,
+      "text_cleaned_length": 239,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnbjt4pms2w",
+      "text": "#Trump is dumb.\nWith the #TrumpTariffs he is punishing Americans more than the exporting nations. US consumers pay the price increases.\nBy interfering with investment he displaces local with foreign owners giving them more control of the US economy.\nNo greatness.\nwww.nytimes.com/2025/08/04/u...",
+      "text_cleaned": "is dumb. With the he is punishing Americans more than the exporting nations. US consumers pay the price increases. By interfering with investment he displaces local with foreign owners giving them more control of the US economy. No greatness.",
+      "text_preview": "#Trump is dumb.\nWith the #TrumpTariffs he is punishing Americans more than the exporting nations. US consumers pay the price increases.\nBy interfering with investment he displaces local with foreign o...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-05T08:18:47.143Z",
+      "hashtags": "['#Trump' '#TrumpTariffs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:20:03.315819",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:20:10.007000",
+      "text_length": 295,
+      "text_cleaned_length": 242,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnbfkagok2y",
+      "text": "#Trump #biglosertrump  Er ist doch  scharf auf einen #Nobelpreis.  Wenn es schon nicht f\u00fcr den Friedensengel reicht, wie w\u00e4rs denn mit dem Kriegsnobelpreis? Wer daf\u00fcr nominiert wird, bezahlt eine Milliarde Dollar in die Komiteekasse..  #Gaza #Ukraine #Russland  #Zollkrieg #alligatoralcatraz",
+      "text_cleaned": "Er ist doch scharf auf einen . Wenn es schon nicht f\u00fcr den Friedensengel reicht, wie w\u00e4rs denn mit dem Kriegsnobelpreis? Wer daf\u00fcr nominiert wird, bezahlt eine Milliarde Dollar in die Komiteekasse..",
+      "text_preview": "#Trump #biglosertrump  Er ist doch  scharf auf einen #Nobelpreis.  Wenn es schon nicht f\u00fcr den Friedensengel reicht, wie w\u00e4rs denn mit dem Kriegsnobelpreis? Wer daf\u00fcr nominiert wird, bezahlt eine Mill...",
+      "author": "walter52.bsky.social",
+      "author_display_name": "Walter Helbling",
+      "created_at": "2025-08-05T08:16:23.611Z",
+      "hashtags": "['#Zollkrieg' '#Russland' '#Ukraine' '#alligatoralcatraz' '#Nobelpreis'\n '#Trump' '#biglosertrump' '#Gaza']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:20:03.315848",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:20:10.007000",
+      "text_length": 291,
+      "text_cleaned_length": 198,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnbcql7as2f",
+      "text": "Artwork by Seth Tobochman \n\n#Trump #Politics #USPolitics",
+      "text_cleaned": "Artwork by Seth Tobochman",
+      "text_preview": "Artwork by Seth Tobochman \n\n#Trump #Politics #USPolitics",
+      "author": "nettienews.bsky.social",
+      "author_display_name": "Nettie",
+      "created_at": "2025-08-05T08:14:49.569Z",
+      "hashtags": "['#Trump' '#USPolitics' '#Politics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:20:03.315873",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:20:10.007000",
+      "text_length": 56,
+      "text_cleaned_length": 25,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnbdiw42k2u",
+      "text": "#Trump #tariffs #trade #inflation \n\n#eggs",
+      "text_cleaned": "",
+      "text_preview": "#Trump #tariffs #trade #inflation \n\n#eggs",
+      "author": "mark-melbin.bsky.social",
+      "author_display_name": "Mark",
+      "created_at": "2025-08-05T08:15:15.114Z",
+      "hashtags": "['#tariffs' '#inflation' '#trade' '#eggs' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:20:03.315857",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:20:10.007000",
+      "text_length": 41,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnbamcttk2d",
+      "text": "Amid threats from #Trump Admin of secondary sanctions, #India defends purchases of oil from #Russia\n\nSays purchases began only after regular suppliers redirected their oil to Europe - US \u201cactively encouraged\u201d India imports of Russia oil \u201cfor strengthening global energy markets' stability\"\n\n#Ukraine",
+      "text_cleaned": "Amid threats from Admin of secondary sanctions, defends purchases of oil from Says purchases began only after regular suppliers redirected their oil to Europe - US \u201cactively encouraged\u201d India imports of Russia oil \u201cfor strengthening global energy markets' stability\"",
+      "text_preview": "Amid threats from #Trump Admin of secondary sanctions, #India defends purchases of oil from #Russia\n\nSays purchases began only after regular suppliers redirected their oil to Europe - US \u201cactively enc...",
+      "author": "scottlucas.bsky.social",
+      "author_display_name": "Scott Lucas",
+      "created_at": "2025-08-05T08:13:38.014Z",
+      "hashtags": "['#India' '#Russia' '#Trump' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:15:02.985860",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:15:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 266,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnb7ujenk2u",
+      "text": "In this new UKTPO blog, @sunayanasasmal.bsky.social calls for a coordinated response to US tariffs, \"one that goes beyond tariffs and takes a hard look at the processes and structures of international regimes\": www.uktpo.org/2025/08/01/t...\n\n#InternationalTrade #Trump #USTariffs",
+      "text_cleaned": "In this new UKTPO blog, .bsky.social calls for a coordinated response to US tariffs, \"one that goes beyond tariffs and takes a hard look at the processes and structures of international regimes\":",
+      "text_preview": "In this new UKTPO blog, @sunayanasasmal.bsky.social calls for a coordinated response to US tariffs, \"one that goes beyond tariffs and takes a hard look at the processes and structures of international...",
+      "author": "uktpo.org",
+      "author_display_name": "UK Trade Policy Observatory",
+      "created_at": "2025-08-05T08:13:13.031Z",
+      "hashtags": "['#USTariffs' '#Trump' '#InternationalTrade']",
+      "mentions": "['@sunayanasasmal.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:15:02.985868",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:15:10.007000",
+      "text_length": 279,
+      "text_cleaned_length": 195,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnb4vpixk2q",
+      "text": "\n#Opposition   #Polen   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Opposition   #Polen   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T08:11:39.387305+00:00",
+      "hashtags": "['#Polen' '#Trump' '#Opposition']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T08:15:02.985874",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 08:15:10.007000",
+      "text_length": 30,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
