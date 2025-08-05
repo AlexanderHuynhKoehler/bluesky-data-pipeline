@@ -1,0 +1,392 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_105417",
+    "post_count": 14,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 10:45:10.007000",
+    "latest_received_at": "2025-08-05 10:50:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvnjwz5lcc2d",
+      "text": "Views for @NPR on the #deals between #Trump and other economies: \u201cI call this the psychology of surrender. Everybody is surrendering. That may lead to a near-term reaction by foreign consumers against the U.S. \u2014 akin to how Canadians retaliated against Trump's tariffs by avoiding American products.",
+      "text_cleaned": "Views for on the between and other economies: \u201cI call this the psychology of surrender. Everybody is surrendering. That may lead to a near-term reaction by foreign consumers against the U.S. \u2014 akin to how Canadians retaliated against Trump's tariffs by avoiding American products.",
+      "text_preview": "Views for @NPR on the #deals between #Trump and other economies: \u201cI call this the psychology of surrender. Everybody is surrendering. That may lead to a near-term reaction by foreign consumers against...",
+      "author": "aligarciaherrero.bsky.social",
+      "author_display_name": "Alicia Garcia Herrero \u827e\u897f\u4e9e",
+      "created_at": "2025-08-05T10:49:19.606Z",
+      "hashtags": "['#Trump' '#deals']",
+      "mentions": "['@NPR']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:50:03.147580",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:50:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 280,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvnjvbvuvc2c",
+      "text": "A nation is not a marketplace, nor a mere collection of strangers governed by contract, but a shared soul, held together not by fear, nor manipulation, but by the difficult labor of trust, sacrifice, and shared meaning.\n#USA #Trump #ICE #Epstein #Science #Truth #Politics #Community",
+      "text_cleaned": "A nation is not a marketplace, nor a mere collection of strangers governed by contract, but a shared soul, held together not by fear, nor manipulation, but by the difficult labor of trust, sacrifice, and shared meaning.",
+      "text_preview": "A nation is not a marketplace, nor a mere collection of strangers governed by contract, but a shared soul, held together not by fear, nor manipulation, but by the difficult labor of trust, sacrifice, ...",
+      "author": "d3monding.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T10:48:21.682Z",
+      "hashtags": "['#Science' '#USA' '#Community' '#Politics' '#Trump' '#ICE' '#Truth'\n '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:50:03.147594",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:50:10.007000",
+      "text_length": 282,
+      "text_cleaned_length": 219,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjwz4f7k2f",
+      "text": "'There will be an insurrection': #Trump gets dire warning from ex-Fox News host\n\n#USA #uspoli #FoxNews\n\nIsn't this a bit like putting more logs on the fire - self-fulfilling prophecy-wise?\n\nwww.rawstory.com/gretchen-car...",
+      "text_cleaned": "'There will be an insurrection': gets dire warning from ex-Fox News host Isn't this a bit like putting more logs on the fire - self-fulfilling prophecy-wise?",
+      "text_preview": "'There will be an insurrection': #Trump gets dire warning from ex-Fox News host\n\n#USA #uspoli #FoxNews\n\nIsn't this a bit like putting more logs on the fire - self-fulfilling prophecy-wise?\n\nwww.rawsto...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-05T10:49:19.567Z",
+      "hashtags": "['#FoxNews' '#uspoli' '#USA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:50:03.147587",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:50:10.007000",
+      "text_length": 222,
+      "text_cleaned_length": 157,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjp2bzr22f",
+      "text": "He is a Taco. 50% tariffs on Brazilian products but with 700 exceptions.\n#Trump #TrumpRegime\n#TrumpTariffs and #TrumpIsOnTheList",
+      "text_cleaned": "He is a Taco. 50% tariffs on Brazilian products but with 700 exceptions. and",
+      "text_preview": "He is a Taco. 50% tariffs on Brazilian products but with 700 exceptions.\n#Trump #TrumpRegime\n#TrumpTariffs and #TrumpIsOnTheList",
+      "author": "markvzmaximvz.bsky.social",
+      "author_display_name": "Markvz",
+      "created_at": "2025-08-05T10:44:52.333Z",
+      "hashtags": "['#TrumpIsOnTheList' '#TrumpRegime' '#TrumpTariffs' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:50:03.147609",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:50:10.007000",
+      "text_length": 128,
+      "text_cleaned_length": 76,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjsglqxf2p",
+      "text": "\n#Atomwaffen   #M\u00fctzenich   #Russland   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Atomwaffen   #M\u00fctzenich   #Russland   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T10:46:51.541950+00:00",
+      "hashtags": "['#Russland' '#Atomwaffen' '#Trump' '#M\u00fctzenich']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:50:03.147602",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:50:10.007000",
+      "text_length": 46,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjdz2v7hk2",
+      "text": "#Trump praises Sweeney then attacks #Jaguar\n\n\u201cThe president also called the firm's recent marketing campaign \"stupid\" and \"woke\".\n\nJLR said PB Balaji, finance chief of parent company #Tata Motors, will take over as its chief executive in Nov.\n\nHe will be JLR's first Indian CEO.\n\nMardell, who [\u2026]",
+      "text_cleaned": "praises Sweeney then attacks \u201cThe president also called the firm's recent marketing campaign \"stupid\" and \"woke\". JLR said PB Balaji, finance chief of parent company Motors, will take over as its chief executive in Nov. He will be JLR's first Indian CEO. Mardell, who [\u2026]",
+      "text_preview": "#Trump praises Sweeney then attacks #Jaguar\n\n\u201cThe president also called the firm's recent marketing campaign \"stupid\" and \"woke\".\n\nJLR said PB Balaji, finance chief of parent company #Tata Motors, wil...",
+      "author": "annaanthro.mastodon.social.ap.brid.gy",
+      "author_display_name": "AnnaAnthro",
+      "created_at": "2025-08-05T10:38:37.000Z",
+      "hashtags": "['#Tata' '#Trump' '#Jaguar']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:45:03.241950",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:45:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 271,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjgtt35s2d",
+      "text": "Top economist discounts #Trump claim U.S. jobs data are \u2018rigged\u2019\n\nFormer head of the #BureauofLaborStatistics says \u201cWhen a statistical agency revises its data, that is an indication it cares both about timeliness and about accuracy.\u201d\n\n#economics #employment via \u202a@science.org\u202c \n\ntinyurl.com/49s8utde",
+      "text_cleaned": "Top economist discounts claim U.S. jobs data are \u2018rigged\u2019 Former head of the says \u201cWhen a statistical agency revises its data, that is an indication it cares both about timeliness and about accuracy.\u201d via \u202a.org\u202c tinyurl.com/49s8utde",
+      "text_preview": "Top economist discounts #Trump claim U.S. jobs data are \u2018rigged\u2019\n\nFormer head of the #BureauofLaborStatistics says \u201cWhen a statistical agency revises its data, that is an indication it cares both abou...",
+      "author": "armst-ed.bsky.social",
+      "author_display_name": "Ed Armstrong",
+      "created_at": "2025-08-05T10:40:17.146Z",
+      "hashtags": "['#economics' '#BureauofLaborStatistics' '#Trump' '#employment']",
+      "mentions": "['@science.org']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:45:03.241913",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:45:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 232,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjnhar4c2f",
+      "text": "Wall Street Journal Delivers Reality Check To MAGA: \u2018Maybe Hold The Euphoria\u2019\n\nThe \u201ctriumphalism is palpable in MAGA land\" but not so fast, warned the conservative newspaper's editorial board.\n\n#USA #uspoli #Trump \n\nwww.huffpost.com/entry/wall-s...",
+      "text_cleaned": "Wall Street Journal Delivers Reality Check To MAGA: \u2018Maybe Hold The Euphoria\u2019 The \u201ctriumphalism is palpable in MAGA land\" but not so fast, warned the conservative newspaper's editorial board.",
+      "text_preview": "Wall Street Journal Delivers Reality Check To MAGA: \u2018Maybe Hold The Euphoria\u2019\n\nThe \u201ctriumphalism is palpable in MAGA land\" but not so fast, warned the conservative newspaper's editorial board.\n\n#USA #...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-05T10:43:58.846Z",
+      "hashtags": "['#USA' '#uspoli' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:45:03.241868",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:45:10.007000",
+      "text_length": 248,
+      "text_cleaned_length": 191,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjhdk3tk2j",
+      "text": "\"Nebraska Republican Rep. Mike Flood endured another torrid town hall event in his state on Monday, with audience members booing and heckling him and demanding answers on the Jeffrey Epstein files.\"\nwww.independent.co.uk/news/world/a...\n#trump #maga #gop #republicans",
+      "text_cleaned": "\"Nebraska Republican Rep. Mike Flood endured another torrid town hall event in his state on Monday, with audience members booing and heckling him and demanding answers on the Jeffrey Epstein files.\"",
+      "text_preview": "\"Nebraska Republican Rep. Mike Flood endured another torrid town hall event in his state on Monday, with audience members booing and heckling him and demanding answers on the Jeffrey Epstein files.\"\nw...",
+      "author": "lpspratt.bsky.social",
+      "author_display_name": "Lou Pratt",
+      "created_at": "2025-08-05T10:40:33.630Z",
+      "hashtags": "['#republicans' '#trump' '#maga' '#gop']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:45:03.241898",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:45:10.007000",
+      "text_length": 267,
+      "text_cleaned_length": 198,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjkg4m6c2f",
+      "text": "'Did she hurt your feelings?'\n\n#Trump ally dubbed 'perpetual loser'\n\nafter judge dismisses Maddow suit\n\n#USA #uspoli \n\nwww.alternet.org/devin-nunes-...",
+      "text_cleaned": "'Did she hurt your feelings?' ally dubbed 'perpetual loser' after judge dismisses Maddow suit",
+      "text_preview": "'Did she hurt your feelings?'\n\n#Trump ally dubbed 'perpetual loser'\n\nafter judge dismisses Maddow suit\n\n#USA #uspoli \n\nwww.alternet.org/devin-nunes-...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-05T10:42:16.998Z",
+      "hashtags": "['#USA' '#uspoli' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:45:03.241884",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:45:10.007000",
+      "text_length": 151,
+      "text_cleaned_length": 93,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjgmgmqs2f",
+      "text": "Why China is Becoming Donald Trump's Biggest U-Turn  \n\n#USA #Trump #uspoli \n\nwww.newsweek.com/donald-trump...",
+      "text_cleaned": "Why China is Becoming Donald Trump's Biggest U-Turn",
+      "text_preview": "Why China is Becoming Donald Trump's Biggest U-Turn  \n\n#USA #Trump #uspoli \n\nwww.newsweek.com/donald-trump...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-05T10:40:09.386Z",
+      "hashtags": "['#USA' '#uspoli' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:45:03.241919",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:45:10.007000",
+      "text_length": 109,
+      "text_cleaned_length": 51,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjhrjkuh2k",
+      "text": "\n#Proteste   #Rassismus   #Regierung   #Trump   #Trump-Regierung",
+      "text_cleaned": "-Regierung",
+      "text_preview": "\n#Proteste   #Rassismus   #Regierung   #Trump   #Trump-Regierung",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T10:40:53.905153+00:00",
+      "hashtags": "['#Rassismus' '#Trump' '#Regierung' '#Proteste']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:45:03.241892",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:45:10.007000",
+      "text_length": 64,
+      "text_cleaned_length": 10,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjmaiz5a2a",
+      "text": "\n#Indien   #Krieg   #Trump   #Ukraine   #Ukraine-Krieg   #Z\u00f6lle",
+      "text_cleaned": "-Krieg",
+      "text_preview": "\n#Indien   #Krieg   #Trump   #Ukraine   #Ukraine-Krieg   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T10:43:23.825225+00:00",
+      "hashtags": "['#Krieg' '#Indien' '#Ukraine' '#Z\u00f6lle' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:45:03.241878",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:45:10.007000",
+      "text_length": 63,
+      "text_cleaned_length": 6,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnjh3p3jr2j",
+      "text": "Click Subscribe. #Kremlin #Trump #Tariffs #India #RussianOil",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Kremlin #Trump #Tariffs #India #RussianOil",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-05T10:40:25Z",
+      "hashtags": "['#India' '#RussianOil' '#Tariffs' '#Kremlin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:45:03.241905",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:45:10.007000",
+      "text_length": 60,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
