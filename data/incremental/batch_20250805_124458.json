@@ -1,0 +1,716 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_124458",
+    "post_count": 26,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 12:35:10.008000",
+    "latest_received_at": "2025-08-05 12:40:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvnpzhty7s2v",
+      "text": "Donald Trump Doubles Down on Sydney Sweeney's Controversial Ad, Blasts Taylor Swift\n\nDonald Trump is doubling down on his support for actress Sydney Sweeney amid her controversial American Eagle ad campaign ... taking time out of his busy sched to embrace the clothing br\u2026\n\n#media #taylorswift #trump",
+      "text_cleaned": "Donald Trump Doubles Down on Sydney Sweeney's Controversial Ad, Blasts Taylor Swift Donald Trump is doubling down on his support for actress Sydney Sweeney amid her controversial American Eagle ad campaign ... taking time out of his busy sched to embrace the clothing br\u2026",
+      "text_preview": "Donald Trump Doubles Down on Sydney Sweeney's Controversial Ad, Blasts Taylor Swift\n\nDonald Trump is doubling down on his support for actress Sydney Sweeney amid her controversial American Eagle ad ca...",
+      "author": "media-news.at.thenote.app",
+      "author_display_name": "Media News",
+      "created_at": "2025-08-05T12:38:04.286Z",
+      "hashtags": "['#trump' '#media' '#taylorswift']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925087",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 271,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpzleuxx2n",
+      "text": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/j6M15LZh",
+      "text_cleaned": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... .ai",
+      "text_preview": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkwa...",
+      "author": "cosmicmeta.bsky.social",
+      "author_display_name": "Cosmic Meta Digital",
+      "created_at": "2025-08-05T12:38:08.105Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925070",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 275,
+      "text_cleaned_length": 232,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpvxhjbk2p",
+      "text": "#Trump y\u00f6netiminin, y\u00fczlerce toplulu\u011fun #iklim felaketleri ve \u00e7evresel tehlikelere haz\u0131rlanmas\u0131na yard\u0131mc\u0131 olmay\u0131 ama\u00e7layan 3 milyar dolarl\u0131k program\u0131 aniden sonland\u0131rma karar\u0131, anayasaya ayk\u0131r\u0131 oldu\u011fu gerek\u00e7esiyle mahkemeye ta\u015f\u0131n\u0131yor #ABD #EPA #SonDakika",
+      "text_cleaned": "y\u00f6netiminin, y\u00fczlerce toplulu\u011fun felaketleri ve \u00e7evresel tehlikelere haz\u0131rlanmas\u0131na yard\u0131mc\u0131 olmay\u0131 ama\u00e7layan 3 milyar dolarl\u0131k program\u0131 aniden sonland\u0131rma karar\u0131, anayasaya ayk\u0131r\u0131 oldu\u011fu gerek\u00e7esiyle mahkemeye ta\u015f\u0131n\u0131yor",
+      "text_preview": "#Trump y\u00f6netiminin, y\u00fczlerce toplulu\u011fun #iklim felaketleri ve \u00e7evresel tehlikelere haz\u0131rlanmas\u0131na yard\u0131mc\u0131 olmay\u0131 ama\u00e7layan 3 milyar dolarl\u0131k program\u0131 aniden sonland\u0131rma karar\u0131, anayasaya ayk\u0131r\u0131 oldu\u011f...",
+      "author": "cevrehatti.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T12:36:05Z",
+      "hashtags": "['#EPA' '#ABD' '#iklim' '#Trump' '#SonDakika']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925104",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 255,
+      "text_cleaned_length": 220,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnq3chuk22y",
+      "text": "(Gift article)\nJune #prices for furnishings & durable household equipment rose 1.3%, the biggest increase in more than three years.\n\nOur President Is Economically Illiterate\n\n#Trump #Tariff #JobsReport #groceries #paycheck #MAGA #costoflivingcrisis\n\nwww.nytimes.com/2025/08/04/o...",
+      "text_cleaned": "(Gift article) June for furnishings & durable household equipment rose 1.3%, the biggest increase in more than three years. Our President Is Economically Illiterate",
+      "text_preview": "(Gift article)\nJune #prices for furnishings & durable household equipment rose 1.3%, the biggest increase in more than three years.\n\nOur President Is Economically Illiterate\n\n#Trump #Tariff #JobsRepor...",
+      "author": "rjmrim.bsky.social",
+      "author_display_name": "\ud83e\ude96 \ud83c\uddfa\ud83c\uddf8 \ud83c\udf0e \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-05T12:39:06.045Z",
+      "hashtags": "['#prices' '#groceries' '#MAGA' '#Trump' '#Tariff' '#costoflivingcrisis'\n '#JobsReport' '#paycheck']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925029",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 281,
+      "text_cleaned_length": 164,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnq42sx7c2t",
+      "text": "Quand c'est Donald #Trump qui nous met - certes malgr\u00e9 lui - face aux violations des #droitshumains que nous perp\u00e9trons nous, Europ\u00e9ens, sur nos territoires...\n\n#LaHonte #Danemark #Groenland #colonialisme #DroitsDesFemmes #UE \n\nwww.radiofrance.fr/francecultur...",
+      "text_cleaned": "Quand c'est Donald qui nous met - certes malgr\u00e9 lui - face aux violations des que nous perp\u00e9trons nous, Europ\u00e9ens, sur nos territoires...",
+      "text_preview": "Quand c'est Donald #Trump qui nous met - certes malgr\u00e9 lui - face aux violations des #droitshumains que nous perp\u00e9trons nous, Europ\u00e9ens, sur nos territoires...\n\n#LaHonte #Danemark #Groenland #colonial...",
+      "author": "jenlempert.bsky.social",
+      "author_display_name": "Jennifer Lempert",
+      "created_at": "2025-08-05T12:39:31.576Z",
+      "hashtags": "['#colonialisme' '#droitshumains' '#Groenland' '#DroitsDesFemmes' '#Trump'\n '#LaHonte' '#UE' '#Danemark']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925011",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 262,
+      "text_cleaned_length": 137,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnq2tvipk2c",
+      "text": "Where has Muskkk been?\n\nDid #Trump the lil \u2018man\u2019 give Mu$k, the other lil \u2018man\u2019 some more taxpayer contracts to shut him up?\n\nSure he did - that\u2019s the only thing those two know - money \n& \nusing people\n\nThe end!",
+      "text_cleaned": "Where has Muskkk been? Did the lil \u2018man\u2019 give Mu$k, the other lil \u2018man\u2019 some more taxpayer contracts to shut him up? Sure he did - that\u2019s the only thing those two know - money & using people The end!",
+      "text_preview": "Where has Muskkk been?\n\nDid #Trump the lil \u2018man\u2019 give Mu$k, the other lil \u2018man\u2019 some more taxpayer contracts to shut him up?\n\nSure he did - that\u2019s the only thing those two know - money \n& \nusing peopl...",
+      "author": "no-dm.bsky.social",
+      "author_display_name": "No DM",
+      "created_at": "2025-08-05T12:38:50.767Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925038",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 211,
+      "text_cleaned_length": 199,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpylcon226",
+      "text": "BBC News - #Netanyahu to propose full reoccupation of #Gaza , Israeli media report\nwww.bbc.com/news/article...\n\nNo doubt paving the way from #Trump 's Mediterranean real estate plans......",
+      "text_cleaned": "BBC News - to propose full reoccupation of , Israeli media report No doubt paving the way from 's Mediterranean real estate plans......",
+      "text_preview": "BBC News - #Netanyahu to propose full reoccupation of #Gaza , Israeli media report\nwww.bbc.com/news/article...\n\nNo doubt paving the way from #Trump 's Mediterranean real estate plans......",
+      "author": "suereeve.bsky.social",
+      "author_display_name": "Sue Reeve",
+      "created_at": "2025-08-05T12:37:34.652Z",
+      "hashtags": "['#Gaza' '#Netanyahu' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925094",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 188,
+      "text_cleaned_length": 135,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpzw2uuc2s",
+      "text": "#Trump and his #Republicans are only working for the wealthiest, top 1%. \nCheck your bank balance to see if that\u2019s you!",
+      "text_cleaned": "and his are only working for the wealthiest, top 1%. Check your bank balance to see if that\u2019s you!",
+      "text_preview": "#Trump and his #Republicans are only working for the wealthiest, top 1%. \nCheck your bank balance to see if that\u2019s you!",
+      "author": "hmandia.bsky.social",
+      "author_display_name": "Holly M",
+      "created_at": "2025-08-05T12:38:19.485Z",
+      "hashtags": "['#Republicans' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925063",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 119,
+      "text_cleaned_length": 98,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnq3pvjks2c",
+      "text": "Where has Muskkk been?\n\nDid #Trump the lil \u2018man\u2019 give Mu$k, the other lil \u2018man\u2019 some more taxpayer contracts to shut him up?\n\nSure he did - that\u2019s the only thing those two know - money \n& \nusing people\n\nThe end!",
+      "text_cleaned": "Where has Muskkk been? Did the lil \u2018man\u2019 give Mu$k, the other lil \u2018man\u2019 some more taxpayer contracts to shut him up? Sure he did - that\u2019s the only thing those two know - money & using people The end!",
+      "text_preview": "Where has Muskkk been?\n\nDid #Trump the lil \u2018man\u2019 give Mu$k, the other lil \u2018man\u2019 some more taxpayer contracts to shut him up?\n\nSure he did - that\u2019s the only thing those two know - money \n& \nusing peopl...",
+      "author": "no-dm.bsky.social",
+      "author_display_name": "No DM",
+      "created_at": "2025-08-05T12:39:20.127Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925018",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 211,
+      "text_cleaned_length": 199,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpupmyiy2m",
+      "text": "\n#Kremlin   #Medvedev   #Russia   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Kremlin   #Medvedev   #Russia   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T12:35:46.416686+00:00",
+      "hashtags": "['#Medvedev' '#Kremlin' '#Russia' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925112",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 40,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpu67qmz2b",
+      "text": "Treasury Secretary Scott Bessent off list for next Fed chair, Trump says\n#Trump",
+      "text_cleaned": "Treasury Secretary Scott Bessent off list for next Fed chair, Trump says",
+      "text_preview": "Treasury Secretary Scott Bessent off list for next Fed chair, Trump says\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T12:35:06.124Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925137",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 79,
+      "text_cleaned_length": 72,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpu73yv42v",
+      "text": "Covid cases rising in US as officials plan to restrict booster vaccines\n#Trump",
+      "text_cleaned": "Covid cases rising in US as officials plan to restrict booster vaccines",
+      "text_preview": "Covid cases rising in US as officials plan to restrict booster vaccines\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T12:35:07.540Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925131",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 78,
+      "text_cleaned_length": 71,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnpzxcsia2v",
+      "text": "\n#California   #China   #Los Angeles   #Trump   #universities",
+      "text_cleaned": "Angeles",
+      "text_preview": "\n#California   #China   #Los Angeles   #Trump   #universities",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T12:38:42.241895+00:00",
+      "hashtags": "['#universities' '#Trump' '#Los' '#California' '#China']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925047",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 61,
+      "text_cleaned_length": 7,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpzyq5ng2l",
+      "text": "\u27a1\ufe0f  Leggi l'articolo: #Trump #Powell #Politica #Notizie #Ultimora",
+      "text_cleaned": "\u27a1\ufe0f Leggi l'articolo:",
+      "text_preview": "\u27a1\ufe0f  Leggi l'articolo: #Trump #Powell #Politica #Notizie #Ultimora",
+      "author": "qnazionale.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T12:38:22Z",
+      "hashtags": "['#Notizie' '#Politica' '#Ultimora' '#Trump' '#Powell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925055",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 65,
+      "text_cleaned_length": 20,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnptzvw4a26",
+      "text": "Trump rules out Bessent as next Fed chair\n#Trump",
+      "text_cleaned": "Trump rules out Bessent as next Fed chair",
+      "text_preview": "Trump rules out Bessent as next Fed chair\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T12:35:01.605Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925143",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 48,
+      "text_cleaned_length": 41,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpzhlawc2m",
+      "text": "it comes to them naturally?\n\n#trump\n@cnbc.com",
+      "text_cleaned": "it comes to them naturally? .com",
+      "text_preview": "it comes to them naturally?\n\n#trump\n@cnbc.com",
+      "author": "econ-001.bsky.social",
+      "author_display_name": "econ-001",
+      "created_at": "2025-08-05T12:38:04.292Z",
+      "hashtags": "['#trump']",
+      "mentions": "['@cnbc.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925077",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 45,
+      "text_cleaned_length": 32,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpukew7s2t",
+      "text": "\ud83d\udea8#EPSTEIN DISTRACTION \ud83d\udea8 #trump",
+      "text_cleaned": "\ud83d\udea8 DISTRACTION \ud83d\udea8",
+      "text_preview": "\ud83d\udea8#EPSTEIN DISTRACTION \ud83d\udea8 #trump",
+      "author": "turbotron.bsky.social",
+      "author_display_name": "Ben",
+      "created_at": "2025-08-05T12:35:19.460Z",
+      "hashtags": "['#EPSTEIN' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:40:03.925119",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:40:10.007000",
+      "text_length": 30,
+      "text_cleaned_length": 15,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnplbpb7q23",
+      "text": "BILL UPDATE:\n\nH.626: Commemorating the continuation of the semicentennial of hip hop and designating August 11, 2025, as \"Hip Hop Celebration Day\", designating August 2025 as \"Hip Hop Recognition Mont...\n\nACTION: Referred to the House Committee on Education and Workforce.\n\n#economy #education #labor",
+      "text_cleaned": "BILL UPDATE: H.626: Commemorating the continuation of the semicentennial of hip hop and designating August 11, 2025, as \"Hip Hop Celebration Day\", designating August 2025 as \"Hip Hop Recognition Mont... ACTION: Referred to the House Committee on Education and Workforce.",
+      "text_preview": "BILL UPDATE:\n\nH.626: Commemorating the continuation of the semicentennial of hip hop and designating August 11, 2025, as \"Hip Hop Celebration Day\", designating August 2025 as \"Hip Hop Recognition Mont...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-05T12:30:05.486Z",
+      "hashtags": "['#economy' '#labor' '#education']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:35:04.363643",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:35:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 270,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvnpp5nl6y2l",
+      "text": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/j6M15LZh",
+      "text_cleaned": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... .ai",
+      "text_preview": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkwa...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-05T12:32:18.198Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:35:04.363942",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:35:10.008000",
+      "text_length": 275,
+      "text_cleaned_length": 232,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnptjph5c2o",
+      "text": "#TrumpMadHatter #NobelNope #Trump\n#PalkiSharma #World #New\n\"Trump made peace between Tom and Jerry;\nHarry Potter and Voldemort; ended World War 1, World War 2 ... He made God rise the sun every day!\"\n#Vantage #FirstPost #Parody\n#EpsteinList\n#Dementia\n#AfroCaribVybz\nyoutube.com/watch?v=gO_O...",
+      "text_cleaned": "\"Trump made peace between Tom and Jerry; Harry Potter and Voldemort; ended World War 1, World War 2 ... He made God rise the sun every day!\" youtube.com/watch?v=gO_O...",
+      "text_preview": "#TrumpMadHatter #NobelNope #Trump\n#PalkiSharma #World #New\n\"Trump made peace between Tom and Jerry;\nHarry Potter and Voldemort; ended World War 1, World War 2 ... He made God rise the sun every day!\"\n...",
+      "author": "afro-carib-vybz.bsky.social",
+      "author_display_name": "AFRO CARIB VYBZ",
+      "created_at": "2025-08-05T12:34:45.201Z",
+      "hashtags": "['#Vantage' '#PalkiSharma' '#World' '#AfroCaribVybz' '#NobelNope'\n '#FirstPost' '#New' '#Dementia' '#TrumpMadHatter' '#Trump' '#EpsteinList'\n '#Parody']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:35:04.363900",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:35:10.008000",
+      "text_length": 293,
+      "text_cleaned_length": 168,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpo4xgns2f",
+      "text": "Ao Plat\u00f4BR, o ministro da Fazenda destacou que o sistema de pagamento digital j\u00e1 \u00e9 aceito em outros pa\u00edses: 'Os Estados Unidos podem ter interesse em aceit\u00e1-lo tamb\u00e9m'\n\n#Haddad #Pix #Trump\n\nistoedinheiro.com.br/platobr-o-qu...",
+      "text_cleaned": "Ao Plat\u00f4BR, o ministro da Fazenda destacou que o sistema de pagamento digital j\u00e1 \u00e9 aceito em outros pa\u00edses: 'Os Estados Unidos podem ter interesse em aceit\u00e1-lo tamb\u00e9m' istoedinheiro.com.br/platobr-o-qu...",
+      "text_preview": "Ao Plat\u00f4BR, o ministro da Fazenda destacou que o sistema de pagamento digital j\u00e1 \u00e9 aceito em outros pa\u00edses: 'Os Estados Unidos podem ter interesse em aceit\u00e1-lo tamb\u00e9m'\n\n#Haddad #Pix #Trump\n\nistoedinhe...",
+      "author": "istoedinheiro.bsky.social",
+      "author_display_name": "Isto\u00c9 Dinheiro Online",
+      "created_at": "2025-08-05T12:31:44.059Z",
+      "hashtags": "['#Trump' '#Haddad' '#Pix']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:35:04.363952",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:35:10.008000",
+      "text_length": 226,
+      "text_cleaned_length": 204,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpsn3br22s",
+      "text": "Hey, American Eagle ... if you really want to promote White Nationalism, forget Sidney Sweeney and hire the most famous spokesracist ever! #SidneySweeney #AmericanEagle #genes #jeans #Trump #WhiteSupermacy #WhiteNationalist #racism #eugenics",
+      "text_cleaned": "Hey, American Eagle ... if you really want to promote White Nationalism, forget Sidney Sweeney and hire the most famous spokesracist ever!",
+      "text_preview": "Hey, American Eagle ... if you really want to promote White Nationalism, forget Sidney Sweeney and hire the most famous spokesracist ever! #SidneySweeney #AmericanEagle #genes #jeans #Trump #WhiteSupe...",
+      "author": "rob-rogers.bsky.social",
+      "author_display_name": "Rob Rogers",
+      "created_at": "2025-08-05T12:34:15.178Z",
+      "hashtags": "['#jeans' '#racism' '#SidneySweeney' '#WhiteNationalist' '#eugenics'\n '#Trump' '#WhiteSupermacy' '#genes' '#AmericanEagle']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:35:04.363917",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:35:10.008000",
+      "text_length": 241,
+      "text_cleaned_length": 138,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpt4sdg22v",
+      "text": "This will not end well. #US #politics #Project2025 #trump #RFKJr #MAGA #MAHA #CovidisNotOver",
+      "text_cleaned": "This will not end well.",
+      "text_preview": "This will not end well. #US #politics #Project2025 #trump #RFKJr #MAGA #MAHA #CovidisNotOver",
+      "author": "organicbotanic.bsky.social",
+      "author_display_name": "Sue McBean\ud83c\uddfa\ud83c\udde6\u26f5\ufe0f\ud83d\udc9a\ud83c\udf31\u270d\ufe0f\ud83d\udcf8",
+      "created_at": "2025-08-05T12:34:31.661Z",
+      "hashtags": "['#trump' '#CovidisNotOver' '#Project2025' '#RFKJr' '#MAHA' '#politics'\n '#US' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:35:04.363909",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:35:10.008000",
+      "text_length": 92,
+      "text_cleaned_length": 23,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpqd2f322m",
+      "text": "@govpritzker.illinois.gov \n\ncongrats, you made it national! \n\n#trump\n@cnbc.com",
+      "text_cleaned": ".illinois.gov congrats, you made it national! .com",
+      "text_preview": "@govpritzker.illinois.gov \n\ncongrats, you made it national! \n\n#trump\n@cnbc.com",
+      "author": "econ-001.bsky.social",
+      "author_display_name": "econ-001",
+      "created_at": "2025-08-05T12:32:57.554Z",
+      "hashtags": "['#trump']",
+      "mentions": "['@govpritzker.illinois.gov' '@cnbc.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:35:04.363931",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:35:10.008000",
+      "text_length": 78,
+      "text_cleaned_length": 50,
+      "hashtag_count": 1,
+      "mention_count": 2,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnpsjoae72m",
+      "text": "Click Subscribe. #Brazil #CentralBank #USTariffs #Inflation #Economy",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Brazil #CentralBank #USTariffs #Inflation #Economy",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-05T12:34:11Z",
+      "hashtags": "['#Inflation' '#Economy' '#Brazil' '#USTariffs' '#CentralBank']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:35:04.363625",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:35:10.008000",
+      "text_length": 68,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnprsjbsv2q",
+      "text": "\n#India   #trade war   #Trump   #war   #Washington",
+      "text_cleaned": "war",
+      "text_preview": "\n#India   #trade war   #Trump   #war   #Washington",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T12:34:08.781366+00:00",
+      "hashtags": "['#India' '#Washington' '#trade' '#Trump' '#war']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:35:04.363924",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:35:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 3,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
