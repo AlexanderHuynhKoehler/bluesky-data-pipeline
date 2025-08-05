@@ -1,0 +1,176 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_132513",
+    "post_count": 6,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 13:20:10.007000",
+    "latest_received_at": "2025-08-05 13:20:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvns4uiimc2z",
+      "text": "President Trump's tariffs have been an undeniable success.\n\nHe's used them to end wars, bring manufacturing to our country, and incentivize other countries to invest in America again.\n\nI believe that when the Fed finally lowers rates.\n#maga #trump",
+      "text_cleaned": "President Trump's tariffs have been an undeniable success. He's used them to end wars, bring manufacturing to our country, and incentivize other countries to invest in America again. I believe that when the Fed finally lowers rates.",
+      "text_preview": "President Trump's tariffs have been an undeniable success.\n\nHe's used them to end wars, bring manufacturing to our country, and incentivize other countries to invest in America again.\n\nI believe that ...",
+      "author": "benjaminx1.bsky.social",
+      "author_display_name": "Benjamin Victor",
+      "created_at": "2025-08-05T13:15:45.979Z",
+      "hashtags": "['#trump' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T13:20:03.636684",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 13:20:10.007000",
+      "text_length": 247,
+      "text_cleaned_length": 232,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnsdimpbc2c",
+      "text": "@thedailybeast.bsky.social \n\n    \u2018 #Trump \n            #Brazenly \n                          #Preyed \n                                     #on \n                                             #Me \n\n                              as \n\n                  #Epstein-Watched\u2019 \n\nyoutu.be/PEPS2NisElo?...",
+      "text_cleaned": ".bsky.social \u2018 as -Watched\u2019 youtu.be/PEPS2NisElo?...",
+      "text_preview": "@thedailybeast.bsky.social \n\n    \u2018 #Trump \n            #Brazenly \n                          #Preyed \n                                     #on \n                                             #Me \n\n      ...",
+      "author": "grumpynancy.bsky.social",
+      "author_display_name": "Grumpy Nancy ",
+      "created_at": "2025-08-05T13:19:28.416Z",
+      "hashtags": "['#on' '#Trump' '#Brazenly' '#Preyed' '#Me' '#Epstein']",
+      "mentions": "['@thedailybeast.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T13:20:03.636597",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 13:20:10.007000",
+      "text_length": 291,
+      "text_cleaned_length": 52,
+      "hashtag_count": 6,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnsbfaner2i",
+      "text": "8/5/25 - An appeals court upholds Texas law requiring ID numbers to vote by mail-in ballots. https://www.reddit.com/r/trumptweets/comments/1mi7jt9/8525_an_appeals_court_upholds_texas_law_requiring/\n#truthsocial #trump",
+      "text_cleaned": "8/5/25 - An appeals court upholds Texas law requiring ID numbers to vote by mail-in ballots.",
+      "text_preview": "8/5/25 - An appeals court upholds Texas law requiring ID numbers to vote by mail-in ballots. https://www.reddit.com/r/trumptweets/comments/1mi7jt9/8525_an_appeals_court_upholds_texas_law_requiring/\n#t...",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T13:18:16.711Z",
+      "hashtags": "['#truthsocial' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T13:20:03.636604",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 13:20:10.007000",
+      "text_length": 217,
+      "text_cleaned_length": 92,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvns6vrsz22u",
+      "text": "#project2025\n#trump\n#GOP\n#republicans \n#America \n#Americans \n#Worldwide \n#BlueSky\n\ud83d\udc80\nBiteMe\n\ud83d\udc80\n#PHOTOGRAPHY\n#PhotoSKY \ud83e\udd8b\n#LoudORCHID \ud83d\ude31\n#DigitalIMAGE\n#LadySlipperHERE <\n#fotoGrafie #fotoGrafia",
+      "text_cleaned": "\ud83d\udc80 BiteMe \ud83d\udc80 \ud83e\udd8b \ud83d\ude31 <",
+      "text_preview": "#project2025\n#trump\n#GOP\n#republicans \n#America \n#Americans \n#Worldwide \n#BlueSky\n\ud83d\udc80\nBiteMe\n\ud83d\udc80\n#PHOTOGRAPHY\n#PhotoSKY \ud83e\udd8b\n#LoudORCHID \ud83d\ude31\n#DigitalIMAGE\n#LadySlipperHERE <\n#fotoGrafie #fotoGrafia",
+      "author": "ladyslipperhere.bsky.social",
+      "author_display_name": "#LoudORCHID",
+      "created_at": "2025-08-05T13:16:54.430Z",
+      "hashtags": "['#America' '#Worldwide' '#DigitalIMAGE' '#trump' '#LadySlipperHERE'\n '#GOP' '#PHOTOGRAPHY' '#PhotoSKY' '#fotoGrafie' '#Americans'\n '#project2025' '#fotoGrafia' '#LoudORCHID' '#BlueSky' '#republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 3,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T13:20:03.636670",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 13:20:10.007000",
+      "text_length": 188,
+      "text_cleaned_length": 16,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 6.0
+    },
+    {
+      "post_id": "3lvns6uedwk2f",
+      "text": "- E se non pagate entro 6 mesi mando i picciotti da Ursula... \n#trump #usa #mafia #ue",
+      "text_cleaned": "- E se non pagate entro 6 mesi mando i picciotti da Ursula...",
+      "text_preview": "- E se non pagate entro 6 mesi mando i picciotti da Ursula... \n#trump #usa #mafia #ue",
+      "author": "eulerob.bsky.social",
+      "author_display_name": "EuleroB",
+      "created_at": "2025-08-05T13:16:52.955Z",
+      "hashtags": "['#mafia' '#ue' '#trump' '#usa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T13:20:03.636676",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 13:20:10.007000",
+      "text_length": 85,
+      "text_cleaned_length": 61,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnsb2rlh22c",
+      "text": "\"Birds of a feather...\" and \"Like attracts \"Like\"\n#Pedos love #Trump",
+      "text_cleaned": "\"Birds of a feather...\" and \"Like attracts \"Like\" love",
+      "text_preview": "\"Birds of a feather...\" and \"Like attracts \"Like\"\n#Pedos love #Trump",
+      "author": "ten24get.bsky.social",
+      "author_display_name": "Bill Wong ",
+      "created_at": "2025-08-05T13:18:06.788Z",
+      "hashtags": "['#Trump' '#Pedos']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T13:20:03.636658",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 13:20:10.007000",
+      "text_length": 68,
+      "text_cleaned_length": 54,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
