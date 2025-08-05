@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_102406",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 10:15:10.007000",
+    "latest_received_at": "2025-08-05 10:20:10.009000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvnhyyhcy252",
+      "text": "If you value the #privacy and #security of your personal #data you must not use #Microsoft #Recall. If that means switching to #Linux then so be it.\n\nBut #Windows11 now is a privacy nightmare, and it's not like Microsoft hasn't been #hacked before. Now that they've chosen to process all image [\u2026]",
+      "text_cleaned": "If you value the and of your personal you must not use . If that means switching to then so be it. But now is a privacy nightmare, and it's not like Microsoft hasn't been before. Now that they've chosen to process all image [\u2026]",
+      "text_preview": "If you value the #privacy and #security of your personal #data you must not use #Microsoft #Recall. If that means switching to #Linux then so be it.\n\nBut #Windows11 now is a privacy nightmare, and it'...",
+      "author": "gme.bofh.social.ap.brid.gy",
+      "author_display_name": "George E. \ud83c\uddfa\ud83c\uddf8\u2665\ud83c\uddfa\ud83c\udde6\ud83c\uddf5\ud83c\uddf8\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+      "created_at": "2025-08-05T10:13:13.158Z",
+      "hashtags": "['#Microsoft' '#data' '#privacy' '#security' '#Windows11' '#Linux'\n '#hacked' '#Recall']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286551",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 297,
+      "text_cleaned_length": 227,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhzufchy2g",
+      "text": "BILL UPDATE:\n\nH.4835: To amend the Defense Production Act of 1950 to prohibit discrimination based on energy source in the use of certain authorities under title I and title III of such Act, and for other purposes.\n\nACTION: Referred to the House Committee on Financial Services.\n\n#congress #economy",
+      "text_cleaned": "BILL UPDATE: H.4835: To amend the Defense Production Act of 1950 to prohibit discrimination based on energy source in the use of certain authorities under title I and title III of such Act, and for other purposes. ACTION: Referred to the House Committee on Financial Services.",
+      "text_preview": "BILL UPDATE:\n\nH.4835: To amend the Defense Production Act of 1950 to prohibit discrimination based on energy source in the use of certain authorities under title I and title III of such Act, and for o...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-05T10:15:06.238Z",
+      "hashtags": "['#congress' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.285557",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 298,
+      "text_cleaned_length": 276,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhzo5mx22x",
+      "text": "When #Trump goes down (dependent on all America citizens), everyone connected to his schemes, plots, and illegalities goes down with him.\n\nNo one will be spared in that era political criminal convictions - and most will probably be charged in their state.\n\n#USA #uspoli\n\nThey made a choice.",
+      "text_cleaned": "When goes down (dependent on all America citizens), everyone connected to his schemes, plots, and illegalities goes down with him. No one will be spared in that era political criminal convictions - and most will probably be charged in their state. They made a choice.",
+      "text_preview": "When #Trump goes down (dependent on all America citizens), everyone connected to his schemes, plots, and illegalities goes down with him.\n\nNo one will be spared in that era political criminal convicti...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-05T10:15:01.252Z",
+      "hashtags": "['#Trump' '#USA' '#uspoli']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286512",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 290,
+      "text_cleaned_length": 267,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvni3ha3ac2f",
+      "text": "There's another #Republican coward, #GregAbbott. America is really fed up with these wimps and liars. They can prepare for a long prison sentence.\n\n#NBC #USA #WP #CNN #NYT #FoxNews #Inflation #Democrats #war #EU #UK #AP #law #X #Disney #Canada #Trump #Lgbtq #Stockmarket #AI\n\nyoutu.be/xtAUJ-mcCAc?...",
+      "text_cleaned": "There's another coward, . America is really fed up with these wimps and liars. They can prepare for a long prison sentence. youtu.be/xtAUJ-mcCAc?...",
+      "text_preview": "There's another #Republican coward, #GregAbbott. America is really fed up with these wimps and liars. They can prepare for a long prison sentence.\n\n#NBC #USA #WP #CNN #NYT #FoxNews #Inflation #Democra...",
+      "author": "syntau.bsky.social",
+      "author_display_name": "Shirkane",
+      "created_at": "2025-08-05T10:16:01.101Z",
+      "hashtags": "['#Republican' '#Trump' '#Democrats' '#NYT' '#AP' '#WP' '#X' '#EU' '#UK'\n '#USA' '#AI' '#Stockmarket' '#NBC' '#Lgbtq' '#Canada' '#law' '#FoxNews'\n '#CNN' '#Inflation' '#GregAbbott' '#Disney' '#war']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286494",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 300,
+      "text_cleaned_length": 148,
+      "hashtag_count": 22,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnia3vz5c2h",
+      "text": "The USA is headed to ruination as this column logically & terrifyingly points out. The Dems are not getting it done so the people need to rise up and stop the troll regime! tinyurl.com/4xtk79by #Trump",
+      "text_cleaned": "The USA is headed to ruination as this column logically & terrifyingly points out. The Dems are not getting it done so the people need to rise up and stop the troll regime! tinyurl.com/4xtk79by",
+      "text_preview": "The USA is headed to ruination as this column logically & terrifyingly points out. The Dems are not getting it done so the people need to rise up and stop the troll regime! tinyurl.com/4xtk79by #Trump",
+      "author": "kevinl22.bsky.social",
+      "author_display_name": "Kevin Sullivan",
+      "created_at": "2025-08-05T10:18:37.009Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286455",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 200,
+      "text_cleaned_length": 193,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvni7o6e5m2g",
+      "text": "Claves del d\u00eda: EEUU intenta ahogar a Rusia, India contra las cuerdas y Palantir ya da pistas\n\nhttps://youtu.be/zH3D5nmIY5w\n\n#claves #vizner #eeuu #rusia #india #trump #palantir #mercados #economia #geopolitica #negociostv #clavesdeldia #josevizner",
+      "text_cleaned": "Claves del d\u00eda: EEUU intenta ahogar a Rusia, India contra las cuerdas y Palantir ya da pistas",
+      "text_preview": "Claves del d\u00eda: EEUU intenta ahogar a Rusia, India contra las cuerdas y Palantir ya da pistas\n\nhttps://youtu.be/zH3D5nmIY5w\n\n#claves #vizner #eeuu #rusia #india #trump #palantir #mercados #economia #g...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-05T10:18:22.444685Z",
+      "hashtags": "['#claves' '#josevizner' '#trump' '#india' '#palantir' '#rusia' '#vizner'\n '#negociostv' '#clavesdeldia' '#eeuu' '#geopolitica' '#economia'\n '#mercados']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286465",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 248,
+      "text_cleaned_length": 93,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvni5uaqjy2h",
+      "text": "\n#Conflict   #fires   #Humanitarian Crisis   #Marjorie Taylor Greene   #Military   #Sanctions   #State Department   #Trump   #Ukraine   #US sanctions",
+      "text_cleaned": "Crisis Taylor Greene Department sanctions",
+      "text_preview": "\n#Conflict   #fires   #Humanitarian Crisis   #Marjorie Taylor Greene   #Military   #Sanctions   #State Department   #Trump   #Ukraine   #US sanctions",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-05T10:17:27.498844+00:00",
+      "hashtags": "['#Military' '#Trump' '#Marjorie' '#Conflict' '#Ukraine' '#State' '#US'\n '#fires' '#Sanctions' '#Humanitarian']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286480",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 149,
+      "text_cleaned_length": 41,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnibuowqk2l",
+      "text": "And it is well on its way to becoming a total fascist country.\n#republicans = #fascists\n#trumpism = #fascism\nits no wonder\n#trump loves #putin",
+      "text_cleaned": "And it is well on its way to becoming a total fascist country. = = its no wonder loves",
+      "text_preview": "And it is well on its way to becoming a total fascist country.\n#republicans = #fascists\n#trumpism = #fascism\nits no wonder\n#trump loves #putin",
+      "author": "sheer-john.bsky.social",
+      "author_display_name": "Sheer_John",
+      "created_at": "2025-08-05T10:19:36.547Z",
+      "hashtags": "['#trumpism' '#putin' '#fascism' '#trump' '#republicans' '#fascists']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286450",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 142,
+      "text_cleaned_length": 86,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvni6f64ls2x",
+      "text": "#Trump is also a child rapist! He raped at least one 13 year old girl & God only knows how many others!",
+      "text_cleaned": "is also a child rapist! He raped at least one 13 year old girl & God only knows how many others!",
+      "text_preview": "#Trump is also a child rapist! He raped at least one 13 year old girl & God only knows how many others!",
+      "author": "allmykidshavepaws.bsky.social",
+      "author_display_name": "AllMyKidsHavePaws",
+      "created_at": "2025-08-05T10:17:39.603Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286472",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 103,
+      "text_cleaned_length": 96,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhzqjmlk2a",
+      "text": "Lie after lie after lie. Just a normal interview with #Trump\nwww.facebook.com/share/r/1G1w...",
+      "text_cleaned": "Lie after lie after lie. Just a normal interview with",
+      "text_preview": "Lie after lie after lie. Just a normal interview with #Trump\nwww.facebook.com/share/r/1G1w...",
+      "author": "jezzabeauc.bsky.social",
+      "author_display_name": "JezzabeauC #GazaGenocide",
+      "created_at": "2025-08-05T10:15:03.743Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286505",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 93,
+      "text_cleaned_length": 53,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhzedpky2w",
+      "text": "Trump's labor statistics shakeup sparks anxiety over\u00a0future economic data\n#Trump",
+      "text_cleaned": "Trump's labor statistics shakeup sparks anxiety over future economic data",
+      "text_preview": "Trump's labor statistics shakeup sparks anxiety over\u00a0future economic data\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T10:14:50.497Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286532",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 80,
+      "text_cleaned_length": 73,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhzezizn2m",
+      "text": "Trump hones in on energy in trade talks, but specifics are scarce\n#Trump",
+      "text_cleaned": "Trump hones in on energy in trade talks, but specifics are scarce",
+      "text_preview": "Trump hones in on energy in trade talks, but specifics are scarce\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T10:14:51.325Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286526",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 72,
+      "text_cleaned_length": 65,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhzf5ydw2b",
+      "text": "Facing facts about Trump and the jobs numbers\n#Trump",
+      "text_cleaned": "Facing facts about Trump and the jobs numbers",
+      "text_preview": "Facing facts about Trump and the jobs numbers\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T10:14:51.763Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286518",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 52,
+      "text_cleaned_length": 45,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvni2ewtvs2c",
+      "text": "Autocracy 101 #Trump",
+      "text_cleaned": "Autocracy 101",
+      "text_preview": "Autocracy 101 #Trump",
+      "author": "oytheboy.bsky.social",
+      "author_display_name": "OyTheBoy",
+      "created_at": "2025-08-05T10:15:25.148Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:20:03.286500",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:20:10.009000",
+      "text_length": 20,
+      "text_cleaned_length": 13,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnhsh25oc2v",
+      "text": "\ud83c\udf18\u2728 Are you in a season of deep reflection or soul-searching? \u2728\ud83c\udf18 Introducing the Dark Night of the Soul Journal \ud83e\uddcf\ud83c\udffe\u200d\u2642\ufe0f amazon.com/author/mystic1\n\n#darknight #johnofthecross #carmelite #spiritual #mystic #trump #jesus #catholi #christian #faith\n\nDARK NIGHT OF THE SOUL - \"Faint Echoes\"\nyoutu.be/e9r2U1i7qxk",
+      "text_cleaned": "\ud83c\udf18\u2728 Are you in a season of deep reflection or soul-searching? \u2728\ud83c\udf18 Introducing the Dark Night of the Soul Journal \ud83e\uddcf\ud83c\udffe\u200d\u2642\ufe0f amazon.com/author/mystic1 DARK NIGHT OF THE SOUL - \"Faint Echoes\" youtu.be/e9r2U1i7qxk",
+      "text_preview": "\ud83c\udf18\u2728 Are you in a season of deep reflection or soul-searching? \u2728\ud83c\udf18 Introducing the Dark Night of the Soul Journal \ud83e\uddcf\ud83c\udffe\u200d\u2642\ufe0f amazon.com/author/mystic1\n\n#darknight #johnofthecross #carmelite #spiritual #mystic...",
+      "author": "1mystic1.bsky.social",
+      "author_display_name": "Mystic 1",
+      "created_at": "2025-08-05T10:10:58.917Z",
+      "hashtags": "['#jesus' '#catholi' '#faith' '#carmelite' '#darknight' '#christian'\n '#johnofthecross' '#trump' '#spiritual' '#mystic']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:15:03.345141",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:15:10.007000",
+      "text_length": 303,
+      "text_cleaned_length": 203,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhz57xws2a",
+      "text": "Morning #Trump is still a rapist, pedophile and all around dumbfcuk. And Greg Abbott can burn in hell for eternity.  Have a good Tuesday",
+      "text_cleaned": "Morning is still a rapist, pedophile and all around dumbfcuk. And Greg Abbott can burn in hell for eternity. Have a good Tuesday",
+      "text_preview": "Morning #Trump is still a rapist, pedophile and all around dumbfcuk. And Greg Abbott can burn in hell for eternity.  Have a good Tuesday",
+      "author": "bigginger99.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T10:14:43.504Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:15:03.345118",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:15:10.007000",
+      "text_length": 136,
+      "text_cleaned_length": 128,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhvxqnus2s",
+      "text": "#Approval #rating #Trump - 15%. @economist.com 55 % disapprove.",
+      "text_cleaned": "- 15%. .com 55 % disapprove.",
+      "text_preview": "#Approval #rating #Trump - 15%. @economist.com 55 % disapprove.",
+      "author": "hansbuskes.bsky.social",
+      "author_display_name": "Hans Buskes",
+      "created_at": "2025-08-05T10:12:57.084Z",
+      "hashtags": "['#rating' '#Approval' '#Trump']",
+      "mentions": "['@economist.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:15:03.345130",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:15:10.007000",
+      "text_length": 63,
+      "text_cleaned_length": 28,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhwdwbnk2z",
+      "text": "#Texas #redistricting #trump\n\nwww.tiktok.com/t/ZP8kChq6w/",
+      "text_cleaned": "",
+      "text_preview": "#Texas #redistricting #trump\n\nwww.tiktok.com/t/ZP8kChq6w/",
+      "author": "traci-k.bsky.social",
+      "author_display_name": "Traci-K",
+      "created_at": "2025-08-05T10:13:09.862Z",
+      "hashtags": "['#Texas' '#redistricting' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:15:03.345123",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:15:10.007000",
+      "text_length": 57,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
