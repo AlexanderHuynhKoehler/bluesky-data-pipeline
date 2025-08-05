@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_043206",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 04:25:10.007000",
+    "latest_received_at": "2025-08-05 04:30:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmukhnr5s2u",
+      "text": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/j6M15LZh",
+      "text_cleaned": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... .ai",
+      "text_preview": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkwa...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-05T04:26:29.712Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:30:03.941964",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:30:10.008000",
+      "text_length": 275,
+      "text_cleaned_length": 232,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmujrvy3k2p",
+      "text": "\u2014> #TheTonightShow \u2981 #JimmyFallon <\u2014\n\n#Trump Fires BLS Chief After Weak Stats Make Him Look Bad\n\nTrump's Insane #WhiteHouse Upgrades\n\n#FallonTonight #Comedy #Humour #Humor #MAGA\n#Pol #Politics #GeoPolitics #WorldNews #News #TDS\n#AusPol #CdnPoli #EUpol #NZpol #UKpol #USpol\nyoutu.be/hU2l4BI2a0Q",
+      "text_cleaned": "\u2014> \u2981 <\u2014 Fires BLS Chief After Weak Stats Make Him Look Bad Trump's Insane Upgrades youtu.be/hU2l4BI2a0Q",
+      "text_preview": "\u2014> #TheTonightShow \u2981 #JimmyFallon <\u2014\n\n#Trump Fires BLS Chief After Weak Stats Make Him Look Bad\n\nTrump's Insane #WhiteHouse Upgrades\n\n#FallonTonight #Comedy #Humour #Humor #MAGA\n#Pol #Politics #GeoPol...",
+      "author": "b7bird.bsky.social",
+      "author_display_name": "\ud83e\udd8b\ud83e\udd8b",
+      "created_at": "2025-08-05T04:26:07.210Z",
+      "hashtags": "['#WhiteHouse' '#EUpol' '#Humor' '#Pol' '#UKpol' '#NZpol' '#Trump'\n '#WorldNews' '#AusPol' '#Humour' '#USpol' '#News' '#Comedy'\n '#GeoPolitics' '#CdnPoli' '#Politics' '#TheTonightShow' '#FallonTonight'\n '#MAGA' '#TDS' '#JimmyFallon']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 4,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:30:03.941980",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:30:10.008000",
+      "text_length": 293,
+      "text_cleaned_length": 103,
+      "hashtag_count": 21,
+      "mention_count": 0,
+      "total_engagement": 6.0
+    },
+    {
+      "post_id": "3lvmul5jegk2e",
+      "text": "#Internacionales Alligator Alcatraz se afianza como modelo de detenci\u00f3n migratoria en EE.UU. en su primer mes        #Inmigrantes #AlligatorAlcatraz #DetencionMigratoria #Trump #EstadosUnidos  \n\ud83d\udc47 enter504.com/alligator-al...",
+      "text_cleaned": "Alligator Alcatraz se afianza como modelo de detenci\u00f3n migratoria en EE.UU. en su primer mes \ud83d\udc47 enter504.com/alligator-al...",
+      "text_preview": "#Internacionales Alligator Alcatraz se afianza como modelo de detenci\u00f3n migratoria en EE.UU. en su primer mes        #Inmigrantes #AlligatorAlcatraz #DetencionMigratoria #Trump #EstadosUnidos  \n\ud83d\udc47 ente...",
+      "author": "enter504.bsky.social",
+      "author_display_name": "Enter504 Peri\u00f3dico Digital",
+      "created_at": "2025-08-05T04:26:52.954Z",
+      "hashtags": "['#Internacionales' '#EstadosUnidos' '#Inmigrantes' '#Trump'\n '#DetencionMigratoria' '#AlligatorAlcatraz']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:30:03.941952",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:30:10.008000",
+      "text_length": 224,
+      "text_cleaned_length": 123,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmun7ztxl2d",
+      "text": "\ud83d\udd34 Importance: 65/100\n#news #TopStories #World #russia #trump #missile\n\nA furious Kremlin has declared it will no longer be restricted by an international freeze on short and medium-range missile deployment. In a...",
+      "text_cleaned": "\ud83d\udd34 Importance: 65/100 A furious Kremlin has declared it will no longer be restricted by an international freeze on short and medium-range missile deployment. In a...",
+      "text_preview": "\ud83d\udd34 Importance: 65/100\n#news #TopStories #World #russia #trump #missile\n\nA furious Kremlin has declared it will no longer be restricted by an international freeze on short and medium-range missile deplo...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-05T04:20:13+00:00",
+      "hashtags": "['#russia' '#missile' '#World' '#trump' '#news' '#TopStories']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:30:03.942069",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:30:10.008000",
+      "text_length": 214,
+      "text_cleaned_length": 164,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuiucsjc2e",
+      "text": "Trump causing more damage than a global pandemic \ud83e\udd23\ud83d\ude05.\nSure, make America great again \ud83e\udd23.\nCan we all stop this big Black Mirror (or SNL sketch, depending on how you feel) season please ? \n#trump",
+      "text_cleaned": "Trump causing more damage than a global pandemic \ud83e\udd23\ud83d\ude05. Sure, make America great again \ud83e\udd23. Can we all stop this big Black Mirror (or SNL sketch, depending on how you feel) season please ?",
+      "text_preview": "Trump causing more damage than a global pandemic \ud83e\udd23\ud83d\ude05.\nSure, make America great again \ud83e\udd23.\nCan we all stop this big Black Mirror (or SNL sketch, depending on how you feel) season please ? \n#trump",
+      "author": "fitwinenerd.bsky.social",
+      "author_display_name": "Matteo",
+      "created_at": "2025-08-05T04:25:36.175Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:30:03.941991",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:30:10.008000",
+      "text_length": 191,
+      "text_cleaned_length": 183,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmuebvxi22b",
+      "text": "@osinttechnical.bsky.social \n\nRussia\u2019s Dmitry #Medvedev is posting again, with a new threatening message aimed at NATO and the US.\n\nLast week, a series of inflammatory posts between Medvedev and #Trump snowballed into the US repositioning multiple submarines against #Russia.\n\nx.com/osinttechnic...",
+      "text_cleaned": ".bsky.social Russia\u2019s Dmitry is posting again, with a new threatening message aimed at NATO and the US. Last week, a series of inflammatory posts between Medvedev and snowballed into the US repositioning multiple submarines against . x.com/osinttechnic...",
+      "text_preview": "@osinttechnical.bsky.social \n\nRussia\u2019s Dmitry #Medvedev is posting again, with a new threatening message aimed at NATO and the US.\n\nLast week, a series of inflammatory posts between Medvedev and #Trum...",
+      "author": "powerfromspace1.bsky.social",
+      "author_display_name": "PKPs Powerfromspace1 \ud83d\ude80 Twitter \u2018X\u2019 refugee thank you 'Elon' \ud83d\ude44",
+      "created_at": "2025-08-05T04:23:02.671Z",
+      "hashtags": "['#Medvedev' '#Trump' '#Russia']",
+      "mentions": "['@osinttechnical.bsky.social']",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:25:03.309238",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:25:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 255,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvmuflu4zav2",
+      "text": "@osinttechnical.bsky.social\n\nRussia\u2019s Dmitry #Medvedev is posting again, with a new threatening message aimed at NATO and the US.\n\nLast week, a series of inflammatory posts between Medvedev and #Trump snowballed into the US repositioning multiple submarines [\u2026] \n\n[Original post on mstdn.social]",
+      "text_cleaned": ".bsky.social Russia\u2019s Dmitry is posting again, with a new threatening message aimed at NATO and the US. Last week, a series of inflammatory posts between Medvedev and snowballed into the US repositioning multiple submarines [\u2026] [Original post on mstdn.social]",
+      "text_preview": "@osinttechnical.bsky.social\n\nRussia\u2019s Dmitry #Medvedev is posting again, with a new threatening message aimed at NATO and the US.\n\nLast week, a series of inflammatory posts between Medvedev and #Trump...",
+      "author": "powerfromspace1.mstdn.social.ap.brid.gy",
+      "author_display_name": "PKPs Powerfromspace1",
+      "created_at": "2025-08-05T04:23:41.000Z",
+      "hashtags": "['#Medvedev' '#Trump']",
+      "mentions": "['@osinttechnical.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:25:03.309222",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:25:10.007000",
+      "text_length": 295,
+      "text_cleaned_length": 259,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmufd6kuc2o",
+      "text": "\ud83c\udfb6 \n\nIt\u2032s like you're my mirror\nMy mirror staring back at me\nI couldn\u2032t get any bigger\nWith anyone else beside me\nAnd now it's clear as this promise\nThat we\u2032re makin'\nTwo reflections into one\n\u2032Cause it's like you're my mirror\nMy mirror staring back at me, staring back at me\n\n#Trump #Epstein #pals",
+      "text_cleaned": "\ud83c\udfb6 It\u2032s like you're my mirror My mirror staring back at me I couldn\u2032t get any bigger With anyone else beside me And now it's clear as this promise That we\u2032re makin' Two reflections into one \u2032Cause it's like you're my mirror My mirror staring back at me, staring back at me",
+      "text_preview": "\ud83c\udfb6 \n\nIt\u2032s like you're my mirror\nMy mirror staring back at me\nI couldn\u2032t get any bigger\nWith anyone else beside me\nAnd now it's clear as this promise\nThat we\u2032re makin'\nTwo reflections into one\n\u2032Cause it...",
+      "author": "dmalinowski.bsky.social",
+      "author_display_name": "Dave",
+      "created_at": "2025-08-05T04:23:37.554Z",
+      "hashtags": "['#Trump' '#Epstein' '#pals']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:25:03.309230",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:25:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 271,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvmubsi7k22g",
+      "text": "Top #Business Hashtags 2025-08-04 15:25 : #trump #tariffs #q1 #buy #target #price #weak #numbers #stocks #ai #threatens #america #check #hillary #clinton #bls #chatgpt #la\n\ud83d\udcca Headline Sentiment :\n\ud83d\udd34 32 (55.17%) Negative \n\ud83d\udfe2 26 (44.83%) Positive \nReads \ud83d\ude80 : seefinish.com/business/",
+      "text_cleaned": "Top Hashtags 2025-08-04 15:25 : \ud83d\udcca Headline Sentiment : \ud83d\udd34 32 (55.17%) Negative \ud83d\udfe2 26 (44.83%) Positive Reads \ud83d\ude80 : seefinish.com/business/",
+      "text_preview": "Top #Business Hashtags 2025-08-04 15:25 : #trump #tariffs #q1 #buy #target #price #weak #numbers #stocks #ai #threatens #america #check #hillary #clinton #bls #chatgpt #la\n\ud83d\udcca Headline Sentiment :\n\ud83d\udd34 32 ...",
+      "author": "seefinishpublyk.bsky.social",
+      "author_display_name": "Seefinish - Publyk Sqyare",
+      "created_at": "2025-08-05T04:21:34.472Z",
+      "hashtags": "['#numbers' '#tariffs' '#target' '#buy' '#chatgpt' '#clinton' '#price'\n '#bls' '#stocks' '#ai' '#hillary' '#trump' '#q1' '#weak' '#threatens'\n '#la' '#Business' '#america' '#check']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:25:03.309255",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:25:10.007000",
+      "text_length": 276,
+      "text_cleaned_length": 134,
+      "hashtag_count": 19,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmubns4sk2g",
+      "text": "Top #Business Hashtags 2025-08-04 15:25 : #trump #tariffs #q1 #buy #target #price #weak #numbers #stocks #ai #threatens #america #check #hillary #clinton #bls #chatgpt #la\n\ud83d\udcca Headline Sentiment :\n\ud83d\udd34 32 (55.17%) Negative \n\ud83d\udfe2 26 (44.83%) Positive \nReads \ud83d\ude80 : seefinish.com/business/",
+      "text_cleaned": "Top Hashtags 2025-08-04 15:25 : \ud83d\udcca Headline Sentiment : \ud83d\udd34 32 (55.17%) Negative \ud83d\udfe2 26 (44.83%) Positive Reads \ud83d\ude80 : seefinish.com/business/",
+      "text_preview": "Top #Business Hashtags 2025-08-04 15:25 : #trump #tariffs #q1 #buy #target #price #weak #numbers #stocks #ai #threatens #america #check #hillary #clinton #bls #chatgpt #la\n\ud83d\udcca Headline Sentiment :\n\ud83d\udd34 32 ...",
+      "author": "seefinishpublyk.bsky.social",
+      "author_display_name": "Seefinish - Publyk Sqyare",
+      "created_at": "2025-08-05T04:21:34.471Z",
+      "hashtags": "['#numbers' '#tariffs' '#target' '#buy' '#chatgpt' '#clinton' '#price'\n '#bls' '#stocks' '#ai' '#hillary' '#trump' '#q1' '#weak' '#threatens'\n '#la' '#Business' '#america' '#check']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:25:03.309267",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:25:10.007000",
+      "text_length": 276,
+      "text_cleaned_length": 134,
+      "hashtag_count": 19,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    }
+  ]
+}
