@@ -1,0 +1,608 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_003958",
+    "post_count": 22,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 00:30:10.008000",
+    "latest_received_at": "2025-08-05 00:35:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmhiqvh7k2r",
+      "text": "\u201c\u2018To see what is in front of one\u2019s nose needs a constant struggle.\u2019 But Orwell also calls on us always to say what we do see, even if \u2013 no, especially if \u2013 it\u2019s uncomfortable for our own side. There\u2019s the double test for journalists: see it & say it.\u201d #journalism #democracy #USA #Biden",
+      "text_cleaned": "\u201c\u2018To see what is in front of one\u2019s nose needs a constant struggle.\u2019 But Orwell also calls on us always to say what we do see, even if \u2013 no, especially if \u2013 it\u2019s uncomfortable for our own side. There\u2019s the double test for journalists: see it & say it.\u201d",
+      "text_preview": "\u201c\u2018To see what is in front of one\u2019s nose needs a constant struggle.\u2019 But Orwell also calls on us always to say what we do see, even if \u2013 no, especially if \u2013 it\u2019s uncomfortable for our own side. There\u2019s...",
+      "author": "mediaactive.bsky.social",
+      "author_display_name": "MediaActive \u25aa\ufe0fEQUALITY \u25aa\ufe0fJUSTICE \u25aa\ufe0fPEACE",
+      "created_at": "2025-08-05T00:32:53.966Z",
+      "hashtags": "['#USA' '#Biden' '#democracy' '#journalism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:35:03.282053",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:35:10.006000",
+      "text_length": 286,
+      "text_cleaned_length": 251,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhhupb3s2v",
+      "text": "With YOUR Change.org PETITION & our peaceful protests & calls, \u201cWe, the People of the #UnitedStates,\u201d will resist & defeat the tyranny of self-proclaimed \u201cAbove the Law\u201d wannabe dictator #Trump, & his servile #Republicans.\n\n#StrongerTogether #UnitedWeStand\n\n#BlueCrew \n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "With YOUR Change.org PETITION & our peaceful protests & calls, \u201cWe, the People of the ,\u201d will resist & defeat the tyranny of self-proclaimed \u201cAbove the Law\u201d wannabe dictator , & his servile .",
+      "text_preview": "With YOUR Change.org PETITION & our peaceful protests & calls, \u201cWe, the People of the #UnitedStates,\u201d will resist & defeat the tyranny of self-proclaimed \u201cAbove the Law\u201d wannabe dictator #Trump, & his...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-05T00:32:24.400Z",
+      "hashtags": "['#BlueCrew' '#StrongerTogether' '#Trump' '#UnitedStates' '#Republicans'\n '#UnitedWeStand']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:35:03.281725",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:35:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 191,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhktdlcq2d",
+      "text": "\ud83d\udd34 Importance: 78/100\n#news #Featured #TopStories #donaldtrump #migration #trump\n\nCNN's data expert Harry Enten called Donald Trump\u00a0the most influential president of the 21st century.Enten - who often breaks...",
+      "text_cleaned": "\ud83d\udd34 Importance: 78/100 CNN's data expert Harry Enten called Donald Trump the most influential president of the 21st century.Enten - who often breaks...",
+      "text_preview": "\ud83d\udd34 Importance: 78/100\n#news #Featured #TopStories #donaldtrump #migration #trump\n\nCNN's data expert Harry Enten called Donald Trump\u00a0the most influential president of the 21st century.Enten - who often ...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-05T00:26:10+00:00",
+      "hashtags": "['#news' '#trump' '#Featured' '#migration' '#TopStories' '#donaldtrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:35:03.281891",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:35:10.006000",
+      "text_length": 209,
+      "text_cleaned_length": 149,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhj36ua22e",
+      "text": "EVERY DAY, there appears to be someone associated with #trump being caught & convicted for peadophilia; \ud83e\udd14 this points directly to a cabal of criminals in the #MAGA world in the #USA. \ud83e\udd2c",
+      "text_cleaned": "EVERY DAY, there appears to be someone associated with being caught & convicted for peadophilia; \ud83e\udd14 this points directly to a cabal of criminals in the world in the . \ud83e\udd2c",
+      "text_preview": "EVERY DAY, there appears to be someone associated with #trump being caught & convicted for peadophilia; \ud83e\udd14 this points directly to a cabal of criminals in the #MAGA world in the #USA. \ud83e\udd2c",
+      "author": "neo-soul.bsky.social",
+      "author_display_name": "Neo Soul",
+      "created_at": "2025-08-05T00:33:04.760Z",
+      "hashtags": "['#USA' '#trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:35:03.281689",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:35:10.006000",
+      "text_length": 184,
+      "text_cleaned_length": 167,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhh4jeh22n",
+      "text": "#USPOL #USA #us #uspoli #poli #politics #cdnpoli #canada #MidasMighty #america #Trump #TRUMP #MAGA #FuckTrump #fuckmaga #Anti-Fascist #antifa #AntiTrump #AntiMAGA #tuckfrump #coup #coupdetat #chaos #disorder #confusion #fascistfelon #authoritarians #stopthecoup #ConstitutionalCrisis #FightOligarchy",
+      "text_cleaned": "-Fascist",
+      "text_preview": "#USPOL #USA #us #uspoli #poli #politics #cdnpoli #canada #MidasMighty #america #Trump #TRUMP #MAGA #FuckTrump #fuckmaga #Anti-Fascist #antifa #AntiTrump #AntiMAGA #tuckfrump #coup #coupdetat #chaos #d...",
+      "author": "robduncan.bsky.social",
+      "author_display_name": "Rob Duncan",
+      "created_at": "2025-08-05T00:31:59.043Z",
+      "hashtags": "['#Anti' '#coupdetat' '#AntiTrump' '#AntiMAGA' '#america' '#stopthecoup'\n '#poli' '#coup' '#tuckfrump' '#Trump' '#cdnpoli' '#USPOL' '#TRUMP'\n '#disorder' '#antifa' '#authoritarians' '#MidasMighty' '#fuckmaga'\n '#politics' '#chaos' '#USA' '#canada' '#MAGA' '#confusion' '#us'\n '#fascistfelon' '#FuckTrump' '#FightOligarchy' '#ConstitutionalCrisis'\n '#uspoli']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:35:03.281757",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:35:10.006000",
+      "text_length": 299,
+      "text_cleaned_length": 8,
+      "hashtag_count": 30,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhe6wabu2c",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #bb27\n3. #WWERaw\n4. #WWE\n5. #Trump\n6. #oc\n7. #epstein\n8. #digitalart\n9. #valetudo\n10. #auspol\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #bb27\n3. #WWERaw\n4. #WWE\n5. #Trump\n6. #oc\n7. #epstein\n8. #digitalart\n9. #valetudo\n10. #auspol\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-05T00:30:20Z",
+      "hashtags": "['#bb27' '#art' '#digitalart' '#valetudo' '#epstein' '#auspol' '#Trump'\n '#oc' '#WWE' '#WWERaw']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:35:03.281788",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:35:10.006000",
+      "text_length": 170,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhe2nroe2y",
+      "text": "\n#Bundeskanzler   #Friedrich Merz   #Merz   #Trump",
+      "text_cleaned": "Merz",
+      "text_preview": "\n#Bundeskanzler   #Friedrich Merz   #Merz   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T00:30:22.515678+00:00",
+      "hashtags": "['#Merz' '#Friedrich' '#Bundeskanzler' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:35:03.281770",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:35:10.006000",
+      "text_length": 50,
+      "text_cleaned_length": 4,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhjx2dl22k",
+      "text": "#Trump\n\nCome get me ya fekn nonce.",
+      "text_cleaned": "Come get me ya fekn nonce.",
+      "text_preview": "#Trump\n\nCome get me ya fekn nonce.",
+      "author": "callmedownsie.bsky.social",
+      "author_display_name": "Paul Downes",
+      "created_at": "2025-08-05T00:33:33.942Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:35:03.281677",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:35:10.006000",
+      "text_length": 34,
+      "text_cleaned_length": 26,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhkjiidk2g",
+      "text": "Good.   It should happen to #trump",
+      "text_cleaned": "Good. It should happen to",
+      "text_preview": "Good.   It should happen to #trump",
+      "author": "missplaced.bsky.social",
+      "author_display_name": "MissPlaced ",
+      "created_at": "2025-08-05T00:33:53.310Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:35:03.281665",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:35:10.006000",
+      "text_length": 34,
+      "text_cleaned_length": 25,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmh4mavic2w",
+      "text": "#GOP are openly admitting their redistricting efforts are politically motivated.\n\nOne of the most blatant changes included moving #Democrat Rep Marc Veasey\u2019s district out of Tarrant Co., effectively gutting his voter base.\n\n\u201c #Trump & #Republican lawmakers want to erase this district,\u201d Fox noted.",
+      "text_cleaned": "are openly admitting their redistricting efforts are politically motivated. One of the most blatant changes included moving Rep Marc Veasey\u2019s district out of Tarrant Co., effectively gutting his voter base. \u201c & lawmakers want to erase this district,\u201d Fox noted.",
+      "text_preview": "#GOP are openly admitting their redistricting efforts are politically motivated.\n\nOne of the most blatant changes included moving #Democrat Rep Marc Veasey\u2019s district out of Tarrant Co., effectively g...",
+      "author": "cormaca.bsky.social",
+      "author_display_name": "JamesJamesMorrisonMorrison",
+      "created_at": "2025-08-05T00:26:06.446Z",
+      "hashtags": "['#GOP' '#Republican' '#Trump' '#Democrat']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061204",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 297,
+      "text_cleaned_length": 261,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhb33l7c2v",
+      "text": "Sydney Sweeney Revealed As Registered Republican Amid American Eagle Controversy\n\nSydney Sweeney wears blue jeans and she votes red. The actress registered to vote as a Republican in Florida a couple months before Donald Trump was elected president ... according to public voter\u2026\n\n#media #news #trump",
+      "text_cleaned": "Sydney Sweeney Revealed As Registered Republican Amid American Eagle Controversy Sydney Sweeney wears blue jeans and she votes red. The actress registered to vote as a Republican in Florida a couple months before Donald Trump was elected president ... according to public voter\u2026",
+      "text_preview": "Sydney Sweeney Revealed As Registered Republican Amid American Eagle Controversy\n\nSydney Sweeney wears blue jeans and she votes red. The actress registered to vote as a Republican in Florida a couple ...",
+      "author": "media-news.at.thenote.app",
+      "author_display_name": "Media News",
+      "created_at": "2025-08-05T00:28:35.921Z",
+      "hashtags": "['#media' '#trump' '#news']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061177",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 278,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhc6mc7c2m",
+      "text": "BREAKING: AG Pam Bondi orders a grand jury probe into Obama-era officials over the 2016 Trump-Russia investigation. This follows DNI Tulsi Gabbard\u2019s criminal referral alleging abuse of power. No charges yet\u2014investigation underway.\n#Trump #PamBondi #Russiagate #Obama #DOJ #DailyWorldNews26",
+      "text_cleaned": "BREAKING: AG Pam Bondi orders a grand jury probe into Obama-era officials over the 2016 Trump-Russia investigation. This follows DNI Tulsi Gabbard\u2019s criminal referral alleging abuse of power. No charges yet\u2014investigation underway.",
+      "text_preview": "BREAKING: AG Pam Bondi orders a grand jury probe into Obama-era officials over the 2016 Trump-Russia investigation. This follows DNI Tulsi Gabbard\u2019s criminal referral alleging abuse of power. No charg...",
+      "author": "dailyworldnews26.bsky.social",
+      "author_display_name": "Daily World News 26",
+      "created_at": "2025-08-05T00:29:13.466Z",
+      "hashtags": "['#Trump' '#Obama' '#DailyWorldNews26' '#DOJ' '#PamBondi' '#Russiagate']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061161",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 289,
+      "text_cleaned_length": 230,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmha4v6fk2r",
+      "text": "OPINION @fromtga.bsky.social  \u201cI see little sign here that the liberal establishment truly acknowledges the failures that led to the Biden election debacle. There must be a reckoning\u201d. #USA #Trump #fascism\n#democracy  www.theguardian.com/commentisfre...",
+      "text_cleaned": "OPINION .bsky.social \u201cI see little sign here that the liberal establishment truly acknowledges the failures that led to the Biden election debacle. There must be a reckoning\u201d.",
+      "text_preview": "OPINION @fromtga.bsky.social  \u201cI see little sign here that the liberal establishment truly acknowledges the failures that led to the Biden election debacle. There must be a reckoning\u201d. #USA #Trump #fa...",
+      "author": "mediaactive.bsky.social",
+      "author_display_name": "MediaActive \u25aa\ufe0fEQUALITY \u25aa\ufe0fJUSTICE \u25aa\ufe0fPEACE",
+      "created_at": "2025-08-05T00:28:04.550Z",
+      "hashtags": "['#fascism' '#democracy' '#USA' '#Trump']",
+      "mentions": "['@fromtga.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061189",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 253,
+      "text_cleaned_length": 175,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmh3t3jys2e",
+      "text": "Trump barks orders, like he did in the infamous call to Georgia Secretary of State Brad Raffensperger, and those proud, independent Texas Republicans sure do behave like a bunch of lackeys. #Trump #TrumpIsUnfitForOffice #ImpeachTrumpNow #TrumpisaNationalDisgrace #TrumpCorruption",
+      "text_cleaned": "Trump barks orders, like he did in the infamous call to Georgia Secretary of State Brad Raffensperger, and those proud, independent Texas Republicans sure do behave like a bunch of lackeys.",
+      "text_preview": "Trump barks orders, like he did in the infamous call to Georgia Secretary of State Brad Raffensperger, and those proud, independent Texas Republicans sure do behave like a bunch of lackeys. #Trump #Tr...",
+      "author": "cartoonkahuna.bsky.social",
+      "author_display_name": "Paul Duginski",
+      "created_at": "2025-08-05T00:25:40.050Z",
+      "hashtags": "['#TrumpisaNationalDisgrace' '#Trump' '#TrumpIsUnfitForOffice'\n '#ImpeachTrumpNow' '#TrumpCorruption']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061219",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 279,
+      "text_cleaned_length": 189,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvmh4a3mhc2l",
+      "text": "These 3 things would raise #Trump status to #1 All Time President:\n\n1) Release the #Epstein files (and destroy all the Pedo Dems)\n2) Visit Fort Knox and confirm the American #Gold inventory\n3) Ensure the Dems don\u2019t rig the 2028 election",
+      "text_cleaned": "These 3 things would raise status to All Time President: 1) Release the files (and destroy all the Pedo Dems) 2) Visit Fort Knox and confirm the American inventory 3) Ensure the Dems don\u2019t rig the 2028 election",
+      "text_preview": "These 3 things would raise #Trump status to #1 All Time President:\n\n1) Release the #Epstein files (and destroy all the Pedo Dems)\n2) Visit Fort Knox and confirm the American #Gold inventory\n3) Ensure ...",
+      "author": "trump-2028.bsky.social",
+      "author_display_name": "Trump 2028",
+      "created_at": "2025-08-05T00:25:53.689Z",
+      "hashtags": "['#1' '#Epstein' '#Gold' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061211",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 236,
+      "text_cleaned_length": 210,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmhbmhr2k2r",
+      "text": "#TrumpisaPedo #ReleaseTheTrumpFiles #whatistrumphiding #whoistrumpprotecting #maga #GOP #trump #PedoPOTUS #RepublicansProtectPedos",
+      "text_cleaned": "",
+      "text_preview": "#TrumpisaPedo #ReleaseTheTrumpFiles #whatistrumphiding #whoistrumpprotecting #maga #GOP #trump #PedoPOTUS #RepublicansProtectPedos",
+      "author": "lilasskicker.bsky.social",
+      "author_display_name": "\ud83d\udc9c\u270c\ud83c\udffbLilAssKicker\u270c\ud83c\udffb\ud83d\udc9c",
+      "created_at": "2025-08-05T00:28:54.429Z",
+      "hashtags": "['#GOP' '#TrumpisaPedo' '#trump' '#whatistrumphiding' '#PedoPOTUS'\n '#RepublicansProtectPedos' '#maga' '#ReleaseTheTrumpFiles'\n '#whoistrumpprotecting']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061169",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 130,
+      "text_cleaned_length": 0,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmh3aojpa2b",
+      "text": "The Recap: Trump is in denial about economy, and Texas gerrymander showdown heats up\n#Trump",
+      "text_cleaned": "The Recap: Trump is in denial about economy, and Texas gerrymander showdown heats up",
+      "text_preview": "The Recap: Trump is in denial about economy, and Texas gerrymander showdown heats up\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T00:25:20.679Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061226",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 91,
+      "text_cleaned_length": 84,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmh35wyq72l",
+      "text": "Shameless GOP wants to rig the 2026 vote\u2014and Democrats are fighting back\n#Trump",
+      "text_cleaned": "Shameless GOP wants to rig the 2026 vote\u2014and Democrats are fighting back",
+      "text_preview": "Shameless GOP wants to rig the 2026 vote\u2014and Democrats are fighting back\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T00:25:17.816Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061241",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 79,
+      "text_cleaned_length": 72,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmh345c2h2l",
+      "text": "Trump is trying to get his way by being a jerk with disaster aid\n#Trump",
+      "text_cleaned": "Trump is trying to get his way by being a jerk with disaster aid",
+      "text_preview": "Trump is trying to get his way by being a jerk with disaster aid\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T00:25:15.638Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061247",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 71,
+      "text_cleaned_length": 64,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmha4afec2u",
+      "text": "Pretty soon Donald Trump will be suing Donald Trump for things he said #trump",
+      "text_cleaned": "Pretty soon Donald Trump will be suing Donald Trump for things he said",
+      "text_preview": "Pretty soon Donald Trump will be suing Donald Trump for things he said #trump",
+      "author": "jpvoorhees.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T00:28:03.869Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061196",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 77,
+      "text_cleaned_length": 70,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmhca6n2z22",
+      "text": "\ud83c\udf10 INTERNACIONAL |  \ud83d\udd17 #Sheinbaum #Trump #M\u00e9xico #USMCA #exportaciones",
+      "text_cleaned": "\ud83c\udf10 INTERNACIONAL | \ud83d\udd17",
+      "text_preview": "\ud83c\udf10 INTERNACIONAL |  \ud83d\udd17 #Sheinbaum #Trump #M\u00e9xico #USMCA #exportaciones",
+      "author": "virtualnotmx.bsky.social",
+      "author_display_name": "Virtual Noticias M\u00e9xico",
+      "created_at": "2025-08-05T00:29:14Z",
+      "hashtags": "['#Sheinbaum' '#Trump' '#exportaciones' '#USMCA' '#M\u00e9xico']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061151",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 68,
+      "text_cleaned_length": 19,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmh37lxgy2y",
+      "text": "Cartoon: Popped open\n#Trump",
+      "text_cleaned": "Cartoon: Popped open",
+      "text_preview": "Cartoon: Popped open\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T00:25:19.547Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T00:30:04.061232",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 00:30:10.008000",
+      "text_length": 27,
+      "text_cleaned_length": 20,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
