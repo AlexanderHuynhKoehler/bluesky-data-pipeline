@@ -1,0 +1,230 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_053224",
+    "post_count": 8,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 05:25:10.006000",
+    "latest_received_at": "2025-08-05 05:30:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmxspro6s2o",
+      "text": "US Attorney General Pam Bondi has ordered prosecutors to open legal  proceedings into allegations of a so-called Russiagate conspiracy that  Donald Trump has long claimed was concocted by political foes to smear  him. #usa #news #minimarketonlineltd #America #trump #donaldtrump #Obama #BarackObama",
+      "text_cleaned": "US Attorney General Pam Bondi has ordered prosecutors to open legal proceedings into allegations of a so-called Russiagate conspiracy that Donald Trump has long claimed was concocted by political foes to smear him.",
+      "text_preview": "US Attorney General Pam Bondi has ordered prosecutors to open legal  proceedings into allegations of a so-called Russiagate conspiracy that  Donald Trump has long claimed was concocted by political fo...",
+      "author": "mini-market.uk",
+      "author_display_name": "MINIMARKET ONLINE LTD",
+      "created_at": "2025-08-05T05:24:48.206Z",
+      "hashtags": "['#news' '#donaldtrump' '#America' '#usa' '#Obama' '#BarackObama'\n '#minimarketonlineltd' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:30:02.992819",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:30:10.006000",
+      "text_length": 298,
+      "text_cleaned_length": 214,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmxz54kqk2o",
+      "text": "I absolutely support #Harvard telling #Trump, #MAGA, and #Republicans #gofuckyourself, and absolutely not surprised that the rumor of a $500 million dollar settlement probably originated with the #WhiteHouse.\n\nMy reaction to that rumor stands, though. #Capitulation would be #enshittification.",
+      "text_cleaned": "I absolutely support telling , , and , and absolutely not surprised that the rumor of a $500 million dollar settlement probably originated with the . My reaction to that rumor stands, though. would be .",
+      "text_preview": "I absolutely support #Harvard telling #Trump, #MAGA, and #Republicans #gofuckyourself, and absolutely not surprised that the rumor of a $500 million dollar settlement probably originated with the #Whi...",
+      "author": "wdhughes.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T05:28:23.466Z",
+      "hashtags": "['#MAGA' '#Trump' '#Capitulation' '#WhiteHouse' '#Republicans'\n '#gofuckyourself' '#enshittification' '#Harvard']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:30:02.992794",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:30:10.006000",
+      "text_length": 293,
+      "text_cleaned_length": 202,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvmxsy2mbb2p",
+      "text": "The roof guy has some skeletons in his closet. So I thought I\u2019d open the door\ud83c\udf7f\ud83c\udf7f\ud83c\udf7f\ud83c\udf7f \n\n#magas #satire #trumpsupporters #blacksky #blacktiktok #bluesky #fdt #fafo #politicalhumor #racistoftheday #politicalsatire #felon47 #trump #politiktok ",
+      "text_cleaned": "The roof guy has some skeletons in his closet. So I thought I\u2019d open the door\ud83c\udf7f\ud83c\udf7f\ud83c\udf7f\ud83c\udf7f",
+      "text_preview": "The roof guy has some skeletons in his closet. So I thought I\u2019d open the door\ud83c\udf7f\ud83c\udf7f\ud83c\udf7f\ud83c\udf7f \n\n#magas #satire #trumpsupporters #blacksky #blacktiktok #bluesky #fdt #fafo #politicalhumor #racistoftheday #politica...",
+      "author": "itschristianbeotch.bsky.social",
+      "author_display_name": "The Anti Fan",
+      "created_at": "2025-08-05T05:24:56.587Z",
+      "hashtags": "['#fdt' '#trump' '#bluesky' '#racistoftheday' '#politicalhumor' '#magas'\n '#felon47' '#politiktok' '#trumpsupporters' '#fafo' '#politicalsatire'\n '#satire' '#blacksky' '#blacktiktok']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:30:02.992809",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:30:10.006000",
+      "text_length": 236,
+      "text_cleaned_length": 81,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmxzmxv4k2r",
+      "text": "#republicans #texas #texasroadhouse #trump #memes #maga\nyoutube.com/shorts/XEMQ4...",
+      "text_cleaned": "youtube.com/shorts/XEMQ4...",
+      "text_preview": "#republicans #texas #texasroadhouse #trump #memes #maga\nyoutube.com/shorts/XEMQ4...",
+      "author": "xanthe91.bsky.social",
+      "author_display_name": "Xanthe",
+      "created_at": "2025-08-05T05:28:40.146Z",
+      "hashtags": "['#texasroadhouse' '#republicans' '#texas' '#memes' '#maga' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:30:02.992784",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:30:10.006000",
+      "text_length": 83,
+      "text_cleaned_length": 27,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmxs6clks2w",
+      "text": "\"Seit dem Wiedereinzug v. #Trump ins Pr\u00e4sidentenamt ist d. Zahl d. dt. Reisenden r\u00fcckl\u00e4ufig. Berichte \u00fc. Deutsche, die wochenlang in Abschiebehaft geraten o. grundlos abgewiesen werden, schaden dem Image d. \ud83c\uddfa\ud83c\uddf8 als sicheres Reiseland. Nicht nur in \ud83c\udde9\ud83c\uddea l\u00e4sst d. Reiselust Richtung \ud83c\uddfa\ud83c\uddf8 nach.\"\n\nTrump wirkt \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f",
+      "text_cleaned": "\"Seit dem Wiedereinzug v. ins Pr\u00e4sidentenamt ist d. Zahl d. dt. Reisenden r\u00fcckl\u00e4ufig. Berichte \u00fc. Deutsche, die wochenlang in Abschiebehaft geraten o. grundlos abgewiesen werden, schaden dem Image d. \ud83c\uddfa\ud83c\uddf8 als sicheres Reiseland. Nicht nur in \ud83c\udde9\ud83c\uddea l\u00e4sst d. Reiselust Richtung \ud83c\uddfa\ud83c\uddf8 nach.\" Trump wirkt \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f",
+      "text_preview": "\"Seit dem Wiedereinzug v. #Trump ins Pr\u00e4sidentenamt ist d. Zahl d. dt. Reisenden r\u00fcckl\u00e4ufig. Berichte \u00fc. Deutsche, die wochenlang in Abschiebehaft geraten o. grundlos abgewiesen werden, schaden dem Im...",
+      "author": "arnopeper.bsky.social",
+      "author_display_name": "Arno Peper",
+      "created_at": "2025-08-05T05:24:29.888Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:25:02.975059",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:25:10.006000",
+      "text_length": 306,
+      "text_cleaned_length": 298,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmxq45mfk2l",
+      "text": "Toda vez que a vaidade governou , o vaidoso primeiro destruiu a na\u00e7\u00e3o e  depois se  auto destruiu .\nSociologia,  Antropologia \ncomo mat\u00e9ria de faculdade de Psicologia mostra isso atrav\u00e9s da  Hist\u00f3ria .\n#Trump  EUA est\u00e1 \nruindo seu imp\u00e9rio.\n\nFalando muito mais de Trump do  que o presidi\u00e1rio.",
+      "text_cleaned": "Toda vez que a vaidade governou , o vaidoso primeiro destruiu a na\u00e7\u00e3o e depois se auto destruiu . Sociologia, Antropologia como mat\u00e9ria de faculdade de Psicologia mostra isso atrav\u00e9s da Hist\u00f3ria . EUA est\u00e1 ruindo seu imp\u00e9rio. Falando muito mais de Trump do que o presidi\u00e1rio.",
+      "text_preview": "Toda vez que a vaidade governou , o vaidoso primeiro destruiu a na\u00e7\u00e3o e  depois se  auto destruiu .\nSociologia,  Antropologia \ncomo mat\u00e9ria de faculdade de Psicologia mostra isso atrav\u00e9s da  Hist\u00f3ria ...",
+      "author": "inezmoreira.bsky.social",
+      "author_display_name": "Gi_ Moreira",
+      "created_at": "2025-08-05T05:23:20.514Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:25:02.975066",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:25:10.006000",
+      "text_length": 291,
+      "text_cleaned_length": 275,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmxk5r5g22z",
+      "text": "With school shopping on the horizon, I wanted to share an app I just discovered which clearly lists companies political and social positions so we can shop responsively. Hurt them where it hurts. Their wallets. #boycott #dei #political #trump #goodsuniteus #generalstrike #truthwarriors #resistance",
+      "text_cleaned": "With school shopping on the horizon, I wanted to share an app I just discovered which clearly lists companies political and social positions so we can shop responsively. Hurt them where it hurts. Their wallets.",
+      "text_preview": "With school shopping on the horizon, I wanted to share an app I just discovered which clearly lists companies political and social positions so we can shop responsively. Hurt them where it hurts. Thei...",
+      "author": "harmonystewart.bsky.social",
+      "author_display_name": "Harmony Stewart",
+      "created_at": "2025-08-05T05:20:00.880Z",
+      "hashtags": "['#trump' '#political' '#generalstrike' '#resistance' '#truthwarriors'\n '#dei' '#boycott' '#goodsuniteus']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:25:02.975073",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:25:10.006000",
+      "text_length": 298,
+      "text_cleaned_length": 210,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmxk7rmyj2b",
+      "text": "One of the world\u2019s most powerful batteries has begun operating at a former coal-fired power station, delivering a boost to the energy grid at a critical time. #business #the #economy",
+      "text_cleaned": "One of the world\u2019s most powerful batteries has begun operating at a former coal-fired power station, delivering a boost to the energy grid at a critical time.",
+      "text_preview": "One of the world\u2019s most powerful batteries has begun operating at a former coal-fired power station, delivering a boost to the energy grid at a critical time. #business #the #economy",
+      "author": "aussienews.bsky.social",
+      "author_display_name": "Aussie News",
+      "created_at": "2025-08-05T05:20:02Z",
+      "hashtags": "['#business' '#the' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:25:02.974828",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:25:10.006000",
+      "text_length": 182,
+      "text_cleaned_length": 158,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    }
+  ]
+}
