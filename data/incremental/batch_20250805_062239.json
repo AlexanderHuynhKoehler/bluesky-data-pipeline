@@ -1,0 +1,203 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_062239",
+    "post_count": 7,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 06:15:10.007000",
+    "latest_received_at": "2025-08-05 06:20:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvn2qir23s2g",
+      "text": "Sie {die Dems} hoffen, die Verabschiedung einer neuen Kongresskarte zu stoppen, die auf Anweisung von Pr\u00e4sident Donald #Trump gezeichnet wurde und den Republikanern in den #Zwischenwahlen 2026 f\u00fcnf zus\u00e4tzliche Sitze einbringen k\u00f6nnte.\n\n#Midterms \ud83d\udea8",
+      "text_cleaned": "Sie {die Dems} hoffen, die Verabschiedung einer neuen Kongresskarte zu stoppen, die auf Anweisung von Pr\u00e4sident Donald gezeichnet wurde und den Republikanern in den 2026 f\u00fcnf zus\u00e4tzliche Sitze einbringen k\u00f6nnte. \ud83d\udea8",
+      "text_preview": "Sie {die Dems} hoffen, die Verabschiedung einer neuen Kongresskarte zu stoppen, die auf Anweisung von Pr\u00e4sident Donald #Trump gezeichnet wurde und den Republikanern in den #Zwischenwahlen 2026 f\u00fcnf zu...",
+      "author": "blubinsky.bsky.social",
+      "author_display_name": "Die Bee",
+      "created_at": "2025-08-05T06:17:14.963Z",
+      "hashtags": "['#Trump' '#Zwischenwahlen' '#Midterms']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:20:03.231163",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:20:10.007000",
+      "text_length": 247,
+      "text_cleaned_length": 213,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn2oklj2k2o",
+      "text": "Qu\u00e9 hay detr\u00e1s de las amenazas nucleares de #Trump hacia Rusia y la \"mano muerta\" de #Medv\u00e9dev\n\nt.me/antonioairap...",
+      "text_cleaned": "Qu\u00e9 hay detr\u00e1s de las amenazas nucleares de hacia Rusia y la \"mano muerta\" de t.me/antonioairap...",
+      "text_preview": "Qu\u00e9 hay detr\u00e1s de las amenazas nucleares de #Trump hacia Rusia y la \"mano muerta\" de #Medv\u00e9dev\n\nt.me/antonioairap...",
+      "author": "antonioairapetov.bsky.social",
+      "author_display_name": "Antonio Airap\u00e9tov",
+      "created_at": "2025-08-05T06:16:09.770Z",
+      "hashtags": "['#Medv\u00e9dev' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:20:03.231222",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:20:10.007000",
+      "text_length": 116,
+      "text_cleaned_length": 98,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn2pp3lkk2a",
+      "text": "\n#Frieden   #Indien   #Krieg   #Russland   #Sanktionen   #Stubb   #Trump   #Twitter   #Ukraine   #Waffenstillstand   #Z\u00f6lle",
+      "text_cleaned": "",
+      "text_preview": "\n#Frieden   #Indien   #Krieg   #Russland   #Sanktionen   #Stubb   #Trump   #Twitter   #Ukraine   #Waffenstillstand   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T06:16:53.859269+00:00",
+      "hashtags": "['#Krieg' '#Sanktionen' '#Russland' '#Frieden' '#Stubb' '#Z\u00f6lle'\n '#Twitter' '#Ukraine' '#Waffenstillstand' '#Indien' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:20:03.231173",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:20:10.007000",
+      "text_length": 123,
+      "text_cleaned_length": 0,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn2uhogws2k",
+      "text": "#Assholes #Nebraska #Lincoln #MikeFlood #Boo #Townhall #Healthcare #Selfish #greed #Trump #felontrump",
+      "text_cleaned": "",
+      "text_preview": "#Assholes #Nebraska #Lincoln #MikeFlood #Boo #Townhall #Healthcare #Selfish #greed #Trump #felontrump",
+      "author": "josesaldana2024.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T06:19:28.046Z",
+      "hashtags": "['#Boo' '#Healthcare' '#greed' '#MikeFlood' '#Townhall' '#Assholes'\n '#Nebraska' '#felontrump' '#Trump' '#Selfish' '#Lincoln']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:20:03.231144",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:20:10.007000",
+      "text_length": 101,
+      "text_cleaned_length": 0,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn2sgomoi2v",
+      "text": "\n#Delhi   #EU   #India   #New Delhi   #Russia   #Trump",
+      "text_cleaned": "Delhi",
+      "text_preview": "\n#Delhi   #EU   #India   #New Delhi   #Russia   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T06:18:25.698827+00:00",
+      "hashtags": "['#New' '#Russia' '#Delhi' '#India' '#EU' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:20:03.231153",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:20:10.007000",
+      "text_length": 54,
+      "text_cleaned_length": 5,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn2kkuvl22g",
+      "text": "It's a small ratio, but you're getting ratioed. You should ask Mike Flood how well many of his constituents in Red #Nebraska accepted his half-assed answers on #ICE, #Fascism, & #Racism. Pro-tip: they didn't accept his bullshit at all. \n\nPlus your toddler #Trump destroyed a massively strong economy.",
+      "text_cleaned": "It's a small ratio, but you're getting ratioed. You should ask Mike Flood how well many of his constituents in Red accepted his half-assed answers on , , & . Pro-tip: they didn't accept his bullshit at all. Plus your toddler destroyed a massively strong economy.",
+      "text_preview": "It's a small ratio, but you're getting ratioed. You should ask Mike Flood how well many of his constituents in Red #Nebraska accepted his half-assed answers on #ICE, #Fascism, & #Racism. Pro-tip: they...",
+      "author": "resistor2025bull.bsky.social",
+      "author_display_name": "#AbolishICE #ANTIFA #DemocracyNow",
+      "created_at": "2025-08-05T06:13:55.861Z",
+      "hashtags": "['#Racism' '#Fascism' '#Nebraska' '#Trump' '#ICE']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:15:03.615496",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:15:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 262,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvn2l6uehk2o",
+      "text": "#Trump amenaz\u00f3 a India con nuevos aumentos de aranceles por la compra de #petr\u00f3leo ruso\n\nt.me/antonioairap...",
+      "text_cleaned": "amenaz\u00f3 a India con nuevos aumentos de aranceles por la compra de ruso t.me/antonioairap...",
+      "text_preview": "#Trump amenaz\u00f3 a India con nuevos aumentos de aranceles por la compra de #petr\u00f3leo ruso\n\nt.me/antonioairap...",
+      "author": "antonioairapetov.bsky.social",
+      "author_display_name": "Antonio Airap\u00e9tov",
+      "created_at": "2025-08-05T06:14:16.814Z",
+      "hashtags": "['#petr\u00f3leo' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:15:03.615483",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:15:10.007000",
+      "text_length": 109,
+      "text_cleaned_length": 91,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    }
+  ]
+}
