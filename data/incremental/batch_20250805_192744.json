@@ -1,0 +1,554 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_192744",
+    "post_count": 20,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 19:20:10.007000",
+    "latest_received_at": "2025-08-05 19:25:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvognw4mqs27",
+      "text": "\"In TX, we\u2019ll make sure voters can elect the candidate of their choice.\" ~Gov. #GregAbbott_TX \n\nSir. You serve #POTUS #Trump & your #credibility is suspect. He wants 5 seats. U get him 5 seats.\n\nDid you ask US in TX what we wanted?\n1st, WE WEREN'T ASKING!\n2nd, WE WEREN'T COMPLAINING ABOUT VOTING!",
+      "text_cleaned": "\"In TX, we\u2019ll make sure voters can elect the candidate of their choice.\" ~Gov. Sir. You serve & your is suspect. He wants 5 seats. U get him 5 seats. Did you ask US in TX what we wanted? 1st, WE WEREN'T ASKING! 2nd, WE WEREN'T COMPLAINING ABOUT VOTING!",
+      "text_preview": "\"In TX, we\u2019ll make sure voters can elect the candidate of their choice.\" ~Gov. #GregAbbott_TX \n\nSir. You serve #POTUS #Trump & your #credibility is suspect. He wants 5 seats. U get him 5 seats.\n\nDid y...",
+      "author": "cmoneyspinner.bsky.social",
+      "author_display_name": "[\u1d1b\u0280\u1d07\u1d00\u1d1b\u029c\u028f\u029f \ua730\u1d0fx \u1d00\u1d0b\u1d00 \u1d04\u1d0d\u1d0f\u0274\u1d07\u028f\ua731\u1d18\u026a\u0274\u0274\u1d07\u0280] \ud83d\udc96",
+      "created_at": "2025-08-05T19:23:12.950Z",
+      "hashtags": "['#credibility' '#GregAbbott_TX' '#Trump' '#POTUS']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390226",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 297,
+      "text_cleaned_length": 252,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvogmva23xl2",
+      "text": "The media mogul Mortimer Zuckerman suggested ingredients for a meal that would reflect the culture of the mansion: a simple salad & whatever else \u201cwould enhance Jeffrey\u2019s sexual performance.\u201d\n\nAnd the director Woody Allen described how the dinners reminded him of Dracula\u2019s castle, \u201cwhere Lugosi [\u2026]",
+      "text_cleaned": "The media mogul Mortimer Zuckerman suggested ingredients for a meal that would reflect the culture of the mansion: a simple salad & whatever else \u201cwould enhance Jeffrey\u2019s sexual performance.\u201d And the director Woody Allen described how the dinners reminded him of Dracula\u2019s castle, \u201cwhere Lugosi [\u2026]",
+      "text_preview": "The media mogul Mortimer Zuckerman suggested ingredients for a meal that would reflect the culture of the mansion: a simple salad & whatever else \u201cwould enhance Jeffrey\u2019s sexual performance.\u201d\n\nAnd the...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T19:22:34.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390235",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 299,
+      "text_cleaned_length": 298,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoglhbzbol2",
+      "text": "Ehud Barak, former PM of Israel, & his wife noted the great diversity of guests. \u201cThere is no limit to your curiosity,\u201d they wrote in their message, which was compiled with others in January 2016. \u201cYou are like a closed book to many of them but you know everything about everyone.\u201d\n\n#Trump [\u2026]",
+      "text_cleaned": "Ehud Barak, former PM of Israel, & his wife noted the great diversity of guests. \u201cThere is no limit to your curiosity,\u201d they wrote in their message, which was compiled with others in January 2016. \u201cYou are like a closed book to many of them but you know everything about everyone.\u201d [\u2026]",
+      "text_preview": "Ehud Barak, former PM of Israel, & his wife noted the great diversity of guests. \u201cThere is no limit to your curiosity,\u201d they wrote in their message, which was compiled with others in January 2016. \u201cYo...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T19:21:46.000Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390244",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 293,
+      "text_cleaned_length": 285,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvogimpxna52",
+      "text": "The clip of #Trump embarrassing himself fighting against #bagpipes to lie about the millions of innocent people he's starving to death in his #GazaGenocide is hilarious & sad at the same time. How was any #Republican stupid enough to vote for this dime store dictator & how does the lying [\u2026]",
+      "text_cleaned": "The clip of embarrassing himself fighting against to lie about the millions of innocent people he's starving to death in his is hilarious & sad at the same time. How was any stupid enough to vote for this dime store dictator & how does the lying [\u2026]",
+      "text_preview": "The clip of #Trump embarrassing himself fighting against #bagpipes to lie about the millions of innocent people he's starving to death in his #GazaGenocide is hilarious & sad at the same time. How was...",
+      "author": "arthurzork.mstdn.party.ap.brid.gy",
+      "author_display_name": "Arthur Zork \ud83d\udc7e  (They/Them)",
+      "created_at": "2025-08-05T19:20:09.000Z",
+      "hashtags": "['#Republican' '#GazaGenocide' '#bagpipes' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390282",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 292,
+      "text_cleaned_length": 249,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvogiu7rdfd2",
+      "text": "#GiftArticle\n\nAs a gift for #JeffreyEpstein\u2019s 63rd birthday, friends sent letters in tribute to the wealthy financier & #convicted #SexOffender. Several shared a common theme: recounting the dinner gatherings that #Epstein regularly hosted at his palatial townhouse on Manhattan\u2019s Upper East Side [\u2026]",
+      "text_cleaned": "As a gift for \u2019s 63rd birthday, friends sent letters in tribute to the wealthy financier & . Several shared a common theme: recounting the dinner gatherings that regularly hosted at his palatial townhouse on Manhattan\u2019s Upper East Side [\u2026]",
+      "text_preview": "#GiftArticle\n\nAs a gift for #JeffreyEpstein\u2019s 63rd birthday, friends sent letters in tribute to the wealthy financier & #convicted #SexOffender. Several shared a common theme: recounting the dinner ga...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T19:20:14.000Z",
+      "hashtags": "['#SexOffender' '#JeffreyEpstein' '#GiftArticle' '#convicted' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390271",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 239,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvogplvzpk2q",
+      "text": "**\n\nSome tourists could be required to post $15,000 bonds to enter the U.S. - Will athletes be next???\n\n#resist #resistance #TheResistance #Fascist #project2025 #Trump #CivilWar #BirthRight #MarkoftheBeast #ImpeachTrump #MAGA #NoCryptoCurrency \n\nwww.msnbc.com/top-stories/...",
+      "text_cleaned": "** Some tourists could be required to post $15,000 bonds to enter the U.S. - Will athletes be next???",
+      "text_preview": "**\n\nSome tourists could be required to post $15,000 bonds to enter the U.S. - Will athletes be next???\n\n#resist #resistance #TheResistance #Fascist #project2025 #Trump #CivilWar #BirthRight #Markofthe...",
+      "author": "truthsayer1947.bsky.social",
+      "author_display_name": "exposing_lies",
+      "created_at": "2025-08-05T19:24:09.358Z",
+      "hashtags": "['#project2025' '#resistance' '#Fascist' '#CivilWar' '#NoCryptoCurrency'\n '#TheResistance' '#Trump' '#ImpeachTrump' '#MarkoftheBeast' '#resist'\n '#MAGA' '#BirthRight']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390216",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 275,
+      "text_cleaned_length": 101,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvogk35cay2p",
+      "text": "Sadly, I\u2019m not expecting much progress from the much-heralded economic roundtable. Why? Because our democracy has devolved into a self-interested fist-fight. #business #the #economy",
+      "text_cleaned": "Sadly, I\u2019m not expecting much progress from the much-heralded economic roundtable. Why? Because our democracy has devolved into a self-interested fist-fight.",
+      "text_preview": "Sadly, I\u2019m not expecting much progress from the much-heralded economic roundtable. Why? Because our democracy has devolved into a self-interested fist-fight. #business #the #economy",
+      "author": "aussienews.bsky.social",
+      "author_display_name": "Aussie News",
+      "created_at": "2025-08-05T19:21:03Z",
+      "hashtags": "['#the' '#economy' '#business']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.389878",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 181,
+      "text_cleaned_length": 157,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvojx4bxtc24",
+      "text": "Unless he is removed, Americans will continue to pay the price for his delusion.\n\n\ud83d\udcd6 Read the full piece:\n\nwww.progressiveamerican.net/p/trump-purg...\n\n#Trump #Authoritarianism #LaborNews",
+      "text_cleaned": "Unless he is removed, Americans will continue to pay the price for his delusion. \ud83d\udcd6 Read the full piece:",
+      "text_preview": "Unless he is removed, Americans will continue to pay the price for his delusion.\n\n\ud83d\udcd6 Read the full piece:\n\nwww.progressiveamerican.net/p/trump-purg...\n\n#Trump #Authoritarianism #LaborNews",
+      "author": "progressiveamerican.net",
+      "author_display_name": "Conor Kelly",
+      "created_at": "2025-08-05T20:22:02.633Z",
+      "hashtags": "['#LaborNews' '#Authoritarianism' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390252",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 186,
+      "text_cleaned_length": 103,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvogpy5tl22k",
+      "text": "\n#Delhi   #Handelsabkommen   #Indien   #Iran   #Neu-Delhi   #Russland   #Trump   #Z\u00f6lle",
+      "text_cleaned": "-Delhi",
+      "text_preview": "\n#Delhi   #Handelsabkommen   #Indien   #Iran   #Neu-Delhi   #Russland   #Trump   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T19:24:43.347306+00:00",
+      "hashtags": "['#Neu' '#Russland' '#Iran' '#Trump' '#Indien' '#Delhi' '#Z\u00f6lle'\n '#Handelsabkommen']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390204",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 87,
+      "text_cleaned_length": 6,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvogix73h22l",
+      "text": "#Trump #Economics = #Insanity & #Incoherence\n#DrugPrices #PrescriptionDrugs #Mathematics",
+      "text_cleaned": "= &",
+      "text_preview": "#Trump #Economics = #Insanity & #Incoherence\n#DrugPrices #PrescriptionDrugs #Mathematics",
+      "author": "cionaod.bsky.social",
+      "author_display_name": "Kenneth (Cionaod) M.F. McGrath",
+      "created_at": "2025-08-05T19:20:26.303Z",
+      "hashtags": "['#Insanity' '#Incoherence' '#Trump' '#DrugPrices' '#Economics'\n '#PrescriptionDrugs' '#Mathematics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390261",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 88,
+      "text_cleaned_length": 3,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvogq5ecgw2y",
+      "text": "\n#Abstimmung   #Parlament   #Politik   #Texas   #Trump   #Widerstand",
+      "text_cleaned": "",
+      "text_preview": "\n#Abstimmung   #Parlament   #Politik   #Texas   #Trump   #Widerstand",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T19:24:48.808121+00:00",
+      "hashtags": "['#Texas' '#Politik' '#Parlament' '#Trump' '#Widerstand' '#Abstimmung']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:25:04.390195",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:25:10.006000",
+      "text_length": 68,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvogfj62ls2z",
+      "text": "\u2b55\ufe0f WEDNESDAY \ud83c\udf99\ufe0f#MOATS \nJOIN ME for The Midweek Mother Of All Talk Shows #LIVE on all platforms \n\n\u25aa\ufe0fwith guest Judge Napolitano \n\n\ud83c\uddec\ud83c\udde7  7pm LONDON \n\ud83c\uddfa\ud83c\uddf8  11am PT | 2pm ET \n\n\ud83d\udccb #Gaza #Palestine #Famine #Starmer #Trump #Russia #Ukraine #Epstein #WW3 #August8 #Maxwell #Zelensky #CIA #WestBank #Netanyahu #US",
+      "text_cleaned": "\u2b55\ufe0f WEDNESDAY \ud83c\udf99\ufe0f JOIN ME for The Midweek Mother Of All Talk Shows on all platforms \u25aa\ufe0fwith guest Judge Napolitano \ud83c\uddec\ud83c\udde7 7pm LONDON \ud83c\uddfa\ud83c\uddf8 11am PT | 2pm ET \ud83d\udccb",
+      "text_preview": "\u2b55\ufe0f WEDNESDAY \ud83c\udf99\ufe0f#MOATS \nJOIN ME for The Midweek Mother Of All Talk Shows #LIVE on all platforms \n\n\u25aa\ufe0fwith guest Judge Napolitano \n\n\ud83c\uddec\ud83c\udde7  7pm LONDON \n\ud83c\uddfa\ud83c\uddf8  11am PT | 2pm ET \n\n\ud83d\udccb #Gaza #Palestine #Famine #Star...",
+      "author": "moatstv.bsky.social",
+      "author_display_name": "The Mother Of All Talk Shows",
+      "created_at": "2025-08-05T19:18:30.922Z",
+      "hashtags": "['#Starmer' '#Gaza' '#Epstein' '#MOATS' '#Palestine' '#Ukraine' '#WW3'\n '#WestBank' '#Famine' '#Russia' '#Trump' '#August8' '#LIVE' '#Zelensky'\n '#Netanyahu' '#US' '#CIA' '#Maxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:20:03.368018",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:20:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 147,
+      "hashtag_count": 18,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvog7ivpls2p",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict pathological liar & racist wannabe dictator, #Trump.\n\nIn 11/26, WE MUST NEVER VOTE FOR #Republicans.\n\nTYVM @darylelliott.bsky.social\n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict pathological liar & racist wannabe dictator, . In 11/26, WE MUST NEVER VOTE FOR . TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict pathological liar & racist wannabe dictator, #Trump.\n\nIn 11/26, WE MUST NEV...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-05T19:15:09.325Z",
+      "hashtags": "['#Republicans' '#TRUTHSOCIAL' '#Congress' '#Trump' '#Change' '#BlueCrew']",
+      "mentions": "['@darylelliott.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:20:03.368083",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:20:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 194,
+      "hashtag_count": 6,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvog7ap3jl2b",
+      "text": "#FoxNews \u2018NO ANSWER\u2019: Reporter confronts ex-Biden aide before testimony #short #foxnews #news #us #fox\u00a0#biden\n\n'NO ANSWER': Reporter confronts ex-Biden aide before testimony #short #foxnews #news #us #fox #biden Ex-White House deputy chief of staff Bruce Reed refused to answer questions before his\u2026",
+      "text_cleaned": "\u2018NO ANSWER\u2019: Reporter confronts ex-Biden aide before testimony 'NO ANSWER': Reporter confronts ex-Biden aide before testimony Ex-White House deputy chief of staff Bruce Reed refused to answer questions before his\u2026",
+      "text_preview": "#FoxNews \u2018NO ANSWER\u2019: Reporter confronts ex-Biden aide before testimony #short #foxnews #news #us #fox\u00a0#biden\n\n'NO ANSWER': Reporter confronts ex-Biden aide before testimony #short #foxnews #news #us ...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-05T19:14:59Z",
+      "hashtags": "['#biden' '#news' '#fox' '#FoxNews' '#short' '#us' '#foxnews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:20:03.368264",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:20:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 213,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvogbkfizk2k",
+      "text": "#Russia #PutinBS #TrumpBS #MuskBS #RussianTerror\n#DumpTrump #MuskRat #MuskGrifter #Trump #Musk\n#Putin #M.Rubiotic #P.HackSaw #JD.DisatVance \n#T.Gabbird #Zelenskyy #Ukraine #UkraineVictory \n#GloryToUkraine #SaveDemocracy #MRSA",
+      "text_cleaned": ".Rubiotic .HackSaw .DisatVance .Gabbird",
+      "text_preview": "#Russia #PutinBS #TrumpBS #MuskBS #RussianTerror\n#DumpTrump #MuskRat #MuskGrifter #Trump #Musk\n#Putin #M.Rubiotic #P.HackSaw #JD.DisatVance \n#T.Gabbird #Zelenskyy #Ukraine #UkraineVictory \n#GloryToUkr...",
+      "author": "madepmax.bsky.social",
+      "author_display_name": "MadEP MaX",
+      "created_at": "2025-08-05T19:16:18.006Z",
+      "hashtags": "['#GloryToUkraine' '#P' '#MuskBS' '#JD' '#DumpTrump' '#Russia'\n '#UkraineVictory' '#TrumpBS' '#Zelenskyy' '#Putin' '#MuskGrifter' '#Musk'\n '#PutinBS' '#T' '#SaveDemocracy' '#MRSA' '#M' '#MuskRat' '#RussianTerror'\n '#Ukraine' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:20:03.368068",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:20:10.007000",
+      "text_length": 225,
+      "text_cleaned_length": 39,
+      "hashtag_count": 21,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvogc6em722o",
+      "text": "Thank you @palkisharmaupadhyay and @firstpost this is brilliant!\u2764\ufe0f\ud83c\uddee\ud83c\uddf3 #trump #nobelpeaceprize #instareels #reels #reelsoftheday #reelsinstagram #comedy",
+      "text_cleaned": "Thank you and this is brilliant!\u2764\ufe0f\ud83c\uddee\ud83c\uddf3",
+      "text_preview": "Thank you @palkisharmaupadhyay and @firstpost this is brilliant!\u2764\ufe0f\ud83c\uddee\ud83c\uddf3 #trump #nobelpeaceprize #instareels #reels #reelsoftheday #reelsinstagram #comedy",
+      "author": "visualmania.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T19:16:38.946Z",
+      "hashtags": "['#nobelpeaceprize' '#comedy' '#instareels' '#reelsoftheday' '#trump'\n '#reelsinstagram' '#reels']",
+      "mentions": "['@firstpost' '@palkisharmaupadhyay']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:20:03.368052",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:20:10.007000",
+      "text_length": 150,
+      "text_cleaned_length": 36,
+      "hashtag_count": 7,
+      "mention_count": 2,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvogfavtjc2z",
+      "text": "Reicht's dann endlich mal?\nWas knickt ihr r\u00fcckgratlosen Volltrottel eigentlich immer noch vor ihm ein?!\n\n#Trump #VonderLeyen",
+      "text_cleaned": "Reicht's dann endlich mal? Was knickt ihr r\u00fcckgratlosen Volltrottel eigentlich immer noch vor ihm ein?!",
+      "text_preview": "Reicht's dann endlich mal?\nWas knickt ihr r\u00fcckgratlosen Volltrottel eigentlich immer noch vor ihm ein?!\n\n#Trump #VonderLeyen",
+      "author": "surealworld.bsky.social",
+      "author_display_name": "\u02e2\u1d41:\u1d3f\u1d31\u1d2c\u1d38",
+      "created_at": "2025-08-05T19:18:22.231Z",
+      "hashtags": "['#Trump' '#VonderLeyen']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:20:03.368027",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:20:10.007000",
+      "text_length": 124,
+      "text_cleaned_length": 103,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvogfzlbkf2y",
+      "text": "#Selenskyj und #Trump telefonieren zu Russland-Sanktionen (Ticker) www.wort.lu/internationa...",
+      "text_cleaned": "und telefonieren zu Russland-Sanktionen (Ticker)",
+      "text_preview": "#Selenskyj und #Trump telefonieren zu Russland-Sanktionen (Ticker) www.wort.lu/internationa...",
+      "author": "newsforfuture.bsky.social",
+      "author_display_name": "softlabhennef",
+      "created_at": "2025-08-05T19:18:48.356Z",
+      "hashtags": "['#Trump' '#Selenskyj']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:20:03.367943",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:20:10.007000",
+      "text_length": 94,
+      "text_cleaned_length": 48,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvogcppovc2q",
+      "text": "Donald #Trump is a cheater. #Texas #American people",
+      "text_cleaned": "Donald is a cheater. people",
+      "text_preview": "Donald #Trump is a cheater. #Texas #American people",
+      "author": "victoria58.bsky.social",
+      "author_display_name": "Victoria",
+      "created_at": "2025-08-05T19:16:57.138Z",
+      "hashtags": "['#American' '#Texas' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:20:03.368036",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:20:10.007000",
+      "text_length": 51,
+      "text_cleaned_length": 27,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvogfz6trk2c",
+      "text": "#MAGA #TRUMP\nwww.youtube.com/live/DjKNRYH...",
+      "text_cleaned": "",
+      "text_preview": "#MAGA #TRUMP\nwww.youtube.com/live/DjKNRYH...",
+      "author": "bibbybibi.bsky.social",
+      "author_display_name": "BibbyBibi the MAGA furry",
+      "created_at": "2025-08-05T19:18:47.734Z",
+      "hashtags": "['#MAGA' '#TRUMP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T19:20:03.368000",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 19:20:10.007000",
+      "text_length": 44,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    }
+  ]
+}
