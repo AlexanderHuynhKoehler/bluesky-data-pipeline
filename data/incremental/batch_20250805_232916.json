@@ -1,0 +1,473 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_232916",
+    "post_count": 17,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 23:20:10.007000",
+    "latest_received_at": "2025-08-05 23:25:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvou4jqh3e2w",
+      "text": "Mike Flood Heckled at Town Hall Over Trump\u2019s Domestic Policy Bill Most Republican lawmakers are avoiding town hall meetings, reluctant to confront energized Democrats and answer tough questions. When Representative Mike Flood of... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/0iZZrXdF",
+      "text_cleaned": "Mike Flood Heckled at Town Hall Over Trump\u2019s Domestic Policy Bill Most Republican lawmakers are avoiding town hall meetings, reluctant to confront energized Democrats and answer tough questions. When Representative Mike Flood of... .ai",
+      "text_preview": "Mike Flood Heckled at Town Hall Over Trump\u2019s Domestic Policy Bill Most Republican lawmakers are avoiding town hall meetings, reluctant to confront energized Democrats and answer tough questions. When ...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-05T23:24:01.614Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:25:03.578008",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:25:10.006000",
+      "text_length": 278,
+      "text_cleaned_length": 235,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvou5af3ck2q",
+      "text": "#Ghislaine-maxwell 's dad, Robert, USSR General Secretary Brezhenv. \n\n#Trump with Melania, #Epstein and #Ghislaine-maxell\n\n#Trump was not being extorted by #Epstein!!\n\nThe three of them were extorting US congressmen and businessmen - this is the Russian Connection.",
+      "text_cleaned": "-maxwell 's dad, Robert, USSR General Secretary Brezhenv. with Melania, and -maxell was not being extorted by !! The three of them were extorting US congressmen and businessmen - this is the Russian Connection.",
+      "text_preview": "#Ghislaine-maxwell 's dad, Robert, USSR General Secretary Brezhenv. \n\n#Trump with Melania, #Epstein and #Ghislaine-maxell\n\n#Trump was not being extorted by #Epstein!!\n\nThe three of them were extorting...",
+      "author": "luditetechy.bsky.social",
+      "author_display_name": "BT",
+      "created_at": "2025-08-05T23:24:25.672Z",
+      "hashtags": "['#Trump' '#Epstein' '#Ghislaine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:25:03.577999",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:25:10.006000",
+      "text_length": 265,
+      "text_cleaned_length": 210,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvotwnrvkt2x",
+      "text": "Up on the Roof, Trump Surveys the Home He\u2019s Making His Own White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Up on the Roof, Trump Surveys the Home He\u2019s Making His Own White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Up on the Roof, Trump Surveys the Home He\u2019s Making His Own White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m...",
+      "author": "cosmicmeta.io",
+      "author_display_name": "Cosmic Meta IO",
+      "created_at": "2025-08-05T23:20:44.668Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:25:03.578043",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:25:10.006000",
+      "text_length": 212,
+      "text_cleaned_length": 169,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvotzf44hl2r",
+      "text": "Up on the Roof, Trump Surveys the Home He\u2019s Making His Own White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Up on the Roof, Trump Surveys the Home He\u2019s Making His Own White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Up on the Roof, Trump Surveys the Home He\u2019s Making His Own White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-05T23:22:16.229Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:25:03.578022",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:25:10.006000",
+      "text_length": 212,
+      "text_cleaned_length": 169,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvotxrmckk2y",
+      "text": "Have you seen this GEM?!?\n\nThe real bomb shell in my opinion is musk. Especially after the #Tesla vote for CEO.\nOoooopsies.\n\n#EPSTEIN #TRUMP\n#MUSK #GATES\n#CLINTON \n\nyoutu.be/V5IXR074_LA?...",
+      "text_cleaned": "Have you seen this GEM?!? The real bomb shell in my opinion is musk. Especially after the vote for CEO. Ooooopsies. youtu.be/V5IXR074_LA?...",
+      "text_preview": "Have you seen this GEM?!?\n\nThe real bomb shell in my opinion is musk. Especially after the #Tesla vote for CEO.\nOoooopsies.\n\n#EPSTEIN #TRUMP\n#MUSK #GATES\n#CLINTON \n\nyoutu.be/V5IXR074_LA?...",
+      "author": "boofed-it.bsky.social",
+      "author_display_name": "Boofed'it",
+      "created_at": "2025-08-05T23:21:22.409Z",
+      "hashtags": "['#MUSK' '#GATES' '#EPSTEIN' '#TRUMP' '#Tesla' '#CLINTON']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:25:03.578030",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:25:10.006000",
+      "text_length": 189,
+      "text_cleaned_length": 140,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvou4c66us2o",
+      "text": "Oh, gawd, we'll never get the poison out of the system. Dump #trump artificial intelligence. He's a 100% natural idiot.",
+      "text_cleaned": "Oh, gawd, we'll never get the poison out of the system. Dump artificial intelligence. He's a 100% natural idiot.",
+      "text_preview": "Oh, gawd, we'll never get the poison out of the system. Dump #trump artificial intelligence. He's a 100% natural idiot.",
+      "author": "mjhinton.bsky.social",
+      "author_display_name": "mjh",
+      "created_at": "2025-08-05T23:23:53.990Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:25:03.578015",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:25:10.006000",
+      "text_length": 119,
+      "text_cleaned_length": 112,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvotvjgcn22d",
+      "text": "thefrontierreport.com/russia-just-...\n#TFRNews #russia #usa #trump #putin #worldnews #Defense #treaty #defensenews",
+      "text_cleaned": "thefrontierreport.com/russia-just-...",
+      "text_preview": "thefrontierreport.com/russia-just-...\n#TFRNews #russia #usa #trump #putin #worldnews #Defense #treaty #defensenews",
+      "author": "thefrontierreport.bsky.social",
+      "author_display_name": "The Frontier Report",
+      "created_at": "2025-08-05T23:20:06.716Z",
+      "hashtags": "['#trump' '#treaty' '#Defense' '#TFRNews' '#russia' '#defensenews'\n '#putin' '#usa' '#worldnews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:25:03.578053",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:25:10.006000",
+      "text_length": 114,
+      "text_cleaned_length": 37,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvotwp253s23",
+      "text": "Elon donates $5 million to the pedo Trump. #Trump",
+      "text_cleaned": "Elon donates $5 million to the pedo Trump.",
+      "text_preview": "Elon donates $5 million to the pedo Trump. #Trump",
+      "author": "judi999.bsky.social",
+      "author_display_name": "Judi \ud83d\udc99 Deport Elon! Impeach Krasnov!",
+      "created_at": "2025-08-05T23:20:46.164Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:25:03.578036",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:25:10.006000",
+      "text_length": 49,
+      "text_cleaned_length": 42,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvotmyo6tc2v",
+      "text": "real #TRUTHSOCIAL:\n\nWITH YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict pathological liar & racist wannabe dictator, #Trump.\n\nIn 11/26, WE MUST NEVER VOTE FOR #Republicans.\n\nTYVM @danimac67.bsky.social \n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : WITH YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict pathological liar & racist wannabe dictator, . In 11/26, WE MUST NEVER VOTE FOR . TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nWITH YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict pathological liar & racist wannabe dictator, #Trump.\n\nIn 11/26, WE MUST N...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-05T23:15:20.711Z",
+      "hashtags": "['#Change' '#Congress' '#Trump' '#TRUTHSOCIAL' '#BlueCrew' '#Republicans']",
+      "mentions": "['@danimac67.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:20:03.924019",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:20:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 196,
+      "hashtag_count": 6,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvotsguhuum2",
+      "text": "[US Politics, NIH funding]\n\n\"Trump administration violated impoundment law by canceling NIH grants, slowing new awards, GAO finds\"\n\nhttps://www.statnews.com/2025/08/05/gao-says-nih-cuts-violated-impoundment-control-act/\n\n\"In a scathing report issued Tuesday [\u2026] \n\n[Original post on disabled.social]",
+      "text_cleaned": "[US Politics, NIH funding] \"Trump administration violated impoundment law by canceling NIH grants, slowing new awards, GAO finds\" \"In a scathing report issued Tuesday [\u2026] [Original post on disabled.social]",
+      "text_preview": "[US Politics, NIH funding]\n\n\"Trump administration violated impoundment law by canceling NIH grants, slowing new awards, GAO finds\"\n\nhttps://www.statnews.com/2025/08/05/gao-says-nih-cuts-violated-impou...",
+      "author": "ahimsa-pdx.disabled.social.ap.brid.gy",
+      "author_display_name": "ahimsa",
+      "created_at": "2025-08-05T23:18:05.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:20:03.923992",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:20:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 205,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvotmm4cox2k",
+      "text": "BILL UPDATE:\n\nS.2438: Transformation to Competitive Integrated Employment Act\n\nACTION: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.\n\n#economy #education #healthcare",
+      "text_cleaned": "BILL UPDATE: S.2438: Transformation to Competitive Integrated Employment Act ACTION: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "text_preview": "BILL UPDATE:\n\nS.2438: Transformation to Competitive Integrated Employment Act\n\nACTION: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.\n\n#economy #education #healthc...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-05T23:15:05.766Z",
+      "hashtags": "['#economy' '#education' '#healthcare']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:20:03.923713",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:20:10.007000",
+      "text_length": 203,
+      "text_cleaned_length": 168,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvotodkdz22b",
+      "text": "Why are symbols of an insurrection being resurrected in the Nation's capital? \n\n#Resist #Trump #MAGA #Whitesupremacy #racism #uscivilwar #confederacy",
+      "text_cleaned": "Why are symbols of an insurrection being resurrected in the Nation's capital?",
+      "text_preview": "Why are symbols of an insurrection being resurrected in the Nation's capital? \n\n#Resist #Trump #MAGA #Whitesupremacy #racism #uscivilwar #confederacy",
+      "author": "oppohq.bsky.social",
+      "author_display_name": "OppositionHQ",
+      "created_at": "2025-08-05T23:16:05.676Z",
+      "hashtags": "['#Whitesupremacy' '#MAGA' '#confederacy' '#racism' '#Trump' '#Resist'\n '#uscivilwar']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:20:03.924006",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:20:10.007000",
+      "text_length": 149,
+      "text_cleaned_length": 77,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvotrnsmzv2e",
+      "text": "\n#Krieg   #Moskau   #Sanktionen   #Trump   #Ukraine   #Ukraine-Krieg",
+      "text_cleaned": "-Krieg",
+      "text_preview": "\n#Krieg   #Moskau   #Sanktionen   #Trump   #Ukraine   #Ukraine-Krieg",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-05T23:18:18.074175+00:00",
+      "hashtags": "['#Moskau' '#Sanktionen' '#Ukraine' '#Trump' '#Krieg']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:20:03.923985",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:20:10.007000",
+      "text_length": 68,
+      "text_cleaned_length": 6,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvott7jgin24",
+      "text": "\n#Krieg   #Moskau   #Putin   #Steve Witkoff   #Trump   #Ukraine",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Krieg   #Moskau   #Putin   #Steve Witkoff   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-05T23:19:10.200115+00:00",
+      "hashtags": "['#Moskau' '#Ukraine' '#Trump' '#Krieg' '#Putin' '#Steve']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:20:03.923971",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:20:10.007000",
+      "text_length": 63,
+      "text_cleaned_length": 7,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvottufqhy2c",
+      "text": "\n#Krieg   #Putin   #Russland   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Krieg   #Putin   #Russland   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-05T23:19:32.097157+00:00",
+      "hashtags": "['#Russland' '#Ukraine' '#Trump' '#Krieg' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:20:03.923961",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:20:10.007000",
+      "text_length": 48,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvotszjzu22f",
+      "text": "MAWO #Trump - Making Americans Worse Off",
+      "text_cleaned": "MAWO - Making Americans Worse Off",
+      "text_preview": "MAWO #Trump - Making Americans Worse Off",
+      "author": "mixmitt.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T23:18:42.953Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:20:03.923977",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:20:10.007000",
+      "text_length": 40,
+      "text_cleaned_length": 33,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvotrug46k2m",
+      "text": "Cult Jeans.!!!!! #Trump #Epstein",
+      "text_cleaned": "Cult Jeans.!!!!!",
+      "text_preview": "Cult Jeans.!!!!! #Trump #Epstein",
+      "author": "skusa.bsky.social",
+      "author_display_name": "SKUSA",
+      "created_at": "2025-08-05T23:18:04.017Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:20:03.923998",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:20:10.007000",
+      "text_length": 32,
+      "text_cleaned_length": 16,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
