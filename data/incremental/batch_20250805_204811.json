@@ -1,0 +1,932 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_204811",
+    "post_count": 34,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 20:40:10.007000",
+    "latest_received_at": "2025-08-05 20:45:10.028000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvokzkdhwc26",
+      "text": "#Trump - If D.C. doesn\u2019t get its act together, and quickly, we will have no choice but to take Federal control of the City, and run this City how it should be run, and put criminals on notice that they\u2019re not going to get away with it anymore... Perhaps it should have been done a long time ago.",
+      "text_cleaned": "- If D.C. doesn\u2019t get its act together, and quickly, we will have no choice but to take Federal control of the City, and run this City how it should be run, and put criminals on notice that they\u2019re not going to get away with it anymore... Perhaps it should have been done a long time ago.",
+      "text_preview": "#Trump - If D.C. doesn\u2019t get its act together, and quickly, we will have no choice but to take Federal control of the City, and run this City how it should be run, and put criminals on notice that the...",
+      "author": "progressivenews.de",
+      "author_display_name": "Progressive News ",
+      "created_at": "2025-08-05T20:41:18.214Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306978",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 295,
+      "text_cleaned_length": 288,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvol7p6gdc2t",
+      "text": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you. #Trump #Epstein #Maxwell #Melania",
+      "text_cleaned": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you.",
+      "text_preview": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also...",
+      "author": "marlajuliette.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T20:44:44.600Z",
+      "hashtags": "['#Melania' '#Maxwell' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306859",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 297,
+      "text_cleaned_length": 263,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokznpmuc2t",
+      "text": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you. #Trump #Epstein #Maxwell #Melania",
+      "text_cleaned": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you.",
+      "text_preview": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also...",
+      "author": "marlajuliette.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T20:41:21.744Z",
+      "hashtags": "['#Melania' '#Maxwell' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306972",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 297,
+      "text_cleaned_length": 263,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokxwhzf22t",
+      "text": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you. #Trump #Epstein #Maxwell #Melania",
+      "text_cleaned": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you.",
+      "text_preview": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also...",
+      "author": "marlajuliette.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T20:40:23.819Z",
+      "hashtags": "['#Melania' '#Maxwell' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306994",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 297,
+      "text_cleaned_length": 263,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokwt2to22m",
+      "text": "#Trump hates independent judges and wants to control the judiciary by inserting sycophants.\nThe #DOJ is already under his control and is not short of collaborators that are willing to do his political bidding.\nLet's hope those on the bench remain true to the law.\nwww.nytimes.com/2025/08/04/u...",
+      "text_cleaned": "hates independent judges and wants to control the judiciary by inserting sycophants. The is already under his control and is not short of collaborators that are willing to do his political bidding. Let's hope those on the bench remain true to the law.",
+      "text_preview": "#Trump hates independent judges and wants to control the judiciary by inserting sycophants.\nThe #DOJ is already under his control and is not short of collaborators that are willing to do his political...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-05T20:39:46.704Z",
+      "hashtags": "['#DOJ' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.307014",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 295,
+      "text_cleaned_length": 251,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoky3xphc2j",
+      "text": "\ud83d\uddfd Trump narrows Fed chair search to four candidates \u2014 a pivotal moment shaping economic policy and markets. Who\u2019s in the running, and how could your wallet be impacted? \ud83d\udcca Read more: techgolly.com/trump-narrow...\n\n#FedChair #FederalReserve #EconomicPolicy #Trump #Finance #MarketWatch",
+      "text_cleaned": "\ud83d\uddfd Trump narrows Fed chair search to four candidates \u2014 a pivotal moment shaping economic policy and markets. Who\u2019s in the running, and how could your wallet be impacted? \ud83d\udcca Read more: techgolly.com/trump-narrow...",
+      "text_preview": "\ud83d\uddfd Trump narrows Fed chair search to four candidates \u2014 a pivotal moment shaping economic policy and markets. Who\u2019s in the running, and how could your wallet be impacted? \ud83d\udcca Read more: techgolly.com/trum...",
+      "author": "techgolly.com",
+      "author_display_name": "TechGolly",
+      "created_at": "2025-08-05T20:40:29.594Z",
+      "hashtags": "['#Finance' '#MarketWatch' '#Trump' '#EconomicPolicy' '#FederalReserve'\n '#FedChair']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306987",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 283,
+      "text_cleaned_length": 211,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvol74ka7c2u",
+      "text": "\ud83c\udff7\ufe0f DEEP DISCOUNTS ALERT \ud83d\udecd\ufe0f Save big on what you need and love! \ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8 Don\u2019t wait\u2014deals like this don\u2019t stay long! \ud83d\udca1\nmavely.app.link/e/EmN8PjFTAVb\n\n#Trump #ROOF #Summer #OnTheRoof #Till #August #Bluesky #LikeAn #Ten #Moon",
+      "text_cleaned": "\ud83c\udff7\ufe0f DEEP DISCOUNTS ALERT \ud83d\udecd\ufe0f Save big on what you need and love! \ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8 Don\u2019t wait\u2014deals like this don\u2019t stay long! \ud83d\udca1 mavely.app.link/e/EmN8PjFTAVb",
+      "text_preview": "\ud83c\udff7\ufe0f DEEP DISCOUNTS ALERT \ud83d\udecd\ufe0f Save big on what you need and love! \ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8 Don\u2019t wait\u2014deals like this don\u2019t stay long! \ud83d\udca1\nmavely.app.link/e/EmN8PjFTAVb\n\n#Trump #ROOF #Summer #OnTheRoof #Till #August #Bluesky...",
+      "author": "thedealfairy.bsky.social",
+      "author_display_name": "The Deal Fairy",
+      "created_at": "2025-08-05T20:44:25.078Z",
+      "hashtags": "['#August' '#Moon' '#Till' '#Bluesky' '#Summer' '#Trump' '#ROOF'\n '#OnTheRoof' '#Ten' '#LikeAn']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306908",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 219,
+      "text_cleaned_length": 144,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokxj576k2z",
+      "text": "The #economy is no doubt slowing. The immigration attack has changed the labor and spending landscape along with a lack of tourism, higher prices from tariffs and high rates.  Rates do need to come down but that alone won\u2019t help much\u2026",
+      "text_cleaned": "The is no doubt slowing. The immigration attack has changed the labor and spending landscape along with a lack of tourism, higher prices from tariffs and high rates. Rates do need to come down but that alone won\u2019t help much\u2026",
+      "text_preview": "The #economy is no doubt slowing. The immigration attack has changed the labor and spending landscape along with a lack of tourism, higher prices from tariffs and high rates.  Rates do need to come do...",
+      "author": "gerberkawasaki.bsky.social",
+      "author_display_name": "Ross Gerber",
+      "created_at": "2025-08-05T20:40:09.851Z",
+      "hashtags": "['#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306619",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 234,
+      "text_cleaned_length": 224,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvol4nzmv22u",
+      "text": "\ud83d\udea8\ud83d\udd25\"Rush Now!\ud83d\ude80\ud83d\udecd\ufe0f Walmart\u2019s Limited-Time Offer is Selling Fast!\"\ud83e\udd1d\ud83e\uddf3 #walmart #todaydeal\n\ud83d\udc47PRICE DROP\ud83d\udc47\nmavely.app.link/e/HfTa9fzTAVb\n\n#Trump #ROOF #Summer #OnTheRoof #Till #August #Bluesky #LikeAn #Ten #Moon",
+      "text_cleaned": "\ud83d\udea8\ud83d\udd25\"Rush Now!\ud83d\ude80\ud83d\udecd\ufe0f Walmart\u2019s Limited-Time Offer is Selling Fast!\"\ud83e\udd1d\ud83e\uddf3 \ud83d\udc47PRICE DROP\ud83d\udc47 mavely.app.link/e/HfTa9fzTAVb",
+      "text_preview": "\ud83d\udea8\ud83d\udd25\"Rush Now!\ud83d\ude80\ud83d\udecd\ufe0f Walmart\u2019s Limited-Time Offer is Selling Fast!\"\ud83e\udd1d\ud83e\uddf3 #walmart #todaydeal\n\ud83d\udc47PRICE DROP\ud83d\udc47\nmavely.app.link/e/HfTa9fzTAVb\n\n#Trump #ROOF #Summer #OnTheRoof #Till #August #Bluesky #LikeAn #Ten #Mo...",
+      "author": "thedealfairy.bsky.social",
+      "author_display_name": "The Deal Fairy",
+      "created_at": "2025-08-05T20:43:02.742Z",
+      "hashtags": "['#August' '#Moon' '#walmart' '#Till' '#Bluesky' '#Summer' '#Trump'\n '#ROOF' '#OnTheRoof' '#Ten' '#todaydeal' '#LikeAn']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306932",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 202,
+      "text_cleaned_length": 107,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvol2kgi6k2u",
+      "text": "\ud83e\udd11 WALMART WINNERS ONLY! \ud83c\udf89 This deal is the real MVP\u2014shop now and thank your wallet later! \ud83d\udcb8\u2728 #DealHunterLife\n\nmavely.app.link/e/5zi3efuTAVb\n\n#Trump #ROOF #Summer #OnTheRoof #Till #August #Bluesky #LikeAn #Ten #Moon",
+      "text_cleaned": "\ud83e\udd11 WALMART WINNERS ONLY! \ud83c\udf89 This deal is the real MVP\u2014shop now and thank your wallet later! \ud83d\udcb8\u2728 mavely.app.link/e/5zi3efuTAVb",
+      "text_preview": "\ud83e\udd11 WALMART WINNERS ONLY! \ud83c\udf89 This deal is the real MVP\u2014shop now and thank your wallet later! \ud83d\udcb8\u2728 #DealHunterLife\n\nmavely.app.link/e/5zi3efuTAVb\n\n#Trump #ROOF #Summer #OnTheRoof #Till #August #Bluesky #Lik...",
+      "author": "thedealfairy.bsky.social",
+      "author_display_name": "The Deal Fairy",
+      "created_at": "2025-08-05T20:41:51.849Z",
+      "hashtags": "['#August' '#Moon' '#Till' '#Bluesky' '#Summer' '#Trump' '#ROOF'\n '#OnTheRoof' '#Ten' '#LikeAn' '#DealHunterLife']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306964",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 214,
+      "text_cleaned_length": 122,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvol25tf4t2n",
+      "text": "\n#Asia   #Beijing   #China   #defense   #economic policy   #Foreign relations   #politics   #South China Sea   #Tariffs   #Trump   #Trump administration   #war",
+      "text_cleaned": "policy relations China Sea administration",
+      "text_preview": "\n#Asia   #Beijing   #China   #defense   #economic policy   #Foreign relations   #politics   #South China Sea   #Tariffs   #Trump   #Trump administration   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T20:41:59.788329+00:00",
+      "hashtags": "['#Foreign' '#economic' '#Beijing' '#Asia' '#defense' '#Trump' '#South'\n '#politics' '#China' '#Tariffs' '#war']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306955",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 159,
+      "text_cleaned_length": 41,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvol4msasl2i",
+      "text": "\u201cNYC to face $64-million cut in security funds from Trump administration after deadly shooting\u201d \u2014 Reuters\n\n#NYCNews #NYC #Trump",
+      "text_cleaned": "\u201cNYC to face $64-million cut in security funds from Trump administration after deadly shooting\u201d \u2014 Reuters",
+      "text_preview": "\u201cNYC to face $64-million cut in security funds from Trump administration after deadly shooting\u201d \u2014 Reuters\n\n#NYCNews #NYC #Trump",
+      "author": "newyorkcitynews.bsky.social",
+      "author_display_name": "New York City News",
+      "created_at": "2025-08-05T20:43:01.416339+00:00",
+      "hashtags": "['#NYC' '#NYCNews' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306940",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 127,
+      "text_cleaned_length": 105,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvokxvjxhs2v",
+      "text": "#Ukraine : #Zelensky annonce avoir discut\u00e9 sanctions contre la #Russie et coop\u00e9ration militaire avec #Trump",
+      "text_cleaned": ": annonce avoir discut\u00e9 sanctions contre la et coop\u00e9ration militaire avec",
+      "text_preview": "#Ukraine : #Zelensky annonce avoir discut\u00e9 sanctions contre la #Russie et coop\u00e9ration militaire avec #Trump",
+      "author": "christinahell.bsky.social",
+      "author_display_name": "Chris Tina",
+      "created_at": "2025-08-05T20:40:22.849Z",
+      "hashtags": "['#Trump' '#Ukraine' '#Russie' '#Zelensky']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.307000",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 107,
+      "text_cleaned_length": 73,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvokxcjpy526",
+      "text": "TOMORROW 5PM ET: Doctors Back From Gaza Join Mehdi & Subscribers in Live Q&A\n#Trump",
+      "text_cleaned": "TOMORROW 5PM ET: Doctors Back From Gaza Join Mehdi & Subscribers in Live Q&A",
+      "text_preview": "TOMORROW 5PM ET: Doctors Back From Gaza Join Mehdi & Subscribers in Live Q&A\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T20:40:02.255Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.307007",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 83,
+      "text_cleaned_length": 76,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvol6raiz226",
+      "text": "#Republicans aka #christian #NAZI #Gestapo #SS #Trump style",
+      "text_cleaned": "aka style",
+      "text_preview": "#Republicans aka #christian #NAZI #Gestapo #SS #Trump style",
+      "author": "pi-qui.bsky.social",
+      "author_display_name": "Pi-Qui Djinn Djinni",
+      "created_at": "2025-08-05T20:44:13.226Z",
+      "hashtags": "['#Trump' '#SS' '#Gestapo' '#christian' '#Republicans' '#NAZI']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306916",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 59,
+      "text_cleaned_length": 9,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvol37dwzs2w",
+      "text": "#trump #NPR #PBS #fuckyourstupidoverpricedunwantedballroom",
+      "text_cleaned": "",
+      "text_preview": "#trump #NPR #PBS #fuckyourstupidoverpricedunwantedballroom",
+      "author": "smeary.bsky.social",
+      "author_display_name": "Smeary",
+      "created_at": "2025-08-05T20:42:13.803Z",
+      "hashtags": "['#fuckyourstupidoverpricedunwantedballroom' '#NPR' '#PBS' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306946",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 58,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvol5w3bw32v",
+      "text": "\n#Texas   #Trump   #warfare",
+      "text_cleaned": "",
+      "text_preview": "\n#Texas   #Trump   #warfare",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T20:44:05.857457+00:00",
+      "hashtags": "['#warfare' '#Texas' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:45:04.306922",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:45:10.028000",
+      "text_length": 27,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokpo6tis2t",
+      "text": "\u201cThey\u2019ve got something on him that scares the living shit out of him.\u201d\n\n@karaswisher.bsky.social and guest co-host \"The Mooch\" examine Trump\u2019s threat of sanctions on Russia and whether fear of Putin\u2019s leverage is holding him back.\n\n#karaswisher #themooch #trump #russia #politics",
+      "text_cleaned": "\u201cThey\u2019ve got something on him that scares the living shit out of him.\u201d .bsky.social and guest co-host \"The Mooch\" examine Trump\u2019s threat of sanctions on Russia and whether fear of Putin\u2019s leverage is holding him back.",
+      "text_preview": "\u201cThey\u2019ve got something on him that scares the living shit out of him.\u201d\n\n@karaswisher.bsky.social and guest co-host \"The Mooch\" examine Trump\u2019s threat of sanctions on Russia and whether fear of Putin\u2019s...",
+      "author": "pivotpod.bsky.social",
+      "author_display_name": "Pivot Podcast",
+      "created_at": "2025-08-05T20:35:46.710Z",
+      "hashtags": "['#russia' '#politics' '#trump' '#karaswisher' '#themooch']",
+      "mentions": "['@karaswisher.bsky.social']",
+      "engagement": {
+        "likes": 4,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739277",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 279,
+      "text_cleaned_length": 217,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvokpqsfdc2y",
+      "text": "\ud83d\udd34 Donald #Trump minaccia di federalizzare Washington D.C. a causa dell\u2019aumento della criminalit\u00e0 giovanile. \u201cSe D.C. non si d\u00e0 una svegliata, prenderemo il controllo federale della citt\u00e0\u201d, scrive, chiedendo pene severe per i minorenni a partire dai 14 anni. #Trump #WashingtonDC",
+      "text_cleaned": "\ud83d\udd34 Donald minaccia di federalizzare Washington D.C. a causa dell\u2019aumento della criminalit\u00e0 giovanile. \u201cSe D.C. non si d\u00e0 una svegliata, prenderemo il controllo federale della citt\u00e0\u201d, scrive, chiedendo pene severe per i minorenni a partire dai 14 anni.",
+      "text_preview": "\ud83d\udd34 Donald #Trump minaccia di federalizzare Washington D.C. a causa dell\u2019aumento della criminalit\u00e0 giovanile. \u201cSe D.C. non si d\u00e0 una svegliata, prenderemo il controllo federale della citt\u00e0\u201d, scrive, chi...",
+      "author": "danieled.bsky.social",
+      "author_display_name": "Daniele D.",
+      "created_at": "2025-08-05T20:35:49.427Z",
+      "hashtags": "['#Trump' '#WashingtonDC']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739267",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 278,
+      "text_cleaned_length": 250,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokpej4ek2t",
+      "text": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you. #Trump #Epstein #Maxwell #Melania",
+      "text_cleaned": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you.",
+      "text_preview": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also...",
+      "author": "marlajuliette.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T20:35:36.542Z",
+      "hashtags": "['#Epstein' '#Maxwell' '#Trump' '#Melania']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739288",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 263,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokwfmebk2t",
+      "text": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you. #Trump #Epstein #Maxwell #Melania",
+      "text_cleaned": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also invite you to ignore how much money they're stealing from you.",
+      "text_preview": "Donald and Melania Cordially Invite You to Forget about their GOOD FRIENDS Jeffery Epstein and Ghislaine Maxwell, and all of their children they raped and molested. Donald and Melania Trump would also...",
+      "author": "marlajuliette.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T20:39:32.579Z",
+      "hashtags": "['#Epstein' '#Maxwell' '#Trump' '#Melania']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739118",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 263,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokptxxdc24",
+      "text": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Papa Jannik Vaticano Kalulu Elodie Lookman Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giulia Salemi tempo per #Uominiedonne che amano #libri come\nwww.amazon.it/gp/product/1519067097",
+      "text_cleaned": "Don Matteo Bova Albanese Pellegrini Leclerc Koopmeiners Cobolli Papa Jannik Vaticano Kalulu Elodie Lookman Sinner Cattelan Giulia Salemi tempo per che amano come",
+      "text_preview": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Papa Jannik Vaticano Kalulu Elodie Lookman Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giuli...",
+      "author": "clubgoodbooks.bsky.social",
+      "author_display_name": "GoodBooks",
+      "created_at": "2025-08-05T20:35:52.778Z",
+      "hashtags": "['#FILOROSSO' '#BattitiLive' '#dazi' '#singapore2025' '#Putin' '#libri'\n '#5agosto2025' '#Trump' '#Uominiedonne']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739196",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 290,
+      "text_cleaned_length": 161,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokqxwgr224",
+      "text": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Papa Jannik Vaticano Kalulu Elodie Lookman Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giulia Salemi tempo per #Uominiedonne che amano #libri come\nwww.amazon.it/gp/product/1521291837",
+      "text_cleaned": "Don Matteo Bova Albanese Pellegrini Leclerc Koopmeiners Cobolli Papa Jannik Vaticano Kalulu Elodie Lookman Sinner Cattelan Giulia Salemi tempo per che amano come",
+      "text_preview": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Papa Jannik Vaticano Kalulu Elodie Lookman Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giuli...",
+      "author": "clubgoodbooks.bsky.social",
+      "author_display_name": "GoodBooks",
+      "created_at": "2025-08-05T20:36:30.476Z",
+      "hashtags": "['#FILOROSSO' '#BattitiLive' '#dazi' '#singapore2025' '#Putin' '#libri'\n '#5agosto2025' '#Trump' '#Uominiedonne']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739178",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 290,
+      "text_cleaned_length": 161,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokoqjhmk24",
+      "text": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Vaticano Kalulu Elodie Lookman Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giulia Salemi tempo per #Uominiedonne che amano #libri come\nwww.amazon.it/Tutta-colpa-matrimonio-Adele-Ross/dp/1519040369",
+      "text_cleaned": "Don Matteo Bova Albanese Pellegrini Leclerc Koopmeiners Vaticano Kalulu Elodie Lookman Sinner Cattelan Giulia Salemi tempo per che amano come",
+      "text_preview": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Vaticano Kalulu Elodie Lookman Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giulia Salemi tempo per #...",
+      "author": "clubgoodbooks.bsky.social",
+      "author_display_name": "GoodBooks",
+      "created_at": "2025-08-05T20:35:15.602Z",
+      "hashtags": "['#FILOROSSO' '#BattitiLive' '#dazi' '#singapore2025' '#Putin' '#libri'\n '#5agosto2025' '#Trump' '#Uominiedonne']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739298",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 141,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokwo6mnc24",
+      "text": "#5agosto2025 #LaRuotaDellaFortuna #Sissi Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Jannik Vaticano Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giulia Salemi tempo per #Uominiedonne che amano #libri come\nwww.amazon.it/dp/1079689222",
+      "text_cleaned": "Don Matteo Bova Albanese Pellegrini Leclerc Koopmeiners Cobolli Jannik Vaticano Sinner Cattelan Giulia Salemi tempo per che amano come",
+      "text_preview": "#5agosto2025 #LaRuotaDellaFortuna #Sissi Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Jannik Vaticano Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giul...",
+      "author": "clubgoodbooks.bsky.social",
+      "author_display_name": "GoodBooks",
+      "created_at": "2025-08-05T20:39:41.586Z",
+      "hashtags": "['#LaRuotaDellaFortuna' '#FILOROSSO' '#BattitiLive' '#dazi'\n '#singapore2025' '#Putin' '#libri' '#5agosto2025' '#Sissi' '#Trump'\n '#Uominiedonne']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739110",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 283,
+      "text_cleaned_length": 134,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokuqjqsk24",
+      "text": "#5agosto2025 #LaRuotaDellaFortuna #Sissi Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Jannik Vaticano Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giulia Salemi tempo per #Uominiedonne che amano #libri come\nwww.amazon.it/dp/1688965556",
+      "text_cleaned": "Don Matteo Bova Albanese Pellegrini Leclerc Koopmeiners Cobolli Jannik Vaticano Sinner Cattelan Giulia Salemi tempo per che amano come",
+      "text_preview": "#5agosto2025 #LaRuotaDellaFortuna #Sissi Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Jannik Vaticano Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giul...",
+      "author": "clubgoodbooks.bsky.social",
+      "author_display_name": "GoodBooks",
+      "created_at": "2025-08-05T20:38:36.939Z",
+      "hashtags": "['#LaRuotaDellaFortuna' '#FILOROSSO' '#BattitiLive' '#dazi'\n '#singapore2025' '#Putin' '#libri' '#5agosto2025' '#Sissi' '#Trump'\n '#Uominiedonne']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739128",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 283,
+      "text_cleaned_length": 134,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokth5zgk24",
+      "text": "#5agosto2025 #LaRuotaDellaFortuna #Sissi Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Jannik Vaticano Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giulia Salemi tempo per #Uominiedonne che amano #libri come\nwww.amazon.it/dp/1973233509",
+      "text_cleaned": "Don Matteo Bova Albanese Pellegrini Leclerc Koopmeiners Cobolli Jannik Vaticano Sinner Cattelan Giulia Salemi tempo per che amano come",
+      "text_preview": "#5agosto2025 #LaRuotaDellaFortuna #Sissi Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Jannik Vaticano Sinner #Trump #Putin #dazi #singapore2025 Cattelan Giul...",
+      "author": "clubgoodbooks.bsky.social",
+      "author_display_name": "GoodBooks",
+      "created_at": "2025-08-05T20:37:53.562Z",
+      "hashtags": "['#LaRuotaDellaFortuna' '#FILOROSSO' '#BattitiLive' '#dazi'\n '#singapore2025' '#Putin' '#libri' '#5agosto2025' '#Sissi' '#Trump'\n '#Uominiedonne']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739148",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 283,
+      "text_cleaned_length": 134,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokrnsoxk2d",
+      "text": "What the f*ck is going on and why do I have to ask myself that daily? Why are you on the roof are the White House? Is this real life?\n\n#whitehouse #trump #donaldtrump #wtf #jfc #usa #help",
+      "text_cleaned": "What the f*ck is going on and why do I have to ask myself that daily? Why are you on the roof are the White House? Is this real life?",
+      "text_preview": "What the f*ck is going on and why do I have to ask myself that daily? Why are you on the roof are the White House? Is this real life?\n\n#whitehouse #trump #donaldtrump #wtf #jfc #usa #help",
+      "author": "shelbyconcetta.bsky.social",
+      "author_display_name": "\ud835\udcc8\ud835\udcbd\ud835\udc52\ud835\udcc1\ud835\udcb7\ud835\udcce\u2728",
+      "created_at": "2025-08-05T20:36:53.403Z",
+      "hashtags": "['#help' '#trump' '#wtf' '#whitehouse' '#usa' '#donaldtrump' '#jfc']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739163",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 187,
+      "text_cleaned_length": 133,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoktww4c225",
+      "text": "#tRUMP will just raise US #TAXES.... I mean #TARIFFS, to make We, the People, offset the LOSS tRUMP's creating!!",
+      "text_cleaned": "will just raise US .... I mean , to make We, the People, offset the LOSS tRUMP's creating!!",
+      "text_preview": "#tRUMP will just raise US #TAXES.... I mean #TARIFFS, to make We, the People, offset the LOSS tRUMP's creating!!",
+      "author": "jasontheconner.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T20:38:10.080Z",
+      "hashtags": "['#tRUMP' '#TARIFFS' '#TAXES']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739138",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 112,
+      "text_cleaned_length": 91,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokpyhzok2u",
+      "text": "We need more climate science and green energy, not less\u2026 #trump #climatechange #globalwarming #snowforecast",
+      "text_cleaned": "We need more climate science and green energy, not less\u2026",
+      "text_preview": "We need more climate science and green energy, not less\u2026 #trump #climatechange #globalwarming #snowforecast",
+      "author": "freedomfunnies.bsky.social",
+      "author_display_name": "Freedom Funnies",
+      "created_at": "2025-08-05T20:35:57.488Z",
+      "hashtags": "['#climatechange' '#trump' '#snowforecast' '#globalwarming']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739188",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 107,
+      "text_cleaned_length": 56,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokopkghc26",
+      "text": "#Cuomo a fuckin #corrupt #liar like #Trump absolute #scum Remember the #Godfather #Sollozo",
+      "text_cleaned": "a fuckin like absolute Remember the",
+      "text_preview": "#Cuomo a fuckin #corrupt #liar like #Trump absolute #scum Remember the #Godfather #Sollozo",
+      "author": "pi-qui.bsky.social",
+      "author_display_name": "Pi-Qui Djinn Djinni",
+      "created_at": "2025-08-05T20:35:14.584Z",
+      "hashtags": "['#Sollozo' '#liar' '#Cuomo' '#Trump' '#Godfather' '#corrupt' '#scum']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739306",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 90,
+      "text_cleaned_length": 35,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokrijmfe2n",
+      "text": "\n#nuclear   #nuclear war   #Trump   #war",
+      "text_cleaned": "war",
+      "text_preview": "\n#nuclear   #nuclear war   #Trump   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T20:37:09.028351+00:00",
+      "hashtags": "['#Trump' '#war' '#nuclear']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739155",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 40,
+      "text_cleaned_length": 3,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokqweoco2n",
+      "text": "\n#Congress   #Texas   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Congress   #Texas   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T20:36:49.989300+00:00",
+      "hashtags": "['#Congress' '#Trump' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739170",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 28,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvokp6bl662v",
+      "text": "\n#Trump   #White House",
+      "text_cleaned": "House",
+      "text_preview": "\n#Trump   #White House",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T20:35:51.176749+00:00",
+      "hashtags": "['#White' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:40:03.739202",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:40:10.007000",
+      "text_length": 22,
+      "text_cleaned_length": 5,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
