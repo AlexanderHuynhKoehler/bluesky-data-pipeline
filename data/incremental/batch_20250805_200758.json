@@ -1,0 +1,716 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_200758",
+    "post_count": 26,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 20:00:10.007000",
+    "latest_received_at": "2025-08-05 20:05:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvoiqcvxuc2u",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict pathological liar & racist wannabe dictator, #Trump.\n\nIn 11/26, WE MUST NEVER VOTE 4 #Republicans.\n\nTYVM @tommasinaresist.bsky.social\n\n#BlueCrew\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict pathological liar & racist wannabe dictator, . In 11/26, WE MUST NEVER VOTE 4 . TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict pathological liar & racist wannabe dictator, #Trump.\n\nIn 11/26, WE MUST NEV...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-05T20:00:20.946Z",
+      "hashtags": "['#Change' '#TRUTHSOCIAL' '#Congress' '#Trump' '#BlueCrew' '#Republicans']",
+      "mentions": "['@tommasinaresist.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783800",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 192,
+      "hashtag_count": 6,
+      "mention_count": 1,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvoisp6qe22q",
+      "text": "He\u2019s building something \u201cbeautiful\u201d on the roof of the Whitehouse now???\n\nHe thinks that if he says he\u2019s paying for it, he can do any alteration to the Whitehouse and to the grounds that he feels like doing.\n\nDid we (the American people) sign over the deed to the Whitehouse? \n\n#Trump",
+      "text_cleaned": "He\u2019s building something \u201cbeautiful\u201d on the roof of the Whitehouse now??? He thinks that if he says he\u2019s paying for it, he can do any alteration to the Whitehouse and to the grounds that he feels like doing. Did we (the American people) sign over the deed to the Whitehouse?",
+      "text_preview": "He\u2019s building something \u201cbeautiful\u201d on the roof of the Whitehouse now???\n\nHe thinks that if he says he\u2019s paying for it, he can do any alteration to the Whitehouse and to the grounds that he feels like...",
+      "author": "thetd.bsky.social",
+      "author_display_name": "1500% OFF",
+      "created_at": "2025-08-05T20:01:40.936Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783779",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 284,
+      "text_cleaned_length": 273,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoiuoiogk2s",
+      "text": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Zeudi McLaren Jannik Vaticano  Eurospin Kalulu Elodie Lookman Sinner #Trump #Putin #dazi #Singapore2025\ud83d\udcf7\ud83d\udcf7\ud83d\udcf7#uominiedonne che amano #libri come\nwww.linkedin.com/feed/update/urn:li:activity:7347543223352856576/",
+      "text_cleaned": "Don Matteo Bova Albanese Pellegrini Leclerc Koopmeiners Zeudi McLaren Jannik Vaticano Eurospin Kalulu Elodie Lookman Sinner \ud83d\udcf7\ud83d\udcf7\ud83d\udcf7 che amano come",
+      "text_preview": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Zeudi McLaren Jannik Vaticano  Eurospin Kalulu Elodie Lookman Sinner #Trump #Putin #dazi #Singapore2025\ud83d\udcf7\ud83d\udcf7\ud83d\udcf7#...",
+      "author": "clubgoodbooks.bsky.social",
+      "author_display_name": "GoodBooks",
+      "created_at": "2025-08-05T20:02:47.322Z",
+      "hashtags": "['#libri' '#dazi' '#FILOROSSO' '#BattitiLive' '#uominiedonne' '#Putin'\n '#5agosto2025' '#Trump' '#Singapore2025']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783763",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 142,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoipuoaox2z",
+      "text": "\u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis The constitutional doomsday clock is ticking.... The post \u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis appeared first on Above the Law . \n\nInterest | Match | Feed",
+      "text_cleaned": "\u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis The constitutional doomsday clock is ticking.... The post \u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis appeared first on Above the Law . Interest | Match | Feed",
+      "text_preview": "\u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis The constitutional doomsday clock is ticking.... The post \u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisi...",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T20:00:05Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783821",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 261,
+      "text_cleaned_length": 259,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoiqcgiqk2s",
+      "text": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Papa Zeudi McLaren Jannik Vaticano Elodie Lookman Sinner #Trump #Putin #dazi #Singapore2025\ud83d\udcf7\ud83d\udcf7\ud83d\udcf7#uominiedonne che amano #libri come\nwww.linkedin.com/feed/update/urn:li:activity:7323988920944279553/",
+      "text_cleaned": "Don Matteo Bova Albanese Pellegrini Leclerc Koopmeiners Cobolli Papa Zeudi McLaren Jannik Vaticano Elodie Lookman Sinner \ud83d\udcf7\ud83d\udcf7\ud83d\udcf7 che amano come",
+      "text_preview": "#5agosto2025 Don Matteo Bova Albanese Pellegrini #BattitiLive #FILOROSSO Leclerc Koopmeiners Cobolli Papa Zeudi McLaren Jannik Vaticano Elodie Lookman Sinner #Trump #Putin #dazi #Singapore2025\ud83d\udcf7\ud83d\udcf7\ud83d\udcf7#uomi...",
+      "author": "clubgoodbooks.bsky.social",
+      "author_display_name": "GoodBooks",
+      "created_at": "2025-08-05T20:00:20.450Z",
+      "hashtags": "['#libri' '#dazi' '#FILOROSSO' '#BattitiLive' '#uominiedonne' '#Putin'\n '#5agosto2025' '#Trump' '#Singapore2025']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783814",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 139,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoisf6ge22j",
+      "text": "It is imperative that Illinois' elected officials support the \"Stop Al Price Gouging and Wage Fixing Act of 2025\" to prevent corporations from using artificial intelligence to exploit the American people.\n\n#USPOL #AI #economy",
+      "text_cleaned": "It is imperative that Illinois' elected officials support the \"Stop Al Price Gouging and Wage Fixing Act of 2025\" to prevent corporations from using artificial intelligence to exploit the American people.",
+      "text_preview": "It is imperative that Illinois' elected officials support the \"Stop Al Price Gouging and Wage Fixing Act of 2025\" to prevent corporations from using artificial intelligence to exploit the American peo...",
+      "author": "dylanthomasblaha.bsky.social",
+      "author_display_name": "Dylan Blaha",
+      "created_at": "2025-08-05T20:01:30.434Z",
+      "hashtags": "['#economy' '#USPOL' '#AI']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783499",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 225,
+      "text_cleaned_length": 204,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoiy7ysx22y",
+      "text": "\ud835\uddd7\ud835\udde2\ud835\udde1\ud835\uddd4\ud835\udddf\ud835\uddd7 \ud835\udde7\ud835\udde5\ud835\udde8\ud835\udde0\ud835\udde3 \ud835\udddc \ud835\uddd4\ud835\udde0 \ud835\uddec\ud835\udde2\ud835\udde8\ud835\udde5 \ud835\uddda\ud835\udde2\ud835\uddd7. \ud835\udde6\ud835\udddb\ud835\udde2\ud835\uddea \ud835\udde8\ud835\udde6 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\udddf\ud835\udddc\ud835\udde6\ud835\udde7!\n\n#JeffreyEpstein #trump #jdvance #gop #felon47",
+      "text_cleaned": "\ud835\uddd7\ud835\udde2\ud835\udde1\ud835\uddd4\ud835\udddf\ud835\uddd7 \ud835\udde7\ud835\udde5\ud835\udde8\ud835\udde0\ud835\udde3 \ud835\udddc \ud835\uddd4\ud835\udde0 \ud835\uddec\ud835\udde2\ud835\udde8\ud835\udde5 \ud835\uddda\ud835\udde2\ud835\uddd7. \ud835\udde6\ud835\udddb\ud835\udde2\ud835\uddea \ud835\udde8\ud835\udde6 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\udddf\ud835\udddc\ud835\udde6\ud835\udde7!",
+      "text_preview": "\ud835\uddd7\ud835\udde2\ud835\udde1\ud835\uddd4\ud835\udddf\ud835\uddd7 \ud835\udde7\ud835\udde5\ud835\udde8\ud835\udde0\ud835\udde3 \ud835\udddc \ud835\uddd4\ud835\udde0 \ud835\uddec\ud835\udde2\ud835\udde8\ud835\udde5 \ud835\uddda\ud835\udde2\ud835\uddd7. \ud835\udde6\ud835\udddb\ud835\udde2\ud835\uddea \ud835\udde8\ud835\udde6 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\udddf\ud835\udddc\ud835\udde6\ud835\udde7!\n\n#JeffreyEpstein #trump #jdvance #gop #felon47",
+      "author": "alanroseca.bsky.social",
+      "author_display_name": "Alan \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-05T20:04:46.330Z",
+      "hashtags": "['#JeffreyEpstein' '#felon47' '#gop' '#jdvance' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783723",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 92,
+      "text_cleaned_length": 45,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoivbpsys2u",
+      "text": "Honestly, I\u2019m waiting for a clip of the first journalist to lose their damn mind at a Republican lawmaker.\n\nI hope to see a raised voice, and a well-wielded fist.\n#trump #maga",
+      "text_cleaned": "Honestly, I\u2019m waiting for a clip of the first journalist to lose their damn mind at a Republican lawmaker. I hope to see a raised voice, and a well-wielded fist.",
+      "text_preview": "Honestly, I\u2019m waiting for a clip of the first journalist to lose their damn mind at a Republican lawmaker.\n\nI hope to see a raised voice, and a well-wielded fist.\n#trump #maga",
+      "author": "nikolai-raven.bsky.social",
+      "author_display_name": "Nikolai Raven",
+      "created_at": "2025-08-05T20:03:07.479Z",
+      "hashtags": "['#trump' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783739",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 175,
+      "text_cleaned_length": 161,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoirhwxwc2u",
+      "text": "\n#Belarus   #Ceasefire   #EU   #foreign policy   #Invasion   #Lithuania   #NATO   #Putin   #Trump   #Ukraine   #Zelenskyy",
+      "text_cleaned": "policy",
+      "text_preview": "\n#Belarus   #Ceasefire   #EU   #foreign policy   #Invasion   #Lithuania   #NATO   #Putin   #Trump   #Ukraine   #Zelenskyy",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-05T20:01:20.908428+00:00",
+      "hashtags": "['#Invasion' '#Lithuania' '#NATO' '#foreign' '#Zelenskyy' '#Ceasefire'\n '#Putin' '#Trump' '#Ukraine' '#EU' '#Belarus']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783788",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 121,
+      "text_cleaned_length": 6,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoiuk5r4k2c",
+      "text": "Trump on.  The reporters yelled \u201cMr. President why are you on the roof?!?\u201d\n#MAGA #TRUMP",
+      "text_cleaned": "Trump on. The reporters yelled \u201cMr. President why are you on the roof?!?\u201d",
+      "text_preview": "Trump on.  The reporters yelled \u201cMr. President why are you on the roof?!?\u201d\n#MAGA #TRUMP",
+      "author": "bibbybibi.bsky.social",
+      "author_display_name": "BibbyBibi the MAGA furry",
+      "created_at": "2025-08-05T20:02:42.761Z",
+      "hashtags": "['#TRUMP' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783772",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 87,
+      "text_cleaned_length": 73,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoiv4fayk2g",
+      "text": "\"I never had the privilege to go to the island\" - #Trump #Pedo #Maxwell #Predator ##Little #girls #teens",
+      "text_cleaned": "\"I never had the privilege to go to the island\" - #",
+      "text_preview": "\"I never had the privilege to go to the island\" - #Trump #Pedo #Maxwell #Predator ##Little #girls #teens",
+      "author": "daybyday4ever.bsky.social",
+      "author_display_name": "Dan",
+      "created_at": "2025-08-05T20:03:01.889Z",
+      "hashtags": "['#Pedo' '#Predator' '#girls' '#Maxwell' '#Trump' '#teens' '#Little']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783752",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 104,
+      "text_cleaned_length": 51,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvoixld54k2m",
+      "text": "#Trump #NewPope #Vatican #3Conditions #HolySee #DismissVance \n\nwww.facebook.com/share/v/19mC...",
+      "text_cleaned": "",
+      "text_preview": "#Trump #NewPope #Vatican #3Conditions #HolySee #DismissVance \n\nwww.facebook.com/share/v/19mC...",
+      "author": "jezzabeauc.bsky.social",
+      "author_display_name": "JezzabeauC #GazaGenocide",
+      "created_at": "2025-08-05T20:04:24.658Z",
+      "hashtags": "['#HolySee' '#Vatican' '#DismissVance' '#Trump' '#NewPope' '#3Conditions']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783731",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 95,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoivqrbas23",
+      "text": "#TariffsAreTaxes\n#Economy\n#GroundNews",
+      "text_cleaned": "",
+      "text_preview": "#TariffsAreTaxes\n#Economy\n#GroundNews",
+      "author": "howsthepriceofeggs.bsky.social",
+      "author_display_name": "JBInCA",
+      "created_at": "2025-08-05T20:03:23.250Z",
+      "hashtags": "['#GroundNews' '#TariffsAreTaxes' '#Economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:05:03.783482",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:05:10.006000",
+      "text_length": 37,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoilam2lk32",
+      "text": "En desesperaci\u00f3n por los brutales #aranceles del Donald\u2122 (\u00a139%!) #Suiza\ud83c\udde8\ud83c\udded manda a dos (de siete) consejeros federales a Washington a ver lo que pueden sacar.\n\nComo sea #Trump el que consiga lo que nadie ha conseguido en 75 a\u00f1os de historia \u2014meter a Suiza en la #Uni\u00f3nEuropea\ud83c\uddea\ud83c\uddfa\u2014 me voy a re\u00edr muy [\u2026]",
+      "text_cleaned": "En desesperaci\u00f3n por los brutales del Donald\u2122 (\u00a139%!) \ud83c\udde8\ud83c\udded manda a dos (de siete) consejeros federales a Washington a ver lo que pueden sacar. Como sea el que consiga lo que nadie ha conseguido en 75 a\u00f1os de historia \u2014meter a Suiza en la \ud83c\uddea\ud83c\uddfa\u2014 me voy a re\u00edr muy [\u2026]",
+      "text_preview": "En desesperaci\u00f3n por los brutales #aranceles del Donald\u2122 (\u00a139%!) #Suiza\ud83c\udde8\ud83c\udded manda a dos (de siete) consejeros federales a Washington a ver lo que pueden sacar.\n\nComo sea #Trump el que consiga lo que nad...",
+      "author": "tferrer.journa.host.ap.brid.gy",
+      "author_display_name": "Thiago Ferrer Morini",
+      "created_at": "2025-08-05T19:57:17.000Z",
+      "hashtags": "['#aranceles' '#Suiza' '#Uni\u00f3nEuropea' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392871",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 261,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 5.0
+    },
+    {
+      "post_id": "3lvoikfs5ns2c",
+      "text": "#Trump often behaves in an immature manner, almost like a child. It seems he has too much free time while in office. Imagine if Clinton, Barack Obama, or Biden acted this way? People would be discussing cognitive decline. However, because Trump is a #Republican, the media acts like this is normal.",
+      "text_cleaned": "often behaves in an immature manner, almost like a child. It seems he has too much free time while in office. Imagine if Clinton, Barack Obama, or Biden acted this way? People would be discussing cognitive decline. However, because Trump is a , the media acts like this is normal.",
+      "text_preview": "#Trump often behaves in an immature manner, almost like a child. It seems he has too much free time while in office. Imagine if Clinton, Barack Obama, or Biden acted this way? People would be discussi...",
+      "author": "rollingjoe.bsky.social",
+      "author_display_name": "Joe LaBeLLe",
+      "created_at": "2025-08-05T19:57:02.651Z",
+      "hashtags": "['#Republican' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392880",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 280,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoijo5vhk2f",
+      "text": "Why is it so easy for #Trump to lie? I know he done it his whole life, but amazing the amount of people who believes everything he says. Please listen, when it sounds like bullshit, it is bullshit. \n\nStop letting #Trump playing you. I mean he already taken so much of #MAGA money!",
+      "text_cleaned": "Why is it so easy for to lie? I know he done it his whole life, but amazing the amount of people who believes everything he says. Please listen, when it sounds like bullshit, it is bullshit. Stop letting playing you. I mean he already taken so much of money!",
+      "text_preview": "Why is it so easy for #Trump to lie? I know he done it his whole life, but amazing the amount of people who believes everything he says. Please listen, when it sounds like bullshit, it is bullshit. \n\n...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-05T19:56:37.870Z",
+      "hashtags": "['#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392897",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 280,
+      "text_cleaned_length": 258,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoimpgsqk2i",
+      "text": "Just to be clear.\n\nRight Wing #SCOTUS Justices and #Republicans have placed the Rantings of a #MadMan above a Functional Country.\n\nEven when #Trump dies...no matter when... REPUBLICANS SUPPORTED ALLLLLLLLLLLLLLLL OF THIS!!!!\n\n#NeverForget #RepublicansSupportedTrump",
+      "text_cleaned": "Just to be clear. Right Wing Justices and have placed the Rantings of a above a Functional Country. Even when dies...no matter when... REPUBLICANS SUPPORTED ALLLLLLLLLLLLLLLL OF THIS!!!!",
+      "text_preview": "Just to be clear.\n\nRight Wing #SCOTUS Justices and #Republicans have placed the Rantings of a #MadMan above a Functional Country.\n\nEven when #Trump dies...no matter when... REPUBLICANS SUPPORTED ALLLL...",
+      "author": "theadhdoverlord.bsky.social",
+      "author_display_name": "TheADHDOverlord",
+      "created_at": "2025-08-05T19:58:19.874Z",
+      "hashtags": "['#MadMan' '#Republicans' '#SCOTUS' '#RepublicansSupportedTrump'\n '#NeverForget' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392853",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 265,
+      "text_cleaned_length": 186,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoimdrndk2t",
+      "text": "Gestapo.\n\u201cThen they pulled out my reporter\u2019s notebook, and really spent a long time on it, flipping the pages and reading it and passing it back and forth to each other.\u201d\n#trump #maga #fascist #gop #republicans\npressfreedomtracker.us/all-incident...",
+      "text_cleaned": "Gestapo. \u201cThen they pulled out my reporter\u2019s notebook, and really spent a long time on it, flipping the pages and reading it and passing it back and forth to each other.\u201d pressfreedomtracker.us/all-incident...",
+      "text_preview": "Gestapo.\n\u201cThen they pulled out my reporter\u2019s notebook, and really spent a long time on it, flipping the pages and reading it and passing it back and forth to each other.\u201d\n#trump #maga #fascist #gop #r...",
+      "author": "lpspratt.bsky.social",
+      "author_display_name": "Lou Pratt",
+      "created_at": "2025-08-05T19:58:07.646Z",
+      "hashtags": "['#republicans' '#fascist' '#maga' '#trump' '#gop']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392862",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 249,
+      "text_cleaned_length": 209,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoinrjmyk24",
+      "text": "Former Trump appoint head of the U.S. Bureau of Labor Statistics, & an Ivy League economist say Trump\u2019s claim U.S. job data report is rigged is total BS\n\n#Trump #TrumpIsAShamelessBrazenLiar\n\nwww.science.org/content/arti...",
+      "text_cleaned": "Former Trump appoint head of the U.S. Bureau of Labor Statistics, & an Ivy League economist say Trump\u2019s claim U.S. job data report is rigged is total BS",
+      "text_preview": "Former Trump appoint head of the U.S. Bureau of Labor Statistics, & an Ivy League economist say Trump\u2019s claim U.S. job data report is rigged is total BS\n\n#Trump #TrumpIsAShamelessBrazenLiar\n\nwww.scien...",
+      "author": "charliesaito22.bsky.social",
+      "author_display_name": "Chris Nagano",
+      "created_at": "2025-08-05T19:58:55.617Z",
+      "hashtags": "['#TrumpIsAShamelessBrazenLiar' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392829",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 222,
+      "text_cleaned_length": 152,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoik7bwl22f",
+      "text": "\ud83d\udea8\u26a1 WALMART FLASH SALE! \ud83d\udcb8 Shop FAST \u2014 Deals Won\u2019t Last! \ud83d\uded2\ud83d\udd25\nmavely.app.link/e/gfWpmViQAVb \n\n#art #bb27 #Beyondthegates #GOP #TheArchers #Trump #dax18 #Filmsky #oc #gamedev",
+      "text_cleaned": "\ud83d\udea8\u26a1 WALMART FLASH SALE! \ud83d\udcb8 Shop FAST \u2014 Deals Won\u2019t Last! \ud83d\uded2\ud83d\udd25 mavely.app.link/e/gfWpmViQAVb",
+      "text_preview": "\ud83d\udea8\u26a1 WALMART FLASH SALE! \ud83d\udcb8 Shop FAST \u2014 Deals Won\u2019t Last! \ud83d\uded2\ud83d\udd25\nmavely.app.link/e/gfWpmViQAVb \n\n#art #bb27 #Beyondthegates #GOP #TheArchers #Trump #dax18 #Filmsky #oc #gamedev",
+      "author": "thedealfairy.bsky.social",
+      "author_display_name": "The Deal Fairy",
+      "created_at": "2025-08-05T19:56:55.775Z",
+      "hashtags": "['#bb27' '#GOP' '#Filmsky' '#TheArchers' '#Beyondthegates' '#art' '#dax18'\n '#gamedev' '#oc' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 4,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392890",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 169,
+      "text_cleaned_length": 87,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 5.5
+    },
+    {
+      "post_id": "3lvoijh4rec2s",
+      "text": "Good Gawd, these #MAGA on #truthsocial are seriously pathetic. \n#ReleaseTheEpsteinFiles \n#Truth \n#Trump\n\ntruthsocial.com/@dowjfq90m",
+      "text_cleaned": "Good Gawd, these on are seriously pathetic. truthsocial.com/",
+      "text_preview": "Good Gawd, these #MAGA on #truthsocial are seriously pathetic. \n#ReleaseTheEpsteinFiles \n#Truth \n#Trump\n\ntruthsocial.com/@dowjfq90m",
+      "author": "alwayslistening01.bsky.social",
+      "author_display_name": "Mike in Florida\ud83d\udc99",
+      "created_at": "2025-08-05T19:56:30.493Z",
+      "hashtags": "['#MAGA' '#ReleaseTheEpsteinFiles' '#Truth' '#truthsocial' '#Trump']",
+      "mentions": "['@dowjfq90m']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392909",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 131,
+      "text_cleaned_length": 60,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoimvddx22b",
+      "text": "TSA PSA is asking too much of Americans under Trump\u2019s reign of authoritarian terror. #trump #tsa #ice",
+      "text_cleaned": "TSA PSA is asking too much of Americans under Trump\u2019s reign of authoritarian terror.",
+      "text_preview": "TSA PSA is asking too much of Americans under Trump\u2019s reign of authoritarian terror. #trump #tsa #ice",
+      "author": "freedomfunnies.bsky.social",
+      "author_display_name": "Freedom Funnies",
+      "created_at": "2025-08-05T19:58:26.043Z",
+      "hashtags": "['#ice' '#trump' '#tsa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392845",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 101,
+      "text_cleaned_length": 84,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoip7alda27",
+      "text": "Pentagon joins 'great jeans' discourse with Hegseth photo\n#Trump",
+      "text_cleaned": "Pentagon joins 'great jeans' discourse with Hegseth photo",
+      "text_preview": "Pentagon joins 'great jeans' discourse with Hegseth photo\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T19:59:43.162Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392815",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 64,
+      "text_cleaned_length": 57,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoip6s25e2l",
+      "text": "Whitmer meets with Trump to discuss tariff impacts\n#Trump",
+      "text_cleaned": "Whitmer meets with Trump to discuss tariff impacts",
+      "text_preview": "Whitmer meets with Trump to discuss tariff impacts\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T19:59:42.721Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392821",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 57,
+      "text_cleaned_length": 50,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoimyh4dc23",
+      "text": "#Trump = de ondergang van de Westerse beschaving !",
+      "text_cleaned": "= de ondergang van de Westerse beschaving !",
+      "text_preview": "#Trump = de ondergang van de Westerse beschaving !",
+      "author": "watvindikervan.bsky.social",
+      "author_display_name": "Mario Deerenberg",
+      "created_at": "2025-08-05T19:58:29.321Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392836",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 50,
+      "text_cleaned_length": 43,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoihrcmxk2c",
+      "text": "#MAGA #SPACEFORCE #TRUMP #MGS #MGSV #KATYPERRY",
+      "text_cleaned": "",
+      "text_preview": "#MAGA #SPACEFORCE #TRUMP #MGS #MGSV #KATYPERRY",
+      "author": "bibbybibi.bsky.social",
+      "author_display_name": "BibbyBibi the MAGA furry",
+      "created_at": "2025-08-05T19:55:34.050Z",
+      "hashtags": "['#KATYPERRY' '#MGS' '#SPACEFORCE' '#TRUMP' '#MGSV' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T20:00:04.392917",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 20:00:10.007000",
+      "text_length": 46,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
