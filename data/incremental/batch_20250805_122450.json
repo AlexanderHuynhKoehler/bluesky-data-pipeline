@@ -1,0 +1,635 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_122450",
+    "post_count": 23,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 12:15:10.007000",
+    "latest_received_at": "2025-08-05 12:20:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvnotc25ec24",
+      "text": "\u201cToday #Trump quietly backed away from his demand for Murdoch\u2019s #deposition, and both sides put off discovery\u2014the process of disclosing information and evidence to the other party\u2014at least until after the motion to dismiss has been decided\u201d heathercoxrichardson.substack.com/p/august-4-2...",
+      "text_cleaned": "\u201cToday quietly backed away from his demand for Murdoch\u2019s , and both sides put off discovery\u2014the process of disclosing information and evidence to the other party\u2014at least until after the motion to dismiss has been decided\u201d heathercoxrichardson.substack.com/p/august-4-2...",
+      "text_preview": "\u201cToday #Trump quietly backed away from his demand for Murdoch\u2019s #deposition, and both sides put off discovery\u2014the process of disclosing information and evidence to the other party\u2014at least until after...",
+      "author": "dbcurren.bsky.social",
+      "author_display_name": "Don Curren \ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-05T12:16:43.421Z",
+      "hashtags": "['#deposition' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633679",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 290,
+      "text_cleaned_length": 272,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnouqz6222v",
+      "text": "Charlamagne Tha God Rips President Trump for Lying About U.S. Economy\n\nCharlamagne Tha God and Donald Trump are the headliners of the latest big media battle following his interview with Lara Trump ... resulting in the President being slapped with \"Donkey of the Day\" on \"The Br\u2026\n\n#media #news #trump",
+      "text_cleaned": "Charlamagne Tha God Rips President Trump for Lying About U.S. Economy Charlamagne Tha God and Donald Trump are the headliners of the latest big media battle following his interview with Lara Trump ... resulting in the President being slapped with \"Donkey of the Day\" on \"The Br\u2026",
+      "text_preview": "Charlamagne Tha God Rips President Trump for Lying About U.S. Economy\n\nCharlamagne Tha God and Donald Trump are the headliners of the latest big media battle following his interview with Lara Trump .....",
+      "author": "media-news.at.thenote.app",
+      "author_display_name": "Media News",
+      "created_at": "2025-08-05T12:17:32.325Z",
+      "hashtags": "['#media' '#trump' '#news']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633657",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 278,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnotoznwbl2",
+      "text": "A retired Israeli Major General on why he signed a letter to President Trump : NPR audio\n\n\u201cHundreds of former Israeli military officials are demanding an end to the war in #Gaza.\n\n#NPR's Leila Fadel asks retired Maj. Gen. Amos Yadlin why he signed a letter to President #Trump.\u201d [\u2026]",
+      "text_cleaned": "A retired Israeli Major General on why he signed a letter to President Trump : NPR audio \u201cHundreds of former Israeli military officials are demanding an end to the war in . 's Leila Fadel asks retired Maj. Gen. Amos Yadlin why he signed a letter to President .\u201d [\u2026]",
+      "text_preview": "A retired Israeli Major General on why he signed a letter to President Trump : NPR audio\n\n\u201cHundreds of former Israeli military officials are demanding an end to the war in #Gaza.\n\n#NPR's Leila Fadel a...",
+      "author": "annaanthro.mastodon.social.ap.brid.gy",
+      "author_display_name": "AnnaAnthro",
+      "created_at": "2025-08-05T12:16:36.000Z",
+      "hashtags": "['#NPR' '#Trump' '#Gaza']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633687",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 282,
+      "text_cleaned_length": 265,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnoxgwpfc2m",
+      "text": "Diesen Sozi respektiere ich: \"Wenn ein amtierender Pr\u00e4sident ( #Trump), zumal der Partner in einem gemeinsamen Milit\u00e4rb\u00fcndnis, dar\u00fcber in der \u00d6ffentlichkeit d\u00fcmmlich spricht, dann h\u00e4tte ich deutlichen Widerspruch aus der Bundesregierung erwartet\", sagt #M\u00fctzenich.\n\nwww.spiegel.de/politik/deut...",
+      "text_cleaned": "Diesen Sozi respektiere ich: \"Wenn ein amtierender Pr\u00e4sident ( ), zumal der Partner in einem gemeinsamen Milit\u00e4rb\u00fcndnis, dar\u00fcber in der \u00d6ffentlichkeit d\u00fcmmlich spricht, dann h\u00e4tte ich deutlichen Widerspruch aus der Bundesregierung erwartet\", sagt .",
+      "text_preview": "Diesen Sozi respektiere ich: \"Wenn ein amtierender Pr\u00e4sident ( #Trump), zumal der Partner in einem gemeinsamen Milit\u00e4rb\u00fcndnis, dar\u00fcber in der \u00d6ffentlichkeit d\u00fcmmlich spricht, dann h\u00e4tte ich deutlichen...",
+      "author": "varoufakis.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T12:19:02.767Z",
+      "hashtags": "['#M\u00fctzenich' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633642",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 248,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnospzo3s2a",
+      "text": "After President Donald Trump threatens to \u201csubstantially\u201d raise tariffs on India if it continues to buy Russian oil, Indian stocks dropped, but not \u201csubstantially\u201d. \nBravo, #India. \n#EconSky #tariffs #Trump",
+      "text_cleaned": "After President Donald Trump threatens to \u201csubstantially\u201d raise tariffs on India if it continues to buy Russian oil, Indian stocks dropped, but not \u201csubstantially\u201d. Bravo, .",
+      "text_preview": "After President Donald Trump threatens to \u201csubstantially\u201d raise tariffs on India if it continues to buy Russian oil, Indian stocks dropped, but not \u201csubstantially\u201d. \nBravo, #India. \n#EconSky #tariffs ...",
+      "author": "china-biz-buzz.bsky.social",
+      "author_display_name": "China Biz Buzz",
+      "created_at": "2025-08-05T12:16:24.531Z",
+      "hashtags": "['#EconSky' '#Trump' '#tariffs' '#India']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633694",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 206,
+      "text_cleaned_length": 173,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnosjrwik2a",
+      "text": "#Trump #AmericanEagle\n\nLet's just say if there is (and there is) any Trump or #MAGA stench on the American Eagle brand this fall, I will not buy any of their clothing. \n\nMy fall/autumn online shopping research just excluded #AE.",
+      "text_cleaned": "Let's just say if there is (and there is) any Trump or stench on the American Eagle brand this fall, I will not buy any of their clothing. My fall/autumn online shopping research just excluded .",
+      "text_preview": "#Trump #AmericanEagle\n\nLet's just say if there is (and there is) any Trump or #MAGA stench on the American Eagle brand this fall, I will not buy any of their clothing. \n\nMy fall/autumn online shopping...",
+      "author": "knottop.bsky.social",
+      "author_display_name": "TopKnot",
+      "created_at": "2025-08-05T12:16:17.986Z",
+      "hashtags": "['#AmericanEagle' '#Trump' '#AE' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633702",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 228,
+      "text_cleaned_length": 194,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnou3t3sc2r",
+      "text": "'The Trump Justice Department is embroiled in a corporate coup attempt, exposing major rifts within the GOP coalition and a rampant culture of pay-to-play corruption.' \n\n#Trump #GOP #cronyism #corruption",
+      "text_cleaned": "'The Trump Justice Department is embroiled in a corporate coup attempt, exposing major rifts within the GOP coalition and a rampant culture of pay-to-play corruption.'",
+      "text_preview": "'The Trump Justice Department is embroiled in a corporate coup attempt, exposing major rifts within the GOP coalition and a rampant culture of pay-to-play corruption.' \n\n#Trump #GOP #cronyism #corrupt...",
+      "author": "cryearth.bsky.social",
+      "author_display_name": "Cry for the Earth",
+      "created_at": "2025-08-05T12:17:10.454Z",
+      "hashtags": "['#corruption' '#Trump' '#GOP' '#cronyism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633671",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 203,
+      "text_cleaned_length": 167,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnowt3iak2v",
+      "text": "Dumb dictator is at it again. Shouldn\u2019t every democracy or capitalism loving American divest from this stock market to end this charade now?  \n\n#market #economy #stocks #freedom\n apple.news/A510EZS0-TGq...",
+      "text_cleaned": "Dumb dictator is at it again. Shouldn\u2019t every democracy or capitalism loving American divest from this stock market to end this charade now? apple.news/A510EZS0-TGq...",
+      "text_preview": "Dumb dictator is at it again. Shouldn\u2019t every democracy or capitalism loving American divest from this stock market to end this charade now?  \n\n#market #economy #stocks #freedom\n apple.news/A510EZS0-T...",
+      "author": "so-say.bsky.social",
+      "author_display_name": "Just.saying",
+      "created_at": "2025-08-05T12:18:41.954Z",
+      "hashtags": "['#economy' '#stocks' '#market' '#freedom']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633356",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 205,
+      "text_cleaned_length": 167,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnoqn22fc2i",
+      "text": "#Trump attacks 'woke' #Jaguar as firm names new boss\n\n#TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsmells #terrorism #ArrestTrumpNow #RussianAsset #boycottAmericanproducts #BoycottUSProducts #BoycottUSA \n\nwww.bbc.com/news/article...",
+      "text_cleaned": "attacks 'woke' as firm names new boss",
+      "text_preview": "#Trump attacks 'woke' #Jaguar as firm names new boss\n\n#TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsmells #terrorism #ArrestTrumpNow #RussianAss...",
+      "author": "oden-gjallarhornet.bsky.social",
+      "author_display_name": "Oden",
+      "created_at": "2025-08-05T12:15:14.290Z",
+      "hashtags": "['#BoycottUSA' '#RussianAsset' '#Russia' '#boycottAmericanproducts'\n '#TrumpFascist' '#terrorism' '#ArrestTrumpNow' '#TrumpRacist'\n '#TrumpLies' '#donaldtrump' '#Fascism' '#Trump' '#TrumpTraitor'\n '#BoycottUSProducts' '#Trumpsmells' '#Jaguar' '#TrumpRapist']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633722",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 288,
+      "text_cleaned_length": 37,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnoq7pfpm2e",
+      "text": "Texas Democrat: Trump 'demanding' allies 'rig' midterms for him\n#Trump",
+      "text_cleaned": "Texas Democrat: Trump 'demanding' allies 'rig' midterms for him",
+      "text_preview": "Texas Democrat: Trump 'demanding' allies 'rig' midterms for him\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T12:14:59.861Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633728",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 70,
+      "text_cleaned_length": 63,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnoqrdbyk2s",
+      "text": "Anyone know if we bought Greenland yet? #trump #potus #threats #droppedstories",
+      "text_cleaned": "Anyone know if we bought Greenland yet?",
+      "text_preview": "Anyone know if we bought Greenland yet? #trump #potus #threats #droppedstories",
+      "author": "kads12.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T12:15:18.787Z",
+      "hashtags": "['#threats' '#potus' '#trump' '#droppedstories']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633708",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 78,
+      "text_cleaned_length": 39,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnotsw4ff26",
+      "text": "\n#Ermittlungen   #Pam Bondi   #Sonderermittler   #Trump",
+      "text_cleaned": "Bondi",
+      "text_preview": "\n#Ermittlungen   #Pam Bondi   #Sonderermittler   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T12:17:22.589258+00:00",
+      "hashtags": "['#Ermittlungen' '#Trump' '#Pam' '#Sonderermittler']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633664",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 55,
+      "text_cleaned_length": 5,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnovwlhbg2y",
+      "text": "\n#Angriff   #Bern   #Regierung   #Trump   #Z\u00f6lle",
+      "text_cleaned": "",
+      "text_preview": "\n#Angriff   #Bern   #Regierung   #Trump   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T12:18:33.541972+00:00",
+      "hashtags": "['#Z\u00f6lle' '#Regierung' '#Angriff' '#Trump' '#Bern']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:20:03.633649",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:20:10.007000",
+      "text_length": 48,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnol6ydwc2o",
+      "text": "Ladies and gentlemen, #trump, the current #felon oval office occupant of the United States of America. #maga @joyannreid.bsky.social @donlemonofficial.bsky.social @rolandsmartin.bsky.social @maddow.msnbc.com\n@weeknightmsnbc.bsky.social @lawrenceodonnell.msnbc.com @nicollewallace.bsky.social\n@cnn.com",
+      "text_cleaned": "Ladies and gentlemen, , the current oval office occupant of the United States of America. .bsky.social .bsky.social .bsky.social .msnbc.com .bsky.social .msnbc.com .bsky.social .com",
+      "text_preview": "Ladies and gentlemen, #trump, the current #felon oval office occupant of the United States of America. #maga @joyannreid.bsky.social @donlemonofficial.bsky.social @rolandsmartin.bsky.social @maddow.ms...",
+      "author": "libertyisfreedom.bsky.social",
+      "author_display_name": "Truth Wins",
+      "created_at": "2025-08-05T12:12:11.760Z",
+      "hashtags": "['#felon' '#maga' '#trump']",
+      "mentions": "['@cnn.com' '@joyannreid.bsky.social' '@nicollewallace.bsky.social'\n '@rolandsmartin.bsky.social' '@donlemonofficial.bsky.social'\n '@maddow.msnbc.com' '@lawrenceodonnell.msnbc.com'\n '@weeknightmsnbc.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713543",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 181,
+      "hashtag_count": 3,
+      "mention_count": 8,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnoowp2wk2i",
+      "text": "#Texas #Republicans vote to arrest #Democrats in stalled redistricting vote \n\n#Trump #TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsmells #terrorism #ArrestTrumpNow #RussianAsset #TrumpStinks \n\nwww.bbc.com/news/article...",
+      "text_cleaned": "vote to arrest in stalled redistricting vote",
+      "text_preview": "#Texas #Republicans vote to arrest #Democrats in stalled redistricting vote \n\n#Trump #TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsmells #terror...",
+      "author": "oden-gjallarhornet.bsky.social",
+      "author_display_name": "Oden",
+      "created_at": "2025-08-05T12:14:17.306Z",
+      "hashtags": "['#Democrats' '#TrumpFascist' '#TrumpRacist' '#TrumpStinks' '#Fascism'\n '#Trumpsmells' '#Trump' '#Texas' '#TrumpRapist' '#TrumpLies' '#Russia'\n '#ArrestTrumpNow' '#Republicans' '#TrumpTraitor' '#terrorism'\n '#RussianAsset' '#donaldtrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713188",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 276,
+      "text_cleaned_length": 44,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnokrpp2k2i",
+      "text": "'I'm upset, angry and disgusted,' #Epstein accuser tells BBC \n\n#justiceforkatiejohnson #JeffreyEpstein #Pedophile #Childmolestor #donaldtrump #TrumpRapist #Trump  \n\nwww.bbc.com/news/videos/...",
+      "text_cleaned": "'I'm upset, angry and disgusted,' accuser tells BBC",
+      "text_preview": "'I'm upset, angry and disgusted,' #Epstein accuser tells BBC \n\n#justiceforkatiejohnson #JeffreyEpstein #Pedophile #Childmolestor #donaldtrump #TrumpRapist #Trump  \n\nwww.bbc.com/news/videos/...",
+      "author": "oden-gjallarhornet.bsky.social",
+      "author_display_name": "Oden",
+      "created_at": "2025-08-05T12:11:57.867Z",
+      "hashtags": "['#donaldtrump' '#Epstein' '#Pedophile' '#justiceforkatiejohnson' '#Trump'\n '#TrumpRapist' '#JeffreyEpstein' '#Childmolestor']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713566",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 192,
+      "text_cleaned_length": 51,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnolopw6k2m",
+      "text": "In 1996, when Trump was 50, Katie Johnson was only 13.  \"You should be thanking me for taking your cherry,\" he told her. #Epstein #Trump #Maxwell #KatieJohnson",
+      "text_cleaned": "In 1996, when Trump was 50, Katie Johnson was only 13. \"You should be thanking me for taking your cherry,\" he told her.",
+      "text_preview": "In 1996, when Trump was 50, Katie Johnson was only 13.  \"You should be thanking me for taking your cherry,\" he told her. #Epstein #Trump #Maxwell #KatieJohnson",
+      "author": "michaelcowtan.bsky.social",
+      "author_display_name": "MichaelCowtan",
+      "created_at": "2025-08-05T12:12:28.282Z",
+      "hashtags": "['#KatieJohnson' '#Epstein' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713531",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 159,
+      "text_cleaned_length": 119,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnoh2vuu22w",
+      "text": "Hilarious! \ud83e\udd21\n\nMagamoron #TRUMP wants the Nobel Peace Prize!\n\nHe only gets an #ASSHOLE #SHITHEAD #IDIOT #NARCISSIST prize.\n\n#USA! #USA! #USA!\ud83c\uddfa\ud83c\uddf8",
+      "text_cleaned": "Hilarious! \ud83e\udd21 Magamoron wants the Nobel Peace Prize! He only gets an prize. ! ! !\ud83c\uddfa\ud83c\uddf8",
+      "text_preview": "Hilarious! \ud83e\udd21\n\nMagamoron #TRUMP wants the Nobel Peace Prize!\n\nHe only gets an #ASSHOLE #SHITHEAD #IDIOT #NARCISSIST prize.\n\n#USA! #USA! #USA!\ud83c\uddfa\ud83c\uddf8",
+      "author": "jaanagolf.bsky.social",
+      "author_display_name": "Jaana Nystrom",
+      "created_at": "2025-08-05T12:09:53.288Z",
+      "hashtags": "['#USA' '#IDIOT' '#TRUMP' '#SHITHEAD' '#NARCISSIST' '#ASSHOLE']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713596",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 142,
+      "text_cleaned_length": 82,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnonqn4d22z",
+      "text": "bsky.app/profile/kyle... #FuckMikeFlood #MikeFlood #Greed #Assholes #Selfish #Nebraska #Healthcare #snap #Foodstamp #Leavingmaga #Clown #Trump #GOP #embarrassing #VoteMikeFloodout",
+      "text_cleaned": "bsky.app/profile/kyle...",
+      "text_preview": "bsky.app/profile/kyle... #FuckMikeFlood #MikeFlood #Greed #Assholes #Selfish #Nebraska #Healthcare #snap #Foodstamp #Leavingmaga #Clown #Trump #GOP #embarrassing #VoteMikeFloodout",
+      "author": "josesaldana2024.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T12:13:37.397Z",
+      "hashtags": "['#GOP' '#Healthcare' '#FuckMikeFlood' '#Leavingmaga' '#VoteMikeFloodout'\n '#Trump' '#embarrassing' '#MikeFlood' '#Selfish' '#Nebraska' '#snap'\n '#Foodstamp' '#Clown' '#Greed' '#Assholes']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713522",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 179,
+      "text_cleaned_length": 24,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnohwtbps2q",
+      "text": "#EconSky #CNBC #Trump #BLS \n\nWatching Joe Kernen try to coax sanity out of the President is making my day.",
+      "text_cleaned": "Watching Joe Kernen try to coax sanity out of the President is making my day.",
+      "text_preview": "#EconSky #CNBC #Trump #BLS \n\nWatching Joe Kernen try to coax sanity out of the President is making my day.",
+      "author": "capemaydave.bsky.social",
+      "author_display_name": "Cape May Dave - proud vermin",
+      "created_at": "2025-08-05T12:10:22.564Z",
+      "hashtags": "['#BLS' '#CNBC' '#EconSky' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713582",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 106,
+      "text_cleaned_length": 77,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnok2m24c2i",
+      "text": "#Brazil's #Bolsonaro arrested, adding to tensions with #Trump \n\nwww.reuters.com/world/americ...",
+      "text_cleaned": "'s arrested, adding to tensions with",
+      "text_preview": "#Brazil's #Bolsonaro arrested, adding to tensions with #Trump \n\nwww.reuters.com/world/americ...",
+      "author": "oden-gjallarhornet.bsky.social",
+      "author_display_name": "Oden",
+      "created_at": "2025-08-05T12:11:33.628Z",
+      "hashtags": "['#Brazil' '#Trump' '#Bolsonaro']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713573",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 95,
+      "text_cleaned_length": 36,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvnope77yg2t",
+      "text": "\n#Proteste   #Regierung   #Trump   #Trump-Regierung",
+      "text_cleaned": "-Regierung",
+      "text_preview": "\n#Proteste   #Regierung   #Trump   #Trump-Regierung",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T12:14:52.947035+00:00",
+      "hashtags": "['#Proteste' '#Trump' '#Regierung']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713170",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 51,
+      "text_cleaned_length": 10,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnonjxzou2k",
+      "text": "\n#Trump   #Washington",
+      "text_cleaned": "",
+      "text_preview": "\n#Trump   #Washington",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T12:13:51.890196+00:00",
+      "hashtags": "['#Washington' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T12:15:03.713496",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 12:15:10.007000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
