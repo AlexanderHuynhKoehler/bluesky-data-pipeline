@@ -1,0 +1,365 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_214837",
+    "post_count": 13,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 21:40:10.007000",
+    "latest_received_at": "2025-08-05 21:45:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvoogncb222d",
+      "text": "Cappelletti, Joey. \" #DonaldTrump shouts to reporters as he takes a surprise unexpected walk on the #WhiteHouse roof to  to survey sites of his projects: #Trump hinted more renovations, saying he\u2019s looking for \u201cways to spend his money.\" @apnews.com. Tuesday August 5, 2025: apnews.com/article/trum...",
+      "text_cleaned": "Cappelletti, Joey. \" shouts to reporters as he takes a surprise unexpected walk on the roof to to survey sites of his projects: hinted more renovations, saying he\u2019s looking for \u201cways to spend his money.\" .com. Tuesday August 5, 2025: apnews.com/article/trum...",
+      "text_preview": "Cappelletti, Joey. \" #DonaldTrump shouts to reporters as he takes a surprise unexpected walk on the #WhiteHouse roof to  to survey sites of his projects: #Trump hinted more renovations, saying he\u2019s lo...",
+      "author": "judgian12365.bsky.social",
+      "author_display_name": "Ian Judge-Lord",
+      "created_at": "2025-08-05T21:42:18.752Z",
+      "hashtags": "['#Trump' '#DonaldTrump' '#WhiteHouse']",
+      "mentions": "['@apnews.com.']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:45:03.836231",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:45:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 260,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoodxhenk26",
+      "text": "When POC gain the same access whites have, it strips away the illusion of white exceptionalism. It's classic drained-pool politics, where they\u2019d rather destroy the benefit than share it.\n\n#Trump is that insecure little man, who constantly needs his ego fed. His ego can't allow equality with others.",
+      "text_cleaned": "When POC gain the same access whites have, it strips away the illusion of white exceptionalism. It's classic drained-pool politics, where they\u2019d rather destroy the benefit than share it. is that insecure little man, who constantly needs his ego fed. His ego can't allow equality with others.",
+      "text_preview": "When POC gain the same access whites have, it strips away the illusion of white exceptionalism. It's classic drained-pool politics, where they\u2019d rather destroy the benefit than share it.\n\n#Trump is th...",
+      "author": "aprivateguy.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T21:40:48.741Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:45:03.836250",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:45:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 291,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoogmwgit72",
+      "text": "Economic own goal #AusPol #USPol #Trump.\n\nIt might seem like Trump is winning his trade war. But the US could soon be in a world of pain\n\nhttps://theconversation.com/it-might-seem-like-trump-is-winning-his-trade-war-but-the-us-could-soon-be-in-a-world-of-pain-262434",
+      "text_cleaned": "Economic own goal . It might seem like Trump is winning his trade war. But the US could soon be in a world of pain",
+      "text_preview": "Economic own goal #AusPol #USPol #Trump.\n\nIt might seem like Trump is winning his trade war. But the US could soon be in a world of pain\n\nhttps://theconversation.com/it-might-seem-like-trump-is-winnin...",
+      "author": "feather1952.aus.social.ap.brid.gy",
+      "author_display_name": "Heather  Evans",
+      "created_at": "2025-08-05T21:42:15.000Z",
+      "hashtags": "['#Trump' '#AusPol' '#USPol']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:45:03.836242",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:45:10.007000",
+      "text_length": 266,
+      "text_cleaned_length": 114,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvookvk6mk23",
+      "text": "\u2b55\ufe0f #Trump au sujet de son appui \u00e0 l'occupation de #Gaza : \n\n\"Cela d\u00e9pendra en grande partie #d'Isra\u00ebl\"\n\nA-t-il r\u00e9pondu en \u00e9vitant la question et en laissant enti\u00e8rement la d\u00e9cision \u00e0 #Isra\u00ebl ?!",
+      "text_cleaned": "\u2b55\ufe0f au sujet de son appui \u00e0 l'occupation de : \"Cela d\u00e9pendra en grande partie 'Isra\u00ebl\" A-t-il r\u00e9pondu en \u00e9vitant la question et en laissant enti\u00e8rement la d\u00e9cision \u00e0 ?!",
+      "text_preview": "\u2b55\ufe0f #Trump au sujet de son appui \u00e0 l'occupation de #Gaza : \n\n\"Cela d\u00e9pendra en grande partie #d'Isra\u00ebl\"\n\nA-t-il r\u00e9pondu en \u00e9vitant la question et en laissant enti\u00e8rement la d\u00e9cision \u00e0 #Isra\u00ebl ?!",
+      "author": "alt31.bsky.social",
+      "author_display_name": "\u25bc ALT-31",
+      "created_at": "2025-08-05T21:44:41.618Z",
+      "hashtags": "['#Gaza' '#Isra\u00ebl' '#Trump' '#d']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:45:03.836219",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:45:10.007000",
+      "text_length": 193,
+      "text_cleaned_length": 167,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoocjvyvs2p",
+      "text": "Trump did not toss Epstein out of Mar-a-lago\n\n#trump #epsteinfiles\n\nwww.yahoo.com/news/article...",
+      "text_cleaned": "Trump did not toss Epstein out of Mar-a-lago",
+      "text_preview": "Trump did not toss Epstein out of Mar-a-lago\n\n#trump #epsteinfiles\n\nwww.yahoo.com/news/article...",
+      "author": "lostmyticket.bsky.social",
+      "author_display_name": "Bob Osser",
+      "created_at": "2025-08-05T21:40:00.987Z",
+      "hashtags": "['#epsteinfiles' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:45:03.836258",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:45:10.007000",
+      "text_length": 97,
+      "text_cleaned_length": 44,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvooa3vde22d",
+      "text": "so sick of Trump's America, Putin's Russia, & Netanyahu's Israel....it seems like the world simply cannot function without at least one Axis of Evil working tirelessly to make the world unbearable.\n\n#auspol #axisofevil #Trump #USA #Putin #Russia #Netanyahu #Israel",
+      "text_cleaned": "so sick of Trump's America, Putin's Russia, & Netanyahu's Israel....it seems like the world simply cannot function without at least one Axis of Evil working tirelessly to make the world unbearable.",
+      "text_preview": "so sick of Trump's America, Putin's Russia, & Netanyahu's Israel....it seems like the world simply cannot function without at least one Axis of Evil working tirelessly to make the world unbearable.\n\n#...",
+      "author": "royalchant.bsky.social",
+      "author_display_name": "Royal Chant",
+      "created_at": "2025-08-05T21:38:39.176Z",
+      "hashtags": "['#auspol' '#Trump' '#Netanyahu' '#Putin' '#USA' '#Russia' '#Israel'\n '#axisofevil']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:40:04.657785",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:40:10.007000",
+      "text_length": 264,
+      "text_cleaned_length": 197,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvooat3cjc2p",
+      "text": "I hope Olympic athletes boycott the LA Olympics. I understand it's a crazy high ask for athletes who most have dedicated their lives to making a team....but maybe some veterans can do it for everyone. #Olympics #Trump #Fascism",
+      "text_cleaned": "I hope Olympic athletes boycott the LA Olympics. I understand it's a crazy high ask for athletes who most have dedicated their lives to making a team....but maybe some veterans can do it for everyone.",
+      "text_preview": "I hope Olympic athletes boycott the LA Olympics. I understand it's a crazy high ask for athletes who most have dedicated their lives to making a team....but maybe some veterans can do it for everyone....",
+      "author": "drramblings.bsky.social",
+      "author_display_name": "DrRamblings",
+      "created_at": "2025-08-05T21:39:03.488Z",
+      "hashtags": "['#Olympics' '#Trump' '#Fascism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:40:04.657776",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:40:10.007000",
+      "text_length": 226,
+      "text_cleaned_length": 200,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoo3il6ss26",
+      "text": "Americans are realizing that Vladimir Putin, Viktor Orb\u00e1n, and Donald Trump are all reading from the same authoritarian script that Hitler first authored. #Trump #Fascism hartmannreport.com/p/we-watched...",
+      "text_cleaned": "Americans are realizing that Vladimir Putin, Viktor Orb\u00e1n, and Donald Trump are all reading from the same authoritarian script that Hitler first authored. hartmannreport.com/p/we-watched...",
+      "text_preview": "Americans are realizing that Vladimir Putin, Viktor Orb\u00e1n, and Donald Trump are all reading from the same authoritarian script that Hitler first authored. #Trump #Fascism hartmannreport.com/p/we-watch...",
+      "author": "laurenalexs.bsky.social",
+      "author_display_name": "Lauren Scott",
+      "created_at": "2025-08-05T21:36:04.704Z",
+      "hashtags": "['#Trump' '#Fascism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:40:04.657809",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:40:10.007000",
+      "text_length": 205,
+      "text_cleaned_length": 189,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoo53qiek2b",
+      "text": "pretty soon netanyahu is going to be calling for the release of the epstein files\n\nwww.nytimes.com/2025/08/05/w...\n\n#israel #gaza #epstein #trump",
+      "text_cleaned": "pretty soon netanyahu is going to be calling for the release of the epstein files",
+      "text_preview": "pretty soon netanyahu is going to be calling for the release of the epstein files\n\nwww.nytimes.com/2025/08/05/w...\n\n#israel #gaza #epstein #trump",
+      "author": "5-second-ruler.bsky.social",
+      "author_display_name": "it's only scott",
+      "created_at": "2025-08-05T21:36:58.354Z",
+      "hashtags": "['#israel' '#trump' '#gaza' '#epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:40:04.657796",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:40:10.007000",
+      "text_length": 145,
+      "text_cleaned_length": 81,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoo5r2ilk2r",
+      "text": "#Trump is doing everything he can to not lets us know why his name is in the #Epstein files! What's his involvement?",
+      "text_cleaned": "is doing everything he can to not lets us know why his name is in the files! What's his involvement?",
+      "text_preview": "#Trump is doing everything he can to not lets us know why his name is in the #Epstein files! What's his involvement?",
+      "author": "wgreverend.bsky.social",
+      "author_display_name": "IndependentStarPost",
+      "created_at": "2025-08-05T21:37:20.703Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:40:04.657790",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:40:10.007000",
+      "text_length": 116,
+      "text_cleaned_length": 100,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoo453axc23",
+      "text": "  Donald Trump Christian Coleman 50 cent  &more #hbomax  #trump  #50cent  #diddy youtube.com/live/V2SCHeZ...",
+      "text_cleaned": "Donald Trump Christian Coleman 50 cent &more youtube.com/live/V2SCHeZ...",
+      "text_preview": "  Donald Trump Christian Coleman 50 cent  &more #hbomax  #trump  #50cent  #diddy youtube.com/live/V2SCHeZ...",
+      "author": "paulbmedia84.bsky.social",
+      "author_display_name": "Paul B",
+      "created_at": "2025-08-05T21:36:26.198Z",
+      "hashtags": "['#50cent' '#diddy' '#hbomax' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:40:04.657802",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:40:10.007000",
+      "text_length": 108,
+      "text_cleaned_length": 72,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvooaldnek2q",
+      "text": "\n#attack   #killed   #New York   #Page   #shooting   #Terrorism   #Trump   #Trump administration   #Urban",
+      "text_cleaned": "York administration",
+      "text_preview": "\n#attack   #killed   #New York   #Page   #shooting   #Terrorism   #Trump   #Trump administration   #Urban",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T21:39:16.490259+00:00",
+      "hashtags": "['#Terrorism' '#Trump' '#New' '#Page' '#Urban' '#shooting' '#attack'\n '#killed']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:40:04.657767",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:40:10.007000",
+      "text_length": 105,
+      "text_cleaned_length": 19,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoobsvfmk2d",
+      "text": "Dirty old perv #Trump \ud83e\udd22\ud83e\udd2e",
+      "text_cleaned": "Dirty old perv \ud83e\udd22\ud83e\udd2e",
+      "text_preview": "Dirty old perv #Trump \ud83e\udd22\ud83e\udd2e",
+      "author": "toastman1.bsky.social",
+      "author_display_name": "Toastman",
+      "created_at": "2025-08-05T21:39:36.851Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:40:04.657758",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:40:10.007000",
+      "text_length": 24,
+      "text_cleaned_length": 17,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
