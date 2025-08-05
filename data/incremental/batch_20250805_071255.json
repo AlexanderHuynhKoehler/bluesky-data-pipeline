@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_071255",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 07:05:10.006000",
+    "latest_received_at": "2025-08-05 07:10:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvn5jwsihs24",
+      "text": "Wondering why #Trump considers a Maxwell's pardon, wonder no more. Trump explained it. He said, he would not consider a pardon to DiddyCombs \n\nwww.youtube.com/watch?time_c... he wasn't very friendly to him, what does it suggest?\nDid Maxwell do and is doing the opposite?\n\nyoutu.be/KdEN8cCNgik?...",
+      "text_cleaned": "Wondering why considers a Maxwell's pardon, wonder no more. Trump explained it. He said, he would not consider a pardon to DiddyCombs he wasn't very friendly to him, what does it suggest? Did Maxwell do and is doing the opposite? youtu.be/KdEN8cCNgik?...",
+      "text_preview": "Wondering why #Trump considers a Maxwell's pardon, wonder no more. Trump explained it. He said, he would not consider a pardon to DiddyCombs \n\nwww.youtube.com/watch?time_c... he wasn't very friendly t...",
+      "author": "missdemocracy2024.bsky.social",
+      "author_display_name": "I live on a blue planet and sing to ward off evil!",
+      "created_at": "2025-08-05T07:07:16.034Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:10:03.408904",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:10:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 254,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvn5gyet4c2d",
+      "text": "Trump says he won\u2019t pardon Sean \u201cDiddy\u201d Combs because, \u201che wasn\u2019t nice to him\u201d but meets with one of the world\u2019s most infamous pedophiles Ghislaine Maxwell and moves her to a minimum security prison! #PedophilePresident #Epstein #Trump #Corruption #Fascism #Pedophile #SexCriminal #PedoPresident #GOP",
+      "text_cleaned": "Trump says he won\u2019t pardon Sean \u201cDiddy\u201d Combs because, \u201che wasn\u2019t nice to him\u201d but meets with one of the world\u2019s most infamous pedophiles Ghislaine Maxwell and moves her to a minimum security prison!",
+      "text_preview": "Trump says he won\u2019t pardon Sean \u201cDiddy\u201d Combs because, \u201che wasn\u2019t nice to him\u201d but meets with one of the world\u2019s most infamous pedophiles Ghislaine Maxwell and moves her to a minimum security prison! ...",
+      "author": "freeusfrom.bsky.social",
+      "author_display_name": "Free Us From Tyranny",
+      "created_at": "2025-08-05T07:05:37.022Z",
+      "hashtags": "['#Epstein' '#Pedophile' '#PedophilePresident' '#SexCriminal'\n '#PedoPresident' '#Corruption' '#Fascism' '#GOP' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:10:03.408924",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:10:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 199,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn5nkboks2t",
+      "text": "Farage is quite good at dancing around not going to #Clacton\nhe makes Fred Astaire look like a wheelie bin.\nHe\u2019s also really good at fawning all over the adjudicated rapist\n#Trump who was best buddy with the rapist #Epstein\n\n@lbc\n#r4today\n#PoliticsHub",
+      "text_cleaned": "Farage is quite good at dancing around not going to he makes Fred Astaire look like a wheelie bin. He\u2019s also really good at fawning all over the adjudicated rapist who was best buddy with the rapist",
+      "text_preview": "Farage is quite good at dancing around not going to #Clacton\nhe makes Fred Astaire look like a wheelie bin.\nHe\u2019s also really good at fawning all over the adjudicated rapist\n#Trump who was best buddy w...",
+      "author": "eperkin.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T07:09:17.118Z",
+      "hashtags": "['#Epstein' '#Clacton' '#r4today' '#PoliticsHub' '#Trump']",
+      "mentions": "['@lbc']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:10:03.408893",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:10:10.006000",
+      "text_length": 251,
+      "text_cleaned_length": 198,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn5hsfudk2i",
+      "text": "President #Trump has cut drug prices by ten million billion trillion quadrillion gazillion infinity percent. \n#MAGA!",
+      "text_cleaned": "President has cut drug prices by ten million billion trillion quadrillion gazillion infinity percent. !",
+      "text_preview": "President #Trump has cut drug prices by ten million billion trillion quadrillion gazillion infinity percent. \n#MAGA!",
+      "author": "quokkafella.nafofellas.com",
+      "author_display_name": "",
+      "created_at": "2025-08-05T07:06:04.318Z",
+      "hashtags": "['#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:10:03.408914",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:10:10.006000",
+      "text_length": 116,
+      "text_cleaned_length": 103,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 5.0
+    },
+    {
+      "post_id": "3lvn5fswcl22i",
+      "text": "donaldtrumpphotos.blogspot.com\n\n#DonaldTrump #Trump #politicalcartoon #cartoon #aiart #artwork #aicommunity",
+      "text_cleaned": "donaldtrumpphotos.blogspot.com",
+      "text_preview": "donaldtrumpphotos.blogspot.com\n\n#DonaldTrump #Trump #politicalcartoon #cartoon #aiart #artwork #aicommunity",
+      "author": "marblespictures.bsky.social",
+      "author_display_name": "Marble",
+      "created_at": "2025-08-05T07:04:57.744Z",
+      "hashtags": "['#DonaldTrump' '#aiart' '#cartoon' '#politicalcartoon' '#aicommunity'\n '#artwork' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:10:03.408932",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:10:10.006000",
+      "text_length": 107,
+      "text_cleaned_length": 30,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn5dg52qc25",
+      "text": "You can CLAIM ANYTHING, but without credible evidence, you PROVE NOTHING.\n\nIn REALITY, #Trump sent 2 #NuclearSubs close to #Russia in reaction to a mean tweet from Medvedev.\n\nwww.youtube.com/watch?v=jWDL... @bbcnewsnight.bsky.social \n\nwww.youtube.com/watch?v=JdvV... @judgenap.bsky.social",
+      "text_cleaned": "You can CLAIM ANYTHING, but without credible evidence, you PROVE NOTHING. In REALITY, sent 2 close to in reaction to a mean tweet from Medvedev. .bsky.social .bsky.social",
+      "text_preview": "You can CLAIM ANYTHING, but without credible evidence, you PROVE NOTHING.\n\nIn REALITY, #Trump sent 2 #NuclearSubs close to #Russia in reaction to a mean tweet from Medvedev.\n\nwww.youtube.com/watch?v=j...",
+      "author": "simonawood.bsky.social",
+      "author_display_name": "#FreePalestine #Vote1Greens #StopArmingIsrael",
+      "created_at": "2025-08-05T07:03:37.230Z",
+      "hashtags": "['#NuclearSubs' '#Russia' '#Trump']",
+      "mentions": "['@bbcnewsnight.bsky.social' '@judgenap.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:05:03.382170",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:05:10.006000",
+      "text_length": 288,
+      "text_cleaned_length": 170,
+      "hashtag_count": 3,
+      "mention_count": 2,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvn5b5b5nc27",
+      "text": "Is there any expert here who understands what is #Trump 's end-game? It is definitely not in America's favor. I would like to read some informed opinions and not politically motivated ones. THANK YOU FOR YOUR ATTENTION TO THIS MATTER.",
+      "text_cleaned": "Is there any expert here who understands what is 's end-game? It is definitely not in America's favor. I would like to read some informed opinions and not politically motivated ones. THANK YOU FOR YOUR ATTENTION TO THIS MATTER.",
+      "text_preview": "Is there any expert here who understands what is #Trump 's end-game? It is definitely not in America's favor. I would like to read some informed opinions and not politically motivated ones. THANK YOU ...",
+      "author": "mo-dan.bsky.social",
+      "author_display_name": "Mohit",
+      "created_at": "2025-08-05T07:02:20.817Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:05:03.382181",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:05:10.006000",
+      "text_length": 234,
+      "text_cleaned_length": 227,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn55mzqdi2h",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #oc\n4. #digitalart\n5. #AI\n6. #epsteinfiles\n7. #Trump\n8. #booksky\n9. #Epstein\n10. #illustration\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #oc\n4. #digitalart\n5. #AI\n6. #epsteinfiles\n7. #Trump\n8. #booksky\n9. #Epstein\n10. #illustration\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-05T07:00:22Z",
+      "hashtags": "['#epsteinfiles' '#AI' '#art' '#oc' '#bb27' '#Epstein' '#Trump'\n '#illustration' '#booksky' '#digitalart']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:05:03.382202",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:05:10.006000",
+      "text_length": 180,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvn56tlzeb2v",
+      "text": "\n#Asia   #bilateral   #Negotiations   #Tariffs   #threats   #Trade Partners   #Trump   #Washington",
+      "text_cleaned": "Partners",
+      "text_preview": "\n#Asia   #bilateral   #Negotiations   #Tariffs   #threats   #Trade Partners   #Trump   #Washington",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T07:01:09.372044+00:00",
+      "hashtags": "['#Asia' '#Tariffs' '#bilateral' '#Negotiations' '#Trump' '#threats'\n '#Washington' '#Trade']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:05:03.382191",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:05:10.006000",
+      "text_length": 98,
+      "text_cleaned_length": 8,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn55e6ohh2q",
+      "text": "\n#Force   #Jobs   #Tariffs   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Force   #Jobs   #Tariffs   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T07:00:19.648365+00:00",
+      "hashtags": "['#Tariffs' '#Force' '#Jobs' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:05:03.382210",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:05:10.006000",
+      "text_length": 35,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
