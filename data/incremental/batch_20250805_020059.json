@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_020059",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 01:55:10.006000",
+    "latest_received_at": "2025-08-05 02:00:10.010000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmmczhtx22z",
+      "text": "There is uncertainty regarding what transpired between Desiree Washington and Mike Tyson. Donald #Trump should have refrained from commenting on the situation. Tyson was convicted by a court of law, which is an essential factor to consider. Trump says he can just grab women by the pussy",
+      "text_cleaned": "There is uncertainty regarding what transpired between Desiree Washington and Mike Tyson. Donald should have refrained from commenting on the situation. Tyson was convicted by a court of law, which is an essential factor to consider. Trump says he can just grab women by the pussy",
+      "text_preview": "There is uncertainty regarding what transpired between Desiree Washington and Mike Tyson. Donald #Trump should have refrained from commenting on the situation. Tyson was convicted by a court of law, w...",
+      "author": "rollingjoe.bsky.social",
+      "author_display_name": "Joe LaBeLLe",
+      "created_at": "2025-08-05T01:59:10.341Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:00:04.371311",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:00:10.010000",
+      "text_length": 287,
+      "text_cleaned_length": 280,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmdqq5dc2g",
+      "text": "#Epstein associate black book/ #Trump & #Wexner alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her www.nbc4i.com/news/local-n...",
+      "text_cleaned": "associate black book/ & alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her",
+      "text_preview": "#Epstein associate black book/ #Trump & #Wexner alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her www.nbc4i.com/news/l...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:59:34.730Z",
+      "hashtags": "['#Wexner' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:00:04.371305",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:00:10.010000",
+      "text_length": 209,
+      "text_cleaned_length": 155,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmavygf22g",
+      "text": "#Epstein associate black book/ #Trump & #Wexner alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her www.nbc4i.com/news/local-n...",
+      "text_cleaned": "associate black book/ & alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her",
+      "text_preview": "#Epstein associate black book/ #Trump & #Wexner alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her www.nbc4i.com/news/l...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:57:59.580Z",
+      "hashtags": "['#Wexner' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:00:04.371317",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:00:10.010000",
+      "text_length": 209,
+      "text_cleaned_length": 155,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmm4ukr6k2w",
+      "text": "open.spotify.com/track/4T2zre...\nFuck with my Husband \ud83d\udc79\ud83d\udc7f\ud83d\ude08\ud83d\udc79\n#KrisEilish is #MineLove. #88\u207888 ##AccountabilityIsHere  #SuckMyPussy #Trump \ud83d\udd95\ud83d\udc9c\ud83d\udc9c\ud83d\udd95",
+      "text_cleaned": "open.spotify.com/track/4T2zre... Fuck with my Husband \ud83d\udc79\ud83d\udc7f\ud83d\ude08\ud83d\udc79 is . # \ud83d\udd95\ud83d\udc9c\ud83d\udc9c\ud83d\udd95",
+      "text_preview": "open.spotify.com/track/4T2zre...\nFuck with my Husband \ud83d\udc79\ud83d\udc7f\ud83d\ude08\ud83d\udc79\n#KrisEilish is #MineLove. #88\u207888 ##AccountabilityIsHere  #SuckMyPussy #Trump \ud83d\udd95\ud83d\udc9c\ud83d\udc9c\ud83d\udd95",
+      "author": "kriseilish9.bsky.social",
+      "author_display_name": "Kris Eilish",
+      "created_at": "2025-08-05T01:55:43.864Z",
+      "hashtags": "['#88\u207888' '#KrisEilish' '#MineLove' '#Trump' '#AccountabilityIsHere'\n '#SuckMyPussy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:00:04.371338",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:00:10.010000",
+      "text_length": 140,
+      "text_cleaned_length": 70,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmm7jvuos2c",
+      "text": "\u201cThose Epstein files are gonna bite your butt but they ain\u2019t going away\u2026\u201d \ud83e\udd23\ud83d\udc4f\ud83c\udffc #Trump #Epstein",
+      "text_cleaned": "\u201cThose Epstein files are gonna bite your butt but they ain\u2019t going away\u2026\u201d \ud83e\udd23\ud83d\udc4f\ud83c\udffc",
+      "text_preview": "\u201cThose Epstein files are gonna bite your butt but they ain\u2019t going away\u2026\u201d \ud83e\udd23\ud83d\udc4f\ud83c\udffc #Trump #Epstein",
+      "author": "queenofchoas.bsky.social",
+      "author_display_name": "Queen of Chaos",
+      "created_at": "2025-08-05T01:57:13.359Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:00:04.371330",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:00:10.010000",
+      "text_length": 93,
+      "text_cleaned_length": 77,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmma56sus2p",
+      "text": "#trump #missouri #chicago\nyoutube.com/shorts/lfkmm...",
+      "text_cleaned": "youtube.com/shorts/lfkmm...",
+      "text_preview": "#trump #missouri #chicago\nyoutube.com/shorts/lfkmm...",
+      "author": "xanthe91.bsky.social",
+      "author_display_name": "Xanthe",
+      "created_at": "2025-08-05T01:57:33.575Z",
+      "hashtags": "['#chicago' '#missouri' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:00:04.371323",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:00:10.010000",
+      "text_length": 53,
+      "text_cleaned_length": 27,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmly46uuc2w",
+      "text": "#California's GDP surpassed Japan's in 2024, making it the \n4th largest #economy globally. The state's nominal #GDP reached $4.1 trillion, trailing behind only the #USA, #China, & #Germany.\n#GavinNewsom \ud83d\ude4c \n#Democrats\n#Republicans \ud83d\ude34\ud83d\udca4 \n#CNN #FoxNews\n#Elections2026 #House ??\nwww.tiktok.com/t/ZT6y5Lopf/",
+      "text_cleaned": "'s GDP surpassed Japan's in 2024, making it the 4th largest globally. The state's nominal reached $4.1 trillion, trailing behind only the , , & . \ud83d\ude4c \ud83d\ude34\ud83d\udca4 ??",
+      "text_preview": "#California's GDP surpassed Japan's in 2024, making it the \n4th largest #economy globally. The state's nominal #GDP reached $4.1 trillion, trailing behind only the #USA, #China, & #Germany.\n#GavinNews...",
+      "author": "yolibeans.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:53:04.092Z",
+      "hashtags": "['#California' '#economy' '#GDP' '#Germany' '#CNN' '#FoxNews'\n '#Elections2026' '#House' '#Democrats' '#USA' '#China' '#GavinNewsom'\n '#Republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:55:03.012756",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:55:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 153,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmlycn6gc2a",
+      "text": "\"She tells it like it is\" doesn't apply to non-bigots, eh? \ud83e\udd37\u200d\u2640\ufe0f #Trump #GOP #USpolitics #US",
+      "text_cleaned": "\"She tells it like it is\" doesn't apply to non-bigots, eh? \ud83e\udd37\u200d\u2640\ufe0f",
+      "text_preview": "\"She tells it like it is\" doesn't apply to non-bigots, eh? \ud83e\udd37\u200d\u2640\ufe0f #Trump #GOP #USpolitics #US",
+      "author": "mrsgayguevara.bsky.social",
+      "author_display_name": "Izzy Davis \ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2640\ufe0f \u2764\ufe0f\ud83e\udd0d\ud83d\udc99\ud83c\uddea\ud83c\uddfa",
+      "created_at": "2025-08-05T01:53:10.853Z",
+      "hashtags": "['#US' '#Trump' '#GOP' '#USpolitics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:55:03.013061",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:55:10.006000",
+      "text_length": 91,
+      "text_cleaned_length": 63,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvmltur37s2a",
+      "text": "Fries to go... Along with the owner \ud83d\ude02 #Trump #GOP #USpolitics #ICE #US #karma",
+      "text_cleaned": "Fries to go... Along with the owner \ud83d\ude02",
+      "text_preview": "Fries to go... Along with the owner \ud83d\ude02 #Trump #GOP #USpolitics #ICE #US #karma",
+      "author": "mrsgayguevara.bsky.social",
+      "author_display_name": "Izzy Davis \ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2640\ufe0f \u2764\ufe0f\ud83e\udd0d\ud83d\udc99\ud83c\uddea\ud83c\uddfa",
+      "created_at": "2025-08-05T01:50:42.061Z",
+      "hashtags": "['#US' '#Trump' '#GOP' '#ICE' '#USpolitics' '#karma']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:55:03.013078",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:55:10.006000",
+      "text_length": 77,
+      "text_cleaned_length": 37,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmlvczahc2q",
+      "text": "#California #Newsom #Trump youtube.com/live/Temlxx8...",
+      "text_cleaned": "youtube.com/live/Temlxx8...",
+      "text_preview": "#California #Newsom #Trump youtube.com/live/Temlxx8...",
+      "author": "vegangrandma.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:51:30.586Z",
+      "hashtags": "['#California' '#Trump' '#Newsom']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:55:03.013071",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:55:10.006000",
+      "text_length": 54,
+      "text_cleaned_length": 27,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    }
+  ]
+}
