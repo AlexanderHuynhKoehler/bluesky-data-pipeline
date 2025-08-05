@@ -1,0 +1,581 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_014037",
+    "post_count": 21,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 01:35:10.011000",
+    "latest_received_at": "2025-08-05 01:40:10.012000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvml5qn6z22g",
+      "text": "#Trump #Epstein little black book-  Ronald R. #Eppinger importing Eastern Europeans to work as models/ then call-girls in S Florida - immigrant smuggling/ raped/ sexually abused age 12 by Epplinger; 15-16 yo Giuffre paid $9. hr at Mar-A-Lago \"bathroom attendant\" dailycaller.com/2017/03/20/a...",
+      "text_cleaned": "little black book- Ronald R. importing Eastern Europeans to work as models/ then call-girls in S Florida - immigrant smuggling/ raped/ sexually abused age 12 by Epplinger; 15-16 yo Giuffre paid $9. hr at Mar-A-Lago \"bathroom attendant\" dailycaller.com/2017/03/20/a...",
+      "text_preview": "#Trump #Epstein little black book-  Ronald R. #Eppinger importing Eastern Europeans to work as models/ then call-girls in S Florida - immigrant smuggling/ raped/ sexually abused age 12 by Epplinger; 1...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:38:19.565Z",
+      "hashtags": "['#Eppinger' '#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:40:03.498028",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:40:10.012000",
+      "text_length": 294,
+      "text_cleaned_length": 267,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvml7y3zps2g",
+      "text": "#Trump #Epstein book-  Ronald R. #Eppinger importing Eastern Europeans to work as models/ then call-girls in S Florida - immigrant smuggling/ raped/ sexually abused age 12 by Epplinger; 15-16 yo Giuffre paid $9. hr at Mar-A-Lago \"bathroom attendant\" #Acosta www.muckrock.com/foi/united-s...",
+      "text_cleaned": "book- Ronald R. importing Eastern Europeans to work as models/ then call-girls in S Florida - immigrant smuggling/ raped/ sexually abused age 12 by Epplinger; 15-16 yo Giuffre paid $9. hr at Mar-A-Lago \"bathroom attendant\"",
+      "text_preview": "#Trump #Epstein book-  Ronald R. #Eppinger importing Eastern Europeans to work as models/ then call-girls in S Florida - immigrant smuggling/ raped/ sexually abused age 12 by Epplinger; 15-16 yo Giuff...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:39:34.500Z",
+      "hashtags": "['#Eppinger' '#Trump' '#Epstein' '#Acosta']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:40:03.498021",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:40:10.012000",
+      "text_length": 290,
+      "text_cleaned_length": 222,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmkxlbsac2w",
+      "text": "Let me be clear. I don\u2019t say any of this lightly and I NEVER say something unless I am well educated on a topic. Let\u2019s see your gifs now fascist. #politics #florida #floridapolitics #flapol #swfl #fortmyers #hd78 #desantis #trump #authoritarianism #fascism #fascist #goparefascists",
+      "text_cleaned": "Let me be clear. I don\u2019t say any of this lightly and I NEVER say something unless I am well educated on a topic. Let\u2019s see your gifs now fascist.",
+      "text_preview": "Let me be clear. I don\u2019t say any of this lightly and I NEVER say something unless I am well educated on a topic. Let\u2019s see your gifs now fascist. #politics #florida #floridapolitics #flapol #swfl #for...",
+      "author": "cindybanyai.bsky.social",
+      "author_display_name": "Cindy Banyai for Florida House 78",
+      "created_at": "2025-08-05T01:34:49.985Z",
+      "hashtags": "['#authoritarianism' '#fascism' '#fascist' '#florida' '#floridapolitics'\n '#hd78' '#politics' '#desantis' '#flapol' '#swfl' '#fortmyers' '#trump'\n '#goparefascists']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:40:03.498074",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:40:10.012000",
+      "text_length": 281,
+      "text_cleaned_length": 145,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvml2ldfpc2y",
+      "text": "How wildfires impact Canada\u2019s economy #\ud83c\udde8\ud83c\udde6\n\n#\ud83c\udfa5 Recent @globalnews.ca Video Segments (All Featuring #AmandalinaLetterio)\n\nHow #wildfires impact #Canada\u2019s #economy #\ud83d\ude81\n\nTap below to watch \u2728\nglobalnews.ca/video/112666...",
+      "text_cleaned": "How wildfires impact Canada\u2019s economy #\ud83c\udde8\ud83c\udde6 #\ud83c\udfa5 Recent .ca Video Segments (All Featuring ) How impact \u2019s #\ud83d\ude81 Tap below to watch \u2728 globalnews.ca/video/112666...",
+      "text_preview": "How wildfires impact Canada\u2019s economy #\ud83c\udde8\ud83c\udde6\n\n#\ud83c\udfa5 Recent @globalnews.ca Video Segments (All Featuring #AmandalinaLetterio)\n\nHow #wildfires impact #Canada\u2019s #economy #\ud83d\ude81\n\nTap below to watch \u2728\nglobalnews.ca/...",
+      "author": "danlee863.bsky.social",
+      "author_display_name": "Dan \ud83c\udde8\ud83c\udde6 Lee",
+      "created_at": "2025-08-05T01:36:33.326Z",
+      "hashtags": "['#economy' '#Canada' '#AmandalinaLetterio' '#wildfires']",
+      "mentions": "['@globalnews.ca']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:40:03.497731",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:40:10.012000",
+      "text_length": 215,
+      "text_cleaned_length": 155,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmkyohzmz2h",
+      "text": "\n#Abstimmung   #Politiker   #protest   #Texas   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Abstimmung   #Politiker   #protest   #Texas   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T01:35:35.553545+00:00",
+      "hashtags": "['#Politiker' '#Trump' '#Texas' '#protest' '#Abstimmung']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:40:03.498060",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:40:10.012000",
+      "text_length": 54,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvml3mh2v22e",
+      "text": "#UFO  #BigLie  #Trump    youtu.be/WSVqZi6N22c?...",
+      "text_cleaned": "youtu.be/WSVqZi6N22c?...",
+      "text_preview": "#UFO  #BigLie  #Trump    youtu.be/WSVqZi6N22c?...",
+      "author": "kklown.bsky.social",
+      "author_display_name": "WOW",
+      "created_at": "2025-08-05T01:37:08.060Z",
+      "hashtags": "['#UFO' '#Trump' '#BigLie']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:40:03.498041",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:40:10.012000",
+      "text_length": 49,
+      "text_cleaned_length": 24,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvml263oce2y",
+      "text": "\n#Indien   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Indien   #Trump   #Ukraine",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T01:36:25.477444+00:00",
+      "hashtags": "['#Ukraine' '#Indien' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:40:03.498051",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:40:10.012000",
+      "text_length": 28,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvml3r6cq22y",
+      "text": "#Trump #resist #fascism",
+      "text_cleaned": "",
+      "text_preview": "#Trump #resist #fascism",
+      "author": "laurenreichelt.bsky.social",
+      "author_display_name": "Lauren Reichelt",
+      "created_at": "2025-08-05T01:37:13.017Z",
+      "hashtags": "['#resist' '#Trump' '#fascism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:40:03.498034",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:40:10.012000",
+      "text_length": 23,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmktarags2x",
+      "text": "#Trump didn't throw #Epstein out of his club for going after girls but because Epstein was angry after Trump made a real estate Deal with a Russian oligarch with doubling the price (money laudering E. suspectedf\u00e4). After that for 1st time E. was prosecuted as a predator. \n\nyoutu.be/inRG6RMMLX4?...",
+      "text_cleaned": "didn't throw out of his club for going after girls but because Epstein was angry after Trump made a real estate Deal with a Russian oligarch with doubling the price (money laudering E. suspectedf\u00e4). After that for 1st time E. was prosecuted as a predator. youtu.be/inRG6RMMLX4?...",
+      "text_preview": "#Trump didn't throw #Epstein out of his club for going after girls but because Epstein was angry after Trump made a real estate Deal with a Russian oligarch with doubling the price (money laudering E....",
+      "author": "alexaba.bsky.social",
+      "author_display_name": "Alexandra Bader",
+      "created_at": "2025-08-05T01:32:27.371Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868343",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 298,
+      "text_cleaned_length": 280,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmkvf2sw22h",
+      "text": "Interesting to compare analogous attempts at a \u201ccoup\u201d in Brazil & South Korea & their #ruleoflaw responses with #Trump \u201cimmunity\u201din the #USA. With a rogue Supreme Court, he is untouchable. #democracy #fascism #GOP flip.it/kQYV1E",
+      "text_cleaned": "Interesting to compare analogous attempts at a \u201ccoup\u201d in Brazil & South Korea & their responses with \u201cimmunity\u201din the . With a rogue Supreme Court, he is untouchable. flip.it/kQYV1E",
+      "text_preview": "Interesting to compare analogous attempts at a \u201ccoup\u201d in Brazil & South Korea & their #ruleoflaw responses with #Trump \u201cimmunity\u201din the #USA. With a rogue Supreme Court, he is untouchable. #democracy ...",
+      "author": "mediaactive.bsky.social",
+      "author_display_name": "MediaActive \u25aa\ufe0fEQUALITY \u25aa\ufe0fJUSTICE \u25aa\ufe0fPEACE",
+      "created_at": "2025-08-05T01:33:38.993Z",
+      "hashtags": "['#Trump' '#fascism' '#democracy' '#USA' '#ruleoflaw' '#GOP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868336",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 228,
+      "text_cleaned_length": 181,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmkrbkd222p",
+      "text": "I'll be interviewed by Dolphin TV this Wednesday, August 6th, at 6pm (EST).\n\nwww.youtube.com/live/bQFbcnd...\n\n#theswordofeden #theswordofedenshinobi #comics #graphicnovels #SequentialArt #creatorsrights #selfpublishing #christiancomics #Trump #Trump2028 #MakeComicsGreatAgain #JesusMatters",
+      "text_cleaned": "I'll be interviewed by Dolphin TV this Wednesday, August 6th, at 6pm (EST).",
+      "text_preview": "I'll be interviewed by Dolphin TV this Wednesday, August 6th, at 6pm (EST).\n\nwww.youtube.com/live/bQFbcnd...\n\n#theswordofeden #theswordofedenshinobi #comics #graphicnovels #SequentialArt #creatorsrigh...",
+      "author": "alnickerson.bsky.social",
+      "author_display_name": "Al Nickerson",
+      "created_at": "2025-08-05T01:31:21.088Z",
+      "hashtags": "['#selfpublishing' '#Trump' '#theswordofeden' '#christiancomics' '#comics'\n '#JesusMatters' '#SequentialArt' '#MakeComicsGreatAgain' '#graphicnovels'\n '#theswordofedenshinobi' '#creatorsrights' '#Trump2028']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868425",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 289,
+      "text_cleaned_length": 75,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmkqxmf7k2n",
+      "text": "Seeing as how Maddow correctly announced  #America is an authoritarian state\u201d (and let the #fact it\u2019s #trump Americans sold out their country for settle in), seems appropriate to repost this. #GoodNightAndGoodLuck",
+      "text_cleaned": "Seeing as how Maddow correctly announced is an authoritarian state\u201d (and let the it\u2019s Americans sold out their country for settle in), seems appropriate to repost this.",
+      "text_preview": "Seeing as how Maddow correctly announced  #America is an authoritarian state\u201d (and let the #fact it\u2019s #trump Americans sold out their country for settle in), seems appropriate to repost this. #GoodNig...",
+      "author": "chocolatefire.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:31:10.660Z",
+      "hashtags": "['#trump' '#GoodNightAndGoodLuck' '#America' '#fact']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868434",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 213,
+      "text_cleaned_length": 168,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmkwz63ph2a",
+      "text": "Senators Now Debate Quitting Over Surge in Trump Frustrations\r\n\r\n#Senate #Trump #PoliticalFrustration #Bipartisanship #LegislativeGridlock #PoliticalReform #Democrats #Republicans #Congress #PublicSentiment #PolicyDebate #PoliticalChallenges #ExecutiveNominees #MidtermElections #News #Politics",
+      "text_cleaned": "Senators Now Debate Quitting Over Surge in Trump Frustrations",
+      "text_preview": "Senators Now Debate Quitting Over Surge in Trump Frustrations\r\n\r\n#Senate #Trump #PoliticalFrustration #Bipartisanship #LegislativeGridlock #PoliticalReform #Democrats #Republicans #Congress #PublicSen...",
+      "author": "franknez.bsky.social",
+      "author_display_name": "Frank Nez",
+      "created_at": "2025-08-05T01:34:33.543Z",
+      "hashtags": "['#LegislativeGridlock' '#Trump' '#ExecutiveNominees' '#News'\n '#Bipartisanship' '#Republicans' '#PolicyDebate' '#PublicSentiment'\n '#MidtermElections' '#PoliticalReform' '#PoliticalFrustration'\n '#Politics' '#PoliticalChallenges' '#Senate' '#Congress' '#Democrats']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868317",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 294,
+      "text_cleaned_length": 61,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmkp52uim2j",
+      "text": "\ud83d\udd34 Importance: 78/100\n#news #Featured #TopStories #World #russia #trump #intelligence\n\nAttorney General Pam Bondi has directed Justice Department prosecutors to launch a grand jury investigation of whether...",
+      "text_cleaned": "\ud83d\udd34 Importance: 78/100 Attorney General Pam Bondi has directed Justice Department prosecutors to launch a grand jury investigation of whether...",
+      "text_preview": "\ud83d\udd34 Importance: 78/100\n#news #Featured #TopStories #World #russia #trump #intelligence\n\nAttorney General Pam Bondi has directed Justice Department prosecutors to launch a grand jury investigation of whe...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-05T01:22:10+00:00",
+      "hashtags": "['#TopStories' '#intelligence' '#news' '#World' '#trump' '#russia'\n '#Featured']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868513",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 207,
+      "text_cleaned_length": 142,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmkpgxdcl2b",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #valetudo\n2. #BB27\n3. #art\n4. #WWERAW\n5. #WWE\n6. #oc\n7. #Epstein\n8. #EpsteinFiles\n9. #AI\n10. #trump\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #valetudo\n2. #BB27\n3. #art\n4. #WWERAW\n5. #WWE\n6. #oc\n7. #Epstein\n8. #EpsteinFiles\n9. #AI\n10. #trump\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-05T01:30:19Z",
+      "hashtags": "['#valetudo' '#EpsteinFiles' '#oc' '#WWERAW' '#WWE' '#art' '#BB27'\n '#trump' '#Epstein' '#AI']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868455",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 168,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvmksqrx4c2m",
+      "text": "#GeorgeCarlinStyle #CarlinWouldSay #CarlinSpirit #WhatCarlinWouldSay\n#NoMoreLies #QuestionEverything\n#TruthHurts #TheListExists\n#EpsteinCoverup #PedoElite\n#TrumpAndEpstein #EliteSecrets\n#RedFlagsEverywhere #ComedyWithTeeth #Trump #Epstein #TrumpAndEpsteinFiles",
+      "text_cleaned": "",
+      "text_preview": "#GeorgeCarlinStyle #CarlinWouldSay #CarlinSpirit #WhatCarlinWouldSay\n#NoMoreLies #QuestionEverything\n#TruthHurts #TheListExists\n#EpsteinCoverup #PedoElite\n#TrumpAndEpstein #EliteSecrets\n#RedFlagsEvery...",
+      "author": "hogsten.us",
+      "author_display_name": "Gary Hogsten",
+      "created_at": "2025-08-05T01:32:10.612Z",
+      "hashtags": "['#WhatCarlinWouldSay' '#ComedyWithTeeth' '#Trump' '#TruthHurts'\n '#CarlinWouldSay' '#QuestionEverything' '#RedFlagsEverywhere'\n '#TheListExists' '#EliteSecrets' '#TrumpAndEpstein' '#EpsteinCoverup'\n '#TrumpAndEpsteinFiles' '#GeorgeCarlinStyle' '#PedoElite' '#NoMoreLies'\n '#Epstein' '#CarlinSpirit']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868354",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 260,
+      "text_cleaned_length": 0,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmksozy3s2j",
+      "text": "Get ready for Trump to hit Brazil w/500% tariffs since his buddy is now under \u201chouse arrest\u201d! #trump #brazil #tariffs #coffee #jairbolsonaro #news #fyp #fyp\u30b7 \ufffc",
+      "text_cleaned": "Get ready for Trump to hit Brazil w/500% tariffs since his buddy is now under \u201chouse arrest\u201d! \ufffc",
+      "text_preview": "Get ready for Trump to hit Brazil w/500% tariffs since his buddy is now under \u201chouse arrest\u201d! #trump #brazil #tariffs #coffee #jairbolsonaro #news #fyp #fyp\u30b7 \ufffc",
+      "author": "craigahrens.bsky.social",
+      "author_display_name": "Craig Ahrens Official",
+      "created_at": "2025-08-05T01:32:08.782Z",
+      "hashtags": "['#brazil' '#tariffs' '#fyp\u30b7' '#news' '#fyp' '#trump' '#coffee'\n '#jairbolsonaro']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868415",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 159,
+      "text_cleaned_length": 95,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmkwmsfds2y",
+      "text": "How about that teen-age beauty pageant where Trump regularly walked into the dressing room unannounced and then bragged about it? #Trump #Epstein #pedos",
+      "text_cleaned": "How about that teen-age beauty pageant where Trump regularly walked into the dressing room unannounced and then bragged about it?",
+      "text_preview": "How about that teen-age beauty pageant where Trump regularly walked into the dressing room unannounced and then bragged about it? #Trump #Epstein #pedos",
+      "author": "laurenreichelt.bsky.social",
+      "author_display_name": "Lauren Reichelt",
+      "created_at": "2025-08-05T01:34:20.658Z",
+      "hashtags": "['#Trump' '#Epstein' '#pedos']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868329",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 152,
+      "text_cleaned_length": 129,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmkpifvpo27",
+      "text": "Eagles star Saquon Barkley declines invitation to serve on Trump\u2019s sports council\n#Trump",
+      "text_cleaned": "Eagles star Saquon Barkley declines invitation to serve on Trump\u2019s sports council",
+      "text_preview": "Eagles star Saquon Barkley declines invitation to serve on Trump\u2019s sports council\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T01:30:20.917Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868442",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 88,
+      "text_cleaned_length": 81,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvmkpgpvts2i",
+      "text": "Marjorie Taylor Greene presses Trump to pardon George Santos\n#Trump",
+      "text_cleaned": "Marjorie Taylor Greene presses Trump to pardon George Santos",
+      "text_preview": "Marjorie Taylor Greene presses Trump to pardon George Santos\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T01:30:18.061Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868461",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 67,
+      "text_cleaned_length": 60,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmkwygsdk2d",
+      "text": "#Trump #Epstein friend \nwww.instagram.com/reel/DM3fBU9...",
+      "text_cleaned": "friend",
+      "text_preview": "#Trump #Epstein friend \nwww.instagram.com/reel/DM3fBU9...",
+      "author": "puffysdad.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:34:32.862Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:35:03.868323",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:35:10.011000",
+      "text_length": 57,
+      "text_cleaned_length": 6,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
