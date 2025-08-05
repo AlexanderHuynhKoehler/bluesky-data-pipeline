@@ -1,0 +1,392 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_234923",
+    "post_count": 14,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 23:40:10.008000",
+    "latest_received_at": "2025-08-05 23:45:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvov3u6ro22d",
+      "text": "#Trump administration allows six more states to bar #SNAP benefits for processed food.  Starting in 2026,  people receiving SNAP benefits in West Virginia, Florida, Colorado, Louisiana, Oklahoma and Texas will not be able to buy sugary drinks and candy using benefits. \ud83d\udcf0\n\nground.news/article/us-f...",
+      "text_cleaned": "administration allows six more states to bar benefits for processed food. Starting in 2026, people receiving SNAP benefits in West Virginia, Florida, Colorado, Louisiana, Oklahoma and Texas will not be able to buy sugary drinks and candy using benefits. \ud83d\udcf0 ground.news/article/us-f...",
+      "text_preview": "#Trump administration allows six more states to bar #SNAP benefits for processed food.  Starting in 2026,  people receiving SNAP benefits in West Virginia, Florida, Colorado, Louisiana, Oklahoma and T...",
+      "author": "robertweiter.bsky.social",
+      "author_display_name": "Robert Weiter ",
+      "created_at": "2025-08-05T23:41:33.070Z",
+      "hashtags": "['#SNAP' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:45:03.828042",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:45:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 283,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvouzteugk22",
+      "text": "FBI documents from 2008 confirm that Jeffrey Epstein provided information to the FBI as part of a non-prosecution agreement with the State of Florida.\n\nIn return, federal charges were dropped as long as Epstein upheld the terms of his plea deal.\n\n<<< REPOST and FOLLOW >>>\n\n#tRUMP #Epstein",
+      "text_cleaned": "FBI documents from 2008 confirm that Jeffrey Epstein provided information to the FBI as part of a non-prosecution agreement with the State of Florida. In return, federal charges were dropped as long as Epstein upheld the terms of his plea deal. <<< REPOST and FOLLOW >>>",
+      "text_preview": "FBI documents from 2008 confirm that Jeffrey Epstein provided information to the FBI as part of a non-prosecution agreement with the State of Florida.\n\nIn return, federal charges were dropped as long ...",
+      "author": "monstersandangels.bsky.social",
+      "author_display_name": "Monsters & Angels",
+      "created_at": "2025-08-05T23:40:25.108Z",
+      "hashtags": "['#Epstein' '#tRUMP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:45:03.828067",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:45:10.007000",
+      "text_length": 289,
+      "text_cleaned_length": 270,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvov24xezk2j",
+      "text": "Yes, #Republicans are weird. Now, fantasizing about who #Trump son should marry. For if #Barron married #SydneySweeney they could create a #PoliticalDynasty. So, 1. #FoxNews is saying Trump is planning on turning his #Presidency into a #FamilyRunDynasty.\n\napple.news/AWF0jDIpfQ66...",
+      "text_cleaned": "Yes, are weird. Now, fantasizing about who son should marry. For if married they could create a . So, 1. is saying Trump is planning on turning his into a . apple.news/AWF0jDIpfQ66...",
+      "text_preview": "Yes, #Republicans are weird. Now, fantasizing about who #Trump son should marry. For if #Barron married #SydneySweeney they could create a #PoliticalDynasty. So, 1. #FoxNews is saying Trump is plannin...",
+      "author": "silverywildebeest.bsky.social",
+      "author_display_name": "Silvery Wildebeest",
+      "created_at": "2025-08-05T23:40:35.157Z",
+      "hashtags": "['#FamilyRunDynasty' '#FoxNews' '#SydneySweeney' '#PoliticalDynasty'\n '#Presidency' '#Barron' '#Republicans' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:45:03.828060",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:45:10.007000",
+      "text_length": 282,
+      "text_cleaned_length": 183,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvouz6dxzw2h",
+      "text": "\ud83d\udd34 Importance: 75/100\n#news #Featured #TopStories #World #rwanda #trump #government\n\nRwanda has agreed to take as many as 250 migrant deportees from the US, in a deal similar to one struck by the UK...",
+      "text_cleaned": "\ud83d\udd34 Importance: 75/100 Rwanda has agreed to take as many as 250 migrant deportees from the US, in a deal similar to one struck by the UK...",
+      "text_preview": "\ud83d\udd34 Importance: 75/100\n#news #Featured #TopStories #World #rwanda #trump #government\n\nRwanda has agreed to take as many as 250 migrant deportees from the US, in a deal similar to one struck by the UK...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-05T23:32:18+00:00",
+      "hashtags": "['#World' '#TopStories' '#government' '#news' '#trump' '#Featured'\n '#rwanda']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:45:03.828173",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:45:10.007000",
+      "text_length": 200,
+      "text_cleaned_length": 137,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvov7upicj2o",
+      "text": "\n#human rights   #immigration   #rights   #Trump   #women",
+      "text_cleaned": "rights",
+      "text_preview": "\n#human rights   #immigration   #rights   #Trump   #women",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T23:44:08.794284+00:00",
+      "hashtags": "['#immigration' '#Trump' '#rights' '#human' '#women']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:45:03.828008",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:45:10.007000",
+      "text_length": 57,
+      "text_cleaned_length": 6,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvov5mapw22f",
+      "text": "Hope these asshole will interview EVERYONE involved with #Epstein including #Trump. No one should get pass fucking with young ladies under 18. All should be called no matter what orcwho they are.\n\nwww.yahoo.com/news/article...",
+      "text_cleaned": "Hope these asshole will interview EVERYONE involved with including . No one should get pass fucking with young ladies under 18. All should be called no matter what orcwho they are.",
+      "text_preview": "Hope these asshole will interview EVERYONE involved with #Epstein including #Trump. No one should get pass fucking with young ladies under 18. All should be called no matter what orcwho they are.\n\nwww...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-05T23:42:31.855Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:45:03.828026",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:45:10.007000",
+      "text_length": 226,
+      "text_cleaned_length": 180,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvov2yb3z22b",
+      "text": "Met the Monopoly guy. #trump tariffs are ruining him. Trump ruined #Monopoly. How is #miltonbradley not pissed.",
+      "text_cleaned": "Met the Monopoly guy. tariffs are ruining him. Trump ruined . How is not pissed.",
+      "text_preview": "Met the Monopoly guy. #trump tariffs are ruining him. Trump ruined #Monopoly. How is #miltonbradley not pissed.",
+      "author": "cowboyvillain.bsky.social",
+      "author_display_name": "CowboyVillainCosplay",
+      "created_at": "2025-08-05T23:41:03.698Z",
+      "hashtags": "['#miltonbradley' '#Monopoly' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:45:03.828049",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:45:10.007000",
+      "text_length": 111,
+      "text_cleaned_length": 80,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvov4sre4k2d",
+      "text": "I think he means 'go boom.' Or maybe 'ka-boom.' #USpol #Trump",
+      "text_cleaned": "I think he means 'go boom.' Or maybe 'ka-boom.'",
+      "text_preview": "I think he means 'go boom.' Or maybe 'ka-boom.' #USpol #Trump",
+      "author": "decentral21.bsky.social",
+      "author_display_name": "Tony Cartledge",
+      "created_at": "2025-08-05T23:42:05.139Z",
+      "hashtags": "['#USpol' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:45:03.828033",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:45:10.007000",
+      "text_length": 61,
+      "text_cleaned_length": 47,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvov5gwkgg2u",
+      "text": "\n#Krieg   #Putin   #Russland   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Krieg   #Putin   #Russland   #Trump   #Ukraine",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T23:42:47.216475+00:00",
+      "hashtags": "['#Russland' '#Putin' '#Trump' '#Ukraine' '#Krieg']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:45:03.828017",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:45:10.007000",
+      "text_length": 48,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvourysfpv2h",
+      "text": "\u203c After #Republican Sen. John Cornyn of #Texas called on the #FBI to help locate and arrest Democrats who left the state to block a vote on a new congressional map, #Trump said, \u201cThey may have to,\" according to an Associated Press report. ",
+      "text_cleaned": "\u203c After Sen. John Cornyn of called on the to help locate and arrest Democrats who left the state to block a vote on a new congressional map, said, \u201cThey may have to,\" according to an Associated Press report.",
+      "text_preview": "\u203c After #Republican Sen. John Cornyn of #Texas called on the #FBI to help locate and arrest Democrats who left the state to block a vote on a new congressional map, #Trump said, \u201cThey may have to,\" ac...",
+      "author": "kwtx.com",
+      "author_display_name": "KWTX News 10",
+      "created_at": "2025-08-05T23:36:02.341Z",
+      "hashtags": "['#Texas' '#Republican' '#FBI' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:40:03.859396",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:40:10.008000",
+      "text_length": 239,
+      "text_cleaned_length": 207,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvouvyxixk2o",
+      "text": "Trump is a pedophile, but not just a pedophile. He likes to assault everyone in literally any way he can.   \n                                   imo.\nyoutu.be/YjRkRy1XyX0?...\n#Trump #Epstein #CoverUp #Bondi #Maralago #FDJT #PalmSprings",
+      "text_cleaned": "Trump is a pedophile, but not just a pedophile. He likes to assault everyone in literally any way he can. imo. youtu.be/YjRkRy1XyX0?...",
+      "text_preview": "Trump is a pedophile, but not just a pedophile. He likes to assault everyone in literally any way he can.   \n                                   imo.\nyoutu.be/YjRkRy1XyX0?...\n#Trump #Epstein #CoverUp #...",
+      "author": "rizzowang.bsky.social",
+      "author_display_name": "\ud83c\uddfa\ud83c\uddf8\u2640\ufe0f\ud83c\udf08Rizzowang",
+      "created_at": "2025-08-05T23:38:16.751Z",
+      "hashtags": "['#Maralago' '#FDJT' '#CoverUp' '#Trump' '#PalmSprings' '#Bondi'\n '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:40:03.859378",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:40:10.008000",
+      "text_length": 234,
+      "text_cleaned_length": 135,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvouqb3qygx2",
+      "text": "Trump could demand the Olympics be \"Whites Only\" and it would still go ahead and countries would just have to adapt. I see no spine anywhere....\n\n#Trump #Olympics #Whiteness",
+      "text_cleaned": "Trump could demand the Olympics be \"Whites Only\" and it would still go ahead and countries would just have to adapt. I see no spine anywhere....",
+      "text_preview": "Trump could demand the Olympics be \"Whites Only\" and it would still go ahead and countries would just have to adapt. I see no spine anywhere....\n\n#Trump #Olympics #Whiteness",
+      "author": "lazarou.mastodon.social.ap.brid.gy",
+      "author_display_name": "Lazarou Monkey Terror \ud83d\ude80\ud83d\udc99\ud83c\udf08",
+      "created_at": "2025-08-05T23:35:01.000Z",
+      "hashtags": "['#Whiteness' '#Olympics' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:40:03.859403",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:40:10.008000",
+      "text_length": 173,
+      "text_cleaned_length": 144,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvousogkzk2j",
+      "text": "mass death is literally the #maga #trump #jdvance #vance #theil #thiel #climate emergency action plan",
+      "text_cleaned": "mass death is literally the emergency action plan",
+      "text_preview": "mass death is literally the #maga #trump #jdvance #vance #theil #thiel #climate emergency action plan",
+      "author": "kansaswoman.bsky.social",
+      "author_display_name": "KansasWoman",
+      "created_at": "2025-08-05T23:36:25.045Z",
+      "hashtags": "['#vance' '#theil' '#thiel' '#jdvance' '#climate' '#trump' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:40:03.859386",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:40:10.008000",
+      "text_length": 101,
+      "text_cleaned_length": 49,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvouylpdgk2q",
+      "text": "#Trump plans to build a penthouse suite",
+      "text_cleaned": "plans to build a penthouse suite",
+      "text_preview": "#Trump plans to build a penthouse suite",
+      "author": "jpvoorhees.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T23:39:43.515Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T23:40:03.859370",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 23:40:10.008000",
+      "text_length": 39,
+      "text_cleaned_length": 32,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
