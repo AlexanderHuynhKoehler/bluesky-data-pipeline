@@ -1,0 +1,608 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_224901",
+    "post_count": 22,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 22:40:10.014000",
+    "latest_received_at": "2025-08-05 22:45:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvorroq6vhk2",
+      "text": "#Trump says #FBI \u2018may have to\u2019 help bring #Texas #Democrats back to state\n\nAfter Republican Sen John Cornyn of Texas called on the FBI to help locate & #arrest Democrats who left the state to block a vote on a new congressional map, Trump said, \u201cThey may have to.\u201d\n\n\u201cA lot of people have demanded [\u2026]",
+      "text_cleaned": "says \u2018may have to\u2019 help bring back to state After Republican Sen John Cornyn of Texas called on the FBI to help locate & Democrats who left the state to block a vote on a new congressional map, Trump said, \u201cThey may have to.\u201d \u201cA lot of people have demanded [\u2026]",
+      "text_preview": "#Trump says #FBI \u2018may have to\u2019 help bring #Texas #Democrats back to state\n\nAfter Republican Sen John Cornyn of Texas called on the FBI to help locate & #arrest Democrats who left the state to block a ...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T22:41:51.000Z",
+      "hashtags": "['#Democrats' '#FBI' '#Trump' '#arrest' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636477",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 260,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvort7ine6x2",
+      "text": "#Legal experts & even #Republican state AG #KenPaxton say it would be difficult to enforce consequences against the Democratic lawmakers.\n\n#Texas House rules allow for fines of $500 every day the #Democrats are absent. The #House also issued civil warrants for the missing lawmakers to be [\u2026]",
+      "text_cleaned": "experts & even state AG say it would be difficult to enforce consequences against the Democratic lawmakers. House rules allow for fines of $500 every day the are absent. The also issued civil warrants for the missing lawmakers to be [\u2026]",
+      "text_preview": "#Legal experts & even #Republican state AG #KenPaxton say it would be difficult to enforce consequences against the Democratic lawmakers.\n\n#Texas House rules allow for fines of $500 every day the #Dem...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T22:42:55.000Z",
+      "hashtags": "['#Democrats' '#Republican' '#House' '#Legal' '#KenPaxton' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636454",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 292,
+      "text_cleaned_length": 236,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorvsfe432b",
+      "text": "#ANINews Watch full event: Trump launches White House Task Force for 2028 Summer Olympics; signs\u00a0order\n\nWatch full event: Trump launches White House Task Force for 2028 Summer Olympics; signs order Watch full event: Trump launches White House Task Force for 2028 Summer Olympics; signs order #Trump\u2026",
+      "text_cleaned": "Watch full event: Trump launches White House Task Force for 2028 Summer Olympics; signs order Watch full event: Trump launches White House Task Force for 2028 Summer Olympics; signs order Watch full event: Trump launches White House Task Force for 2028 Summer Olympics; signs order \u2026",
+      "text_preview": "#ANINews Watch full event: Trump launches White House Task Force for 2028 Summer Olympics; signs\u00a0order\n\nWatch full event: Trump launches White House Task Force for 2028 Summer Olympics; signs order Wa...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-05T22:44:27Z",
+      "hashtags": "['#ANINews' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636409",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 283,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorofcqe22d",
+      "text": "\" #Trump takes unexpected and unusual walk on the #WhiteHouse roof and shouted to reporters below that he was looking at \"another way to spend my money for this country\". He shouted \" #nuclearmissiles\" when asked what he was looking to build on the #WhiteHouse roof\". @apnews.com. August 5, 2025",
+      "text_cleaned": "\" takes unexpected and unusual walk on the roof and shouted to reporters below that he was looking at \"another way to spend my money for this country\". He shouted \" \" when asked what he was looking to build on the roof\". .com. August 5, 2025",
+      "text_preview": "\" #Trump takes unexpected and unusual walk on the #WhiteHouse roof and shouted to reporters below that he was looking at \"another way to spend my money for this country\". He shouted \" #nuclearmissiles...",
+      "author": "judgian12365.bsky.social",
+      "author_display_name": "Ian Judge-Lord",
+      "created_at": "2025-08-05T22:40:20.040Z",
+      "hashtags": "['#WhiteHouse' '#nuclearmissiles' '#Trump']",
+      "mentions": "['@apnews.com.']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636487",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 295,
+      "text_cleaned_length": 241,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorvewbvc2c",
+      "text": "Oooops. Sorry Trump.   Well, maybe we are not sorry. \n\nS&P/TSX composite starts the week on the rise while U.S. markets fall\n\n#Canada #US #Finance #Trump \n\nwww.ctvnews.ca/business/art...",
+      "text_cleaned": "Oooops. Sorry Trump. Well, maybe we are not sorry. S&P/TSX composite starts the week on the rise while U.S. markets fall",
+      "text_preview": "Oooops. Sorry Trump.   Well, maybe we are not sorry. \n\nS&P/TSX composite starts the week on the rise while U.S. markets fall\n\n#Canada #US #Finance #Trump \n\nwww.ctvnews.ca/business/art...",
+      "author": "mythicaldragoness.bsky.social",
+      "author_display_name": "MythicalDragoness \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-05T22:44:14.513Z",
+      "hashtags": "['#Trump' '#US' '#Finance' '#Canada']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636420",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 186,
+      "text_cleaned_length": 120,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorrwlbpc2z",
+      "text": "Just heard Maxwell is pointing to her due process...she wasn't born in the US..why does she get due process when other migrants do not? #Epstein #Maxwell  #Trump",
+      "text_cleaned": "Just heard Maxwell is pointing to her due process...she wasn't born in the US..why does she get due process when other migrants do not?",
+      "text_preview": "Just heard Maxwell is pointing to her due process...she wasn't born in the US..why does she get due process when other migrants do not? #Epstein #Maxwell  #Trump",
+      "author": "katmcs.bsky.social",
+      "author_display_name": "Katmcs",
+      "created_at": "2025-08-05T22:42:18.809Z",
+      "hashtags": "['#Maxwell' '#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636465",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 161,
+      "text_cleaned_length": 135,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvortwc2w22u",
+      "text": "@CdnPressNews #CdnPressNews #US #stocks slip following the latest discouraging signal on the #economy\nwww.youtube.com/watch?v=dhox... \nwww.msn.com/en-ca/money/...",
+      "text_cleaned": "slip following the latest discouraging signal on the",
+      "text_preview": "@CdnPressNews #CdnPressNews #US #stocks slip following the latest discouraging signal on the #economy\nwww.youtube.com/watch?v=dhox... \nwww.msn.com/en-ca/money/...",
+      "author": "authorpcollins.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T22:43:25.616Z",
+      "hashtags": "['#stocks' '#economy' '#US' '#CdnPressNews']",
+      "mentions": "['@CdnPressNews']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636018",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 162,
+      "text_cleaned_length": 52,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvortdlimk2m",
+      "text": "Trump is tired of hearing about the Epstein Files, so let's just call them the Pedo Files. #EpsteinFiles #Trump",
+      "text_cleaned": "Trump is tired of hearing about the Epstein Files, so let's just call them the Pedo Files.",
+      "text_preview": "Trump is tired of hearing about the Epstein Files, so let's just call them the Pedo Files. #EpsteinFiles #Trump",
+      "author": "mycandlesp.bsky.social",
+      "author_display_name": "Peter McCandless",
+      "created_at": "2025-08-05T22:43:05.999Z",
+      "hashtags": "['#EpsteinFiles' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636440",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 111,
+      "text_cleaned_length": 90,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoruqva7s2z",
+      "text": "#epstein #trump\n\nunprecedented.ghost.io/archive/the-...",
+      "text_cleaned": "unprecedented.ghost.io/archive/the-...",
+      "text_preview": "#epstein #trump\n\nunprecedented.ghost.io/archive/the-...",
+      "author": "traci-k.bsky.social",
+      "author_display_name": "Traci-K",
+      "created_at": "2025-08-05T22:43:53.507Z",
+      "hashtags": "['#epstein' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636431",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 55,
+      "text_cleaned_length": 38,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoroa362c25",
+      "text": "#Epstein #Trump #Jump",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Jump",
+      "author": "fairlyvocal.bsky.social",
+      "author_display_name": "\ud83c\udde8\ud83c\udde6 Fairly\u2022Vocal\u2022Pete \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-05T22:40:14.550Z",
+      "hashtags": "['#Jump' '#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 4,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:45:04.636498",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:45:10.008000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 5.5
+    },
+    {
+      "post_id": "3lvorgcoqd22x",
+      "text": "\u201cPresident Donald #Trump doubled down on his decision to dismiss the head of the Bureau of Labor Statistics, casting the agency that published a bleak jobs report last week as broken & corrupt.\u201d He\u2019s flailing. Pitiably. Maxwell pardon next? #fascism #democracy  www.washingtonpost.com/business/202...",
+      "text_cleaned": "\u201cPresident Donald doubled down on his decision to dismiss the head of the Bureau of Labor Statistics, casting the agency that published a bleak jobs report last week as broken & corrupt.\u201d He\u2019s flailing. Pitiably. Maxwell pardon next?",
+      "text_preview": "\u201cPresident Donald #Trump doubled down on his decision to dismiss the head of the Bureau of Labor Statistics, casting the agency that published a bleak jobs report last week as broken & corrupt.\u201d He\u2019s ...",
+      "author": "mediaactive.bsky.social",
+      "author_display_name": "MediaActive \u25aa\ufe0fEQUALITY \u25aa\ufe0fJUSTICE \u25aa\ufe0fPEACE",
+      "created_at": "2025-08-05T22:35:48.852Z",
+      "hashtags": "['#Trump' '#fascism' '#democracy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817828",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 300,
+      "text_cleaned_length": 233,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorjkuk5zp2",
+      "text": "#RFKJr said in the Tuesday statement that he wants the #health department to move away from #mRNA #vaccines, calling on the department to start \u201cinvesting in better solutions.\u201d He provided no details on what those technologies might be.\n\n#Trump #policy #PublicHealth #science #medicine #idiocracy [\u2026]",
+      "text_cleaned": "said in the Tuesday statement that he wants the department to move away from , calling on the department to start \u201cinvesting in better solutions.\u201d He provided no details on what those technologies might be. [\u2026]",
+      "text_preview": "#RFKJr said in the Tuesday statement that he wants the #health department to move away from #mRNA #vaccines, calling on the department to start \u201cinvesting in better solutions.\u201d He provided no details ...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T22:37:33.000Z",
+      "hashtags": "['#idiocracy' '#medicine' '#PublicHealth' '#health' '#RFKJr' '#science'\n '#policy' '#mRNA' '#Trump' '#vaccines']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817791",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 300,
+      "text_cleaned_length": 210,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorhtzghgq2",
+      "text": "The projects \u2014 22 of them \u2014 are being led by some of the nation\u2019s leading pharmaceutical companies like Pfizer & Moderna to prevent #flu, #COVID-19 & #H5N1 infections.\n\nThe #mRNA #vaccines are credited with slowing the 2020 #coronavirus #pandemic.\n\n#RFKJr #Trump #policy #PublicHealth #health [\u2026]",
+      "text_cleaned": "The projects \u2014 22 of them \u2014 are being led by some of the nation\u2019s leading pharmaceutical companies like Pfizer & Moderna to prevent , -19 & infections. The are credited with slowing the 2020 . [\u2026]",
+      "text_preview": "The projects \u2014 22 of them \u2014 are being led by some of the nation\u2019s leading pharmaceutical companies like Pfizer & Moderna to prevent #flu, #COVID-19 & #H5N1 infections.\n\nThe #mRNA #vaccines are credite...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T22:36:29.000Z",
+      "hashtags": "['#flu' '#coronavirus' '#H5N1' '#PublicHealth' '#health' '#RFKJr' '#COVID'\n '#pandemic' '#mRNA' '#policy' '#Trump' '#vaccines']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817811",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 296,
+      "text_cleaned_length": 196,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvorg5cp5tm2",
+      "text": "#RFKJr pulls $500 million in #funding for #vaccine development\n\nThe #HHS will cancel contracts & pull funding for some #vaccines that are being developed to fight #respiratory #viruses like #COVID19 & the #flu.\n\nRFKJr, the *#health* secy & a longtime vaccine critic, announced in a statement Tues [\u2026]",
+      "text_cleaned": "pulls $500 million in for development The will cancel contracts & pull funding for some that are being developed to fight like & the . RFKJr, the ** secy & a longtime vaccine critic, announced in a statement Tues [\u2026]",
+      "text_preview": "#RFKJr pulls $500 million in #funding for #vaccine development\n\nThe #HHS will cancel contracts & pull funding for some #vaccines that are being developed to fight #respiratory #viruses like #COVID19 &...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T22:35:10.000Z",
+      "hashtags": "['#funding' '#COVID19' '#flu' '#HHS' '#health' '#RFKJr' '#vaccine'\n '#viruses' '#respiratory' '#vaccines']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817848",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 300,
+      "text_cleaned_length": 216,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvorkhuq4c2j",
+      "text": "This describes Trump perfectly. A bad gangster. Who has no idea how to run the #mafia. Just like he had no idea how to run his businesses. He bankrupted 2 casinos that says a lot about his economic understanding. #Trump has none.\n\napple.news/A8X8O9FrmQTC...",
+      "text_cleaned": "This describes Trump perfectly. A bad gangster. Who has no idea how to run the . Just like he had no idea how to run his businesses. He bankrupted 2 casinos that says a lot about his economic understanding. has none. apple.news/A8X8O9FrmQTC...",
+      "text_preview": "This describes Trump perfectly. A bad gangster. Who has no idea how to run the #mafia. Just like he had no idea how to run his businesses. He bankrupted 2 casinos that says a lot about his economic un...",
+      "author": "silverywildebeest.bsky.social",
+      "author_display_name": "Silvery Wildebeest",
+      "created_at": "2025-08-05T22:38:08.509Z",
+      "hashtags": "['#Trump' '#mafia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817770",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 257,
+      "text_cleaned_length": 243,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvorgn6jgs2i",
+      "text": "There have been a number of #Republicans like Josh Hawley who say they'll change parties but don't be fooled, they'd only change parties to keep doing what #Trump tells them to do. Look at John Fetterman of Pennsylvania, a #Democrat who acts like a Republican.",
+      "text_cleaned": "There have been a number of like Josh Hawley who say they'll change parties but don't be fooled, they'd only change parties to keep doing what tells them to do. Look at John Fetterman of Pennsylvania, a who acts like a Republican.",
+      "text_preview": "There have been a number of #Republicans like Josh Hawley who say they'll change parties but don't be fooled, they'd only change parties to keep doing what #Trump tells them to do. Look at John Fetter...",
+      "author": "tess-mac.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T22:35:59.855Z",
+      "hashtags": "['#Republicans' '#Trump' '#Democrat']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817820",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 260,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorngo5h227",
+      "text": "Under the Trump regime, with budget cuts, progamme cancellations and funding cancellations, the #US can expect scores more of similar disasters. One can only hope that #Trump #Vance & #Musk number among the death toll.",
+      "text_cleaned": "Under the Trump regime, with budget cuts, progamme cancellations and funding cancellations, the can expect scores more of similar disasters. One can only hope that & number among the death toll.",
+      "text_preview": "Under the Trump regime, with budget cuts, progamme cancellations and funding cancellations, the #US can expect scores more of similar disasters. One can only hope that #Trump #Vance & #Musk number amo...",
+      "author": "emjay-dubbya.bsky.social",
+      "author_display_name": "EmJay Dubbya",
+      "created_at": "2025-08-05T22:39:47.909Z",
+      "hashtags": "['#Musk' '#Trump' '#Vance' '#US']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817742",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 218,
+      "text_cleaned_length": 194,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvornbbxok2j",
+      "text": "But sadly people r so willing to follow this fool, #Trump. Why? They also have the audacity to say he\u2019s a good Christian. Simply he\u2019s not. He lies. He lied about his relationship with #Epstein.",
+      "text_cleaned": "But sadly people r so willing to follow this fool, . Why? They also have the audacity to say he\u2019s a good Christian. Simply he\u2019s not. He lies. He lied about his relationship with .",
+      "text_preview": "But sadly people r so willing to follow this fool, #Trump. Why? They also have the audacity to say he\u2019s a good Christian. Simply he\u2019s not. He lies. He lied about his relationship with #Epstein.",
+      "author": "silverywildebeest.bsky.social",
+      "author_display_name": "Silvery Wildebeest",
+      "created_at": "2025-08-05T22:39:42.266Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817753",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 193,
+      "text_cleaned_length": 179,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorlshnfc25",
+      "text": "Trump Officially Launches Investigation Into Jack Smith For Investigating Him\n\n#JackSmith #Jan6thInsurrection \n#Trump #Republicans #TrumpIsUnfitForOffice #TrumpIsAWannabeDictator #RepublicansAreDestroyingAmerica \n\nyoutube.com/watch?v=bHCo...",
+      "text_cleaned": "Trump Officially Launches Investigation Into Jack Smith For Investigating Him youtube.com/watch?v=bHCo...",
+      "text_preview": "Trump Officially Launches Investigation Into Jack Smith For Investigating Him\n\n#JackSmith #Jan6thInsurrection \n#Trump #Republicans #TrumpIsUnfitForOffice #TrumpIsAWannabeDictator #RepublicansAreDestro...",
+      "author": "matteroffactfinder.bsky.social",
+      "author_display_name": "Cheryl Hardy \ud83c\uddec\ud83c\udde7",
+      "created_at": "2025-08-05T22:38:53.168Z",
+      "hashtags": "['#Republicans' '#RepublicansAreDestroyingAmerica'\n '#TrumpIsUnfitForOffice' '#JackSmith' '#Trump' '#TrumpIsAWannabeDictator'\n '#Jan6thInsurrection']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817762",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 241,
+      "text_cleaned_length": 105,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorjp4m6o23",
+      "text": "The nice Nazi woman from the child molestation ring doesn't want you to see the transcripts.\n\n#ChildAbuse #molestation #Epstein #Trump #USA #USpolitics #corruption #fascism\n#democracy #gop #fascists\n\n\ud83d\udc49 Vote 'em Out!\n",
+      "text_cleaned": "The nice Nazi woman from the child molestation ring doesn't want you to see the transcripts. \ud83d\udc49 Vote 'em Out!",
+      "text_preview": "The nice Nazi woman from the child molestation ring doesn't want you to see the transcripts.\n\n#ChildAbuse #molestation #Epstein #Trump #USA #USpolitics #corruption #fascism\n#democracy #gop #fascists\n\n...",
+      "author": "cubanx.bsky.social",
+      "author_display_name": "CubanX",
+      "created_at": "2025-08-05T22:37:42.368132+00:00",
+      "hashtags": "['#USpolitics' '#democracy' '#Epstein' '#fascists' '#fascism' '#USA'\n '#gop' '#corruption' '#Trump' '#ChildAbuse' '#molestation']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817781",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 216,
+      "text_cleaned_length": 108,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoriy2xxk2z",
+      "text": "#Politics #UnitedStates #Truth #Trump #Realization #Video \n\nTRUMP RIPPED OFF THE BANDAID \n\nyoutube.com/shorts/xKyd2...",
+      "text_cleaned": "TRUMP RIPPED OFF THE BANDAID youtube.com/shorts/xKyd2...",
+      "text_preview": "#Politics #UnitedStates #Truth #Trump #Realization #Video \n\nTRUMP RIPPED OFF THE BANDAID \n\nyoutube.com/shorts/xKyd2...",
+      "author": "lillyfinch.bsky.social",
+      "author_display_name": "Catherine Schmidt",
+      "created_at": "2025-08-05T22:37:18.383Z",
+      "hashtags": "['#Truth' '#Video' '#Politics' '#UnitedStates' '#Realization' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817801",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 118,
+      "text_cleaned_length": 56,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorf4ockm2q",
+      "text": "\n#Moskau   #Russland   #Steve Witkoff   #Trump   #Ukraine",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Moskau   #Russland   #Steve Witkoff   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-05T22:35:30.000309+00:00",
+      "hashtags": "['#Moskau' '#Steve' '#Ukraine' '#Russland' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:40:03.817836",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:40:10.014000",
+      "text_length": 57,
+      "text_cleaned_length": 7,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
