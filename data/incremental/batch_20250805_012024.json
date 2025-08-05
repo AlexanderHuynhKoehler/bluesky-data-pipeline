@@ -1,0 +1,149 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_012024",
+    "post_count": 5,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 01:15:10.006000",
+    "latest_received_at": "2025-08-05 01:15:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmjnh3emk2d",
+      "text": "#Democrats rage against the #Trump machine. Will they ever learn? | Opinion\n#Democratic leaders refuse to learn lessons about why they lost in November. Instead, they continue to cling desperately to #progressive positions that most #Americans don't agree with.",
+      "text_cleaned": "rage against the machine. Will they ever learn? | Opinion leaders refuse to learn lessons about why they lost in November. Instead, they continue to cling desperately to positions that most don't agree with.",
+      "text_preview": "#Democrats rage against the #Trump machine. Will they ever learn? | Opinion\n#Democratic leaders refuse to learn lessons about why they lost in November. Instead, they continue to cling desperately to ...",
+      "author": "usaneeds3rdparty.bsky.social",
+      "author_display_name": "Independent Moderate",
+      "created_at": "2025-08-05T01:11:18.930Z",
+      "hashtags": "['#Trump' '#Americans' '#Democrats' '#Democratic' '#progressive']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:15:03.191301",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:15:10.006000",
+      "text_length": 261,
+      "text_cleaned_length": 207,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmjlepu6rs2",
+      "text": "What are you going to do, #Trump--fire the #American people because you don't like their #grocerybill numbers?\n___\nAbout half of US adults say grocery costs cause major stress, poll finds | AP News [\u2026]",
+      "text_cleaned": "What are you going to do, --fire the people because you don't like their numbers? ___ About half of US adults say grocery costs cause major stress, poll finds | AP News [\u2026]",
+      "text_preview": "What are you going to do, #Trump--fire the #American people because you don't like their #grocerybill numbers?\n___\nAbout half of US adults say grocery costs cause major stress, poll finds | AP News [\u2026...",
+      "author": "wms.c.im.ap.brid.gy",
+      "author_display_name": "We Must Strike",
+      "created_at": "2025-08-04T23:53:20.000Z",
+      "hashtags": "['#Trump' '#grocerybill' '#American']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:15:03.191131",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:15:10.006000",
+      "text_length": 201,
+      "text_cleaned_length": 172,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmjks5dby2q",
+      "text": "\n#refugees   #Russia   #Trump   #Trump administration   #Ukrainian refugees   #Ukrainians   #war",
+      "text_cleaned": "administration refugees",
+      "text_preview": "\n#refugees   #Russia   #Trump   #Trump administration   #Ukrainian refugees   #Ukrainians   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T01:09:55.918320+00:00",
+      "hashtags": "['#Trump' '#war' '#Russia' '#Ukrainians' '#Ukrainian' '#refugees']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:15:03.191319",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:15:10.006000",
+      "text_length": 96,
+      "text_cleaned_length": 23,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmjsqpooc2d",
+      "text": "#Espstein #EpsteinFiles #Trump and sex predator #GhislaineMaxwell \nwww.msn.com/en-us/crime/...",
+      "text_cleaned": "and sex predator",
+      "text_preview": "#Espstein #EpsteinFiles #Trump and sex predator #GhislaineMaxwell \nwww.msn.com/en-us/crime/...",
+      "author": "puffysdad.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:14:16.805Z",
+      "hashtags": "['#Trump' '#Espstein' '#EpsteinFiles' '#GhislaineMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:15:03.191293",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:15:10.006000",
+      "text_length": 94,
+      "text_cleaned_length": 16,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmjmbpkyk2k",
+      "text": "newrepublic.com/post/198795/... #tourism #trump",
+      "text_cleaned": "newrepublic.com/post/198795/...",
+      "text_preview": "newrepublic.com/post/198795/... #tourism #trump",
+      "author": "blueginger99.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:10:39.746Z",
+      "hashtags": "['#tourism' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T01:15:03.191310",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 01:15:10.006000",
+      "text_length": 47,
+      "text_cleaned_length": 31,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    }
+  ]
+}
