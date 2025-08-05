@@ -1,0 +1,68 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_050215",
+    "post_count": 2,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 04:55:10.007000",
+    "latest_received_at": "2025-08-05 05:00:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmwfnb3jc2n",
+      "text": "While #Trump trashes #America & takes care of his fellow Pedophiles; Canada picked up the slack.\n\nWell needed food & aid to #GAZA \n\nWay to go #Canada! \n\nStop the genocide #SavePalenstine \n\nyoutu.be/T0MC3-9cvw0?...",
+      "text_cleaned": "While trashes & takes care of his fellow Pedophiles; Canada picked up the slack. Well needed food & aid to Way to go ! Stop the genocide youtu.be/T0MC3-9cvw0?...",
+      "text_preview": "While #Trump trashes #America & takes care of his fellow Pedophiles; Canada picked up the slack.\n\nWell needed food & aid to #GAZA \n\nWay to go #Canada! \n\nStop the genocide #SavePalenstine \n\nyoutu.be/T0...",
+      "author": "sheri89.bsky.social",
+      "author_display_name": "Sheri-Anne",
+      "created_at": "2025-08-05T04:59:35.617Z",
+      "hashtags": "['#Trump' '#America' '#Canada' '#GAZA' '#SavePalenstine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:00:03.604305",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:00:10.007000",
+      "text_length": 213,
+      "text_cleaned_length": 161,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmvyevybc2e",
+      "text": "#GhislaineMaxwell #Epstein #Trump #PedoTrump #MAGA #GOPedophiles #TrumpRapesLittleGirls #SpeakerJohnson\n\nwww.youtube.com/watch?v=yX0q...",
+      "text_cleaned": "",
+      "text_preview": "#GhislaineMaxwell #Epstein #Trump #PedoTrump #MAGA #GOPedophiles #TrumpRapesLittleGirls #SpeakerJohnson\n\nwww.youtube.com/watch?v=yX0q...",
+      "author": "damanonthestreet.bsky.social",
+      "author_display_name": "Da Man On The Street",
+      "created_at": "2025-08-05T04:52:10.658Z",
+      "hashtags": "['#Epstein' '#MAGA' '#TrumpRapesLittleGirls' '#GhislaineMaxwell'\n '#SpeakerJohnson' '#GOPedophiles' '#Trump' '#PedoTrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:55:03.803158",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:55:10.007000",
+      "text_length": 136,
+      "text_cleaned_length": 0,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
