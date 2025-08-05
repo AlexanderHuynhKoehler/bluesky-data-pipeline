@@ -1,0 +1,1067 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_032129",
+    "post_count": 39,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 03:15:10.008000",
+    "latest_received_at": "2025-08-05 03:20:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmqoqrk7c2c",
+      "text": "Every one of the tens of thousands of recently unemployed tourism workers, including those in Nevada, Florida, California and New York should personally thank convicted FELON Adolf #Trump for their lost meals, cars, homes... and dreams.\n\nRemember, #taxcuts for his #billionaire pals are his priority!",
+      "text_cleaned": "Every one of the tens of thousands of recently unemployed tourism workers, including those in Nevada, Florida, California and New York should personally thank convicted FELON Adolf for their lost meals, cars, homes... and dreams. Remember, for his pals are his priority!",
+      "text_preview": "Every one of the tens of thousands of recently unemployed tourism workers, including those in Nevada, Florida, California and New York should personally thank convicted FELON Adolf #Trump for their lo...",
+      "author": "iamdagny.bsky.social",
+      "author_display_name": "I Am Dagny\u2122",
+      "created_at": "2025-08-05T03:17:18.842Z",
+      "hashtags": "['#taxcuts' '#billionaire' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426226",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 270,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqriaxo223",
+      "text": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/j6M15LZh",
+      "text_cleaned": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... .ai",
+      "text_preview": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkwa...",
+      "author": "cosmicmeta.io",
+      "author_display_name": "Cosmic Meta IO",
+      "created_at": "2025-08-05T03:18:50.266Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426191",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 275,
+      "text_cleaned_length": 232,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqqh5sw32w",
+      "text": "More of them MAGAs \ud83e\udd26\ud83c\udffd\ud83e\udd26\ud83c\udffd\ud83e\udd26\ud83c\udffd\ud83e\udd26\ud83c\udffd\n\n #magas #blacksky #trump #maga #mexico #politiktok #felon47 #politik #felon47 #blacktok #bluesky #republican #democrat #fdt #fafo #nowthis #karen #fightfacsim #trumpsupporters #satire #politicalsatire \n",
+      "text_cleaned": "More of them MAGAs \ud83e\udd26\ud83c\udffd\ud83e\udd26\ud83c\udffd\ud83e\udd26\ud83c\udffd\ud83e\udd26\ud83c\udffd",
+      "text_preview": "More of them MAGAs \ud83e\udd26\ud83c\udffd\ud83e\udd26\ud83c\udffd\ud83e\udd26\ud83c\udffd\ud83e\udd26\ud83c\udffd\n\n #magas #blacksky #trump #maga #mexico #politiktok #felon47 #politik #felon47 #blacktok #bluesky #republican #democrat #fdt #fafo #nowthis #karen #fightfacsim #trumpsuppor...",
+      "author": "itschristianbeotch.bsky.social",
+      "author_display_name": "The Anti Fan",
+      "created_at": "2025-08-05T03:18:15.577Z",
+      "hashtags": "['#blacksky' '#felon47' '#bluesky' '#republican' '#politicalsatire'\n '#democrat' '#maga' '#fdt' '#mexico' '#karen' '#blacktok' '#politiktok'\n '#trump' '#nowthis' '#trumpsupporters' '#satire' '#fightfacsim' '#magas'\n '#politik' '#fafo']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426206",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 231,
+      "text_cleaned_length": 27,
+      "hashtag_count": 20,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqsnm7ck2c",
+      "text": "#auspol\nHow many more is acceptable @albomp.bsky.social @senatorwong.bsky.social #Starmer #Trump #UKpol #USpol #USpoli",
+      "text_cleaned": "How many more is acceptable .bsky.social .bsky.social",
+      "text_preview": "#auspol\nHow many more is acceptable @albomp.bsky.social @senatorwong.bsky.social #Starmer #Trump #UKpol #USpol #USpoli",
+      "author": "wnhy.bsky.social",
+      "author_display_name": "Wouldn\u2019t it be great if we ran out of hate",
+      "created_at": "2025-08-05T03:19:29.734Z",
+      "hashtags": "['#Starmer' '#auspol' '#USpol' '#UKpol' '#USpoli' '#Trump']",
+      "mentions": "['@senatorwong.bsky.social' '@albomp.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426183",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 118,
+      "text_cleaned_length": 53,
+      "hashtag_count": 6,
+      "mention_count": 2,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqmvimmk2v",
+      "text": "How do you Feel about Trump? #trump #detroit #detroitevents #cgtv #charliegtv #streetinterviews #mos #charliegtvstreetinterviews #comedy",
+      "text_cleaned": "How do you Feel about Trump?",
+      "text_preview": "How do you Feel about Trump? #trump #detroit #detroitevents #cgtv #charliegtv #streetinterviews #mos #charliegtvstreetinterviews #comedy",
+      "author": "charliegtv.bsky.social",
+      "author_display_name": "CharlieGtv",
+      "created_at": "2025-08-05T03:16:16.338560Z",
+      "hashtags": "['#charliegtv' '#streetinterviews' '#detroitevents' '#cgtv' '#comedy'\n '#detroit' '#charliegtvstreetinterviews' '#trump' '#mos']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426253",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 136,
+      "text_cleaned_length": 28,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqm7efx223",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:15:53.477Z",
+      "hashtags": "['#Epstein' '#Maxwell' '#PedophilePresident' '#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426275",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqmrsir223",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:16:12.813Z",
+      "hashtags": "['#Epstein' '#Maxwell' '#PedophilePresident' '#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426261",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqn7do3k23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:16:27.007Z",
+      "hashtags": "['#Epstein' '#Maxwell' '#PedophilePresident' '#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426238",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqmzoagc23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:16:21.061Z",
+      "hashtags": "['#Epstein' '#Maxwell' '#PedophilePresident' '#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426245",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqmf46sk23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:15:59.498Z",
+      "hashtags": "['#Epstein' '#Maxwell' '#PedophilePresident' '#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426268",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqlg4mdk23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:15:27.006Z",
+      "hashtags": "['#Epstein' '#Maxwell' '#PedophilePresident' '#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426283",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqkyt44s23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:15:13.063Z",
+      "hashtags": "['#Epstein' '#Maxwell' '#PedophilePresident' '#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426290",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqphcgks2c",
+      "text": "Maybe #Trump is turning them all in!",
+      "text_cleaned": "Maybe is turning them all in!",
+      "text_preview": "Maybe #Trump is turning them all in!",
+      "author": "trump-2028.bsky.social",
+      "author_display_name": "Trump 2028",
+      "created_at": "2025-08-05T03:17:42.464Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:20:03.426218",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:20:10.006000",
+      "text_length": 36,
+      "text_cleaned_length": 29,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqcsuf2k2k",
+      "text": "The Emerging #Democratic #Minority. 2024 results were consistent with #Clinton defeat in 2016. The #Democrats victory 2020 was result of exceptional circumstances #Trump mishandling the #pandemic #Democratic establishment boost of least unelectable candidate #Biden pandemic shielding that candidate",
+      "text_cleaned": "The Emerging . 2024 results were consistent with defeat in 2016. The victory 2020 was result of exceptional circumstances mishandling the establishment boost of least unelectable candidate pandemic shielding that candidate",
+      "text_preview": "The Emerging #Democratic #Minority. 2024 results were consistent with #Clinton defeat in 2016. The #Democrats victory 2020 was result of exceptional circumstances #Trump mishandling the #pandemic #Dem...",
+      "author": "usaneeds3rdparty.bsky.social",
+      "author_display_name": "Independent Moderate",
+      "created_at": "2025-08-05T03:10:38.378Z",
+      "hashtags": "['#Minority' '#Clinton' '#Biden' '#Democratic' '#Democrats' '#pandemic'\n '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310599",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 222,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqfuugl22p",
+      "text": "#Trump is using tariffs as a pretext to support Bolsonaro. Let each country\u2019s democratic institutions do their job without #US interference.\n#Stay_alert_for_democracy\n\n www.bbc.com/news/article...",
+      "text_cleaned": "is using tariffs as a pretext to support Bolsonaro. Let each country\u2019s democratic institutions do their job without interference.",
+      "text_preview": "#Trump is using tariffs as a pretext to support Bolsonaro. Let each country\u2019s democratic institutions do their job without #US interference.\n#Stay_alert_for_democracy\n\n www.bbc.com/news/article...",
+      "author": "vaniaceccato.bsky.social",
+      "author_display_name": "V\u00e2nia Ceccato",
+      "created_at": "2025-08-05T03:12:21.140Z",
+      "hashtags": "['#Stay_alert_for_democracy' '#US' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310518",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 196,
+      "text_cleaned_length": 129,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmqeralxk23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:11:43.790Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310548",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqdzvhr22x",
+      "text": "www.huffpost.com/entry/trump-...\n\nTrump promised to cut drug prices by 1500%, which means not only free meds, but pharmacies paying you to take them. Next up: gas stations giving out Teslas with every fill-up. Economics by cartoon logic.\n\n#Trump #fascism #MAGA #Project2025",
+      "text_cleaned": "Trump promised to cut drug prices by 1500%, which means not only free meds, but pharmacies paying you to take them. Next up: gas stations giving out Teslas with every fill-up. Economics by cartoon logic.",
+      "text_preview": "www.huffpost.com/entry/trump-...\n\nTrump promised to cut drug prices by 1500%, which means not only free meds, but pharmacies paying you to take them. Next up: gas stations giving out Teslas with every...",
+      "author": "moxymcmxlvii.bsky.social",
+      "author_display_name": "GW",
+      "created_at": "2025-08-05T03:11:19.308Z",
+      "hashtags": "['#MAGA' '#Project2025' '#fascism' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310591",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 273,
+      "text_cleaned_length": 203,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqixkdck23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:14:04.618Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310441",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqegw5qk2l",
+      "text": "Le dessin de Chaunu :\nDonald Trump exasp\u00e9r\u00e9 par la poursuite de la guerre en Ukraine\n\n#Ukraine #Trump #Poutine #Ouest-France\n@ouestfrance\n\nLundi 4 ao\u00fbt 2025",
+      "text_cleaned": "Le dessin de Chaunu : Donald Trump exasp\u00e9r\u00e9 par la poursuite de la guerre en Ukraine -France Lundi 4 ao\u00fbt 2025",
+      "text_preview": "Le dessin de Chaunu :\nDonald Trump exasp\u00e9r\u00e9 par la poursuite de la guerre en Ukraine\n\n#Ukraine #Trump #Poutine #Ouest-France\n@ouestfrance\n\nLundi 4 ao\u00fbt 2025",
+      "author": "erwann-lebihan.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:11:32.949Z",
+      "hashtags": "['#Ouest' '#Ukraine' '#Poutine' '#Trump']",
+      "mentions": "['@ouestfrance']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310563",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 156,
+      "text_cleaned_length": 110,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqekwha62v",
+      "text": "| etsy.me/3RHihSQ   | ctrendfx.com #Investing #Forex #MarketNews #Finance #Economy",
+      "text_cleaned": "| etsy.me/3RHihSQ | ctrendfx.com",
+      "text_preview": "| etsy.me/3RHihSQ   | ctrendfx.com #Investing #Forex #MarketNews #Finance #Economy",
+      "author": "ctrendfx.bsky.social",
+      "author_display_name": "CTrend FX - Algorithmic Trading Solutions",
+      "created_at": "2025-08-05T03:11:36Z",
+      "hashtags": "['#Investing' '#Finance' '#Forex' '#Economy' '#MarketNews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310150",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 82,
+      "text_cleaned_length": 32,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqgv6v4c23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:12:55.038Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310489",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqf6fko223",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:11:57.585Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310532",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqggv4oc23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:12:40.038Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310502",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqed5md223",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:11:29.013Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310570",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqidlgxs23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:13:43.684Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310455",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqe2w32d2w",
+      "text": "\n#civil war   #Trump   #Trump administration   #war",
+      "text_cleaned": "war administration",
+      "text_preview": "\n#civil war   #Trump   #Trump administration   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T03:11:26.332199+00:00",
+      "hashtags": "['#war' '#civil' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310576",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 51,
+      "text_cleaned_length": 18,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqikmws223",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:13:51.073Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310449",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqh2lscs23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:13:00.704Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310481",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqejtf5c23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:11:36.018Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310555",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqhwqcps23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:13:30.211Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310462",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqexhyt223",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:11:50.324Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310541",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqg5qdjs23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:12:30.444Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310508",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqgmplhs23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:12:46.147Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310496",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqjangqc23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:14:14.158Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310433",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqfhvags23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:12:07.536Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310524",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqjshto223",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:14:32.848Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310425",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqhba3bs23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:13:07.660Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310475",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqhjotds23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:13:16.531Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310468",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmqe4tvak23",
+      "text": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Trump #Maxwell #MAGA #PedophilePresident",
+      "author": "searingblueburn.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T03:11:22.403Z",
+      "hashtags": "['#MAGA' '#Epstein' '#PedophilePresident' '#Maxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:15:03.310584",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:15:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
