@@ -1,0 +1,311 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_055230",
+    "post_count": 11,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 05:45:10.007000",
+    "latest_received_at": "2025-08-05 05:50:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmyzwiakc25",
+      "text": "Le journaliste Acosta, devenu c\u00e9l\u00e9brit\u00e9 sur CNN lors du 1er mandat de #Trump en d\u00e9non\u00e7ant ses mensonges, interviewe l'avatar recr\u00e9\u00e9 par IA d'un des enfants abattus lors de la tuerie de masse de Parkland. Comment d\u00e9truire ce qu'on pr\u00e9tend d\u00e9fendre...\n#CSC\nwww.theguardian.com/us-news/2025...",
+      "text_cleaned": "Le journaliste Acosta, devenu c\u00e9l\u00e9brit\u00e9 sur CNN lors du 1er mandat de en d\u00e9non\u00e7ant ses mensonges, interviewe l'avatar recr\u00e9\u00e9 par IA d'un des enfants abattus lors de la tuerie de masse de Parkland. Comment d\u00e9truire ce qu'on pr\u00e9tend d\u00e9fendre...",
+      "text_preview": "Le journaliste Acosta, devenu c\u00e9l\u00e9brit\u00e9 sur CNN lors du 1er mandat de #Trump en d\u00e9non\u00e7ant ses mensonges, interviewe l'avatar recr\u00e9\u00e9 par IA d'un des enfants abattus lors de la tuerie de masse de Parkla...",
+      "author": "corentinsellin.bsky.social",
+      "author_display_name": "Corentin Sellin",
+      "created_at": "2025-08-05T05:46:43.861Z",
+      "hashtags": "['#CSC' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 8,
+        "reposts": 2,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:50:03.325298",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:50:10.006000",
+      "text_length": 290,
+      "text_cleaned_length": 242,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 13.0
+    },
+    {
+      "post_id": "3lvmz57bah22s",
+      "text": "Trump threatens to substantially raise tariffs on India for buying Russian oil\n\n\"India is not only buying massive amounts of Russian oil, they are\u2026selling it on the open market for big profits\u2026I will be substantially raising the Tariff paid by India to the USA.\"\n\n#Trump #DonaldTrump #RussianOil",
+      "text_cleaned": "Trump threatens to substantially raise tariffs on India for buying Russian oil \"India is not only buying massive amounts of Russian oil, they are\u2026selling it on the open market for big profits\u2026I will be substantially raising the Tariff paid by India to the USA.\"",
+      "text_preview": "Trump threatens to substantially raise tariffs on India for buying Russian oil\n\n\"India is not only buying massive amounts of Russian oil, they are\u2026selling it on the open market for big profits\u2026I will ...",
+      "author": "geofrontlinetv.bsky.social",
+      "author_display_name": "Geo Frontline",
+      "created_at": "2025-08-05T05:48:33.728Z",
+      "hashtags": "['#DonaldTrump' '#RussianOil' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:50:03.325267",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:50:10.006000",
+      "text_length": 295,
+      "text_cleaned_length": 261,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmz3egjes2v",
+      "text": "29 miljard dollar...\n\n..de beloning als je jezelf als een psychopaat op het politieke toneel begeeft en daarmee je bedrijf in grote financi\u00eble moeilijkheden brengt. \n\nHet radicale vermogen om (je eigen) #schaamteloosheid te exploiteren, is h\u00e9t verdienmodel van deze tijd\n\n#Musk #Tesla #Trump",
+      "text_cleaned": "29 miljard dollar... ..de beloning als je jezelf als een psychopaat op het politieke toneel begeeft en daarmee je bedrijf in grote financi\u00eble moeilijkheden brengt. Het radicale vermogen om (je eigen) te exploiteren, is h\u00e9t verdienmodel van deze tijd",
+      "text_preview": "29 miljard dollar...\n\n..de beloning als je jezelf als een psychopaat op het politieke toneel begeeft en daarmee je bedrijf in grote financi\u00eble moeilijkheden brengt. \n\nHet radicale vermogen om (je eige...",
+      "author": "overboeken.bsky.social",
+      "author_display_name": "OverBoeken",
+      "created_at": "2025-08-05T05:47:32.032Z",
+      "hashtags": "['#Tesla' '#Trump' '#schaamteloosheid' '#Musk']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 4,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:50:03.325289",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:50:10.006000",
+      "text_length": 291,
+      "text_cleaned_length": 249,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 6.0
+    },
+    {
+      "post_id": "3lvmyysbne22y",
+      "text": "\ud83d\udea8 #BreakingNews \nBrazilian justice orders the house arrest of former President Bolsonaro for the attempted coup d'\u00e9tat\n#Brazil #Brasil #Trump #TheList #HeIsOnTheList",
+      "text_cleaned": "\ud83d\udea8 Brazilian justice orders the house arrest of former President Bolsonaro for the attempted coup d'\u00e9tat",
+      "text_preview": "\ud83d\udea8 #BreakingNews \nBrazilian justice orders the house arrest of former President Bolsonaro for the attempted coup d'\u00e9tat\n#Brazil #Brasil #Trump #TheList #HeIsOnTheList",
+      "author": "markvzmaximvz.bsky.social",
+      "author_display_name": "Markvz",
+      "created_at": "2025-08-05T05:46:05.895Z",
+      "hashtags": "['#BreakingNews' '#Brazil' '#Trump' '#Brasil' '#HeIsOnTheList' '#TheList']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:50:03.325317",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:50:10.006000",
+      "text_length": 165,
+      "text_cleaned_length": 103,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvmyz5bfgg2q",
+      "text": "\n#Election   #Election Interference   #Justice   #obama   #Trump   #Tulsi Gabbard",
+      "text_cleaned": "Interference Gabbard",
+      "text_preview": "\n#Election   #Election Interference   #Justice   #obama   #Trump   #Tulsi Gabbard",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T05:46:23.263574+00:00",
+      "hashtags": "['#Trump' '#Tulsi' '#obama' '#Election' '#Justice']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:50:03.325307",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:50:10.006000",
+      "text_length": 81,
+      "text_cleaned_length": 20,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmz4kkz222u",
+      "text": "#fyp #epstein #trump #maga\nyoutube.com/shorts/ZaItW...",
+      "text_cleaned": "youtube.com/shorts/ZaItW...",
+      "text_preview": "#fyp #epstein #trump #maga\nyoutube.com/shorts/ZaItW...",
+      "author": "xanthe91.bsky.social",
+      "author_display_name": "Xanthe",
+      "created_at": "2025-08-05T05:48:12.032Z",
+      "hashtags": "['#fyp' '#maga' '#trump' '#epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:50:03.325274",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:50:10.006000",
+      "text_length": 54,
+      "text_cleaned_length": 27,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmysi4pik26",
+      "text": "How economic #inequality harms societies | Richard Wilkinson \n\nwww.youtube.com/watch?v=cZ7L...\n\n#economy #economics #capitalism #RightWing #LeftWing #socialism #equality #psychology #health #happiness",
+      "text_cleaned": "How economic harms societies | Richard Wilkinson",
+      "text_preview": "How economic #inequality harms societies | Richard Wilkinson \n\nwww.youtube.com/watch?v=cZ7L...\n\n#economy #economics #capitalism #RightWing #LeftWing #socialism #equality #psychology #health #happiness",
+      "author": "simonawood.bsky.social",
+      "author_display_name": "#FreePalestine #Vote1Greens #StopArmingIsrael",
+      "created_at": "2025-08-05T05:42:33.923Z",
+      "hashtags": "['#inequality' '#capitalism' '#health' '#RightWing' '#economics'\n '#LeftWing' '#economy' '#psychology' '#socialism' '#equality'\n '#happiness']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:45:03.349623",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:45:10.007000",
+      "text_length": 200,
+      "text_cleaned_length": 48,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvmys3f2l22r",
+      "text": "Budget de l\u2019\u00c9tat fran\u00e7ais : les ravages \u00e9conomiques des pyromanes n\u00e9olib\u00e9raux elucid.media/analyse-grap...\n\n#\u00e9conomie #economy #Macron #France",
+      "text_cleaned": "Budget de l\u2019\u00c9tat fran\u00e7ais : les ravages \u00e9conomiques des pyromanes n\u00e9olib\u00e9raux elucid.media/analyse-grap...",
+      "text_preview": "Budget de l\u2019\u00c9tat fran\u00e7ais : les ravages \u00e9conomiques des pyromanes n\u00e9olib\u00e9raux elucid.media/analyse-grap...\n\n#\u00e9conomie #economy #Macron #France",
+      "author": "leilafayet.bsky.social",
+      "author_display_name": "Le\u00efla Fayet",
+      "created_at": "2025-08-05T05:42:20.563Z",
+      "hashtags": "['#France' '#economy' '#Macron' '#\u00e9conomie']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:45:03.349648",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:45:10.007000",
+      "text_length": 142,
+      "text_cleaned_length": 106,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmytnvqx22x",
+      "text": "Ppl linked to #Epstein and #Trump. Unlike #CelinaMidelfart I don\u2019t kiss Ps like Epstein, nor ppl I don\u2019t know well. \n\nwww.vg.no/nyheter/i/G3...",
+      "text_cleaned": "Ppl linked to and . Unlike I don\u2019t kiss Ps like Epstein, nor ppl I don\u2019t know well.",
+      "text_preview": "Ppl linked to #Epstein and #Trump. Unlike #CelinaMidelfart I don\u2019t kiss Ps like Epstein, nor ppl I don\u2019t know well. \n\nwww.vg.no/nyheter/i/G3...",
+      "author": "marylima84.bsky.social",
+      "author_display_name": "Mary (ONLY on BlueSky & YouTube #3E)",
+      "created_at": "2025-08-05T05:43:13.524Z",
+      "hashtags": "['#Epstein' '#Trump' '#CelinaMidelfart']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:45:03.349877",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:45:10.007000",
+      "text_length": 143,
+      "text_cleaned_length": 83,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmyrwwj2c2i",
+      "text": "How can companies invest during #trump inspired uncertainty?",
+      "text_cleaned": "How can companies invest during inspired uncertainty?",
+      "text_preview": "How can companies invest during #trump inspired uncertainty?",
+      "author": "mixmitt.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T05:42:15.893Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:45:03.349889",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:45:10.007000",
+      "text_length": 60,
+      "text_cleaned_length": 53,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmytfki7k2i",
+      "text": "Way to go, #trump: MAWO - Making America Worse Off",
+      "text_cleaned": "Way to go, : MAWO - Making America Worse Off",
+      "text_preview": "Way to go, #trump: MAWO - Making America Worse Off",
+      "author": "mixmitt.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T05:43:04.783Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T05:45:03.349883",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 05:45:10.007000",
+      "text_length": 50,
+      "text_cleaned_length": 44,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
