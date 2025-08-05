@@ -1,0 +1,419 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_211825",
+    "post_count": 15,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 21:10:10.008000",
+    "latest_received_at": "2025-08-05 21:15:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvomptovn22m",
+      "text": "Rand Paul doesn't have a clue what he's talking about. For example, he didn't see through the silly numbers that ERIKA MCENTARFER tried to fool MAGA with. BUT I DID, NO ONE KNOWS UNEMPLOYMENT STATISTICS LIKE I DO. IT'S DROPPED 1500%. \n\n#Potus #Trump #Economy\n\nthehill.com/homenews/adm...",
+      "text_cleaned": "Rand Paul doesn't have a clue what he's talking about. For example, he didn't see through the silly numbers that ERIKA MCENTARFER tried to fool MAGA with. BUT I DID, NO ONE KNOWS UNEMPLOYMENT STATISTICS LIKE I DO. IT'S DROPPED 1500%. thehill.com/homenews/adm...",
+      "text_preview": "Rand Paul doesn't have a clue what he's talking about. For example, he didn't see through the silly numbers that ERIKA MCENTARFER tried to fool MAGA with. BUT I DID, NO ONE KNOWS UNEMPLOYMENT STATISTI...",
+      "author": "cult45parody.bsky.social",
+      "author_display_name": "The Emperor of the United States  \ud83d\udc51",
+      "created_at": "2025-08-05T21:11:39.965Z",
+      "hashtags": "['#Trump' '#Potus' '#Economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:15:03.901024",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:15:10.007000",
+      "text_length": 287,
+      "text_cleaned_length": 261,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomupennk2m",
+      "text": "They backed down because they did it the American way: settle to save costs and income.\n#Trump abused government money, immigration ( #ICE ), security ( #DHS), judiciary ( #DOJ) and taxes ( #IRS).\nThe problem is they became collaborators of a regime.\n#TrumpDictator\nnewrepublic.com/article/1987...",
+      "text_cleaned": "They backed down because they did it the American way: settle to save costs and income. abused government money, immigration ( ), security ( ), judiciary ( ) and taxes ( ). The problem is they became collaborators of a regime. newrepublic.com/article/1987...",
+      "text_preview": "They backed down because they did it the American way: settle to save costs and income.\n#Trump abused government money, immigration ( #ICE ), security ( #DHS), judiciary ( #DOJ) and taxes ( #IRS).\nThe...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-05T21:14:23.206Z",
+      "hashtags": "['#DHS' '#Trump' '#ICE' '#DOJ' '#IRS' '#TrumpDictator']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:15:03.901276",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:15:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 258,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomnr7ods2d",
+      "text": "Brunati, Bryan. \"He Makes No Sense!\": #Dementia Rumors Erupt As Donald #Trump 's latest hobby is walking on the ROOF of the #WhiteHouse and Shouts At Reporters In Bizarre Video\". @radaronline.com.web.brid.gy. August 5, 2025: radaronline.com/p/trump-whit...",
+      "text_cleaned": "Brunati, Bryan. \"He Makes No Sense!\": Rumors Erupt As Donald 's latest hobby is walking on the ROOF of the and Shouts At Reporters In Bizarre Video\". .com.web.brid.gy. August 5, 2025: radaronline.com/p/trump-whit...",
+      "text_preview": "Brunati, Bryan. \"He Makes No Sense!\": #Dementia Rumors Erupt As Donald #Trump 's latest hobby is walking on the ROOF of the #WhiteHouse and Shouts At Reporters In Bizarre Video\". @radaronline.com.web....",
+      "author": "judgian12365.bsky.social",
+      "author_display_name": "Ian Judge-Lord",
+      "created_at": "2025-08-05T21:10:30.257Z",
+      "hashtags": "['#Trump' '#WhiteHouse' '#Dementia']",
+      "mentions": "['@radaronline.com.web.brid.gy.']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:15:03.901325",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:15:10.007000",
+      "text_length": 256,
+      "text_cleaned_length": 215,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomoaay3it2",
+      "text": "#Epstein survivor Annie Farmer supports release of grand jury transcripts\n\n#AnnieFarmer, a #survivor of the #crimes of #JeffreyEpstein & #GhislaineMaxwell, says through her lawyers that she supports the release of the grand jury transcripts from the respective investigations [\u2026]",
+      "text_cleaned": "survivor Annie Farmer supports release of grand jury transcripts , a of the of & , says through her lawyers that she supports the release of the grand jury transcripts from the respective investigations [\u2026]",
+      "text_preview": "#Epstein survivor Annie Farmer supports release of grand jury transcripts\n\n#AnnieFarmer, a #survivor of the #crimes of #JeffreyEpstein & #GhislaineMaxwell, says through her lawyers that she supports t...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T21:10:41.000Z",
+      "hashtags": "['#Epstein' '#GhislaineMaxwell' '#AnnieFarmer' '#survivor'\n '#JeffreyEpstein' '#crimes']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:15:03.901311",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:15:10.007000",
+      "text_length": 279,
+      "text_cleaned_length": 206,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomnzeizk2v",
+      "text": "The #Rockstar #energydrinks nearest me are 3-for-$5 ($1.67 apiece) at the #Factoria #QFC & $1.86 apiece down the block at the #Amazon Fresh in the Marketplace, & the fact that I know this is a sad commentary on both #capitalism & my personal habits & well-being \ud83e\udd14\n\n#Soda #poor #economy #bellevue #lol",
+      "text_cleaned": "The nearest me are 3-for-$5 ($1.67 apiece) at the & $1.86 apiece down the block at the Fresh in the Marketplace, & the fact that I know this is a sad commentary on both & my personal habits & well-being \ud83e\udd14",
+      "text_preview": "The #Rockstar #energydrinks nearest me are 3-for-$5 ($1.67 apiece) at the #Factoria #QFC & $1.86 apiece down the block at the #Amazon Fresh in the Marketplace, & the fact that I know this is a sad com...",
+      "author": "iamkaymichelle.bsky.social",
+      "author_display_name": "K. Cook & Cats, Co.",
+      "created_at": "2025-08-05T21:10:38.794Z",
+      "hashtags": "['#capitalism' '#poor' '#Factoria' '#lol' '#Amazon' '#economy' '#Rockstar'\n '#energydrinks' '#bellevue' '#QFC' '#Soda']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:15:03.901048",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:15:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 204,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomsm3o5c2g",
+      "text": "I say Europe must increase tariffs to the US by 100% and should lower ALL barriers with Cuba and China.\n\nFuck Donald Trump.\n\n#Politics #USPolitics #Trump #FuckTrump #Tariffs #EUPolitics",
+      "text_cleaned": "I say Europe must increase tariffs to the US by 100% and should lower ALL barriers with Cuba and China. Fuck Donald Trump.",
+      "text_preview": "I say Europe must increase tariffs to the US by 100% and should lower ALL barriers with Cuba and China.\n\nFuck Donald Trump.\n\n#Politics #USPolitics #Trump #FuckTrump #Tariffs #EUPolitics",
+      "author": "lonelywriteridiot.bsky.social",
+      "author_display_name": "lonelywriteridiot",
+      "created_at": "2025-08-05T21:13:12.657Z",
+      "hashtags": "['#Trump' '#USPolitics' '#Tariffs' '#EUPolitics' '#Politics' '#FuckTrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:15:03.901289",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:15:10.007000",
+      "text_length": 185,
+      "text_cleaned_length": 122,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomsq33c22s",
+      "text": "Official warnings issued for Europeans planning a travel to the US. The great arbitrariness of customs officials allows anyone to be sent back without reason under #Trump.",
+      "text_cleaned": "Official warnings issued for Europeans planning a travel to the US. The great arbitrariness of customs officials allows anyone to be sent back without reason under .",
+      "text_preview": "Official warnings issued for Europeans planning a travel to the US. The great arbitrariness of customs officials allows anyone to be sent back without reason under #Trump.",
+      "author": "juetz.bsky.social",
+      "author_display_name": "J\u00fcrg Hammer",
+      "created_at": "2025-08-05T21:13:16.832Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:15:03.901282",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:15:10.007000",
+      "text_length": 171,
+      "text_cleaned_length": 165,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvomosnsic2u",
+      "text": "Sorry wait what\u2026. \ud83e\udd2a\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude02\n\n#Trump #transgender",
+      "text_cleaned": "Sorry wait what\u2026. \ud83e\udd2a\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude02",
+      "text_preview": "Sorry wait what\u2026. \ud83e\udd2a\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude02\n\n#Trump #transgender",
+      "author": "wimblewomble1958.bsky.social",
+      "author_display_name": "Womble1958",
+      "created_at": "2025-08-05T21:11:05.326Z",
+      "hashtags": "['#Trump' '#transgender']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:15:03.901302",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:15:10.007000",
+      "text_length": 46,
+      "text_cleaned_length": 25,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomntiobs2c",
+      "text": "I guarantee #ice is looking for them, too. #trump 's gestapo.",
+      "text_cleaned": "I guarantee is looking for them, too. 's gestapo.",
+      "text_preview": "I guarantee #ice is looking for them, too. #trump 's gestapo.",
+      "author": "mjhinton.bsky.social",
+      "author_display_name": "mjh",
+      "created_at": "2025-08-05T21:10:32.651Z",
+      "hashtags": "['#trump' '#ice']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:15:03.901318",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:15:10.007000",
+      "text_length": 61,
+      "text_cleaned_length": 49,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomf3i6wk2j",
+      "text": "I know no one will see this, but if you are a Republican in the USA and you do not like what is going on in your party, start to make a push to have Jeb Bush as your 2028 candidate. He's a classic Republican with name recognition who represents the way the party used to be. #politics   #trump  #usa",
+      "text_cleaned": "I know no one will see this, but if you are a Republican in the USA and you do not like what is going on in your party, start to make a push to have Jeb Bush as your 2028 candidate. He's a classic Republican with name recognition who represents the way the party used to be.",
+      "text_preview": "I know no one will see this, but if you are a Republican in the USA and you do not like what is going on in your party, start to make a push to have Jeb Bush as your 2028 candidate. He's a classic Rep...",
+      "author": "jaborwhalky.bsky.social",
+      "author_display_name": "Evelyn Kriete ",
+      "created_at": "2025-08-05T21:05:39.035Z",
+      "hashtags": "['#trump' '#usa' '#politics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:10:03.404973",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:10:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 274,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvomb2gxs6t2",
+      "text": "While Judge Ho ultimately agreed to throw out the charges, he took a swipe at the #DOJ\u2019s #credibility, saying it appeared as though officials had used their #power in a #QuidProQuo with #EricAdams to get him to support #Trump\u2019s #immigration crackdown in the city.\n\n#law #USpol #Trump #TrumpLies [\u2026]",
+      "text_cleaned": "While Judge Ho ultimately agreed to throw out the charges, he took a swipe at the \u2019s , saying it appeared as though officials had used their in a with to get him to support \u2019s crackdown in the city. [\u2026]",
+      "text_preview": "While Judge Ho ultimately agreed to throw out the charges, he took a swipe at the #DOJ\u2019s #credibility, saying it appeared as though officials had used their #power in a #QuidProQuo with #EricAdams to ...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T21:03:01.000Z",
+      "hashtags": "['#law' '#DOJ' '#power' '#EricAdams' '#TrumpLies' '#QuidProQuo' '#USpol'\n '#credibility' '#Trump' '#immigration']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:10:03.405024",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:10:10.008000",
+      "text_length": 298,
+      "text_cleaned_length": 202,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomgbjf4s2d",
+      "text": "Singer, Emily. What the f-ck is #Trump doing on the #WhiteHouse roof? #DonaldTrump seen wandering on the roof of the #WhiteHouse\". @dailykos.com. Tuesday, August 05, 2025: www.dailykos.com/stories/2025...",
+      "text_cleaned": "Singer, Emily. What the f-ck is doing on the roof? seen wandering on the roof of the \". .com. Tuesday, August 05, 2025:",
+      "text_preview": "Singer, Emily. What the f-ck is #Trump doing on the #WhiteHouse roof? #DonaldTrump seen wandering on the roof of the #WhiteHouse\". @dailykos.com. Tuesday, August 05, 2025: www.dailykos.com/stories/202...",
+      "author": "judgian12365.bsky.social",
+      "author_display_name": "Ian Judge-Lord",
+      "created_at": "2025-08-05T21:06:18.919Z",
+      "hashtags": "['#DonaldTrump' '#WhiteHouse' '#Trump']",
+      "mentions": "['@dailykos.com.']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:10:03.404966",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:10:10.008000",
+      "text_length": 204,
+      "text_cleaned_length": 119,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvomekkzkc22",
+      "text": "#Trump does not care about the working man. He does not care about you. He does not care about me. He doesn\u2019t care about Veteran\u2019s and he doesn\u2019t care about children.",
+      "text_cleaned": "does not care about the working man. He does not care about you. He does not care about me. He doesn\u2019t care about Veteran\u2019s and he doesn\u2019t care about children.",
+      "text_preview": "#Trump does not care about the working man. He does not care about you. He does not care about me. He doesn\u2019t care about Veteran\u2019s and he doesn\u2019t care about children.",
+      "author": "cool69.bsky.social",
+      "author_display_name": "Cool69",
+      "created_at": "2025-08-05T21:05:21.302Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:10:03.404981",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:10:10.008000",
+      "text_length": 166,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvomj6m6g22l",
+      "text": "Question of the day \ud83e\udd14\n\nIf The #Clintons got subpoenaed then shouldn\u2019t #Trump also be subpoenaed as well ? \ud83e\udd14\n\nJust sayin \u2026..",
+      "text_cleaned": "Question of the day \ud83e\udd14 If The got subpoenaed then shouldn\u2019t also be subpoenaed as well ? \ud83e\udd14 Just sayin \u2026..",
+      "text_preview": "Question of the day \ud83e\udd14\n\nIf The #Clintons got subpoenaed then shouldn\u2019t #Trump also be subpoenaed as well ? \ud83e\udd14\n\nJust sayin \u2026..",
+      "author": "itshammertime.bsky.social",
+      "author_display_name": "Hammertime Again",
+      "created_at": "2025-08-05T21:07:56.524Z",
+      "hashtags": "['#Trump' '#Clintons']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:10:03.404959",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:10:10.008000",
+      "text_length": 123,
+      "text_cleaned_length": 104,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvoml7p26u2b",
+      "text": "WHNT 19Alabama News Beacon #Trump #WhiteHouse #PresidentTrump",
+      "text_cleaned": "WHNT 19Alabama News Beacon",
+      "text_preview": "WHNT 19Alabama News Beacon #Trump #WhiteHouse #PresidentTrump",
+      "author": "xstreamfm.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T21:09:04Z",
+      "hashtags": "['#PresidentTrump' '#WhiteHouse' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T21:10:03.404953",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 21:10:10.008000",
+      "text_length": 61,
+      "text_cleaned_length": 26,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
