@@ -1,0 +1,662 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_164637",
+    "post_count": 24,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 16:40:10.016000",
+    "latest_received_at": "2025-08-05 16:45:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvo5s4rakj2p",
+      "text": "#ZeeNews DNA:\u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0926\u0940 \u092d\u093e\u0930\u0924 \u0915\u094b \u0927\u092e\u0915\u0940\u092b\u093f\u0930 \u0938\u0947\u0928\u093e \u0928\u0947 \u0938\u0940\u0927\u093e \u0915\u0930 \u0921\u093e\u0932\u093e! | Indian Army Reply to US |\u00a0Pakistan\n\nDNA:\u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0926\u0940 \u092d\u093e\u0930\u0924 \u0915\u094b \u0927\u092e\u0915\u0940\u092b\u093f\u0930 \u0938\u0947\u0928\u093e \u0928\u0947 \u0938\u0940\u0927\u093e \u0915\u0930 \u0921\u093e\u0932\u093e! | Indian Army Reply to US | Pakistan #dna #trump #indianarmy \u0905\u0916\u092c\u093e\u0930 \u0915\u0940 \u090f\u0915 \u092a\u0941\u0930\u093e\u0928\u0940 \u0916\u092c\u0930 \u092a\u094b\u0938\u094d\u091f \u0915\u0930 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e \u0928\u0947 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u094b \u0909\u0938\u0915\u0940 \u0910\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u0915\u0930\u0924\u0942\u0924 \u092f\u093e\u0926\u2026",
+      "text_cleaned": "DNA:\u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0926\u0940 \u092d\u093e\u0930\u0924 \u0915\u094b \u0927\u092e\u0915\u0940\u092b\u093f\u0930 \u0938\u0947\u0928\u093e \u0928\u0947 \u0938\u0940\u0927\u093e \u0915\u0930 \u0921\u093e\u0932\u093e! | Indian Army Reply to US | Pakistan DNA:\u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0926\u0940 \u092d\u093e\u0930\u0924 \u0915\u094b \u0927\u092e\u0915\u0940\u092b\u093f\u0930 \u0938\u0947\u0928\u093e \u0928\u0947 \u0938\u0940\u0927\u093e \u0915\u0930 \u0921\u093e\u0932\u093e! | Indian Army Reply to US | Pakistan \u0905\u0916\u092c\u093e\u0930 \u0915\u0940 \u090f\u0915 \u092a\u0941\u0930\u093e\u0928\u0940 \u0916\u092c\u0930 \u092a\u094b\u0938\u094d\u091f \u0915\u0930 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e \u0928\u0947 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u094b \u0909\u0938\u0915\u0940 \u0910\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u0915\u0930\u0924\u0942\u0924 \u092f\u093e\u0926\u2026",
+      "text_preview": "#ZeeNews DNA:\u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0926\u0940 \u092d\u093e\u0930\u0924 \u0915\u094b \u0927\u092e\u0915\u0940\u092b\u093f\u0930 \u0938\u0947\u0928\u093e \u0928\u0947 \u0938\u0940\u0927\u093e \u0915\u0930 \u0921\u093e\u0932\u093e! | Indian Army Reply to US |\u00a0Pakistan\n\nDNA:\u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0926\u0940 \u092d\u093e\u0930\u0924 \u0915\u094b \u0927\u092e\u0915\u0940\u092b\u093f\u0930 \u0938\u0947\u0928\u093e \u0928\u0947 \u0938\u0940\u0927\u093e \u0915\u0930 \u0921\u093e\u0932\u093e! | Indian Army Reply to US | Pakistan #dna #tr...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-05T16:44:29Z",
+      "hashtags": "['#dna' '#trump' '#ZeeNews' '#indianarmy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057597",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 298,
+      "text_cleaned_length": 264,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5qqm5fs2u",
+      "text": "Ghislaine Mawell couldn't care less what they do with her transcripts.\n\nAre you watching her MOVES?\nGM is getting WHAT SHE WANTS.\nShe wasn't bargaining for #POTUS #Trump.\n\nIf he gets something out of what she did, that's just an \u201cincidental benefit\u201d. He got LUCKY. \ud83c\udfb2\ud83c\udfb1\n\nIf he gets BURNED\ud83d\udd25 \u2026 oh well!",
+      "text_cleaned": "Ghislaine Mawell couldn't care less what they do with her transcripts. Are you watching her MOVES? GM is getting WHAT SHE WANTS. She wasn't bargaining for . If he gets something out of what she did, that's just an \u201cincidental benefit\u201d. He got LUCKY. \ud83c\udfb2\ud83c\udfb1 If he gets BURNED\ud83d\udd25 \u2026 oh well!",
+      "text_preview": "Ghislaine Mawell couldn't care less what they do with her transcripts.\n\nAre you watching her MOVES?\nGM is getting WHAT SHE WANTS.\nShe wasn't bargaining for #POTUS #Trump.\n\nIf he gets something out of ...",
+      "author": "cmoneyspinner.bsky.social",
+      "author_display_name": "[\u1d1b\u0280\u1d07\u1d00\u1d1b\u029c\u028f\u029f \ua730\u1d0fx \u1d00\u1d0b\u1d00 \u1d04\u1d0d\u1d0f\u0274\u1d07\u028f\ua731\u1d18\u026a\u0274\u0274\u1d07\u0280] \ud83d\udc96",
+      "created_at": "2025-08-05T16:43:44.156Z",
+      "hashtags": "['#POTUS' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057628",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 298,
+      "text_cleaned_length": 282,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5r4677c2e",
+      "text": "#WSJ: Despite > 3 yrs of war, huge #military expenses & waves of sanctions, #Russia\u2019s economy appears to be thriving. #Trump threatens even harsher #sanctions on #India & #China and cracks are showing as #Moscow spends more than it earns & #Putin\u2019s reserves are finished by 2030. #Israel #Gaza #Sudan",
+      "text_cleaned": ": Despite > 3 yrs of war, huge expenses & waves of sanctions, \u2019s economy appears to be thriving. threatens even harsher on & and cracks are showing as spends more than it earns & \u2019s reserves are finished by 2030.",
+      "text_preview": "#WSJ: Despite > 3 yrs of war, huge #military expenses & waves of sanctions, #Russia\u2019s economy appears to be thriving. #Trump threatens even harsher #sanctions on #India & #China and cracks are showing...",
+      "author": "geopolupdates.bsky.social",
+      "author_display_name": "Geopolitical updates",
+      "created_at": "2025-08-05T16:43:56.269Z",
+      "hashtags": "['#military' '#Israel' '#Russia' '#China' '#Gaza' '#Trump' '#Sudan'\n '#sanctions' '#Moscow' '#Putin' '#WSJ' '#India']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057619",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 212,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5rjwjzk2d",
+      "text": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647\nI personally am very much against gerrymandering but they started it. Time to go nuclear and for New York and Illinois to jump in.\n#GOP #RESIST #trump #VoteBlue #NoKings #indivisible #ICE\napnews.com/article/cali...?",
+      "text_cleaned": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647 I personally am very much against gerrymandering but they started it. Time to go nuclear and for New York and Illinois to jump in. apnews.com/article/cali...?",
+      "text_preview": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647\nI personally am very much against gerrymandering but they started it. Time to go nuclear and for New York and Illinois to jump in.\n#GOP...",
+      "author": "clydepowell.bsky.social",
+      "author_display_name": "\u2728 Clyde \u2728",
+      "created_at": "2025-08-05T16:44:10.710Z",
+      "hashtags": "['#NoKings' '#GOP' '#indivisible' '#RESIST' '#VoteBlue' '#ICE' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057607",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 280,
+      "text_cleaned_length": 223,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvo5nfaqs22e",
+      "text": "Consumer spending flat; construction, manufacturing contracting, low jobless rate currently masks shrinking workforce, hiring freezes all due to tariffs, immigration policy, and Trump administration chaos...\n\n#economy\n\nthehill.com/homenews/adm...",
+      "text_cleaned": "Consumer spending flat; construction, manufacturing contracting, low jobless rate currently masks shrinking workforce, hiring freezes all due to tariffs, immigration policy, and Trump administration chaos... thehill.com/homenews/adm...",
+      "text_preview": "Consumer spending flat; construction, manufacturing contracting, low jobless rate currently masks shrinking workforce, hiring freezes all due to tariffs, immigration policy, and Trump administration c...",
+      "author": "daviddeanrobbins.bsky.social",
+      "author_display_name": "Dave Robbins",
+      "created_at": "2025-08-05T16:41:51.585Z",
+      "hashtags": "['#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057358",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 246,
+      "text_cleaned_length": 235,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5oxam422k",
+      "text": "Just as soon as they remove any reference to Trump, and the part where Blanche offers to move Maxwell to #ClubFed\n\ud83d\ude44\n\n#USpoli \n#EpsteinFiles \n#Trump \n#TrumpPedoFiles\n#TrumpIsOnTheList",
+      "text_cleaned": "Just as soon as they remove any reference to Trump, and the part where Blanche offers to move Maxwell to \ud83d\ude44",
+      "text_preview": "Just as soon as they remove any reference to Trump, and the part where Blanche offers to move Maxwell to #ClubFed\n\ud83d\ude44\n\n#USpoli \n#EpsteinFiles \n#Trump \n#TrumpPedoFiles\n#TrumpIsOnTheList",
+      "author": "theubiquitousj-man.bsky.social",
+      "author_display_name": "The Ubiquitous J-Man",
+      "created_at": "2025-08-05T16:42:44.008Z",
+      "hashtags": "['#TrumpIsOnTheList' '#EpsteinFiles' '#Trump' '#USpoli' '#ClubFed'\n '#TrumpPedoFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057648",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 182,
+      "text_cleaned_length": 106,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5o54txk2k",
+      "text": "Just as soon as they remove any reference to Trump, and the part where Blanche offers to move Maxwell to #ClubFed\n\ud83d\ude44\n\n#USpoli \n#EpsteinFiles \n#Trump \n#TrumpPedoFiles\n#TrumpIsOnTheList",
+      "text_cleaned": "Just as soon as they remove any reference to Trump, and the part where Blanche offers to move Maxwell to \ud83d\ude44",
+      "text_preview": "Just as soon as they remove any reference to Trump, and the part where Blanche offers to move Maxwell to #ClubFed\n\ud83d\ude44\n\n#USpoli \n#EpsteinFiles \n#Trump \n#TrumpPedoFiles\n#TrumpIsOnTheList",
+      "author": "theubiquitousj-man.bsky.social",
+      "author_display_name": "The Ubiquitous J-Man",
+      "created_at": "2025-08-05T16:42:16.623Z",
+      "hashtags": "['#TrumpIsOnTheList' '#EpsteinFiles' '#Trump' '#USpoli' '#ClubFed'\n '#TrumpPedoFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057658",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 182,
+      "text_cleaned_length": 106,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5q73xms2x",
+      "text": "#Dazi, le ultime notizie in diretta | #Trump torna a minacciare: dazi al 35% alla #Ue se non investe in #Usa come promesso\u2026.questo ha davvero rotto",
+      "text_cleaned": ", le ultime notizie in diretta | torna a minacciare: dazi al 35% alla se non investe in come promesso\u2026.questo ha davvero rotto",
+      "text_preview": "#Dazi, le ultime notizie in diretta | #Trump torna a minacciare: dazi al 35% alla #Ue se non investe in #Usa come promesso\u2026.questo ha davvero rotto",
+      "author": "alex5161.bsky.social",
+      "author_display_name": "Alessandro Padovani \ud83c\udde9\ud83c\uddea\ud83c\udde9\ud83c\uddf0\ud83c\uddee\ud83c\uddf9\ud83c\uddfa\ud83c\udde6\ud83c\uddea\ud83c\uddfa",
+      "created_at": "2025-08-05T16:43:25.799Z",
+      "hashtags": "['#Ue' '#Dazi' '#Usa' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057638",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 147,
+      "text_cleaned_length": 126,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5n4gvb22q",
+      "text": "gayexpress.co.nz/2025/08/u-s-...\n\n#usa #transphobia #legal #misgendering #military #executive_orders #trump",
+      "text_cleaned": "gayexpress.co.nz/2025/08/u-s-...",
+      "text_preview": "gayexpress.co.nz/2025/08/u-s-...\n\n#usa #transphobia #legal #misgendering #military #executive_orders #trump",
+      "author": "feeds.trans.report",
+      "author_display_name": "News feeds via trans.report",
+      "created_at": "2025-08-05T16:41:42.347Z",
+      "hashtags": "['#military' '#usa' '#executive_orders' '#misgendering' '#transphobia'\n '#trump' '#legal']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057667",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 107,
+      "text_cleaned_length": 32,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvo5jtwnn22k",
+      "text": "#USpoli \n#EpsteinFiles \n#Trump \n#TrumpPedoFiles\n#TrumpIsOnTheList",
+      "text_cleaned": "",
+      "text_preview": "#USpoli \n#EpsteinFiles \n#Trump \n#TrumpPedoFiles\n#TrumpIsOnTheList",
+      "author": "theubiquitousj-man.bsky.social",
+      "author_display_name": "The Ubiquitous J-Man",
+      "created_at": "2025-08-05T16:39:52.765Z",
+      "hashtags": "['#TrumpIsOnTheList' '#EpsteinFiles' '#Trump' '#USpoli' '#TrumpPedoFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:45:04.057675",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:45:10.006000",
+      "text_length": 65,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5b7lj6222",
+      "text": "Il y des choses vertigineuses dans cette s\u00e9rie de podcast sur #Roosevelt  Une mise en perspective terrifiante au regard de l'actualit\u00e9 #US C'est \u00e0 \u00e9couter absolument !\n\nLes #MAGA ne veulent pas slt d\u00e9truire l'h\u00e9ritage #Biden mais aussi le #NewDeal\n\n@radiofrance.fr \nwww.radiofrance.fr/francecultur...",
+      "text_cleaned": "Il y des choses vertigineuses dans cette s\u00e9rie de podcast sur Une mise en perspective terrifiante au regard de l'actualit\u00e9 C'est \u00e0 \u00e9couter absolument ! Les ne veulent pas slt d\u00e9truire l'h\u00e9ritage mais aussi le .fr",
+      "text_preview": "Il y des choses vertigineuses dans cette s\u00e9rie de podcast sur #Roosevelt  Une mise en perspective terrifiante au regard de l'actualit\u00e9 #US C'est \u00e0 \u00e9couter absolument !\n\nLes #MAGA ne veulent pas slt d\u00e9...",
+      "author": "notacat.bsky.social",
+      "author_display_name": "Notacat",
+      "created_at": "2025-08-05T16:35:02.982Z",
+      "hashtags": "['#NewDeal' '#Biden' '#Roosevelt' '#MAGA' '#US']",
+      "mentions": "['@radiofrance.fr']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441239",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 300,
+      "text_cleaned_length": 212,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5defd6c2w",
+      "text": "The August 5th Commercial Pulse Report is here.\n\ud83d\ude97 Rental cars? \ud83d\udea8 32% are now Medium-High to High Risk.\n\ud83c\udfe8 Hotels & \u2708\ufe0f Airlines? More stable, but not risk-free.\nTrack the trends \u2192 #CommercialPulseReport #CreditRisk #economy #airlines #hotels #hospitality #CommercialCredit",
+      "text_cleaned": "The August 5th Commercial Pulse Report is here. \ud83d\ude97 Rental cars? \ud83d\udea8 32% are now Medium-High to High Risk. \ud83c\udfe8 Hotels & \u2708\ufe0f Airlines? More stable, but not risk-free. Track the trends \u2192",
+      "text_preview": "The August 5th Commercial Pulse Report is here.\n\ud83d\ude97 Rental cars? \ud83d\udea8 32% are now Medium-High to High Risk.\n\ud83c\udfe8 Hotels & \u2708\ufe0f Airlines? More stable, but not risk-free.\nTrack the trends \u2192 #CommercialPulseReport...",
+      "author": "experianb2b.bsky.social",
+      "author_display_name": "Experian Business Information",
+      "created_at": "2025-08-05T16:36:15.142Z",
+      "hashtags": "['#economy' '#hotels' '#airlines' '#CreditRisk' '#hospitality'\n '#CommercialCredit' '#CommercialPulseReport']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.440872",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 270,
+      "text_cleaned_length": 177,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvo5euraew2p",
+      "text": "Trumps Claims Discrimination by Banks Ahead of \u00e2\u0080\u0098Debanking\u00e2\u0080\u0099 Crackdown JPMorgan and Bank of America rejected Trump Organization deposits, the president said, fueling his displeasure with Wall Street.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/MxfTD8ZC",
+      "text_cleaned": "Trumps Claims Discrimination by Banks Ahead of \u00e2\u0080\u0098Debanking\u00e2\u0080\u0099 Crackdown JPMorgan and Bank of America rejected Trump Organization deposits, the president said, fueling his displeasure with Wall Street.. .ai",
+      "text_preview": "Trumps Claims Discrimination by Banks Ahead of \u00e2\u0080\u0098Debanking\u00e2\u0080\u0099 Crackdown JPMorgan and Bank of America rejected Trump Organization deposits, the president said, fueling his displeasure with Wall Street...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-05T16:37:05.693Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441102",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 249,
+      "text_cleaned_length": 206,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5dmf3qk2t",
+      "text": "India says no thank you to Trump tariffs deal because they do not want to buy substandard US milk and other agricultural products in India.\n\n#Trump #tariffs\n\nm.economictimes.com/news/economy...",
+      "text_cleaned": "India says no thank you to Trump tariffs deal because they do not want to buy substandard US milk and other agricultural products in India. m.economictimes.com/news/economy...",
+      "text_preview": "India says no thank you to Trump tariffs deal because they do not want to buy substandard US milk and other agricultural products in India.\n\n#Trump #tariffs\n\nm.economictimes.com/news/economy...",
+      "author": "mikapeltokorpi.bsky.social",
+      "author_display_name": "Mika Peltokorpi",
+      "created_at": "2025-08-05T16:36:23.523Z",
+      "hashtags": "['#tariffs' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441117",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 193,
+      "text_cleaned_length": 175,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5hs67tk2m",
+      "text": "I saw this East Bay Times article\n#trump\n#alligatoralcatraz\nHATE WON\u2019T MAKE US GREAT!\n\nJudge orders officials to show \u2018Alligator Alcatraz\u2019 contracts\nedition.pagesuite.com/popovers/dyn...",
+      "text_cleaned": "I saw this East Bay Times article HATE WON\u2019T MAKE US GREAT! Judge orders officials to show \u2018Alligator Alcatraz\u2019 contracts edition.pagesuite.com/popovers/dyn...",
+      "text_preview": "I saw this East Bay Times article\n#trump\n#alligatoralcatraz\nHATE WON\u2019T MAKE US GREAT!\n\nJudge orders officials to show \u2018Alligator Alcatraz\u2019 contracts\nedition.pagesuite.com/popovers/dyn...",
+      "author": "gardengirld.bsky.social",
+      "author_display_name": "Dee M",
+      "created_at": "2025-08-05T16:38:43.806Z",
+      "hashtags": "['#alligatoralcatraz' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441071",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 186,
+      "text_cleaned_length": 159,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5d2n6mpl2",
+      "text": "\ud83c\uddfa\ud83c\uddf8 #LexikonDerNeuzeit\n\nEine neue politische Obsession: Die \"Vergolfung\" der US-Au\u00dfenpolitik durch Herrn #Trump. Ein Beobachtung nicht nur der Tageszeitung #DerStandard.\n\n\ud83c\udf00 [\u2026]",
+      "text_cleaned": "\ud83c\uddfa\ud83c\uddf8 Eine neue politische Obsession: Die \"Vergolfung\" der US-Au\u00dfenpolitik durch Herrn . Ein Beobachtung nicht nur der Tageszeitung . \ud83c\udf00 [\u2026]",
+      "text_preview": "\ud83c\uddfa\ud83c\uddf8 #LexikonDerNeuzeit\n\nEine neue politische Obsession: Die \"Vergolfung\" der US-Au\u00dfenpolitik durch Herrn #Trump. Ein Beobachtung nicht nur der Tageszeitung #DerStandard.\n\n\ud83c\udf00 [\u2026]",
+      "author": "tinderness.swiss.social.ap.brid.gy",
+      "author_display_name": "tinderness",
+      "created_at": "2025-08-05T16:35:50.000Z",
+      "hashtags": "['#DerStandard' '#LexikonDerNeuzeit' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441148",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 175,
+      "text_cleaned_length": 136,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5cqqmz22k",
+      "text": "Of course they are...\n\ud83d\ude44\n\n\"Weather Service is now hiring back hundreds of positions that got cut in the DOGE chaos\"...\n\nwww.cnn.com/2025/08/05/w...\n\n#USpoli \n#Trump \n#Musk \n#DOGE\n#FuckTrump",
+      "text_cleaned": "Of course they are... \ud83d\ude44 \"Weather Service is now hiring back hundreds of positions that got cut in the DOGE chaos\"...",
+      "text_preview": "Of course they are...\n\ud83d\ude44\n\n\"Weather Service is now hiring back hundreds of positions that got cut in the DOGE chaos\"...\n\nwww.cnn.com/2025/08/05/w...\n\n#USpoli \n#Trump \n#Musk \n#DOGE\n#FuckTrump",
+      "author": "theubiquitousj-man.bsky.social",
+      "author_display_name": "The Ubiquitous J-Man",
+      "created_at": "2025-08-05T16:35:54.541Z",
+      "hashtags": "['#FuckTrump' '#USpoli' '#Trump' '#Musk' '#DOGE']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441139",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 188,
+      "text_cleaned_length": 116,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvo5emrlpk2v",
+      "text": "time.com/7307535/epst...\nMeanwhile, surveillance cameras are being powered off in Ghislaine Maxwell's cell block.\n#DemocratsHateAmerica #trump #musk #doge #whitehouse #politics #republican",
+      "text_cleaned": "time.com/7307535/epst... Meanwhile, surveillance cameras are being powered off in Ghislaine Maxwell's cell block.",
+      "text_preview": "time.com/7307535/epst...\nMeanwhile, surveillance cameras are being powered off in Ghislaine Maxwell's cell block.\n#DemocratsHateAmerica #trump #musk #doge #whitehouse #politics #republican",
+      "author": "pragmaticinc.bsky.social",
+      "author_display_name": "Pragmatic INC.",
+      "created_at": "2025-08-05T16:36:57.486Z",
+      "hashtags": "['#whitehouse' '#DemocratsHateAmerica' '#republican' '#doge' '#trump'\n '#musk' '#politics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441111",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 188,
+      "text_cleaned_length": 113,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5cswjs42v",
+      "text": "Attention @hakeem-jeffries.bsky.social - It's August 5, 2025. This is day 117 of me insisting that you take steps to file articles of #impeachment on President #Trump.",
+      "text_cleaned": "Attention -jeffries.bsky.social - It's August 5, 2025. This is day 117 of me insisting that you take steps to file articles of on President .",
+      "text_preview": "Attention @hakeem-jeffries.bsky.social - It's August 5, 2025. This is day 117 of me insisting that you take steps to file articles of #impeachment on President #Trump.",
+      "author": "synchronizedgroup.com",
+      "author_display_name": "Don Teague",
+      "created_at": "2025-08-05T16:35:56Z",
+      "hashtags": "['#impeachment' '#Trump']",
+      "mentions": "['@hakeem']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441131",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 167,
+      "text_cleaned_length": 141,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5fd4vec2j",
+      "text": "High-Ranking former officials #subpoenas were issued today regarding the #epstein files. Conveniently missing from this list is #Trump. Who could\u2019ve guessed?",
+      "text_cleaned": "High-Ranking former officials were issued today regarding the files. Conveniently missing from this list is . Who could\u2019ve guessed?",
+      "text_preview": "High-Ranking former officials #subpoenas were issued today regarding the #epstein files. Conveniently missing from this list is #Trump. Who could\u2019ve guessed?",
+      "author": "unitethefight.bsky.social",
+      "author_display_name": "Unite the Fight",
+      "created_at": "2025-08-05T16:37:20.919Z",
+      "hashtags": "['#epstein' '#subpoenas' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441094",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 157,
+      "text_cleaned_length": 131,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5guglos2u",
+      "text": "abcnews.go.com/US/coast-gua...\n\nWe are all on the Titan submersible now \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f\n\n#maga #epstein #trump",
+      "text_cleaned": "abcnews.go.com/US/coast-gua... We are all on the Titan submersible now \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
+      "text_preview": "abcnews.go.com/US/coast-gua...\n\nWe are all on the Titan submersible now \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f\n\n#maga #epstein #trump",
+      "author": "getphily.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T16:38:12.623Z",
+      "hashtags": "['#epstein' '#maga' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441086",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 100,
+      "text_cleaned_length": 76,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5ilmy622k",
+      "text": "Usa, Trump: \"Ho lista 4 nomi per guida Fed\" ... LEGGI TUTTO #Trump #USA #FederalReserve #Politica #Economia",
+      "text_cleaned": "Usa, Trump: \"Ho lista 4 nomi per guida Fed\" ... LEGGI TUTTO",
+      "text_preview": "Usa, Trump: \"Ho lista 4 nomi per guida Fed\" ... LEGGI TUTTO #Trump #USA #FederalReserve #Politica #Economia",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-05T16:39:10Z",
+      "hashtags": "['#USA' '#Politica' '#Economia' '#Trump' '#FederalReserve']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441065",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 107,
+      "text_cleaned_length": 59,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5cfhix62h",
+      "text": "\n#Krieg   #Russland   #Russland-Sanktionen   #Sanktionen   #Selenskyj   #Trump   #Ukraine   #Waffenruhe",
+      "text_cleaned": "-Sanktionen",
+      "text_preview": "\n#Krieg   #Russland   #Russland-Sanktionen   #Sanktionen   #Selenskyj   #Trump   #Ukraine   #Waffenruhe",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-05T16:36:03.976658+00:00",
+      "hashtags": "['#Trump' '#Krieg' '#Russland' '#Sanktionen' '#Ukraine' '#Waffenruhe'\n '#Selenskyj']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441125",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 103,
+      "text_cleaned_length": 11,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo5hm6f622k",
+      "text": "\ud83d\ude44\n\n#USpoli \n#EpsteinFiles \n#Trump \n#TrumpPedoFiles\n#TrumpIsOnTheList",
+      "text_cleaned": "\ud83d\ude44",
+      "text_preview": "\ud83d\ude44\n\n#USpoli \n#EpsteinFiles \n#Trump \n#TrumpPedoFiles\n#TrumpIsOnTheList",
+      "author": "theubiquitousj-man.bsky.social",
+      "author_display_name": "The Ubiquitous J-Man",
+      "created_at": "2025-08-05T16:38:37.521Z",
+      "hashtags": "['#TrumpPedoFiles' '#USpoli' '#Trump' '#EpsteinFiles' '#TrumpIsOnTheList']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T16:40:04.441079",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 16:40:10.016000",
+      "text_length": 68,
+      "text_cleaned_length": 1,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
