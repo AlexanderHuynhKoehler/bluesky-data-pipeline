@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_021103",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 02:05:10.006000",
+    "latest_received_at": "2025-08-05 02:10:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmmnym4ik2l",
+      "text": "The brain, experience, talent drain at the once storied @washingtonpost.com is an alarming & depressing #media story. Oligarch owner, Jeff Bezos, caved to #Trump partially to protest his other business interests. CEO Will Lewis is his \u201cenforcer\u201d. Subscriptions? #journalism\n#democracy #fascism",
+      "text_cleaned": "The brain, experience, talent drain at the once storied .com is an alarming & depressing story. Oligarch owner, Jeff Bezos, caved to partially to protest his other business interests. CEO Will Lewis is his \u201cenforcer\u201d. Subscriptions?",
+      "text_preview": "The brain, experience, talent drain at the once storied @washingtonpost.com is an alarming & depressing #media story. Oligarch owner, Jeff Bezos, caved to #Trump partially to protest his other busines...",
+      "author": "mediaactive.bsky.social",
+      "author_display_name": "MediaActive \u25aa\ufe0fEQUALITY \u25aa\ufe0fJUSTICE \u25aa\ufe0fPEACE",
+      "created_at": "2025-08-05T02:05:18.530Z",
+      "hashtags": "['#democracy' '#journalism' '#Trump' '#fascism' '#media']",
+      "mentions": "['@washingtonpost.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.579195",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 293,
+      "text_cleaned_length": 232,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmrwumfc2c",
+      "text": "A resurfaced clip shows Trump telling David Letterman that the teenage girl Mike Tyson brutally r***d was to blame.\n\n\u201cMike should serve some time and everything else, but... she was dancing at his door at 1 a.m.\u201d\n\nThere\u2019s no defending this.\n#Trump #MikeTyson #VictimBlaming #ViralClip #TruthShockers",
+      "text_cleaned": "A resurfaced clip shows Trump telling David Letterman that the teenage girl Mike Tyson brutally r***d was to blame. \u201cMike should serve some time and everything else, but... she was dancing at his door at 1 a.m.\u201d There\u2019s no defending this.",
+      "text_preview": "A resurfaced clip shows Trump telling David Letterman that the teenage girl Mike Tyson brutally r***d was to blame.\n\n\u201cMike should serve some time and everything else, but... she was dancing at his doo...",
+      "author": "truthshockers.bsky.social",
+      "author_display_name": "TruthShockers | Raw. Real. Relentless.",
+      "created_at": "2025-08-05T02:07:30.930Z",
+      "hashtags": "['#ViralClip' '#MikeTyson' '#VictimBlaming' '#Trump' '#TruthShockers']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.579162",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 238,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvmmuek7hc25",
+      "text": "Oh just shut that pig up!  \nOink oink.\n\n\u201cWe don\u2019t have unlimited money in the USA\u201d\n\nOh really - tell your boss that bcuz he\u2019s sure ripping the country off for every last cent!\n\n#Trump &\nhis #47Admin \n\nPlease Mr. Flood don\u2019t go there - you look STUPID!\ud83e\udd28",
+      "text_cleaned": "Oh just shut that pig up! Oink oink. \u201cWe don\u2019t have unlimited money in the USA\u201d Oh really - tell your boss that bcuz he\u2019s sure ripping the country off for every last cent! & his Please Mr. Flood don\u2019t go there - you look STUPID!\ud83e\udd28",
+      "text_preview": "Oh just shut that pig up!  \nOink oink.\n\n\u201cWe don\u2019t have unlimited money in the USA\u201d\n\nOh really - tell your boss that bcuz he\u2019s sure ripping the country off for every last cent!\n\n#Trump &\nhis #47Admin \n...",
+      "author": "no-dm.bsky.social",
+      "author_display_name": "No DM",
+      "created_at": "2025-08-05T02:08:52.377Z",
+      "hashtags": "['#Trump' '#47Admin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.579130",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 252,
+      "text_cleaned_length": 229,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmtwllhk25",
+      "text": "Oh just shut that pig up!  \nOink oink.\n\n\u201cWe don\u2019t have unlimited money in the USA\u201d\n\nOh really - tell your boss that bcuz he\u2019s sure ripping the country off for every last cent!\n\n#Trump &\nhis #47Admin \n\nPlease Mr. Flood don\u2019t go there - you look STUPID!\ud83e\udd28",
+      "text_cleaned": "Oh just shut that pig up! Oink oink. \u201cWe don\u2019t have unlimited money in the USA\u201d Oh really - tell your boss that bcuz he\u2019s sure ripping the country off for every last cent! & his Please Mr. Flood don\u2019t go there - you look STUPID!\ud83e\udd28",
+      "text_preview": "Oh just shut that pig up!  \nOink oink.\n\n\u201cWe don\u2019t have unlimited money in the USA\u201d\n\nOh really - tell your boss that bcuz he\u2019s sure ripping the country off for every last cent!\n\n#Trump &\nhis #47Admin \n...",
+      "author": "no-dm.bsky.social",
+      "author_display_name": "No DM",
+      "created_at": "2025-08-05T02:08:37.743Z",
+      "hashtags": "['#Trump' '#47Admin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.579138",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 252,
+      "text_cleaned_length": 229,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmq35qwk2i",
+      "text": "#AccessHollywood recording of #DonaldTrump & #BillyBush in 2005\n\n#Trump said,\n\n      \"I don't even wait.\n\n      And when you're a star, they let you do it.\n\n      You can do anything\u2026 Grab 'em by the pussy.\n\n      You can do anything.\"\n\n#Epstein #EpsteinFiles #TDS\n#MAGA #Maxwell #Pedophiles #Pedo",
+      "text_cleaned": "recording of & in 2005 said, \"I don't even wait. And when you're a star, they let you do it. You can do anything\u2026 Grab 'em by the pussy. You can do anything.\"",
+      "text_preview": "#AccessHollywood recording of #DonaldTrump & #BillyBush in 2005\n\n#Trump said,\n\n      \"I don't even wait.\n\n      And when you're a star, they let you do it.\n\n      You can do anything\u2026 Grab 'em by the ...",
+      "author": "b7bird.bsky.social",
+      "author_display_name": "\ud83e\udd8b\ud83e\udd8b",
+      "created_at": "2025-08-05T02:06:28.293Z",
+      "hashtags": "['#MAGA' '#BillyBush' '#DonaldTrump' '#AccessHollywood' '#TDS' '#Epstein'\n '#Pedo' '#Trump' '#Pedophiles' '#EpsteinFiles' '#Maxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.579174",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 158,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmmote43s2e",
+      "text": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watch?v=vF5Z...",
+      "text_cleaned": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y",
+      "text_preview": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watc...",
+      "author": "unvtinbuoisang.bsky.social",
+      "author_display_name": "UNV Tin Bu\u1ed5i S\u00e1ng",
+      "created_at": "2025-08-05T02:05:46.580Z",
+      "hashtags": "['#nguoiviet' '#tiengviet' '#tin24h' '#DonaldTrump' '#trump'\n '#vietyoutube' '#youtubetiegviet' '#tinmoi' '#tintuc24h' '#tinhoaky'\n '#hoaky24h' '#topnews' '#tintuc' '#tinnong']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.579185",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 211,
+      "text_cleaned_length": 34,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmvihwhs2e",
+      "text": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watch?v=Hs9x...",
+      "text_cleaned": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y",
+      "text_preview": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watc...",
+      "author": "unvtinbuoisang.bsky.social",
+      "author_display_name": "UNV Tin Bu\u1ed5i S\u00e1ng",
+      "created_at": "2025-08-05T02:09:30.052Z",
+      "hashtags": "['#nguoiviet' '#tiengviet' '#tin24h' '#DonaldTrump' '#trump'\n '#vietyoutube' '#youtubetiegviet' '#tinmoi' '#tintuc24h' '#tinhoaky'\n '#hoaky24h' '#topnews' '#tintuc' '#tinnong']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.579122",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 211,
+      "text_cleaned_length": 34,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmsmdhv22e",
+      "text": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watch?v=KqKF...",
+      "text_cleaned": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y",
+      "text_preview": "\ud83d\udfe3Top News: Tin h\u00e0ng \u0111\u1ea7u trong ng\u00e0y\n#topnews #tinmoi #tiengviet #tintuc24h #tin24h #hoaky24h #tintuc #nguoiviet #tinnong #tinhoaky #DonaldTrump #trump #youtubetiegviet #vietyoutube\nwww.youtube.com/watc...",
+      "author": "unvtinbuoisang.bsky.social",
+      "author_display_name": "UNV Tin Bu\u1ed5i S\u00e1ng",
+      "created_at": "2025-08-05T02:07:53.436Z",
+      "hashtags": "['#nguoiviet' '#tiengviet' '#tin24h' '#DonaldTrump' '#trump'\n '#vietyoutube' '#youtubetiegviet' '#tinmoi' '#tintuc24h' '#tinhoaky'\n '#hoaky24h' '#topnews' '#tintuc' '#tinnong']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.579150",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 211,
+      "text_cleaned_length": 34,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmpmlet72w",
+      "text": "Click Subscribe. #Philippines #Inflation #Economy #EconomicGrowth #FinancialNews",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Philippines #Inflation #Economy #EconomicGrowth #FinancialNews",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-05T02:06:12Z",
+      "hashtags": "['#Philippines' '#FinancialNews' '#Economy' '#EconomicGrowth' '#Inflation']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.577967",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 80,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmq4iisx2w",
+      "text": "Click Subscribe. #Australia #JobMarket #Employment #JobAds #Economy",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Australia #JobMarket #Employment #JobAds #Economy",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-05T02:06:29Z",
+      "hashtags": "['#Australia' '#Employment' '#Economy' '#JobAds' '#JobMarket']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:10:03.577948",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:10:10.007000",
+      "text_length": 67,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmeyojjs25",
+      "text": "I\u2019m sorry but you can\u2019t tell me that #Trump ain\u2019t a pervert. \n\nSo much crap is coming out\nThese photos below \ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc are courtesy Adam Mockler podcast!\nThis is some sick stuff w/too many ties to sex offenders-\nToo much for Trump not to be some kind of sexual deviant. \nVery perculiar\ud83d\ude21",
+      "text_cleaned": "I\u2019m sorry but you can\u2019t tell me that ain\u2019t a pervert. So much crap is coming out These photos below \ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc are courtesy Adam Mockler podcast! This is some sick stuff w/too many ties to sex offenders- Too much for Trump not to be some kind of sexual deviant. Very perculiar\ud83d\ude21",
+      "text_preview": "I\u2019m sorry but you can\u2019t tell me that #Trump ain\u2019t a pervert. \n\nSo much crap is coming out\nThese photos below \ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc are courtesy Adam Mockler podcast!\nThis is some sick stuff w/too many ties to sex offe...",
+      "author": "no-dm.bsky.social",
+      "author_display_name": "No DM",
+      "created_at": "2025-08-05T02:00:16.608Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:05:03.378160",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:05:10.006000",
+      "text_length": 281,
+      "text_cleaned_length": 271,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmfwu6ll2o",
+      "text": "Ukraine\u2019s agricultural imports up by 10% in H1 2025 \u2013 IAE.\n#news #uazmi #economy #ukraine\nIn January-June 2025, Ukraine imported USD 4.262 billion worth of agricultural products, which is 10% higher compared to the same period last year.",
+      "text_cleaned": "Ukraine\u2019s agricultural imports up by 10% in H1 2025 \u2013 IAE. In January-June 2025, Ukraine imported USD 4.262 billion worth of agricultural products, which is 10% higher compared to the same period last year.",
+      "text_preview": "Ukraine\u2019s agricultural imports up by 10% in H1 2025 \u2013 IAE.\n#news #uazmi #economy #ukraine\nIn January-June 2025, Ukraine imported USD 4.262 billion worth of agricultural products, which is 10% higher c...",
+      "author": "uazmi.media",
+      "author_display_name": "\ud83c\uddfa\ud83c\udde6 News",
+      "created_at": "2025-08-05T02:00:47.828Z",
+      "hashtags": "['#uazmi' '#news' '#economy' '#ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:05:03.377813",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:05:10.006000",
+      "text_length": 237,
+      "text_cleaned_length": 206,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmlajo2s2m",
+      "text": "Also isn't her name spelled with a Y? SYDNEY? You stupid illiterate bastard #Trump. Not even qualified to tie your own shoestrings, but somehow allowed to pretend you are president. Fuck you. \ud83d\udd95",
+      "text_cleaned": "Also isn't her name spelled with a Y? SYDNEY? You stupid illiterate bastard . Not even qualified to tie your own shoestrings, but somehow allowed to pretend you are president. Fuck you. \ud83d\udd95",
+      "text_preview": "Also isn't her name spelled with a Y? SYDNEY? You stupid illiterate bastard #Trump. Not even qualified to tie your own shoestrings, but somehow allowed to pretend you are president. Fuck you. \ud83d\udd95",
+      "author": "gracemoynihan.bsky.social",
+      "author_display_name": "Grace Myob",
+      "created_at": "2025-08-05T02:03:46.176Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:05:03.378136",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:05:10.006000",
+      "text_length": 193,
+      "text_cleaned_length": 187,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmmedggtk2g",
+      "text": "#Epstein associate black book/ #Trump & #Wexner alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her www.nbc4i.com/news/local-n...",
+      "text_cleaned": "associate black book/ & alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her",
+      "text_preview": "#Epstein associate black book/ #Trump & #Wexner alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her www.nbc4i.com/news/l...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T01:59:54.335Z",
+      "hashtags": "['#Wexner' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:05:03.378174",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:05:10.006000",
+      "text_length": 209,
+      "text_cleaned_length": 155,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmewvajk2g",
+      "text": "#Epstein associate black book/ #Trump & #Wexner alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her www.nbc4i.com/news/local-n...",
+      "text_cleaned": "associate black book/ & alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her",
+      "text_preview": "#Epstein associate black book/ #Trump & #Wexner alleged notes to Epstein & drew naked photos of women. Epstein victim says Ohio billionaire Les Wexner engaged in sex acts with her www.nbc4i.com/news/l...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T02:00:14.743Z",
+      "hashtags": "['#Wexner' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:05:03.378168",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:05:10.006000",
+      "text_length": 209,
+      "text_cleaned_length": 155,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmjrewrc23",
+      "text": "#GregAbbott #GhislaineMaxwell #Epstein #Trump #PedoTrump #MAGA #GOPedophiles #TrumpRapesLittleGirls #SpeakerJohnson #TrumpIsAPedophile #RepublicansProtectPedophiles #InvestigateTrumpsCrimes #TrumpIsARapist #LockTrumpUp!",
+      "text_cleaned": "!",
+      "text_preview": "#GregAbbott #GhislaineMaxwell #Epstein #Trump #PedoTrump #MAGA #GOPedophiles #TrumpRapesLittleGirls #SpeakerJohnson #TrumpIsAPedophile #RepublicansProtectPedophiles #InvestigateTrumpsCrimes #TrumpIsAR...",
+      "author": "damanonthestreet.bsky.social",
+      "author_display_name": "Da Man On The Street",
+      "created_at": "2025-08-05T02:02:56.734Z",
+      "hashtags": "['#GOPedophiles' '#TrumpIsAPedophile' '#TrumpIsARapist' '#GregAbbott'\n '#Trump' '#PedoTrump' '#RepublicansProtectPedophiles' '#Epstein'\n '#GhislaineMaxwell' '#MAGA' '#LockTrumpUp' '#SpeakerJohnson'\n '#TrumpRapesLittleGirls' '#InvestigateTrumpsCrimes']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:05:03.378146",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:05:10.006000",
+      "text_length": 219,
+      "text_cleaned_length": 1,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvmmmitqc22g",
+      "text": "AG Pam Bondi Orders A Federal Grand Jury Of Officials Over 2016 Trump/Russia Collusion Probe #russia #obama #trump #pambondi #tulsigabbard #collusion",
+      "text_cleaned": "AG Pam Bondi Orders A Federal Grand Jury Of Officials Over 2016 Trump/Russia Collusion Probe",
+      "text_preview": "AG Pam Bondi Orders A Federal Grand Jury Of Officials Over 2016 Trump/Russia Collusion Probe #russia #obama #trump #pambondi #tulsigabbard #collusion",
+      "author": "circularsymphony.bsky.social",
+      "author_display_name": "Circ North America",
+      "created_at": "2025-08-05T02:04:28.449Z",
+      "hashtags": "['#russia' '#collusion' '#obama' '#pambondi' '#trump' '#tulsigabbard']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:05:03.378130",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:05:10.006000",
+      "text_length": 149,
+      "text_cleaned_length": 92,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmmfy2gjs2k",
+      "text": "Just like his buddy #Trump, #Musk cheats to get ahead. The company's stock is flopping and let's hope it continues to do so.",
+      "text_cleaned": "Just like his buddy , cheats to get ahead. The company's stock is flopping and let's hope it continues to do so.",
+      "text_preview": "Just like his buddy #Trump, #Musk cheats to get ahead. The company's stock is flopping and let's hope it continues to do so.",
+      "author": "missyisms.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T02:00:49.514Z",
+      "hashtags": "['#Musk' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T02:05:03.378152",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 02:05:10.006000",
+      "text_length": 124,
+      "text_cleaned_length": 112,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
