@@ -1,0 +1,554 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_074304",
+    "post_count": 20,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 07:35:10.010000",
+    "latest_received_at": "2025-08-05 07:40:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvn7b3pf7k22",
+      "text": "#Texans\n#trump\n#GhislaineMaxwell\n#USA\nt-rump & abbott use gerrymandering as a diversion. Meanwhile they sneak Ghislaine Maxwell into the Bryan TX MINIMUM SECURITY Prison Six (6) minutes away from the Bryan School District which has 24 Public schools. What happens if Maxwell gets Prison Work Release?",
+      "text_cleaned": "t-rump & abbott use gerrymandering as a diversion. Meanwhile they sneak Ghislaine Maxwell into the Bryan TX MINIMUM SECURITY Prison Six (6) minutes away from the Bryan School District which has 24 Public schools. What happens if Maxwell gets Prison Work Release?",
+      "text_preview": "#Texans\n#trump\n#GhislaineMaxwell\n#USA\nt-rump & abbott use gerrymandering as a diversion. Meanwhile they sneak Ghislaine Maxwell into the Bryan TX MINIMUM SECURITY Prison Six (6) minutes away from the ...",
+      "author": "rokerforever.bsky.social",
+      "author_display_name": "CC MSKI",
+      "created_at": "2025-08-05T07:38:06.662Z",
+      "hashtags": "['#USA' '#GhislaineMaxwell' '#Texans' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:40:03.257652",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:40:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 262,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvn7a4c3c223",
+      "text": "\ud83d\udca5 Nuova Rottamazione Cartelle: Sei pronto a dire addio ai tuoi debiti col Fisco? \ud83d\udea8 Scopri i dettagli sulla possibile #RottamazioneQuinquies: www.oraultima.com/nuova-rottam...\n\n#OraUltima #5agosto #saelanews #buongiorno #italia #news #economia #finanza #economy #finance #money",
+      "text_cleaned": "\ud83d\udca5 Nuova Rottamazione Cartelle: Sei pronto a dire addio ai tuoi debiti col Fisco? \ud83d\udea8 Scopri i dettagli sulla possibile :",
+      "text_preview": "\ud83d\udca5 Nuova Rottamazione Cartelle: Sei pronto a dire addio ai tuoi debiti col Fisco? \ud83d\udea8 Scopri i dettagli sulla possibile #RottamazioneQuinquies: www.oraultima.com/nuova-rottam...\n\n#OraUltima #5agosto #sae...",
+      "author": "oraultima.bsky.social",
+      "author_display_name": "ORA ULTIMA",
+      "created_at": "2025-08-05T07:37:33.728Z",
+      "hashtags": "['#finance' '#economia' '#italia' '#5agosto' '#saelanews' '#economy'\n '#finanza' '#RottamazioneQuinquies' '#OraUltima' '#buongiorno' '#news'\n '#money']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:40:03.257309",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:40:10.007000",
+      "text_length": 276,
+      "text_cleaned_length": 118,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn76mqzww22",
+      "text": "TI POTREBBE INTERESSARE: Trump schiera due sottomarini nucleari dopo \u201cprovocazioni\u201d Medvedev ... LEGGI TUTTO #Trump #Medvedev #nucleare #sottomarini #SicurezzaNazionale",
+      "text_cleaned": "TI POTREBBE INTERESSARE: Trump schiera due sottomarini nucleari dopo \u201cprovocazioni\u201d Medvedev ... LEGGI TUTTO",
+      "text_preview": "TI POTREBBE INTERESSARE: Trump schiera due sottomarini nucleari dopo \u201cprovocazioni\u201d Medvedev ... LEGGI TUTTO #Trump #Medvedev #nucleare #sottomarini #SicurezzaNazionale",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-05T07:36:43Z",
+      "hashtags": "['#SicurezzaNazionale' '#sottomarini' '#nucleare' '#Trump' '#Medvedev']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:40:03.257684",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:40:10.007000",
+      "text_length": 168,
+      "text_cleaned_length": 108,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn7b3zmec2a",
+      "text": "The owner of #Trump #Burger has his green\u00b4card revoked ... www.fayettecountyrecord.com/news/trump-b...",
+      "text_cleaned": "The owner of has his green\u00b4card revoked ...",
+      "text_preview": "The owner of #Trump #Burger has his green\u00b4card revoked ... www.fayettecountyrecord.com/news/trump-b...",
+      "author": "zenarchie.bsky.social",
+      "author_display_name": "ZenArchie",
+      "created_at": "2025-08-05T07:38:07.002Z",
+      "hashtags": "['#Burger' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:40:03.257644",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:40:10.007000",
+      "text_length": 102,
+      "text_cleaned_length": 43,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn7cp3w7k23",
+      "text": "Read @ shorturl.at/VZcf0\nSee Also #IDU +\ud83c\uddfa\ud83c\uddf8 #trump\n+\ud83c\udded\ud83c\uddfa #orban MORE",
+      "text_cleaned": "Read @ shorturl.at/VZcf0 See Also +\ud83c\uddfa\ud83c\uddf8 +\ud83c\udded\ud83c\uddfa MORE",
+      "text_preview": "Read @ shorturl.at/VZcf0\nSee Also #IDU +\ud83c\uddfa\ud83c\uddf8 #trump\n+\ud83c\udded\ud83c\uddfa #orban MORE",
+      "author": "martineriviere.bsky.social",
+      "author_display_name": "Martine \u262e\ufe0f",
+      "created_at": "2025-08-05T07:39:00.559Z",
+      "hashtags": "['#trump' '#IDU' '#orban']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:40:03.257636",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:40:10.007000",
+      "text_length": 65,
+      "text_cleaned_length": 46,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvn75ulkma2o",
+      "text": "\n#Bolsonaro   #coup   #Election   #Jair Bolsonaro   #Supreme Court   #Trump",
+      "text_cleaned": "Bolsonaro Court",
+      "text_preview": "\n#Bolsonaro   #coup   #Election   #Jair Bolsonaro   #Supreme Court   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T07:36:24.296872+00:00",
+      "hashtags": "['#Election' '#Supreme' '#Jair' '#Trump' '#coup' '#Bolsonaro']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:40:03.257694",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:40:10.007000",
+      "text_length": 75,
+      "text_cleaned_length": 15,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn77727ly2w",
+      "text": "\n#India   #Modi   #Narendra Modi   #Trump",
+      "text_cleaned": "Modi",
+      "text_preview": "\n#India   #Modi   #Narendra Modi   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T07:37:08.816337+00:00",
+      "hashtags": "['#Narendra' '#Trump' '#India' '#Modi']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:40:03.257666",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:40:10.007000",
+      "text_length": 41,
+      "text_cleaned_length": 4,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn76s4mx22n",
+      "text": "\n#China   #India   #Russia   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#China   #India   #Russia   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T07:36:55.257657+00:00",
+      "hashtags": "['#China' '#Trump' '#India' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:40:03.257674",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:40:10.007000",
+      "text_length": 35,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn77lvzcw2q",
+      "text": "\n#Texas   #Trump   #vote",
+      "text_cleaned": "",
+      "text_preview": "\n#Texas   #Trump   #vote",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T07:37:22.313434+00:00",
+      "hashtags": "['#vote' '#Trump' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:40:03.257659",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:40:10.007000",
+      "text_length": 24,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn72a5j3k2v",
+      "text": "#Trump impose son id\u00e9ologie, l\u2019Europe subit. \u00c0 force de divisions, nous perdons en influence & en souverainet\u00e9. Il est temps d\u2019ouvrir les yeux : l\u2019Europe doit agir, s\u2019affirmer, s\u2019unir.\n\nMon analyse & propositions dans @ouest-france.fr \ud83d\udc49\ud83c\udffc www.ouest-france.fr/reflexion/po...\n\n@ensembleue.bsky.social",
+      "text_cleaned": "impose son id\u00e9ologie, l\u2019Europe subit. \u00c0 force de divisions, nous perdons en influence & en souverainet\u00e9. Il est temps d\u2019ouvrir les yeux : l\u2019Europe doit agir, s\u2019affirmer, s\u2019unir. Mon analyse & propositions dans -france.fr \ud83d\udc49\ud83c\udffc .bsky.social",
+      "text_preview": "#Trump impose son id\u00e9ologie, l\u2019Europe subit. \u00c0 force de divisions, nous perdons en influence & en souverainet\u00e9. Il est temps d\u2019ouvrir les yeux : l\u2019Europe doit agir, s\u2019affirmer, s\u2019unir.\n\nMon analyse & ...",
+      "author": "mariepierrev.bsky.social",
+      "author_display_name": "Marie-Pierre VEDRENNE",
+      "created_at": "2025-08-05T07:34:16.434Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@ensembleue.bsky.social' '@ouest']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499647",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 298,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 2,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn6sikf2c2a",
+      "text": "#Trump vient d\u2019exp\u00e9dier deux sous-marins nucl\u00e9aires \u00ab au plus pr\u00e8s de la #Russie \u00bb. Une dangereuse gesticulation atomique qui en dit long sur l\u2019exasp\u00e9ration du pr\u00e9sident face \u00e0 #Poutine.\nDes sous-marins pour aider l\u2019Ukraine\nPar Pierre Benoit\nlejournal.info/article/des-...",
+      "text_cleaned": "vient d\u2019exp\u00e9dier deux sous-marins nucl\u00e9aires \u00ab au plus pr\u00e8s de la \u00bb. Une dangereuse gesticulation atomique qui en dit long sur l\u2019exasp\u00e9ration du pr\u00e9sident face \u00e0 . Des sous-marins pour aider l\u2019Ukraine Par Pierre Benoit lejournal.info/article/des-...",
+      "text_preview": "#Trump vient d\u2019exp\u00e9dier deux sous-marins nucl\u00e9aires \u00ab au plus pr\u00e8s de la #Russie \u00bb. Une dangereuse gesticulation atomique qui en dit long sur l\u2019exasp\u00e9ration du pr\u00e9sident face \u00e0 #Poutine.\nDes sous-mari...",
+      "author": "lejournal.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T07:29:56.822Z",
+      "hashtags": "['#Poutine' '#Trump' '#Russie']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499698",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 272,
+      "text_cleaned_length": 249,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn6swmmbk2a",
+      "text": "#Hubert_V\u00e9drine, l\u2019ex-ministre des Affaires \u00e9trang\u00e8res voit dans le d\u00e9sordre mondial instaur\u00e9 par #Trump un changement tectonique o\u00f9 les \u00c9tats-Unis r\u00e9gressent d\u2019un si\u00e8cle.\n\nRediff entretien par Val\u00e9rie Lecasble \n\nlejournal.info/article/vedr...",
+      "text_cleaned": ", l\u2019ex-ministre des Affaires \u00e9trang\u00e8res voit dans le d\u00e9sordre mondial instaur\u00e9 par un changement tectonique o\u00f9 les \u00c9tats-Unis r\u00e9gressent d\u2019un si\u00e8cle. Rediff entretien par Val\u00e9rie Lecasble lejournal.info/article/vedr...",
+      "text_preview": "#Hubert_V\u00e9drine, l\u2019ex-ministre des Affaires \u00e9trang\u00e8res voit dans le d\u00e9sordre mondial instaur\u00e9 par #Trump un changement tectonique o\u00f9 les \u00c9tats-Unis r\u00e9gressent d\u2019un si\u00e8cle.\n\nRediff entretien par Val\u00e9ri...",
+      "author": "lejournal.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T07:30:11.575Z",
+      "hashtags": "['#Hubert_V\u00e9drine' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499688",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 243,
+      "text_cleaned_length": 218,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvn6x4dusc23",
+      "text": "\ud83d\udcc9 Is the Economy\u2019s Divergence Starting to Catch Up With the Market? \ud83e\udd14\ud83d\udcbc\ud83d\udcca\n\ninvesting.com/analysis/is-... @investlngcom.bsky.social \n \n#Economy #Investing #Finance #StockMarket #EconomicTrends",
+      "text_cleaned": "\ud83d\udcc9 Is the Economy\u2019s Divergence Starting to Catch Up With the Market? \ud83e\udd14\ud83d\udcbc\ud83d\udcca investing.com/analysis/is-... .bsky.social",
+      "text_preview": "\ud83d\udcc9 Is the Economy\u2019s Divergence Starting to Catch Up With the Market? \ud83e\udd14\ud83d\udcbc\ud83d\udcca\n\ninvesting.com/analysis/is-... @investlngcom.bsky.social \n \n#Economy #Investing #Finance #StockMarket #EconomicTrends",
+      "author": "deveregroup.bsky.social",
+      "author_display_name": "deVere Group",
+      "created_at": "2025-08-05T07:32:31.797Z",
+      "hashtags": "['#EconomicTrends' '#StockMarket' '#Finance' '#Economy' '#Investing']",
+      "mentions": "['@investlngcom.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499354",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 189,
+      "text_cleaned_length": 114,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn6taru2p2c",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #Art\n3. #oc\n4. #digitalart\n5. #epsteinfiles\n6. #fanart\n7. #illustration\n8. #AI\n9. #TRUMP\n10. #Epstein\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #Art\n3. #oc\n4. #digitalart\n5. #epsteinfiles\n6. #fanart\n7. #illustration\n8. #AI\n9. #TRUMP\n10. #Epstein\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-05T07:30:22Z",
+      "hashtags": "['#Epstein' '#digitalart' '#illustration' '#TRUMP' '#Art' '#fanart'\n '#epsteinfiles' '#bb27' '#AI' '#oc']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499680",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 179,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvn6zrrdis26",
+      "text": "K\u00f6nnt ihr euch noch daran erinnern, mit welchen Buchstaben das Jahr begonnen hat? \nEs ist noch viel schlimmer geworden, als viele bef\u00fcrchtet haben.\n#wtf\n#trump\n#merz",
+      "text_cleaned": "K\u00f6nnt ihr euch noch daran erinnern, mit welchen Buchstaben das Jahr begonnen hat? Es ist noch viel schlimmer geworden, als viele bef\u00fcrchtet haben.",
+      "text_preview": "K\u00f6nnt ihr euch noch daran erinnern, mit welchen Buchstaben das Jahr begonnen hat? \nEs ist noch viel schlimmer geworden, als viele bef\u00fcrchtet haben.\n#wtf\n#trump\n#merz",
+      "author": "aniger.bsky.social",
+      "author_display_name": "aniger.bsky.social \ud83e\udd8b",
+      "created_at": "2025-08-05T07:34:01.361Z",
+      "hashtags": "['#merz' '#trump' '#wtf']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499661",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 165,
+      "text_cleaned_length": 146,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn6ysig7c23",
+      "text": "\u26a0\ufe0f Divergence could blindside investors \u2014 but smart money is already positioning\ud83d\udcc9\n\nwealthdfm.com/devere-group... \n\n#Investing #MarketTrends #SmartMoney #Economy",
+      "text_cleaned": "\u26a0\ufe0f Divergence could blindside investors \u2014 but smart money is already positioning\ud83d\udcc9 wealthdfm.com/devere-group...",
+      "text_preview": "\u26a0\ufe0f Divergence could blindside investors \u2014 but smart money is already positioning\ud83d\udcc9\n\nwealthdfm.com/devere-group... \n\n#Investing #MarketTrends #SmartMoney #Economy",
+      "author": "deveregroup.bsky.social",
+      "author_display_name": "deVere Group",
+      "created_at": "2025-08-05T07:33:28.569Z",
+      "hashtags": "['#Economy' '#Investing' '#SmartMoney' '#MarketTrends']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499322",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 160,
+      "text_cleaned_length": 111,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn6xxdsck23",
+      "text": "\ud83d\udea2\ud83d\udcc9 Many silver linings in China\u2019s export slowdown\ud83c\udf0f\u2699\ufe0f\n\nasiatimes.com/2025/08/many... \n\n#China #Economy #Trade #Exports #GlobalMarkets #EconomicShift",
+      "text_cleaned": "\ud83d\udea2\ud83d\udcc9 Many silver linings in China\u2019s export slowdown\ud83c\udf0f\u2699\ufe0f asiatimes.com/2025/08/many...",
+      "text_preview": "\ud83d\udea2\ud83d\udcc9 Many silver linings in China\u2019s export slowdown\ud83c\udf0f\u2699\ufe0f\n\nasiatimes.com/2025/08/many... \n\n#China #Economy #Trade #Exports #GlobalMarkets #EconomicShift",
+      "author": "deveregroup.bsky.social",
+      "author_display_name": "deVere Group",
+      "created_at": "2025-08-05T07:33:00.106Z",
+      "hashtags": "['#Exports' '#Trade' '#EconomicShift' '#GlobalMarkets' '#Economy' '#China']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499340",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 147,
+      "text_cleaned_length": 82,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn72rjj3c2s",
+      "text": "This is the sort of News story that makes #Poilivre's 2 inch dick as hard as a diamond.\nEverything #trump is doing i the US, he wants to do it here.",
+      "text_cleaned": "This is the sort of News story that makes 's 2 inch dick as hard as a diamond. Everything is doing i the US, he wants to do it here.",
+      "text_preview": "This is the sort of News story that makes #Poilivre's 2 inch dick as hard as a diamond.\nEverything #trump is doing i the US, he wants to do it here.",
+      "author": "russellbarth.bsky.social",
+      "author_display_name": "RussellBarth",
+      "created_at": "2025-08-05T07:34:34.662Z",
+      "hashtags": "['#Poilivre' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499637",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 148,
+      "text_cleaned_length": 132,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn6tjrjkk2p",
+      "text": "You can thank #Biden \u2018s appointed AG #MerrickGarland, a coward who wavered for 1\u00bd year before doing anything (substantial)!",
+      "text_cleaned": "You can thank \u2018s appointed AG , a coward who wavered for 1\u00bd year before doing anything (substantial)!",
+      "text_preview": "You can thank #Biden \u2018s appointed AG #MerrickGarland, a coward who wavered for 1\u00bd year before doing anything (substantial)!",
+      "author": "dr-john-von-pi.bsky.social",
+      "author_display_name": "Jan Pi",
+      "created_at": "2025-08-05T07:30:31.658Z",
+      "hashtags": "['#Biden' '#MerrickGarland']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499877",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 123,
+      "text_cleaned_length": 101,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvn6zn4jrs25",
+      "text": "Trump is one utterly soulless fucker, isn't he?\n#Trump\n#DonaldTrump\n#FascismintheUSA",
+      "text_cleaned": "Trump is one utterly soulless fucker, isn't he?",
+      "text_preview": "Trump is one utterly soulless fucker, isn't he?\n#Trump\n#DonaldTrump\n#FascismintheUSA",
+      "author": "jeffstuff.bsky.social",
+      "author_display_name": "Jeff Sawyer",
+      "created_at": "2025-08-05T07:33:56.491Z",
+      "hashtags": "['#FascismintheUSA' '#DonaldTrump' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T07:35:03.499669",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 07:35:10.010000",
+      "text_length": 84,
+      "text_cleaned_length": 47,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
