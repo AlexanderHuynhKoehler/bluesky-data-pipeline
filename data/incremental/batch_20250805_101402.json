@@ -1,0 +1,392 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_101402",
+    "post_count": 14,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 10:05:10.007000",
+    "latest_received_at": "2025-08-05 10:10:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvnhnawbbk2r",
+      "text": "India hits back at Trump\u2019s tariff threat, calls move \u2018unjustified\u2019\n\nwww.indiaweekly.biz/india-respon...\n\n#IndiaUSRelations #TrumpTariffs #indiatariff #USA #indiarussiaoil #OilDeal #Trump #Putin #Modi #RussiaUkraineWar",
+      "text_cleaned": "India hits back at Trump\u2019s tariff threat, calls move \u2018unjustified\u2019",
+      "text_preview": "India hits back at Trump\u2019s tariff threat, calls move \u2018unjustified\u2019\n\nwww.indiaweekly.biz/india-respon...\n\n#IndiaUSRelations #TrumpTariffs #indiatariff #USA #indiarussiaoil #OilDeal #Trump #Putin #Modi ...",
+      "author": "indiaweekly.bsky.social",
+      "author_display_name": "Indiaweekly",
+      "created_at": "2025-08-05T10:08:04.726Z",
+      "hashtags": "['#Modi' '#USA' '#IndiaUSRelations' '#Putin' '#TrumpTariffs' '#Trump'\n '#OilDeal' '#indiarussiaoil' '#RussiaUkraineWar' '#indiatariff']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:10:04.391498",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:10:10.007000",
+      "text_length": 217,
+      "text_cleaned_length": 66,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhm2i32s2x",
+      "text": "Yep & it's also needlessly cruel! Probably most of the people in this auditorium voted for #Trump & the #MAGA #Nazi #Fascist #Republicans & they'll probably keep voting for them!",
+      "text_cleaned": "Yep & it's also needlessly cruel! Probably most of the people in this auditorium voted for & the & they'll probably keep voting for them!",
+      "text_preview": "Yep & it's also needlessly cruel! Probably most of the people in this auditorium voted for #Trump & the #MAGA #Nazi #Fascist #Republicans & they'll probably keep voting for them!",
+      "author": "allmykidshavepaws.bsky.social",
+      "author_display_name": "AllMyKidsHavePaws",
+      "created_at": "2025-08-05T10:07:24.416Z",
+      "hashtags": "['#Republicans' '#Fascist' '#Nazi' '#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:10:04.391506",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:10:10.007000",
+      "text_length": 178,
+      "text_cleaned_length": 137,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhop2scc2k",
+      "text": "The one thing Donald Trump isn\u2019t saying about tariffs www.theguardian.com/us-news/2025... #DonaldTrump #TrumpAdministration #WhiteHouse #Tariffs #TradeWar #TrumpTariffs #LiberationDay #Economy #JoeBiden #Employment #GlobalTrade",
+      "text_cleaned": "The one thing Donald Trump isn\u2019t saying about tariffs",
+      "text_preview": "The one thing Donald Trump isn\u2019t saying about tariffs www.theguardian.com/us-news/2025... #DonaldTrump #TrumpAdministration #WhiteHouse #Tariffs #TradeWar #TrumpTariffs #LiberationDay #Economy #JoeBid...",
+      "author": "gavin-in-brussels.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T10:08:53.110Z",
+      "hashtags": "['#Employment' '#TrumpAdministration' '#Economy' '#JoeBiden' '#WhiteHouse'\n '#Tariffs' '#TrumpTariffs' '#LiberationDay' '#TradeWar' '#GlobalTrade'\n '#DonaldTrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:10:04.391210",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:10:10.007000",
+      "text_length": 227,
+      "text_cleaned_length": 53,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhpsu5o22x",
+      "text": "I\u2019m Not Panicking. I\u2019m Outraged.\n\n#USA #Trump #uspoli \n\nwww.democracydocket.com/opinion/im-n...",
+      "text_cleaned": "I\u2019m Not Panicking. I\u2019m Outraged.",
+      "text_preview": "I\u2019m Not Panicking. I\u2019m Outraged.\n\n#USA #Trump #uspoli \n\nwww.democracydocket.com/opinion/im-n...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-05T10:09:30.639Z",
+      "hashtags": "['#uspoli' '#Trump' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:10:04.391487",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:10:10.007000",
+      "text_length": 95,
+      "text_cleaned_length": 32,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhbwlp7e2z",
+      "text": "Does Aaron Motsoaledi need a ministerial advisory committee like we had during #COVID to deal with the #Trump administration\u2019s #HIV funding cuts? @miamalan.bsky.social asked Wits RHI\u2019s Helen Rees. bhekisisa.org/health-news-...",
+      "text_cleaned": "Does Aaron Motsoaledi need a ministerial advisory committee like we had during to deal with the administration\u2019s funding cuts? .bsky.social asked Wits RHI\u2019s Helen Rees. bhekisisa.org/health-news-...",
+      "text_preview": "Does Aaron Motsoaledi need a ministerial advisory committee like we had during #COVID to deal with the #Trump administration\u2019s #HIV funding cuts? @miamalan.bsky.social asked Wits RHI\u2019s Helen Rees. bhe...",
+      "author": "bhekisisa.org",
+      "author_display_name": "Bhekisisa Centre for Health Journalism",
+      "created_at": "2025-08-05T10:01:44.612Z",
+      "hashtags": "['#Trump' '#COVID' '#HIV']",
+      "mentions": "['@miamalan.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464757",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 226,
+      "text_cleaned_length": 198,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhfrnnkk2c",
+      "text": "#Trump had:\nTopless women sit in his lap\n\nTopless women standing around him laughing at a stain on his pants \n\nClaims Virginia Giuffre  had nocomplaints\n\nunderstanding there\u2019s a pervert in the WH\ud83d\ude21\n\n(All Undetermined age)\n\nCan someone remove Trump & #47Admin\nyoutu.be/fXnVujC1fGs?...",
+      "text_cleaned": "had: Topless women sit in his lap Topless women standing around him laughing at a stain on his pants Claims Virginia Giuffre had nocomplaints understanding there\u2019s a pervert in the WH\ud83d\ude21 (All Undetermined age) Can someone remove Trump & youtu.be/fXnVujC1fGs?...",
+      "text_preview": "#Trump had:\nTopless women sit in his lap\n\nTopless women standing around him laughing at a stain on his pants \n\nClaims Virginia Giuffre  had nocomplaints\n\nunderstanding there\u2019s a pervert in the WH\ud83d\ude21\n\n(A...",
+      "author": "no-dm.bsky.social",
+      "author_display_name": "No DM",
+      "created_at": "2025-08-05T10:03:53.834Z",
+      "hashtags": "['#47Admin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464697",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 282,
+      "text_cleaned_length": 259,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhevamos2l",
+      "text": "What does creeping autocracy in the disintegrating USA look like? It looks exactly like THIS! #USA #Trump #BatshitCrazy #unfit #felon #Epstein #Vance #Thiel #TrumpCrimeFamily #Treason #autocracy #Obscurantism #ChristoFascism #MAGA\npaulstreet.substack.com/p/fascist-dh...",
+      "text_cleaned": "What does creeping autocracy in the disintegrating USA look like? It looks exactly like THIS! paulstreet.substack.com/p/fascist-dh...",
+      "text_preview": "What does creeping autocracy in the disintegrating USA look like? It looks exactly like THIS! #USA #Trump #BatshitCrazy #unfit #felon #Epstein #Vance #Thiel #TrumpCrimeFamily #Treason #autocracy #Obsc...",
+      "author": "maximgrosky.bsky.social",
+      "author_display_name": "Max G",
+      "created_at": "2025-08-05T10:03:24.047Z",
+      "hashtags": "['#USA' '#Obscurantism' '#felon' '#autocracy' '#TrumpCrimeFamily'\n '#Epstein' '#MAGA' '#Treason' '#Vance' '#Thiel' '#unfit'\n '#ChristoFascism' '#Trump' '#BatshitCrazy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464710",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 270,
+      "text_cleaned_length": 133,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhghc6os2l",
+      "text": "I cannot believe the double standard. Didn't these people attack #Biden and #Hunter over something like this? His dad wasn't even president\n\nca.finance.yahoo.com/news/company...",
+      "text_cleaned": "I cannot believe the double standard. Didn't these people attack and over something like this? His dad wasn't even president ca.finance.yahoo.com/news/company...",
+      "text_preview": "I cannot believe the double standard. Didn't these people attack #Biden and #Hunter over something like this? His dad wasn't even president\n\nca.finance.yahoo.com/news/company...",
+      "author": "agora01619.bsky.social",
+      "author_display_name": "Agora01619",
+      "created_at": "2025-08-05T10:04:16.527Z",
+      "hashtags": "['#Hunter' '#Biden']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464943",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 177,
+      "text_cleaned_length": 161,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhcybkak2o",
+      "text": "\n#Bolsonaro   #coup   #Election   #Jair Bolsonaro   #Rio de Janeiro   #Supreme Court   #trade war   #Trump   #Trump administration   #war",
+      "text_cleaned": "Bolsonaro de Janeiro Court war administration",
+      "text_preview": "\n#Bolsonaro   #coup   #Election   #Jair Bolsonaro   #Rio de Janeiro   #Supreme Court   #trade war   #Trump   #Trump administration   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T10:02:25.753187+00:00",
+      "hashtags": "['#Election' '#coup' '#Bolsonaro' '#Trump' '#war' '#Jair' '#Supreme'\n '#trade' '#Rio']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464731",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 137,
+      "text_cleaned_length": 45,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhc36aec2a",
+      "text": "#Trump #Maga Wealth Grab via #Depression Trying To Turn The #USA Into A #Technocratic Shithole Like #Russia",
+      "text_cleaned": "Wealth Grab via Trying To Turn The Into A Shithole Like",
+      "text_preview": "#Trump #Maga Wealth Grab via #Depression Trying To Turn The #USA Into A #Technocratic Shithole Like #Russia",
+      "author": "zenarchie.bsky.social",
+      "author_display_name": "ZenArchie",
+      "created_at": "2025-08-05T10:01:49.594Z",
+      "hashtags": "['#USA' '#Technocratic' '#Maga' '#Russia' '#Trump' '#Depression']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464748",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 107,
+      "text_cleaned_length": 55,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnh7iibhk27",
+      "text": "Bitte hier unterschreiben.\n@umwelthilfe.bsky.social #trump #gas #fossil #klimasch\u00e4dlich #fracking",
+      "text_cleaned": "Bitte hier unterschreiben. .bsky.social",
+      "text_preview": "Bitte hier unterschreiben.\n@umwelthilfe.bsky.social #trump #gas #fossil #klimasch\u00e4dlich #fracking",
+      "author": "delpiero.bsky.social",
+      "author_display_name": "Marcus Kaiser",
+      "created_at": "2025-08-05T10:00:22.890Z",
+      "hashtags": "['#gas' '#fossil' '#trump' '#fracking' '#klimasch\u00e4dlich']",
+      "mentions": "['@umwelthilfe.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464769",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 97,
+      "text_cleaned_length": 39,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnhcag7ic2o",
+      "text": "\n#Bolsonaro   #coup   #Jair Bolsonaro   #Justice   #Supreme Court   #Trump",
+      "text_cleaned": "Bolsonaro Court",
+      "text_preview": "\n#Bolsonaro   #coup   #Jair Bolsonaro   #Justice   #Supreme Court   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T10:02:00.750878+00:00",
+      "hashtags": "['#coup' '#Bolsonaro' '#Jair' '#Justice' '#Supreme' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464740",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 74,
+      "text_cleaned_length": 15,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnhgm2ris2z",
+      "text": "youtube.com/shorts/ll8jp...\n\n#trump #golf #hustle #scotland",
+      "text_cleaned": "youtube.com/shorts/ll8jp...",
+      "text_preview": "youtube.com/shorts/ll8jp...\n\n#trump #golf #hustle #scotland",
+      "author": "mcr2k.bsky.social",
+      "author_display_name": "Hope in a darkened heart",
+      "created_at": "2025-08-05T10:04:21.527Z",
+      "hashtags": "['#hustle' '#trump' '#scotland' '#golf']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464689",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 59,
+      "text_cleaned_length": 27,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnhduijms2r",
+      "text": "#trump #stalin #employment",
+      "text_cleaned": "",
+      "text_preview": "#trump #stalin #employment",
+      "author": "kasvismafioso.bsky.social",
+      "author_display_name": "Kasvismafioso",
+      "created_at": "2025-08-05T10:02:49.680Z",
+      "hashtags": "['#trump' '#employment' '#stalin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T10:05:03.464719",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 10:05:10.007000",
+      "text_length": 26,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
