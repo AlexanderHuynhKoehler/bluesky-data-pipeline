@@ -1,0 +1,554 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_225905",
+    "post_count": 20,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 22:50:10.007000",
+    "latest_received_at": "2025-08-05 22:55:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvoscne6yc23",
+      "text": "Yes, ALL Character in Cartoons, Movies and Works of Fiction\nare fictional. \nHowever, Hank Hill is a reflection, good or bad, of the WRITERS who ARE non-FICTIONAL and the writers have portrayed HIM as one that is NOT PRO TRUMP unlike the STUPID people that voted for #Trump\nAre you 10 yrs old?",
+      "text_cleaned": "Yes, ALL Character in Cartoons, Movies and Works of Fiction are fictional. However, Hank Hill is a reflection, good or bad, of the WRITERS who ARE non-FICTIONAL and the writers have portrayed HIM as one that is NOT PRO TRUMP unlike the STUPID people that voted for Are you 10 yrs old?",
+      "text_preview": "Yes, ALL Character in Cartoons, Movies and Works of Fiction\nare fictional. \nHowever, Hank Hill is a reflection, good or bad, of the WRITERS who ARE non-FICTIONAL and the writers have portrayed HIM as ...",
+      "author": "aialbumart.bsky.social",
+      "author_display_name": "A.I. Album Art",
+      "created_at": "2025-08-05T22:51:39.566Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343205",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 292,
+      "text_cleaned_length": 284,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoscg36wk23",
+      "text": "Shamelessly trying to save himself only. He doesn\u2019t care about victims.! The darkest scandal of his presidency. They asked her about #Trump back in 2019 and she specifically said she never saw Trump on the airplane or on the island. #Epstein",
+      "text_cleaned": "Shamelessly trying to save himself only. He doesn\u2019t care about victims.! The darkest scandal of his presidency. They asked her about back in 2019 and she specifically said she never saw Trump on the airplane or on the island.",
+      "text_preview": "Shamelessly trying to save himself only. He doesn\u2019t care about victims.! The darkest scandal of his presidency. They asked her about #Trump back in 2019 and she specifically said she never saw Trump o...",
+      "author": "skusa.bsky.social",
+      "author_display_name": "SKUSA",
+      "created_at": "2025-08-05T22:51:31.919Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343213",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 241,
+      "text_cleaned_length": 225,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoshsys4s22",
+      "text": "Look what he has done in 6 months. He has 3.5 more years to keep destroying democracy. Where are you going to draw the line. At some point there will be no going back and I think we might have already passed it.  #trump",
+      "text_cleaned": "Look what he has done in 6 months. He has 3.5 more years to keep destroying democracy. Where are you going to draw the line. At some point there will be no going back and I think we might have already passed it.",
+      "text_preview": "Look what he has done in 6 months. He has 3.5 more years to keep destroying democracy. Where are you going to draw the line. At some point there will be no going back and I think we might have already...",
+      "author": "jonathancapone.bsky.social",
+      "author_display_name": "Jonathan Capone",
+      "created_at": "2025-08-05T22:54:33.256Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343170",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 219,
+      "text_cleaned_length": 211,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvosdinzus2p",
+      "text": "@calmatters.org DEFUND DAIRY BAILOUTS AND SUBSIDIES WITH OUR TAXES @governor.ca.gov @governorwalz.mn.gov @govpritzker.illinois.gov @govwesmoore.bsky.social @brasil.gov.br #TRUMP #BAILOUTS #CALIFORNIA",
+      "text_cleaned": ".org DEFUND DAIRY BAILOUTS AND SUBSIDIES WITH OUR TAXES .ca.gov .mn.gov .illinois.gov .bsky.social .gov.br",
+      "text_preview": "@calmatters.org DEFUND DAIRY BAILOUTS AND SUBSIDIES WITH OUR TAXES @governor.ca.gov @governorwalz.mn.gov @govpritzker.illinois.gov @govwesmoore.bsky.social @brasil.gov.br #TRUMP #BAILOUTS #CALIFORNIA",
+      "author": "cancelanimalag.bsky.social",
+      "author_display_name": "Michelle Rene Setaro",
+      "created_at": "2025-08-05T22:52:08.181Z",
+      "hashtags": "['#TRUMP' '#CALIFORNIA' '#BAILOUTS']",
+      "mentions": "['@calmatters.org' '@brasil.gov.br' '@governor.ca.gov'\n '@govpritzker.illinois.gov' '@govwesmoore.bsky.social'\n '@governorwalz.mn.gov']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343196",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 199,
+      "text_cleaned_length": 106,
+      "hashtag_count": 3,
+      "mention_count": 6,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvose6ahms2e",
+      "text": "#RFKJr and #Trump axe $500 million in funding for development of #vaccines.\n\n#GOP #health #antivaxxers \napnews.com/article/kenn...",
+      "text_cleaned": "and axe $500 million in funding for development of . apnews.com/article/kenn...",
+      "text_preview": "#RFKJr and #Trump axe $500 million in funding for development of #vaccines.\n\n#GOP #health #antivaxxers \napnews.com/article/kenn...",
+      "author": "mark-melbin.bsky.social",
+      "author_display_name": "Mark",
+      "created_at": "2025-08-05T22:52:30.823Z",
+      "hashtags": "['#Trump' '#antivaxxers' '#vaccines' '#health' '#GOP' '#RFKJr']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343185",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 130,
+      "text_cleaned_length": 79,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvos7zeqhw2i",
+      "text": "Obama calls Texas GOP's actions a 'power grab that undermines our democracy'\n#Trump",
+      "text_cleaned": "Obama calls Texas GOP's actions a 'power grab that undermines our democracy'",
+      "text_preview": "Obama calls Texas GOP's actions a 'power grab that undermines our democracy'\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T22:50:11.069Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343239",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 83,
+      "text_cleaned_length": 76,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvosa4ep4n2v",
+      "text": "Redistricting Arms Race: A Conversation with Leader Hakeem Jeffries\n#Trump",
+      "text_cleaned": "Redistricting Arms Race: A Conversation with Leader Hakeem Jeffries",
+      "text_preview": "Redistricting Arms Race: A Conversation with Leader Hakeem Jeffries\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T22:50:14.418Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343221",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 74,
+      "text_cleaned_length": 67,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvosa2fesl2w",
+      "text": "This GOP senator thinks God chose Trump as president\u2014yes, really\n#Trump",
+      "text_cleaned": "This GOP senator thinks God chose Trump as president\u2014yes, really",
+      "text_preview": "This GOP senator thinks God chose Trump as president\u2014yes, really\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T22:50:12.465Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343233",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 71,
+      "text_cleaned_length": 64,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvosa3lfxe2y",
+      "text": "Wait\u2014what does Sean Duffy want to do to the moon?\n#Trump",
+      "text_cleaned": "Wait\u2014what does Sean Duffy want to do to the moon?",
+      "text_preview": "Wait\u2014what does Sean Duffy want to do to the moon?\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-05T22:50:13.707Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343227",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 56,
+      "text_cleaned_length": 49,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lvosefry5c22",
+      "text": "Your daily dose of #MAGA #TRUMP \nyoutu.be/WQultdEZvtE?...",
+      "text_cleaned": "Your daily dose of youtu.be/WQultdEZvtE?...",
+      "text_preview": "Your daily dose of #MAGA #TRUMP \nyoutu.be/WQultdEZvtE?...",
+      "author": "bibbybibi.bsky.social",
+      "author_display_name": "BibbyBibi the MAGA furry",
+      "created_at": "2025-08-05T22:52:38.738Z",
+      "hashtags": "['#MAGA' '#TRUMP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:55:04.343177",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:55:10.008000",
+      "text_length": 57,
+      "text_cleaned_length": 43,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorz4o5z223",
+      "text": "Nor is he a \"man\" according to YOUR definition of \"real\". \nSo WHY are you saying he's a \"man\"?\nHank Hill is a reflection, good or bad, of the WRITERS who ARE real and the writers have portrayed HIM as one that is NOT PRO TRUMP unlike the STUPID people that voted for #Trump\n are you 10 yrs old?",
+      "text_cleaned": "Nor is he a \"man\" according to YOUR definition of \"real\". So WHY are you saying he's a \"man\"? Hank Hill is a reflection, good or bad, of the WRITERS who ARE real and the writers have portrayed HIM as one that is NOT PRO TRUMP unlike the STUPID people that voted for are you 10 yrs old?",
+      "text_preview": "Nor is he a \"man\" according to YOUR definition of \"real\". \nSo WHY are you saying he's a \"man\"?\nHank Hill is a reflection, good or bad, of the WRITERS who ARE real and the writers have portrayed HIM as...",
+      "author": "aialbumart.bsky.social",
+      "author_display_name": "A.I. Album Art",
+      "created_at": "2025-08-05T22:46:20.077Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951901",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 294,
+      "text_cleaned_length": 285,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorwukaik25",
+      "text": "#Trump & his servile #GOP have robbed OUR benefits, esp #Medicaid, to pay for tax cuts to the wealthy.\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict #Trump.\n\nIn 11/26, WE MUST NEVER VOTE for #GOP.\n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "& his servile have robbed OUR benefits, esp , to pay for tax cuts to the wealthy. W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict . In 11/26, WE MUST NEVER VOTE for .",
+      "text_preview": "#Trump & his servile #GOP have robbed OUR benefits, esp #Medicaid, to pay for tax cuts to the wealthy.\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach &...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-05T22:45:04.317Z",
+      "hashtags": "['#Medicaid' '#Trump' '#BlueCrew' '#Congress' '#GOP' '#Change']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951936",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 206,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvos3ufa6k25",
+      "text": "\ud83d\udea8Trump Administration Not Renewing Work Permits For Ukrainian Refugees In U.S. Despite The U.S. Promise\ud83d\ude21\ud83d\ude21\n\n#Ukraine #UkrainianRefugees\n#RussiaUkraineWar \n\n#Trump #Republicans #TrumpIsUnfitForOffice #TrumpIsAWannabeDictator #RepublicansAreDestroyingAmerica \n\nyoutube.com/watch?v=Nm9L...",
+      "text_cleaned": "\ud83d\udea8Trump Administration Not Renewing Work Permits For Ukrainian Refugees In U.S. Despite The U.S. Promise\ud83d\ude21\ud83d\ude21 youtube.com/watch?v=Nm9L...",
+      "text_preview": "\ud83d\udea8Trump Administration Not Renewing Work Permits For Ukrainian Refugees In U.S. Despite The U.S. Promise\ud83d\ude21\ud83d\ude21\n\n#Ukraine #UkrainianRefugees\n#RussiaUkraineWar \n\n#Trump #Republicans #TrumpIsUnfitForOffice #T...",
+      "author": "matteroffactfinder.bsky.social",
+      "author_display_name": "Cheryl Hardy \ud83c\uddec\ud83c\udde7",
+      "created_at": "2025-08-05T22:47:52.058Z",
+      "hashtags": "['#Trump' '#TrumpIsAWannabeDictator' '#RepublicansAreDestroyingAmerica'\n '#Republicans' '#Ukraine' '#TrumpIsUnfitForOffice' '#UkrainianRefugees'\n '#RussiaUkraineWar']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951867",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 285,
+      "text_cleaned_length": 133,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorwjd7wx2t",
+      "text": "\u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis The constitutional doomsday clock is ticking.... The post \u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis appeared first on Above the Law . \n\nInterest | Match | Feed",
+      "text_cleaned": "\u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis The constitutional doomsday clock is ticking.... The post \u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis appeared first on Above the Law . Interest | Match | Feed",
+      "text_preview": "\u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisis The constitutional doomsday clock is ticking.... The post \u2018It\u2019s Just A Matter Of Time\u2019: Waiting For Trump\u2019s Constitutional Crisi...",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T22:44:52Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951951",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 261,
+      "text_cleaned_length": 259,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvos2pnxrs26",
+      "text": "**\n\nRFK Jr. pulls $500 million in funding for vaccine development\n\n#resist #resistance #TheResistance #Fascist #project2025 #Trump #CivilWar #BirthRight #MarkoftheBeast #ImpeachTrump #MAGA #NoCryptoCurrency #BanChristianNationalists #BanTicToc \n\napnews.com/article/kenn...",
+      "text_cleaned": "** RFK Jr. pulls $500 million in funding for vaccine development apnews.com/article/kenn...",
+      "text_preview": "**\n\nRFK Jr. pulls $500 million in funding for vaccine development\n\n#resist #resistance #TheResistance #Fascist #project2025 #Trump #CivilWar #BirthRight #MarkoftheBeast #ImpeachTrump #MAGA #NoCryptoCu...",
+      "author": "truthsayer1947.bsky.social",
+      "author_display_name": "exposing_lies",
+      "created_at": "2025-08-05T22:47:13.547Z",
+      "hashtags": "['#MAGA' '#Fascist' '#CivilWar' '#Trump' '#ImpeachTrump' '#TheResistance'\n '#resist' '#MarkoftheBeast' '#BanChristianNationalists' '#BanTicToc'\n '#BirthRight' '#NoCryptoCurrency' '#resistance' '#project2025']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951891",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 272,
+      "text_cleaned_length": 91,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvory3vbkk2v",
+      "text": "The red from his embarrassment of his pedo actions is turning the orange to a darker tone. Trying to wriggle out of his crimes, lock the fucker up!\n\n#Trump\n\nyoutu.be/dPXAss4RM3s?...",
+      "text_cleaned": "The red from his embarrassment of his pedo actions is turning the orange to a darker tone. Trying to wriggle out of his crimes, lock the fucker up! youtu.be/dPXAss4RM3s?...",
+      "text_preview": "The red from his embarrassment of his pedo actions is turning the orange to a darker tone. Trying to wriggle out of his crimes, lock the fucker up!\n\n#Trump\n\nyoutu.be/dPXAss4RM3s?...",
+      "author": "chrismac55.bsky.social",
+      "author_display_name": "Ernie Mac",
+      "created_at": "2025-08-05T22:45:45.706Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951909",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 181,
+      "text_cleaned_length": 172,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvorxudvwc2n",
+      "text": "bsky.app/profile/bara...\n\nPay Attention:\n\n#America\n#Obama #BarrackObama\n#Texas #trump #GOP #republicans \n#Gerrymandering #USA\n#Americans \n#Worldwide \n#BlueSKY \n#BlackSKY",
+      "text_cleaned": "bsky.app/profile/bara... Pay Attention:",
+      "text_preview": "bsky.app/profile/bara...\n\nPay Attention:\n\n#America\n#Obama #BarrackObama\n#Texas #trump #GOP #republicans \n#Gerrymandering #USA\n#Americans \n#Worldwide \n#BlueSKY \n#BlackSKY",
+      "author": "ladyslipperhere.bsky.social",
+      "author_display_name": "#LoudORCHID",
+      "created_at": "2025-08-05T22:45:37.797Z",
+      "hashtags": "['#republicans' '#America' '#trump' '#BlackSKY' '#USA' '#Worldwide'\n '#BlueSKY' '#Texas' '#GOP' '#Gerrymandering' '#Obama' '#BarrackObama'\n '#Americans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951920",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 169,
+      "text_cleaned_length": 39,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvos2wjj6c2v",
+      "text": "Please come join us tonight 8PM EST 5PM PST\n#MMT #SOCIOCIDE #TRUMP\n\nus06web.zoom.us/meeting/regi...",
+      "text_cleaned": "Please come join us tonight 8PM EST 5PM PST us06web.zoom.us/meeting/regi...",
+      "text_preview": "Please come join us tonight 8PM EST 5PM PST\n#MMT #SOCIOCIDE #TRUMP\n\nus06web.zoom.us/meeting/regi...",
+      "author": "austerityismurder.bsky.social",
+      "author_display_name": "\u039b\u0426\u01a7\u01ac\u03a3\u042fI\u01acY I\u01a7 M\u0426\u042fD\u03a3\u042f",
+      "created_at": "2025-08-05T22:47:20.718Z",
+      "hashtags": "['#TRUMP' '#SOCIOCIDE' '#MMT']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951878",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 99,
+      "text_cleaned_length": 75,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvos4osrsc2x",
+      "text": "Malice is unique to humans and makes us most human, but it is also evil.\n#Trump",
+      "text_cleaned": "Malice is unique to humans and makes us most human, but it is also evil.",
+      "text_preview": "Malice is unique to humans and makes us most human, but it is also evil.\n#Trump",
+      "author": "happyfey.bsky.social",
+      "author_display_name": "Den \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-05T22:48:19.765Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951855",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 79,
+      "text_cleaned_length": 72,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvorwtll2c2z",
+      "text": "#epstein #maxwell #trump",
+      "text_cleaned": "",
+      "text_preview": "#epstein #maxwell #trump",
+      "author": "traci-k.bsky.social",
+      "author_display_name": "Traci-K",
+      "created_at": "2025-08-05T22:45:03.442Z",
+      "hashtags": "['#epstein' '#maxwell' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T22:50:03.951943",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 22:50:10.007000",
+      "text_length": 24,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
