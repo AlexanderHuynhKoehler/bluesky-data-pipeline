@@ -1,0 +1,662 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_044209",
+    "post_count": 24,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 04:35:10.008000",
+    "latest_received_at": "2025-08-05 04:40:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvmuzcghw22c",
+      "text": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/j6M15LZh",
+      "text_cleaned": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... .ai",
+      "text_preview": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkwa...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-05T04:34:47.550Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214295",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 275,
+      "text_cleaned_length": 232,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmv5aolc2l2",
+      "text": "Gizmodo (traduction DeepL.com/Translator)\nDans un rare \u00e9lan de bon sens, le Pentagone revient sur son projet d\u2019abandonner le suivi des temp\u00eates\nhttps://mcinformactions.net/dans-un-rare-elan-de-bon-sens-le-pentagone-revient-sur-son-projet-d-abandonner\n#USA #Trump #meteorologie #NOAA",
+      "text_cleaned": "Gizmodo (traduction DeepL.com/Translator) Dans un rare \u00e9lan de bon sens, le Pentagone revient sur son projet d\u2019abandonner le suivi des temp\u00eates",
+      "text_preview": "Gizmodo (traduction DeepL.com/Translator)\nDans un rare \u00e9lan de bon sens, le Pentagone revient sur son projet d\u2019abandonner le suivi des temp\u00eates\nhttps://mcinformactions.net/dans-un-rare-elan-de-bon-sen...",
+      "author": "marieclaudes.mastodon.top.ap.brid.gy",
+      "author_display_name": "InformactionsMC",
+      "created_at": "2025-08-05T04:36:37.000Z",
+      "hashtags": "['#NOAA' '#meteorologie' '#USA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214257",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 282,
+      "text_cleaned_length": 143,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmv537v3k2w",
+      "text": "Gizmodo (traduction DeepL.com/Translator)\nDans un rare \u00e9lan de bon sens, le Pentagone revient sur son projet d\u2019abandonner le suivi des temp\u00eates\nmcinformactions.net/dans-un-rare...\n#USA #Trump #meteorologie #NOAA",
+      "text_cleaned": "Gizmodo (traduction DeepL.com/Translator) Dans un rare \u00e9lan de bon sens, le Pentagone revient sur son projet d\u2019abandonner le suivi des temp\u00eates mcinformactions.net/dans-un-rare...",
+      "text_preview": "Gizmodo (traduction DeepL.com/Translator)\nDans un rare \u00e9lan de bon sens, le Pentagone revient sur son projet d\u2019abandonner le suivi des temp\u00eates\nmcinformactions.net/dans-un-rare...\n#USA #Trump #meteoro...",
+      "author": "mcinformactions.bsky.social",
+      "author_display_name": "MarieClaude S",
+      "created_at": "2025-08-05T04:36:54.527Z",
+      "hashtags": "['#NOAA' '#meteorologie' '#USA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214241",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 211,
+      "text_cleaned_length": 179,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmv32sm5k2q",
+      "text": "The Japan Times reported that the Kremlin is wary of Trump's statement regarding the nuclear submarines that were ordered by the USA president to be sent closer to Russian territory.\n\n#Trump #USA #UnitedStates #Russia #Kremlin #Russian",
+      "text_cleaned": "The Japan Times reported that the Kremlin is wary of Trump's statement regarding the nuclear submarines that were ordered by the USA president to be sent closer to Russian territory.",
+      "text_preview": "The Japan Times reported that the Kremlin is wary of Trump's statement regarding the nuclear submarines that were ordered by the USA president to be sent closer to Russian territory.\n\n#Trump #USA #Uni...",
+      "author": "thejustmax.bsky.social",
+      "author_display_name": "Maxim",
+      "created_at": "2025-08-05T04:35:46.970Z",
+      "hashtags": "['#USA' '#Kremlin' '#UnitedStates' '#Russian' '#Russia' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214276",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 235,
+      "text_cleaned_length": 182,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmv66hj322a",
+      "text": "#GhislaineMaxwell #Epstein #Trump #PedoTrump #MAGA #GOPedophiles #TrumpRapesLittleGirls #SpeakerJohnson #Colbert #BoycottCBS #BoycottParamount #ColbertIsRight\n\nwww.youtube.com/watch?v=fzK5...",
+      "text_cleaned": "",
+      "text_preview": "#GhislaineMaxwell #Epstein #Trump #PedoTrump #MAGA #GOPedophiles #TrumpRapesLittleGirls #SpeakerJohnson #Colbert #BoycottCBS #BoycottParamount #ColbertIsRight\n\nwww.youtube.com/watch?v=fzK5...",
+      "author": "damanonthestreet.bsky.social",
+      "author_display_name": "Da Man On The Street",
+      "created_at": "2025-08-05T04:37:31.476Z",
+      "hashtags": "['#BoycottCBS' '#Trump' '#GOPedophiles' '#ColbertIsRight'\n '#GhislaineMaxwell' '#BoycottParamount' '#MAGA' '#TrumpRapesLittleGirls'\n '#Epstein' '#PedoTrump' '#Colbert' '#SpeakerJohnson']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214219",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 191,
+      "text_cleaned_length": 0,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmv753me22a",
+      "text": "#GhislaineMaxwell #Epstein #Trump #PedoTrump #MAGA #GOPedophiles #TrumpRapesLittleGirls #SpeakerJohnson #Colbert #BoycottCBS #BoycottParamount #ColbertIsRight\n\nwww.youtube.com/watch?v=J4Qp...",
+      "text_cleaned": "",
+      "text_preview": "#GhislaineMaxwell #Epstein #Trump #PedoTrump #MAGA #GOPedophiles #TrumpRapesLittleGirls #SpeakerJohnson #Colbert #BoycottCBS #BoycottParamount #ColbertIsRight\n\nwww.youtube.com/watch?v=J4Qp...",
+      "author": "damanonthestreet.bsky.social",
+      "author_display_name": "Da Man On The Street",
+      "created_at": "2025-08-05T04:38:03.592Z",
+      "hashtags": "['#BoycottCBS' '#Trump' '#GOPedophiles' '#ColbertIsRight'\n '#GhislaineMaxwell' '#BoycottParamount' '#MAGA' '#TrumpRapesLittleGirls'\n '#Epstein' '#PedoTrump' '#Colbert' '#SpeakerJohnson']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214202",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 191,
+      "text_cleaned_length": 0,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmv637ugt2y",
+      "text": "Try a hashtag sometime.\n#USpolitics #Mafioso #Trump #India #Pakistan #fascism \n\n#democracy #usa #gop #fascists\n\n\ud83d\udc49 Vote 'em Out!\n",
+      "text_cleaned": "Try a hashtag sometime. \ud83d\udc49 Vote 'em Out!",
+      "text_preview": "Try a hashtag sometime.\n#USpolitics #Mafioso #Trump #India #Pakistan #fascism \n\n#democracy #usa #gop #fascists\n\n\ud83d\udc49 Vote 'em Out!\n",
+      "author": "cubanx.bsky.social",
+      "author_display_name": "CubanX",
+      "created_at": "2025-08-05T04:37:28.037051+00:00",
+      "hashtags": "['#gop' '#Mafioso' '#USpolitics' '#fascists' '#fascism' '#democracy'\n '#usa' '#India' '#Pakistan' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214230",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 128,
+      "text_cleaned_length": 39,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmv4cjmys2q",
+      "text": "#Trump  #DonaldTrump  Donald Trump's INK Dark past... Donny is truely fuked now!  ... youtu.be/oQjIvmw0BIE?...",
+      "text_cleaned": "Donald Trump's INK Dark past... Donny is truely fuked now! ... youtu.be/oQjIvmw0BIE?...",
+      "text_preview": "#Trump  #DonaldTrump  Donald Trump's INK Dark past... Donny is truely fuked now!  ... youtu.be/oQjIvmw0BIE?...",
+      "author": "kklown.bsky.social",
+      "author_display_name": "WOW",
+      "created_at": "2025-08-05T04:36:28.632Z",
+      "hashtags": "['#DonaldTrump' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214267",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 110,
+      "text_cleaned_length": 87,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvmv2id5fc2q",
+      "text": "Fucking #pedophile  #rapist #Trump\n\nRelease the files you guilty disgusting piece of shit.\n\n#Epstein",
+      "text_cleaned": "Fucking Release the files you guilty disgusting piece of shit.",
+      "text_preview": "Fucking #pedophile  #rapist #Trump\n\nRelease the files you guilty disgusting piece of shit.\n\n#Epstein",
+      "author": "mandyterry.bsky.social",
+      "author_display_name": "\u270c\ud83c\udffd Mandy \u262e\ufe0f",
+      "created_at": "2025-08-05T04:35:27.601Z",
+      "hashtags": "['#rapist' '#Trump' '#pedophile' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214285",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 100,
+      "text_cleaned_length": 62,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmv4v4ap32m",
+      "text": "\n#Gaza   #Israel   #Trump   #war",
+      "text_cleaned": "",
+      "text_preview": "\n#Gaza   #Israel   #Trump   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T04:36:54.001602+00:00",
+      "hashtags": "['#Israel' '#Gaza' '#Trump' '#war']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214249",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 32,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmv6yrt6c2p",
+      "text": "#TRUMP #P3D0 #Pedopred",
+      "text_cleaned": "",
+      "text_preview": "#TRUMP #P3D0 #Pedopred",
+      "author": "northsquatch.bsky.social",
+      "author_display_name": "Democratic_Beast \ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\udde6\ud83c\uddea\ud83c\uddfa\ud83c\udde7\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8",
+      "created_at": "2025-08-05T04:37:59.077Z",
+      "hashtags": "['#TRUMP' '#Pedopred' '#P3D0']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:40:03.214209",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:40:10.007000",
+      "text_length": 22,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuqxmtn22c",
+      "text": "BILL UPDATE:\n\nH.4708: To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to include spotted lanternfly control research and development as high-priority research and extension initiative, and fo...\n\nACTION: Referred to the House Committee on Agriculture.\n\n#business #economy #science",
+      "text_cleaned": "BILL UPDATE: H.4708: To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to include spotted lanternfly control research and development as high-priority research and extension initiative, and fo... ACTION: Referred to the House Committee on Agriculture.",
+      "text_preview": "BILL UPDATE:\n\nH.4708: To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to include spotted lanternfly control research and development as high-priority research and extension initiat...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-05T04:30:06.399Z",
+      "hashtags": "['#economy' '#science' '#business']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547327",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 269,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvmutsj6fnv2",
+      "text": "India brushes off Trump tariff threat over Russian oil\n\nIndia has pushed back against US President Donald Trump's threat to impose higher tariffs on Indian goods. New Delhi condemned Western criticism of its buying oil from Moscow, vowing to protect its national interests [\u2026]",
+      "text_cleaned": "India brushes off Trump tariff threat over Russian oil India has pushed back against US President Donald Trump's threat to impose higher tariffs on Indian goods. New Delhi condemned Western criticism of its buying oil from Moscow, vowing to protect its national interests [\u2026]",
+      "text_preview": "India brushes off Trump tariff threat over Russian oil\n\nIndia has pushed back against US President Donald Trump's threat to impose higher tariffs on Indian goods. New Delhi condemned Western criticism...",
+      "author": "publicnewsfeed.mastodon.social.ap.brid.gy",
+      "author_display_name": "PublicNews.world Feed",
+      "created_at": "2025-08-05T04:31:30.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547658",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 276,
+      "text_cleaned_length": 275,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmussbfjc2z",
+      "text": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/j6M15LZh",
+      "text_cleaned": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... .ai",
+      "text_preview": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkwa...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-05T04:31:09.281Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547665",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 275,
+      "text_cleaned_length": 232,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuqrltuc2z",
+      "text": "\u00a1Uni\u00f3n nacional! \ud83e\udd1d Siete de cada diez mexicanos respaldan a la presidenta Sheinbaum frente a las tensiones arancelarias con Trump. \u00a1Un claro mensaje de apoyo a la postura del gobierno! #Sheinbaum #Trump #Pol\u00edtica #M\u00e9xico\n\nM\u00e1s aqu\u00ed: zurl.co/kU9sh",
+      "text_cleaned": "\u00a1Uni\u00f3n nacional! \ud83e\udd1d Siete de cada diez mexicanos respaldan a la presidenta Sheinbaum frente a las tensiones arancelarias con Trump. \u00a1Un claro mensaje de apoyo a la postura del gobierno! M\u00e1s aqu\u00ed: zurl.co/kU9sh",
+      "text_preview": "\u00a1Uni\u00f3n nacional! \ud83e\udd1d Siete de cada diez mexicanos respaldan a la presidenta Sheinbaum frente a las tensiones arancelarias con Trump. \u00a1Un claro mensaje de apoyo a la postura del gobierno! #Sheinbaum #Tru...",
+      "author": "periodistasunidos.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T04:30:00.925Z",
+      "hashtags": "['#M\u00e9xico' '#Pol\u00edtica' '#Trump' '#Sheinbaum']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547687",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 245,
+      "text_cleaned_length": 208,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuvknqbc2f",
+      "text": "#Trump #extortion #felonsofafeather\n@rpsagainsttrump.bsky.social @crooksandliars.bsky.social\n@housedemocrats.bsky.social @vetsat.bsky.social @rageagainst.bsky.social @bordercrim.bsky.social @democracynow.org @democracydocket.com @accountablegop.bsky.social @fakehistoryhunter.net @altnps.bsky.social",
+      "text_cleaned": ".bsky.social .bsky.social .bsky.social .bsky.social .bsky.social .bsky.social .org .com .bsky.social .net .bsky.social",
+      "text_preview": "#Trump #extortion #felonsofafeather\n@rpsagainsttrump.bsky.social @crooksandliars.bsky.social\n@housedemocrats.bsky.social @vetsat.bsky.social @rageagainst.bsky.social @bordercrim.bsky.social @democracy...",
+      "author": "bruce-brews.bsky.social",
+      "author_display_name": "Bruce Brews",
+      "created_at": "2025-08-05T04:32:42.243Z",
+      "hashtags": "['#felonsofafeather' '#extortion' '#Trump']",
+      "mentions": "['@crooksandliars.bsky.social' '@rageagainst.bsky.social'\n '@accountablegop.bsky.social' '@democracydocket.com' '@democracynow.org'\n '@fakehistoryhunter.net' '@altnps.bsky.social' '@vetsat.bsky.social'\n '@housedemocrats.bsky.social' '@bordercrim.bsky.social'\n '@rpsagainsttrump.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547627",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 118,
+      "hashtag_count": 3,
+      "mention_count": 11,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuutgzo22i",
+      "text": "Maddow: U.S. profoundly changed by authoritarian leader; 'We're beyond waiting and seeing now' youtu.be/VQbDgOaOh4c?... via @YouTube \n#USNews & Views #NowWatching #Politics #TrumpNews #ICE #DHS #Authoritarianism #PoliceState #Trump #DonaldTrump #DonTheCon #ConvictedFelonTrump",
+      "text_cleaned": "Maddow: U.S. profoundly changed by authoritarian leader; 'We're beyond waiting and seeing now' youtu.be/VQbDgOaOh4c?... via & Views",
+      "text_preview": "Maddow: U.S. profoundly changed by authoritarian leader; 'We're beyond waiting and seeing now' youtu.be/VQbDgOaOh4c?... via @YouTube \n#USNews & Views #NowWatching #Politics #TrumpNews #ICE #DHS #Autho...",
+      "author": "neptune78.bsky.social",
+      "author_display_name": "Neptune InIowa",
+      "created_at": "2025-08-05T04:32:17.936Z",
+      "hashtags": "['#DonTheCon' '#USNews' '#Trump' '#PoliceState' '#DonaldTrump'\n '#ConvictedFelonTrump' '#DHS' '#Politics' '#NowWatching' '#TrumpNews'\n '#ICE' '#Authoritarianism']",
+      "mentions": "['@YouTube']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547644",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 276,
+      "text_cleaned_length": 131,
+      "hashtag_count": 12,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmurua4os25",
+      "text": "\ud83d\udea8\ud83d\udea8Trump Stole MILLIONS From Nuclear Safety Fund To Renovate His Qatar Plane!\ud83d\udea8\ud83d\udea8\ud83d\ude21\n\n#NuclearWeapons #NuclearSafety #QatarPlane\n\n#Trump #Republicans #TrumpIsUnfitForOffice #RepublicansAreDestroyingAmerica \n\nyoutu.be/ElTaE1x5D3k?...",
+      "text_cleaned": "\ud83d\udea8\ud83d\udea8Trump Stole MILLIONS From Nuclear Safety Fund To Renovate His Qatar Plane!\ud83d\udea8\ud83d\udea8\ud83d\ude21 youtu.be/ElTaE1x5D3k?...",
+      "text_preview": "\ud83d\udea8\ud83d\udea8Trump Stole MILLIONS From Nuclear Safety Fund To Renovate His Qatar Plane!\ud83d\udea8\ud83d\udea8\ud83d\ude21\n\n#NuclearWeapons #NuclearSafety #QatarPlane\n\n#Trump #Republicans #TrumpIsUnfitForOffice #RepublicansAreDestroyingAmerica...",
+      "author": "matteroffactfinder.bsky.social",
+      "author_display_name": "Cheryl Hardy \ud83c\uddec\ud83c\udde7",
+      "created_at": "2025-08-05T04:30:38.096Z",
+      "hashtags": "['#NuclearSafety' '#NuclearWeapons' '#TrumpIsUnfitForOffice' '#QatarPlane'\n '#RepublicansAreDestroyingAmerica' '#Republicans' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547679",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 227,
+      "text_cleaned_length": 104,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuuimtoy2j",
+      "text": "Congress shuts down, #epstein is out of the news and #Trump 's approval ratings is going back up. America really does have the attention span of goldfish and the morality of monsters",
+      "text_cleaned": "Congress shuts down, is out of the news and 's approval ratings is going back up. America really does have the attention span of goldfish and the morality of monsters",
+      "text_preview": "Congress shuts down, #epstein is out of the news and #Trump 's approval ratings is going back up. America really does have the attention span of goldfish and the morality of monsters",
+      "author": "anubis2814.bsky.social",
+      "author_display_name": "Anubis2814",
+      "created_at": "2025-08-05T04:32:06Z",
+      "hashtags": "['#epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547651",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 182,
+      "text_cleaned_length": 166,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvmuvecmkv2s",
+      "text": "Sensex, Nifty slip amid new Trump tariff threat; all eyes on RBI MPC meet #SensexNifty #Trump #RBIMPC #socialnewsxyz",
+      "text_cleaned": "Sensex, Nifty slip amid new Trump tariff threat; all eyes on RBI MPC meet",
+      "text_preview": "Sensex, Nifty slip amid new Trump tariff threat; all eyes on RBI MPC meet #SensexNifty #Trump #RBIMPC #socialnewsxyz",
+      "author": "socialnews.xyz",
+      "author_display_name": "Social News XYZ",
+      "created_at": "2025-08-05T04:32:34Z",
+      "hashtags": "['#socialnewsxyz' '#RBIMPC' '#SensexNifty' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547634",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 116,
+      "text_cleaned_length": 73,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuxrqm622i",
+      "text": "youtu.be/OkxO1VOddz4 #anonymous #biden\n\nAnonymous Drops Biden's Secret Outburst Targeting Trump.\n\nAnonymous",
+      "text_cleaned": "youtu.be/OkxO1VOddz4 Anonymous Drops Biden's Secret Outburst Targeting Trump. Anonymous",
+      "text_preview": "youtu.be/OkxO1VOddz4 #anonymous #biden\n\nAnonymous Drops Biden's Secret Outburst Targeting Trump.\n\nAnonymous",
+      "author": "dann1960.bsky.social",
+      "author_display_name": "Dann",
+      "created_at": "2025-08-05T04:33:56.816Z",
+      "hashtags": "['#anonymous' '#biden']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547849",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 107,
+      "text_cleaned_length": 87,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuxtkour2u",
+      "text": "\n#liveblog   #Putin   #Trump   #Zollpolitik",
+      "text_cleaned": "",
+      "text_preview": "\n#liveblog   #Putin   #Trump   #Zollpolitik",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T04:34:04.625261+00:00",
+      "hashtags": "['#Zollpolitik' '#liveblog' '#Putin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547607",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 43,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuwoeims2n",
+      "text": "Best #Trump Roast Ever! \n\nyoutu.be/ikmQRj_RPC8?...",
+      "text_cleaned": "Best Roast Ever! youtu.be/ikmQRj_RPC8?...",
+      "text_preview": "Best #Trump Roast Ever! \n\nyoutu.be/ikmQRj_RPC8?...",
+      "author": "sheri89.bsky.social",
+      "author_display_name": "Sheri-Anne",
+      "created_at": "2025-08-05T04:33:19.718Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547615",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 50,
+      "text_cleaned_length": 41,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvmuytdayz2y",
+      "text": "\n#Abstimmung   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Abstimmung   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T04:34:37.920524+00:00",
+      "hashtags": "['#Trump' '#Abstimmung']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:35:03.547600",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:35:10.008000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
