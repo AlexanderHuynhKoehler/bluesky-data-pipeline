@@ -1,0 +1,824 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_155617",
+    "post_count": 30,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 15:50:10.007000",
+    "latest_received_at": "2025-08-05 15:55:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvo2roxyis2p",
+      "text": "Trump told #CNBC this morning that Treasury Secretary Scott Bessent has taken his name out of the running to be the next Fed Chair. He reportedly told President Trump he prefers to remain in his current role. The search for a successor to Jerome Powell continues. #Fed #ScottBessent #economy",
+      "text_cleaned": "Trump told this morning that Treasury Secretary Scott Bessent has taken his name out of the running to be the next Fed Chair. He reportedly told President Trump he prefers to remain in his current role. The search for a successor to Jerome Powell continues.",
+      "text_preview": "Trump told #CNBC this morning that Treasury Secretary Scott Bessent has taken his name out of the running to be the next Fed Chair. He reportedly told President Trump he prefers to remain in his curre...",
+      "author": "schneiderpollock.bsky.social",
+      "author_display_name": "Schneider & Pollock Wealth Management Inc.",
+      "created_at": "2025-08-05T15:50:34.775Z",
+      "hashtags": "['#economy' '#Fed' '#ScottBessent' '#CNBC']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966135",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 291,
+      "text_cleaned_length": 257,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvo2rdv33c2x",
+      "text": "come out of nowhere & accuse @barackobama.bsky.social of #treason. #Trump is so desperate to cover-up himself in the #EpsteinFiles that they're attacking @barackobama.bsky.social & @hillaryclinton.bsky.social AGAIN! They're attacking them because they THINK #MAGA hates them enough that they...",
+      "text_cleaned": "come out of nowhere & accuse .bsky.social of . is so desperate to cover-up himself in the that they're attacking .bsky.social & .bsky.social AGAIN! They're attacking them because they THINK hates them enough that they...",
+      "text_preview": "come out of nowhere & accuse @barackobama.bsky.social of #treason. #Trump is so desperate to cover-up himself in the #EpsteinFiles that they're attacking @barackobama.bsky.social & @hillaryclinton.bsk...",
+      "author": "allmykidshavepaws.bsky.social",
+      "author_display_name": "AllMyKidsHavePaws",
+      "created_at": "2025-08-05T15:50:23.118Z",
+      "hashtags": "['#EpsteinFiles' '#treason' '#Trump' '#MAGA']",
+      "mentions": "['@barackobama.bsky.social' '@hillaryclinton.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966492",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 294,
+      "text_cleaned_length": 220,
+      "hashtag_count": 4,
+      "mention_count": 2,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvo2relul22x",
+      "text": "#pedophile isn't a bad thing & they are calling the #pedophile #GhislaneMaxwell the victim! \nChildren CANNOT legally consent to #sex, having sex with kids is #RAPE! \nThe fact #Trump had her moved to a minimum security prison means she has information (probably tapes) that he does not want ...",
+      "text_cleaned": "isn't a bad thing & they are calling the the victim! Children CANNOT legally consent to , having sex with kids is ! The fact had her moved to a minimum security prison means she has information (probably tapes) that he does not want ...",
+      "text_preview": "#pedophile isn't a bad thing & they are calling the #pedophile #GhislaneMaxwell the victim! \nChildren CANNOT legally consent to #sex, having sex with kids is #RAPE! \nThe fact #Trump had her moved to a...",
+      "author": "allmykidshavepaws.bsky.social",
+      "author_display_name": "AllMyKidsHavePaws",
+      "created_at": "2025-08-05T15:50:23.120Z",
+      "hashtags": "['#pedophile' '#sex' '#RAPE' '#GhislaneMaxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966484",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 293,
+      "text_cleaned_length": 236,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvo2v7vf6552",
+      "text": "Se ha sobrecitado a Winston Churchill hasta la extenuaci\u00f3n, pero su frase aqu\u00ed viene que ni pintiparada: \u201cTuvieron que elegir entre la guerra y el deshonor. Eligieron el deshonor. Tendr\u00e1n la guerra\u201d.\n\n#UE\ud83c\uddea\ud83c\uddfa #VonDerLeyen #EEUU\ud83c\uddfa\ud83c\uddf8 #Trump #aranceles #noticias [\u2026]",
+      "text_cleaned": "Se ha sobrecitado a Winston Churchill hasta la extenuaci\u00f3n, pero su frase aqu\u00ed viene que ni pintiparada: \u201cTuvieron que elegir entre la guerra y el deshonor. Eligieron el deshonor. Tendr\u00e1n la guerra\u201d. \ud83c\uddea\ud83c\uddfa \ud83c\uddfa\ud83c\uddf8 [\u2026]",
+      "text_preview": "Se ha sobrecitado a Winston Churchill hasta la extenuaci\u00f3n, pero su frase aqu\u00ed viene que ni pintiparada: \u201cTuvieron que elegir entre la guerra y el deshonor. Eligieron el deshonor. Tendr\u00e1n la guerra\u201d.\n...",
+      "author": "tferrer.journa.host.ap.brid.gy",
+      "author_display_name": "Thiago Ferrer Morini",
+      "created_at": "2025-08-05T15:52:28.000Z",
+      "hashtags": "['#VonDerLeyen' '#noticias' '#UE' '#EEUU' '#aranceles' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966445",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 259,
+      "text_cleaned_length": 209,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2waomhor2",
+      "text": "#House #Oversight Cmte Chair #JamesComer issued numerous #subpoenas on Tues -- including one to the #DOJ for the COMPLETE #JeffreyEpstein files & another for #depositions w/ President #BillClinton & fmr Secy of #State #HillaryClinton.\n\nComer said he wants the DOJ to turn over the \"full, complete [\u2026]",
+      "text_cleaned": "Cmte Chair issued numerous on Tues -- including one to the for the COMPLETE files & another for w/ President & fmr Secy of . Comer said he wants the DOJ to turn over the \"full, complete [\u2026]",
+      "text_preview": "#House #Oversight Cmte Chair #JamesComer issued numerous #subpoenas on Tues -- including one to the #DOJ for the COMPLETE #JeffreyEpstein files & another for #depositions w/ President #BillClinton & f...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-05T15:53:00.000Z",
+      "hashtags": "['#subpoenas' '#BillClinton' '#State' '#HillaryClinton' '#House' '#DOJ'\n '#depositions' '#JamesComer' '#JeffreyEpstein' '#Oversight']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966436",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 189,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvo2rdu7qc2x",
+      "text": "#MarkLevin of #LifeLibertyLevin on #FoxNews is #pro-pedophile & doesn't care if #Trump #pardons #GhislaneMaxwell who was convicted by a jury of her peers (NOT #Democrats)! She did not JUST get girls for #Epstein, SHE RAPED THEM TOO! She IS A #pedophile!\nAll of a sudden #Trump has #TulsiGabbard...",
+      "text_cleaned": "of on is -pedophile & doesn't care if who was convicted by a jury of her peers (NOT )! She did not JUST get girls for , SHE RAPED THEM TOO! She IS A ! All of a sudden has ...",
+      "text_preview": "#MarkLevin of #LifeLibertyLevin on #FoxNews is #pro-pedophile & doesn't care if #Trump #pardons #GhislaneMaxwell who was convicted by a jury of her peers (NOT #Democrats)! She did not JUST get girls f...",
+      "author": "allmykidshavepaws.bsky.social",
+      "author_display_name": "AllMyKidsHavePaws",
+      "created_at": "2025-08-05T15:50:23.117Z",
+      "hashtags": "['#Democrats' '#pedophile' '#FoxNews' '#Epstein' '#TulsiGabbard'\n '#GhislaneMaxwell' '#pro' '#LifeLibertyLevin' '#pardons' '#Trump'\n '#MarkLevin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966503",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 174,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvo2qw65az2x",
+      "text": "Trumps Claims Discrimination by Banks Ahead of \u00e2\u0080\u0098Debanking\u00e2\u0080\u0099 Crackdown JPMorgan and Bank of America rejected Trump Organization deposits, the president said, fueling his displeasure with Wall Street.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/MxfTD8ZC",
+      "text_cleaned": "Trumps Claims Discrimination by Banks Ahead of \u00e2\u0080\u0098Debanking\u00e2\u0080\u0099 Crackdown JPMorgan and Bank of America rejected Trump Organization deposits, the president said, fueling his displeasure with Wall Street.. .ai",
+      "text_preview": "Trumps Claims Discrimination by Banks Ahead of \u00e2\u0080\u0098Debanking\u00e2\u0080\u0099 Crackdown JPMorgan and Bank of America rejected Trump Organization deposits, the president said, fueling his displeasure with Wall Street...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-05T15:50:08.453Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966511",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 249,
+      "text_cleaned_length": 206,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2vzk44225",
+      "text": "Greg Abbott is a disgraceful excuse for a governor. No matter how this vile Texas GOP party THINKS they\u2019ll silence the voters of Texas, who want change, you all will be removed SOONER THAN LATER! #Trump #Lapdogs #Suck #Redistricting #Cheating #Corruption",
+      "text_cleaned": "Greg Abbott is a disgraceful excuse for a governor. No matter how this vile Texas GOP party THINKS they\u2019ll silence the voters of Texas, who want change, you all will be removed SOONER THAN LATER!",
+      "text_preview": "Greg Abbott is a disgraceful excuse for a governor. No matter how this vile Texas GOP party THINKS they\u2019ll silence the voters of Texas, who want change, you all will be removed SOONER THAN LATER! #Tru...",
+      "author": "boboknowsy.bsky.social",
+      "author_display_name": "Working Class \ud83d\udcaa\ud83c\udffe",
+      "created_at": "2025-08-05T15:53:00.064Z",
+      "hashtags": "['#Lapdogs' '#Corruption' '#Cheating' '#Trump' '#Suck' '#Redistricting']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966427",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 254,
+      "text_cleaned_length": 195,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvo2qmukps2u",
+      "text": "**\n\nFaced with a souring economy and weak job numbers, Donald Trump could change course, but he prefers to fire statisticians and brazenly lie to the public. \n\n#resist #resistance #TheResistance #Fascist #project2025 #Trump #CivilWar #BirthRight #MarkoftheBeast \n\nwww.msnbc.com/rachel-maddo...",
+      "text_cleaned": "** Faced with a souring economy and weak job numbers, Donald Trump could change course, but he prefers to fire statisticians and brazenly lie to the public.",
+      "text_preview": "**\n\nFaced with a souring economy and weak job numbers, Donald Trump could change course, but he prefers to fire statisticians and brazenly lie to the public. \n\n#resist #resistance #TheResistance #Fasc...",
+      "author": "truthsayer1947.bsky.social",
+      "author_display_name": "exposing_lies",
+      "created_at": "2025-08-05T15:49:59.012Z",
+      "hashtags": "['#TheResistance' '#CivilWar' '#BirthRight' '#Fascist' '#resistance'\n '#project2025' '#Trump' '#resist' '#MarkoftheBeast']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966528",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 293,
+      "text_cleaned_length": 156,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2toc7dg27",
+      "text": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries.\n\nInterest | Match | Feed",
+      "text_cleaned": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries. Interest | Match | Feed",
+      "text_preview": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T15:51:41Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966097",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 184,
+      "text_cleaned_length": 183,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2ttw2as2d",
+      "text": "www.independent.co.uk/news/world/a.... pretty sure they're not liking what he's doing in nebraska! #Trump #congress",
+      "text_cleaned": "pretty sure they're not liking what he's doing in nebraska!",
+      "text_preview": "www.independent.co.uk/news/world/a.... pretty sure they're not liking what he's doing in nebraska! #Trump #congress",
+      "author": "nancypo1.bsky.social",
+      "author_display_name": "Nancypo1",
+      "created_at": "2025-08-05T15:51:47.064Z",
+      "hashtags": "['#congress' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966451",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 115,
+      "text_cleaned_length": 59,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2rem2gk2x",
+      "text": "the world to see or know! #Trump, #Bondi, @danbonginoreports.bsky.social @kashpatel.bsky.social #TulsiGabbard & #FoxNews, @newsmax.com #OAN #MarkLevin, @seanhannity.bsky.social @jessewattersprime.bsky.social #GregKelly etc are all in desperately trying to distract #Americans & hoping we'll all...",
+      "text_cleaned": "the world to see or know! , , .bsky.social .bsky.social & , .com , .bsky.social .bsky.social etc are all in desperately trying to distract & hoping we'll all...",
+      "text_preview": "the world to see or know! #Trump, #Bondi, @danbonginoreports.bsky.social @kashpatel.bsky.social #TulsiGabbard & #FoxNews, @newsmax.com #OAN #MarkLevin, @seanhannity.bsky.social @jessewattersprime.bsky...",
+      "author": "allmykidshavepaws.bsky.social",
+      "author_display_name": "AllMyKidsHavePaws",
+      "created_at": "2025-08-05T15:50:23.121Z",
+      "hashtags": "['#FoxNews' '#Americans' '#TulsiGabbard' '#MarkLevin' '#OAN' '#Trump'\n '#GregKelly' '#Bondi']",
+      "mentions": "['@kashpatel.bsky.social' '@jessewattersprime.bsky.social'\n '@danbonginoreports.bsky.social' '@newsmax.com'\n '@seanhannity.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966476",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 160,
+      "hashtag_count": 8,
+      "mention_count": 5,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvo2taejnk2q",
+      "text": "Customize your view of the LMCI chart and read the full report for July on our website: www.kansascityfed.org/data-and-tre...\n\n#Economy #Jobs",
+      "text_cleaned": "Customize your view of the LMCI chart and read the full report for July on our website:",
+      "text_preview": "Customize your view of the LMCI chart and read the full report for July on our website: www.kansascityfed.org/data-and-tre...\n\n#Economy #Jobs",
+      "author": "kansascityfed.bsky.social",
+      "author_display_name": "Federal Reserve Bank of Kansas City",
+      "created_at": "2025-08-05T15:51:26.566Z",
+      "hashtags": "['#Economy' '#Jobs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966115",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 141,
+      "text_cleaned_length": 87,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2qemjis23",
+      "text": "Trump on the White House roof right now.\n\n2nd Office x Trump crossover in the last couple of weeks.\n\n#Trump\n#Epstein\n#ReleaseTheFiles",
+      "text_cleaned": "Trump on the White House roof right now. 2nd Office x Trump crossover in the last couple of weeks.",
+      "text_preview": "Trump on the White House roof right now.\n\n2nd Office x Trump crossover in the last couple of weeks.\n\n#Trump\n#Epstein\n#ReleaseTheFiles",
+      "author": "lbcwatchuk.bsky.social",
+      "author_display_name": "LBC Watch",
+      "created_at": "2025-08-05T15:49:50.359Z",
+      "hashtags": "['#ReleaseTheFiles' '#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966534",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 133,
+      "text_cleaned_length": 98,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2s4mh7h2y",
+      "text": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries.\n\nInterest | Match | Feed",
+      "text_cleaned": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries. Interest | Match | Feed",
+      "text_preview": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T15:50:49Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966123",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 184,
+      "text_cleaned_length": 183,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2w4e4xk2y",
+      "text": "Das freut mich aber!\n\n#VonDerLeyen\n#Trump\n#WieDummGehtsNoch?\n\nwww.watson.ch/internationa...",
+      "text_cleaned": "Das freut mich aber! ?",
+      "text_preview": "Das freut mich aber!\n\n#VonDerLeyen\n#Trump\n#WieDummGehtsNoch?\n\nwww.watson.ch/internationa...",
+      "author": "brunztusruessel.bsky.social",
+      "author_display_name": "Rudi45",
+      "created_at": "2025-08-05T15:53:03.021Z",
+      "hashtags": "['#VonDerLeyen' '#Trump' '#WieDummGehtsNoch']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966417",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 91,
+      "text_cleaned_length": 22,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvo2qawyjo2k",
+      "text": "\n#Krieg   #Russland   #Russland-Sanktionen   #Sanktionen   #Selenskyj   #Trump   #Ukraine",
+      "text_cleaned": "-Sanktionen",
+      "text_preview": "\n#Krieg   #Russland   #Russland-Sanktionen   #Sanktionen   #Selenskyj   #Trump   #Ukraine",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T15:50:07.806433+00:00",
+      "hashtags": "['#Russland' '#Selenskyj' '#Trump' '#Krieg' '#Sanktionen' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966520",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 89,
+      "text_cleaned_length": 11,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2roongw2k",
+      "text": "\n#EU   #Trump   #Ursula von der Leyen   #Von der Leyen",
+      "text_cleaned": "von der Leyen der Leyen",
+      "text_preview": "\n#EU   #Trump   #Ursula von der Leyen   #Von der Leyen",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T15:50:55.777321+00:00",
+      "hashtags": "['#Ursula' '#Trump' '#Von' '#EU']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966464",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 54,
+      "text_cleaned_length": 23,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2wu22uk2g",
+      "text": "Jump, ya cunt!\n\n#r4today #wato #politicslive #bbcpm #bbcqt #c4news #trump",
+      "text_cleaned": "Jump, ya cunt!",
+      "text_preview": "Jump, ya cunt!\n\n#r4today #wato #politicslive #bbcpm #bbcqt #c4news #trump",
+      "author": "darkmatterlava.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T15:53:27.856Z",
+      "hashtags": "['#trump' '#wato' '#c4news' '#bbcpm' '#bbcqt' '#r4today' '#politicslive']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966410",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 73,
+      "text_cleaned_length": 14,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2rzzzid2p",
+      "text": "\n#Sanktionen   #Selenskyj   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Sanktionen   #Selenskyj   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T15:51:07.667016+00:00",
+      "hashtags": "['#Sanktionen' '#Selenskyj' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:55:03.966457",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:55:10.007000",
+      "text_length": 34,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2hjf2ai52",
+      "text": "The big asterisk next to Trump\u2019s \u2018highest vote in the history of #Texas\u2019 claim\n\n\u00ab \u201cI won Texas \u2014 I got the highest vote in the history of Texas, as you probably know, and we are entitled to five more seats.\u201d said #Trump \u00bb [\u2026]",
+      "text_cleaned": "The big asterisk next to Trump\u2019s \u2018highest vote in the history of \u2019 claim \u00ab \u201cI won Texas \u2014 I got the highest vote in the history of Texas, as you probably know, and we are entitled to five more seats.\u201d said \u00bb [\u2026]",
+      "text_preview": "The big asterisk next to Trump\u2019s \u2018highest vote in the history of #Texas\u2019 claim\n\n\u00ab \u201cI won Texas \u2014 I got the highest vote in the history of Texas, as you probably know, and we are entitled to five more ...",
+      "author": "annaanthro.mastodon.social.ap.brid.gy",
+      "author_display_name": "AnnaAnthro",
+      "created_at": "2025-08-05T15:44:50.000Z",
+      "hashtags": "['#Trump' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762790",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 225,
+      "text_cleaned_length": 211,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvo2onaprz23",
+      "text": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries.\n\nInterest | Match | Feed",
+      "text_cleaned": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries. Interest | Match | Feed",
+      "text_preview": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T15:48:52Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762303",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 184,
+      "text_cleaned_length": 183,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2l6wutg2s",
+      "text": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries.\n\nInterest | Match | Feed",
+      "text_cleaned": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries. Interest | Match | Feed",
+      "text_preview": "US stocks slip following the latest discouraging signal on the economy A weaker-than-expected report on activity for U.S. services businesses added to worries.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T15:46:56Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762320",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 184,
+      "text_cleaned_length": 183,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2m3mjg222",
+      "text": "#Trump vs #Murdoch \nTrump doesn\u2019t want to sit for a #deposition under #oath about his friendship with #Epstein #TACO\n\n youtu.be/c4Eo40dVzHo?...",
+      "text_cleaned": "vs Trump doesn\u2019t want to sit for a under about his friendship with youtu.be/c4Eo40dVzHo?...",
+      "text_preview": "#Trump vs #Murdoch \nTrump doesn\u2019t want to sit for a #deposition under #oath about his friendship with #Epstein #TACO\n\n youtu.be/c4Eo40dVzHo?...",
+      "author": "pianozzino.bsky.social",
+      "author_display_name": "Pianozzino",
+      "created_at": "2025-08-05T15:47:26.704Z",
+      "hashtags": "['#Murdoch' '#oath' '#Epstein' '#TACO' '#Trump' '#deposition']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762690",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 143,
+      "text_cleaned_length": 91,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2jrcmnc27",
+      "text": "The documentary the #Trump Organization tried to suppress | You've Been Trumped Too (2020) | Full Film www.youtube.com/watch?v=k9Rw...",
+      "text_cleaned": "The documentary the Organization tried to suppress | You've Been Trumped Too (2020) | Full Film",
+      "text_preview": "The documentary the #Trump Organization tried to suppress | You've Been Trumped Too (2020) | Full Film www.youtube.com/watch?v=k9Rw...",
+      "author": "zenarchie.bsky.social",
+      "author_display_name": "ZenArchie",
+      "created_at": "2025-08-05T15:46:08.786Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762781",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 134,
+      "text_cleaned_length": 95,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2n4l6gs2v",
+      "text": "Neue Ablenkung von den Epstein Files.\n\n#Epstein #EpsteinFiles #sextrafficking #Trump #maralago #TrumpIsAFelon #TrumpisaRapist",
+      "text_cleaned": "Neue Ablenkung von den Epstein Files.",
+      "text_preview": "Neue Ablenkung von den Epstein Files.\n\n#Epstein #EpsteinFiles #sextrafficking #Trump #maralago #TrumpIsAFelon #TrumpisaRapist",
+      "author": "knautschzone.bsky.social",
+      "author_display_name": "Melanie",
+      "created_at": "2025-08-05T15:48:01.263Z",
+      "hashtags": "['#TrumpIsAFelon' '#sextrafficking' '#EpsteinFiles' '#maralago'\n '#TrumpisaRapist' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762678",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 125,
+      "text_cleaned_length": 37,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvo2k3dsjw2q",
+      "text": "\n#Krieg   #Russland   #Russland-Sanktionen   #Sanktionen   #Selenskyj   #Trump   #Ukraine   #Waffenruhe",
+      "text_cleaned": "-Sanktionen",
+      "text_preview": "\n#Krieg   #Russland   #Russland-Sanktionen   #Sanktionen   #Selenskyj   #Trump   #Ukraine   #Waffenruhe",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T15:46:40.629866+00:00",
+      "hashtags": "['#Selenskyj' '#Russland' '#Sanktionen' '#Ukraine' '#Trump' '#Krieg'\n '#Waffenruhe']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762774",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 103,
+      "text_cleaned_length": 11,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2ood2dq2y",
+      "text": "\n#Krieg   #Russland   #Russland-Sanktionen   #Sanktionen   #Selenskyj   #Trump   #Ukraine   #Waffenruhe",
+      "text_cleaned": "-Sanktionen",
+      "text_preview": "\n#Krieg   #Russland   #Russland-Sanktionen   #Sanktionen   #Selenskyj   #Trump   #Ukraine   #Waffenruhe",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T15:49:14.731690+00:00",
+      "hashtags": "['#Selenskyj' '#Russland' '#Sanktionen' '#Ukraine' '#Trump' '#Krieg'\n '#Waffenruhe']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762668",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 103,
+      "text_cleaned_length": 11,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2phrfhk2c",
+      "text": "P iece\nO f\nT otally\nU seless \nS h*t\n\n#Trump",
+      "text_cleaned": "P iece O f T otally U seless S h*t",
+      "text_preview": "P iece\nO f\nT otally\nU seless \nS h*t\n\n#Trump",
+      "author": "akremer.bsky.social",
+      "author_display_name": "A. Kremer  \ud83e\udd8b \ud83d\udcef \ud83c\uddfa\ud83c\udde6 \ud83c\uddea\ud83c\uddfa \ud83c\udde8\ud83c\udde6 \ud83c\uddec\ud83c\uddf1 \ud83c\uddf5\ud83c\udde6 \ud83c\udf0d\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-05T15:49:20.110Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762657",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 43,
+      "text_cleaned_length": 34,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvo2l7ewxc2y",
+      "text": "\n#EU   #Handelskonflikt   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#EU   #Handelskonflikt   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T15:47:18.403975+00:00",
+      "hashtags": "['#EU' '#Trump' '#Handelskonflikt']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T15:50:03.762697",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 15:50:10.007000",
+      "text_length": 32,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
