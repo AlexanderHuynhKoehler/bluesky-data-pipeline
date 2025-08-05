@@ -1,0 +1,986 @@
+{
+  "batch_info": {
+    "timestamp": "20250805_145553",
+    "post_count": 36,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-05 14:50:10.060000",
+    "latest_received_at": "2025-08-05 14:55:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvnxloqn7k2t",
+      "text": "This is equivalent to the McCarthy Red Scare Hearings and a good opportunity to bring the fight against authoritarianism to the GOP\u2019s doorstep.\n\nConfident each of these people can rise to the occasion (maybe not Garland).\n\nIt also prolongs #Trump \u2019s #Epstein problem, which isn\u2019t diminishing.\n\n#Comer",
+      "text_cleaned": "This is equivalent to the McCarthy Red Scare Hearings and a good opportunity to bring the fight against authoritarianism to the GOP\u2019s doorstep. Confident each of these people can rise to the occasion (maybe not Garland). It also prolongs \u2019s problem, which isn\u2019t diminishing.",
+      "text_preview": "This is equivalent to the McCarthy Red Scare Hearings and a good opportunity to bring the fight against authoritarianism to the GOP\u2019s doorstep.\n\nConfident each of these people can rise to the occasion...",
+      "author": "allen-raymond.bsky.social",
+      "author_display_name": "Allen Raymond",
+      "created_at": "2025-08-05T14:53:31.950Z",
+      "hashtags": "['#Epstein' '#Comer' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945430",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 274,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnxntapp22s",
+      "text": "Die Raffgier, Skrupellosigkeit und Unverfrorenheit von #Trump nimmt sich mittlerweile t\u00e4glich, wenn nicht st\u00fcndlich steigernd  allm\u00e4hlich ein Ausma\u00df an, das unter zivilisierten Nationen in den letzten Jahrzehnten in dieser Form eher unbekannt war.\n\u2026 (1/2 \u2026)",
+      "text_cleaned": "Die Raffgier, Skrupellosigkeit und Unverfrorenheit von nimmt sich mittlerweile t\u00e4glich, wenn nicht st\u00fcndlich steigernd allm\u00e4hlich ein Ausma\u00df an, das unter zivilisierten Nationen in den letzten Jahrzehnten in dieser Form eher unbekannt war. \u2026 (1/2 \u2026)",
+      "text_preview": "Die Raffgier, Skrupellosigkeit und Unverfrorenheit von #Trump nimmt sich mittlerweile t\u00e4glich, wenn nicht st\u00fcndlich steigernd  allm\u00e4hlich ein Ausma\u00df an, das unter zivilisierten Nationen in den letzten...",
+      "author": "alexanderdrewes.bsky.social",
+      "author_display_name": "Alexander Drewes",
+      "created_at": "2025-08-05T14:54:43.813Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945413",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 257,
+      "text_cleaned_length": 249,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxezs3rs2v",
+      "text": "#Trump will go A full A Few Good Pedos: \"You're #God damn right I trafficked those girls...\" to which the #GOP & #MAGA will blame #Epstein & victims and say Trump was the best #pedo pimp ever. Jizlaine #Maxwell will get a pardon along with #Diddy. A \"list\" will be published, all #Democrats.",
+      "text_cleaned": "will go A full A Few Good Pedos: \"You're damn right I trafficked those girls...\" to which the & will blame & victims and say Trump was the best pimp ever. Jizlaine will get a pardon along with . A \"list\" will be published, all .",
+      "text_preview": "#Trump will go A full A Few Good Pedos: \"You're #God damn right I trafficked those girls...\" to which the #GOP & #MAGA will blame #Epstein & victims and say Trump was the best #pedo pimp ever. Jizlain...",
+      "author": "underbrush.bsky.social",
+      "author_display_name": "F. Shoemaker",
+      "created_at": "2025-08-05T14:49:48.683Z",
+      "hashtags": "['#GOP' '#God' '#Maxwell' '#MAGA' '#Epstein' '#Trump' '#Democrats'\n '#Diddy' '#pedo']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945533",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 291,
+      "text_cleaned_length": 228,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxj33tiak2",
+      "text": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N...\n\n#Business #Economy #National #News #News #business #Network\n\nOrigin | Interest | Match",
+      "text_cleaned": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N... Origin | Interest | Match",
+      "text_preview": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N......",
+      "author": "nasdaq.activitypub.awakari.com.ap.brid.gy",
+      "author_display_name": "Nasdaq",
+      "created_at": "2025-08-05T13:59:05.000Z",
+      "hashtags": "['#National' '#Economy' '#Network' '#Business' '#News' '#business']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945353",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 288,
+      "text_cleaned_length": 226,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxgpgl6v2s",
+      "text": "Trumps Claims Discrimination by Banks Ahead of \u00e2\u0080\u0098Debanking\u00e2\u0080\u0099 Crackdown JPMorgan and Bank of America rejected Trump Organization deposits, the president said, fueling his displeasure with Wall Street.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/MxfTD8ZC",
+      "text_cleaned": "Trumps Claims Discrimination by Banks Ahead of \u00e2\u0080\u0098Debanking\u00e2\u0080\u0099 Crackdown JPMorgan and Bank of America rejected Trump Organization deposits, the president said, fueling his displeasure with Wall Street.. .ai",
+      "text_preview": "Trumps Claims Discrimination by Banks Ahead of \u00e2\u0080\u0098Debanking\u00e2\u0080\u0099 Crackdown JPMorgan and Bank of America rejected Trump Organization deposits, the president said, fueling his displeasure with Wall Street...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-05T14:50:44.752Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945512",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 249,
+      "text_cleaned_length": 206,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxlia5dk2j",
+      "text": "#Trump dreht vollkommen frei (III). 50% Zoll f\u00fcr alles aus Brasilien (incl. Tiernahrung) um seinen Spezi und \"guten Mann\" Bolsonaro freizupressen.\nEin Erpresser ist er.\nIst aber egal, Brasilien spielt l\u00e4ngst in der BRICS-Liga. \ud83d\udc4d",
+      "text_cleaned": "dreht vollkommen frei (III). 50% Zoll f\u00fcr alles aus Brasilien (incl. Tiernahrung) um seinen Spezi und \"guten Mann\" Bolsonaro freizupressen. Ein Erpresser ist er. Ist aber egal, Brasilien spielt l\u00e4ngst in der BRICS-Liga. \ud83d\udc4d",
+      "text_preview": "#Trump dreht vollkommen frei (III). 50% Zoll f\u00fcr alles aus Brasilien (incl. Tiernahrung) um seinen Spezi und \"guten Mann\" Bolsonaro freizupressen.\nEin Erpresser ist er.\nIst aber egal, Brasilien spielt...",
+      "author": "flylikeaduck.bsky.social",
+      "author_display_name": "Lumpenpazifist",
+      "created_at": "2025-08-05T14:53:25.150Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945438",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 228,
+      "text_cleaned_length": 221,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnxlmm2us25",
+      "text": "What are the effects of #Trump's erratic #tariffs? @profwolff.bsky.social discusses it a bit here and more on #EconomicUpdate! #trade #politics #economics #economy #neoliberalism #capitalism #market #stockmarket #crisis @democracyatwork.bsky.social #democracyatwork",
+      "text_cleaned": "What are the effects of 's erratic ? .bsky.social discusses it a bit here and more on ! .bsky.social",
+      "text_preview": "What are the effects of #Trump's erratic #tariffs? @profwolff.bsky.social discusses it a bit here and more on #EconomicUpdate! #trade #politics #economics #economy #neoliberalism #capitalism #market #...",
+      "author": "democracyatwork.bsky.social",
+      "author_display_name": "Democracy At Work",
+      "created_at": "2025-08-05T14:53:29.734Z",
+      "hashtags": "['#neoliberalism' '#capitalism' '#economics' '#economy' '#tariffs'\n '#crisis' '#market' '#Trump' '#stockmarket' '#EconomicUpdate' '#politics'\n '#democracyatwork' '#trade']",
+      "mentions": "['@profwolff.bsky.social' '@democracyatwork.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945167",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 265,
+      "text_cleaned_length": 100,
+      "hashtag_count": 13,
+      "mention_count": 2,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnxfs2flc2n",
+      "text": "I do not understand how the president saying putting a 17 year old child in front of him is like putting a drink in front of an alcoholic, is not the biggest story in the world. \n\n#trump #maga #epstien",
+      "text_cleaned": "I do not understand how the president saying putting a 17 year old child in front of him is like putting a drink in front of an alcoholic, is not the biggest story in the world.",
+      "text_preview": "I do not understand how the president saying putting a 17 year old child in front of him is like putting a drink in front of an alcoholic, is not the biggest story in the world. \n\n#trump #maga #epstie...",
+      "author": "burg3rtime.bsky.social",
+      "author_display_name": "Burger",
+      "created_at": "2025-08-05T14:50:14.122Z",
+      "hashtags": "['#maga' '#epstien' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945520",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 201,
+      "text_cleaned_length": 177,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnxhijktc2r",
+      "text": "President Zelenskyy reported that he had a productive conversation with President Trump, with the main topic being the end of the war.\n\n#Ukraine\ufe0f #Zelenskyy #USA #Trump #UkraineRussiaWar #Russia",
+      "text_cleaned": "President Zelenskyy reported that he had a productive conversation with President Trump, with the main topic being the end of the war. \ufe0f",
+      "text_preview": "President Zelenskyy reported that he had a productive conversation with President Trump, with the main topic being the end of the war.\n\n#Ukraine\ufe0f #Zelenskyy #USA #Trump #UkraineRussiaWar #Russia",
+      "author": "ulfh3dnar.bsky.social",
+      "author_display_name": "Ulfh3dnar",
+      "created_at": "2025-08-05T14:51:11.220Z",
+      "hashtags": "['#UkraineRussiaWar' '#Ukraine' '#Zelenskyy' '#Trump' '#Russia' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945477",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 194,
+      "text_cleaned_length": 136,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxnm3ixe2i",
+      "text": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "text_cleaned": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. Interest | Match | Feed",
+      "text_preview": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T14:54:36Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945142",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 173,
+      "text_cleaned_length": 172,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxnqfr7n2s",
+      "text": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "text_cleaned": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. Interest | Match | Feed",
+      "text_preview": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T14:54:40Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945126",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 173,
+      "text_cleaned_length": 172,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxizgy6d2z",
+      "text": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "text_cleaned": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. Interest | Match | Feed",
+      "text_preview": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T14:52:02Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945178",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 173,
+      "text_cleaned_length": 172,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxgxcxos2h",
+      "text": "#heykids #goodmorning #goodafternoon #goodeven\u0131ng #happy #Trump #maga #today #fyf #fyp #viral #trending #news #breakingnews #viralnews #foryoupage #feed #discover #reels #shorts  #haveaday #standtogether #westand #bestrong #wegotthis",
+      "text_cleaned": "",
+      "text_preview": "#heykids #goodmorning #goodafternoon #goodeven\u0131ng #happy #Trump #maga #today #fyf #fyp #viral #trending #news #breakingnews #viralnews #foryoupage #feed #discover #reels #shorts  #haveaday #standtoget...",
+      "author": "nov2874.bsky.social",
+      "author_display_name": "Stephen Robinson",
+      "created_at": "2025-08-05T14:50:53.199Z",
+      "hashtags": "['#reels' '#goodeven\u0131ng' '#bestrong' '#viralnews' '#Trump' '#heykids'\n '#wegotthis' '#goodafternoon' '#breakingnews' '#shorts' '#today' '#fyf'\n '#westand' '#news' '#trending' '#fyp' '#haveaday' '#feed' '#happy'\n '#goodmorning' '#maga' '#viral' '#standtogether' '#discover'\n '#foryoupage']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945504",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 233,
+      "text_cleaned_length": 0,
+      "hashtag_count": 25,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxhefkus27",
+      "text": "Why do Republicans fear tariffs are killing the economy? He has clearly and repeated said the labor numbers are fake.\ud83e\udd14\n\n#Trump\nwww.yahoo.com/finance/news...",
+      "text_cleaned": "Why do Republicans fear tariffs are killing the economy? He has clearly and repeated said the labor numbers are fake.\ud83e\udd14",
+      "text_preview": "Why do Republicans fear tariffs are killing the economy? He has clearly and repeated said the labor numbers are fake.\ud83e\udd14\n\n#Trump\nwww.yahoo.com/finance/news...",
+      "author": "oncerepublican.bsky.social",
+      "author_display_name": "Oncerepublican",
+      "created_at": "2025-08-05T14:51:06.381Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945485",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 156,
+      "text_cleaned_length": 118,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxhgndhj2m",
+      "text": "\n#Department of Justice   #Epstein   #Justice   #Trump",
+      "text_cleaned": "of Justice",
+      "text_preview": "\n#Department of Justice   #Epstein   #Justice   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T14:51:30.709209+00:00",
+      "hashtags": "['#Epstein' '#Trump' '#Justice' '#Department']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945462",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 54,
+      "text_cleaned_length": 10,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxmldrfc2v",
+      "text": "#Trump is maybe \"two weeks\" from dropping the N word.",
+      "text_cleaned": "is maybe \"two weeks\" from dropping the N word.",
+      "text_preview": "#Trump is maybe \"two weeks\" from dropping the N word.",
+      "author": "underbrush.bsky.social",
+      "author_display_name": "F. Shoemaker",
+      "created_at": "2025-08-05T14:54:01.970Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945421",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 53,
+      "text_cleaned_length": 46,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxixxu452n",
+      "text": "\n#Trump   #Trump administration   #Visa",
+      "text_cleaned": "administration",
+      "text_preview": "\n#Trump   #Trump administration   #Visa",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T14:52:22.437074+00:00",
+      "hashtags": "['#Trump' '#Visa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945446",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 39,
+      "text_cleaned_length": 14,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxie4lzo2j",
+      "text": "\n#Jobs   #Tariffs   #Texas   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Jobs   #Tariffs   #Texas   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T14:52:01.619313+00:00",
+      "hashtags": "['#Texas' '#Trump' '#Jobs' '#Tariffs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:55:03.945453",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:55:10.007000",
+      "text_length": 35,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnx6bwxiq72",
+      "text": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N...\n\n#Business #National #News #News #economy #Network\n\nOrigin | Interest | Match",
+      "text_cleaned": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N... Origin | Interest | Match",
+      "text_preview": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N......",
+      "author": "nasdaq.activitypub.awakari.com.ap.brid.gy",
+      "author_display_name": "Nasdaq",
+      "created_at": "2025-08-05T13:59:05.000Z",
+      "hashtags": "['#economy' '#Business' '#National' '#News' '#Network']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.106999",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 278,
+      "text_cleaned_length": 226,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxaoyqn4k2",
+      "text": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N...\n\n#Business #Economy #National #News #News #network\n\nOrigin | Interest | Match",
+      "text_cleaned": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N... Origin | Interest | Match",
+      "text_preview": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N......",
+      "author": "nasdaq.activitypub.awakari.com.ap.brid.gy",
+      "author_display_name": "Nasdaq",
+      "created_at": "2025-08-05T13:59:05.000Z",
+      "hashtags": "['#network' '#Economy' '#Business' '#National' '#News']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107007",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 278,
+      "text_cleaned_length": 226,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnwz73rib32",
+      "text": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N...\n\n#Business #Economy #National #News #News #network\n\nOrigin | Interest | Match",
+      "text_cleaned": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N... Origin | Interest | Match",
+      "text_preview": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. By STAN CHOE, Associated Press Business Writer N......",
+      "author": "nasdaq.activitypub.awakari.com.ap.brid.gy",
+      "author_display_name": "Nasdaq",
+      "created_at": "2025-08-05T13:59:05.000Z",
+      "hashtags": "['#network' '#Economy' '#Business' '#National' '#News']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107013",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 278,
+      "text_cleaned_length": 226,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnx4caupk26",
+      "text": "Trump calls the EU\u2019s \u20ac600\u202fbillion investment a \u2018gift\u2019\u2014then threatens 35\u202f% tariffs. Truly, mankind pays for blessings with curses.\nThe man spins more than the golden calf. Amen.\n#trump #flip-flopper #weathervane",
+      "text_cleaned": "Trump calls the EU\u2019s \u20ac600 billion investment a \u2018gift\u2019\u2014then threatens 35 % tariffs. Truly, mankind pays for blessings with curses. The man spins more than the golden calf. Amen. -flopper",
+      "text_preview": "Trump calls the EU\u2019s \u20ac600\u202fbillion investment a \u2018gift\u2019\u2014then threatens 35\u202f% tariffs. Truly, mankind pays for blessings with curses.\nThe man spins more than the golden calf. Amen.\n#trump #flip-flopper #w...",
+      "author": "jesus-is-back.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T14:44:55.534Z",
+      "hashtags": "['#flip' '#weathervane' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107196",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 210,
+      "text_cleaned_length": 185,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnxdrd4dc2o",
+      "text": "I\u2019m the only Democrat who has said NO to Trump. I\u2019m here to FIGHT for California and make it Affordable, Livable, and Workable for all.\n\n#California #Trump #StephenJCloobeck #CloobeckForGovernor #CAGetACloo #CAGoverner #EpsteinFiles",
+      "text_cleaned": "I\u2019m the only Democrat who has said NO to Trump. I\u2019m here to FIGHT for California and make it Affordable, Livable, and Workable for all.",
+      "text_preview": "I\u2019m the only Democrat who has said NO to Trump. I\u2019m here to FIGHT for California and make it Affordable, Livable, and Workable for all.\n\n#California #Trump #StephenJCloobeck #CloobeckForGovernor #CAGe...",
+      "author": "stephenjcloobeck.bsky.social",
+      "author_display_name": "Stephen J. Cloobeck",
+      "created_at": "2025-08-05T14:49:06.250Z",
+      "hashtags": "['#StephenJCloobeck' '#CAGoverner' '#CAGetACloo' '#California'\n '#EpsteinFiles' '#Trump' '#CloobeckForGovernor']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107126",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 232,
+      "text_cleaned_length": 135,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxbjbvq22e",
+      "text": "Trump is not only a liar, he\u2019s fucking delusional. \n\nIf this were #Biden or #Obama spouting this bullshit ( 90-95% approval rating, among republicans ) MSM would be metaphorically ripping out their throats",
+      "text_cleaned": "Trump is not only a liar, he\u2019s fucking delusional. If this were or spouting this bullshit ( 90-95% approval rating, among republicans ) MSM would be metaphorically ripping out their throats",
+      "text_preview": "Trump is not only a liar, he\u2019s fucking delusional. \n\nIf this were #Biden or #Obama spouting this bullshit ( 90-95% approval rating, among republicans ) MSM would be metaphorically ripping out their th...",
+      "author": "ciaogirl9.bsky.social",
+      "author_display_name": "@ciaogirl9",
+      "created_at": "2025-08-05T14:47:50.711Z",
+      "hashtags": "['#Obama' '#Biden']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107295",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 205,
+      "text_cleaned_length": 189,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxcyrbts26",
+      "text": "Foolish man with big ego, and small brain, forgets that a suing for libel opens the gate to discovery and actual documents being provided. Plus, never bite the hand that feeds you. #WSJ #trump #murdoch\n\nwww.thewrap.com/trump-delays...",
+      "text_cleaned": "Foolish man with big ego, and small brain, forgets that a suing for libel opens the gate to discovery and actual documents being provided. Plus, never bite the hand that feeds you.",
+      "text_preview": "Foolish man with big ego, and small brain, forgets that a suing for libel opens the gate to discovery and actual documents being provided. Plus, never bite the hand that feeds you. #WSJ #trump #murdoc...",
+      "author": "alpbeck.com",
+      "author_display_name": "Alp Beck",
+      "created_at": "2025-08-05T14:48:40.499Z",
+      "hashtags": "['#WSJ' '#murdoch' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107139",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 234,
+      "text_cleaned_length": 180,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnx4na6sk23",
+      "text": "BILL UPDATE:\n\nS.1276: Helping to Encourage Real Opportunities (HERO) for Youth Act of 2023\n\nACTION: Read twice and referred to the Committee on Finance. (text: CR S1347)\n\n#congress #economy",
+      "text_cleaned": "BILL UPDATE: S.1276: Helping to Encourage Real Opportunities (HERO) for Youth Act of 2023 ACTION: Read twice and referred to the Committee on Finance. (text: CR S1347)",
+      "text_preview": "BILL UPDATE:\n\nS.1276: Helping to Encourage Real Opportunities (HERO) for Youth Act of 2023\n\nACTION: Read twice and referred to the Committee on Finance. (text: CR S1347)\n\n#congress #economy",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-05T14:45:05.524Z",
+      "hashtags": "['#economy' '#congress']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.106909",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 189,
+      "text_cleaned_length": 167,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvnx652nmf2i",
+      "text": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "text_cleaned": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. Interest | Match | Feed",
+      "text_preview": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T14:45:57Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.106882",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 173,
+      "text_cleaned_length": 172,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxalyhmu27",
+      "text": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "text_cleaned": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend. Interest | Match | Feed",
+      "text_preview": "Wall Street holds steadier following a whipsaw couple of days Wall Street is holding steadier following its see-saw ride that bracketed the weekend.\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-05T14:47:19Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.106867",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 173,
+      "text_cleaned_length": 172,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnx5etdxn23",
+      "text": "8/11\n\ud83d\udcca Trump fires BLS chief, drawing warnings about politicizing economic data.\n\ud83d\udcd6 www.aljazeera.com/news/2025/8/...\n#US #Politics #Economy",
+      "text_cleaned": "8/11 \ud83d\udcca Trump fires BLS chief, drawing warnings about politicizing economic data. \ud83d\udcd6",
+      "text_preview": "8/11\n\ud83d\udcca Trump fires BLS chief, drawing warnings about politicizing economic data.\n\ud83d\udcd6 www.aljazeera.com/news/2025/8/...\n#US #Politics #Economy",
+      "author": "ohmbudsman.com",
+      "author_display_name": "Ohmbudsman",
+      "created_at": "2025-08-05T14:45:31.784Z",
+      "hashtags": "['#Economy' '#US' '#Politics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.106897",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 139,
+      "text_cleaned_length": 82,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvnx5mdij22v",
+      "text": "Good! It\u2019s about time! #trump #coverup #maga #jeffreyepstein #donaldtrump #news #f #fyp #foryou #fy #fyp",
+      "text_cleaned": "Good! It\u2019s about time!",
+      "text_preview": "Good! It\u2019s about time! #trump #coverup #maga #jeffreyepstein #donaldtrump #news #f #fyp #foryou #fy #fyp",
+      "author": "craigahrens.bsky.social",
+      "author_display_name": "Craig Ahrens Official",
+      "created_at": "2025-08-05T14:45:39.688Z",
+      "hashtags": "['#jeffreyepstein' '#fyp' '#fy' '#trump' '#coverup' '#donaldtrump'\n '#foryou' '#news' '#maga' '#f']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107177",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 104,
+      "text_cleaned_length": 22,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnx4z6s2s2p",
+      "text": "Thank you for your attention to this matter!! #comic #trump",
+      "text_cleaned": "Thank you for your attention to this matter!!",
+      "text_preview": "Thank you for your attention to this matter!! #comic #trump",
+      "author": "goodatjob.com",
+      "author_display_name": "GOOD AT JOB\u2122\ufe0f",
+      "created_at": "2025-08-05T14:45:19.613Z",
+      "hashtags": "['#comic' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107189",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 59,
+      "text_cleaned_length": 45,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnx6hicbc2h",
+      "text": "Dealing with a clown, expect a circus. \n\n#EU #Trump",
+      "text_cleaned": "Dealing with a clown, expect a circus.",
+      "text_preview": "Dealing with a clown, expect a circus. \n\n#EU #Trump",
+      "author": "tomleidi.bsky.social",
+      "author_display_name": "TomLeidi",
+      "created_at": "2025-08-05T14:46:08.161Z",
+      "hashtags": "['#EU' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107167",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 51,
+      "text_cleaned_length": 38,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvnxaxk7e32b",
+      "text": "\n#Trump   #Verhandlungen   #Z\u00f6lle",
+      "text_cleaned": "",
+      "text_preview": "\n#Trump   #Verhandlungen   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T14:47:53.460996+00:00",
+      "hashtags": "['#Verhandlungen' '#Z\u00f6lle' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107153",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 33,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxa6ramq2a",
+      "text": "\n#EU   #Handelskonflikt   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#EU   #Handelskonflikt   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T14:47:27.475297+00:00",
+      "hashtags": "['#Handelskonflikt' '#EU' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107159",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 32,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnxbur3af2n",
+      "text": "\n#Roche   #Trump   #Z\u00f6lle",
+      "text_cleaned": "",
+      "text_preview": "\n#Roche   #Trump   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T14:48:24.100684+00:00",
+      "hashtags": "['#Trump' '#Z\u00f6lle' '#Roche']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107146",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 25,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvnx4nhd5s2u",
+      "text": "\n#Br\u00fcssel   #EU   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Br\u00fcssel   #EU   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-05T14:45:28.674687+00:00",
+      "hashtags": "['#EU' '#Trump' '#Br\u00fcssel']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T14:50:04.107183",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 14:50:10.060000",
+      "text_length": 24,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
