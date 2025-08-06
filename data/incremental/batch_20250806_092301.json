@@ -1,0 +1,365 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_092301",
+    "post_count": 13,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 09:15:10.006000",
+    "latest_received_at": "2025-08-06 09:20:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpvc5n4a425",
+      "text": "#ZeeBusiness\u3000Trump Threatens, But Markets Stay Calm \u2013 Anil Singhvi\u00a0Explains\n\nTrump Threatens, But Markets Stay Calm \u2013 Anil Singhvi Explains #Editorstake | \u091f\u094d\u0930\u0902\u092a \u0915\u0940 \u0927\u092e\u0915\u0940 \u0938\u0947 \u092c\u093e\u091c\u093e\u0930 \u092c\u0947\u0905\u0938\u0930 \u0915\u094d\u092f\u094b\u0902? \u0926\u0941\u0928\u093f\u092f\u093e \u092d\u0930 \u0915\u0947 \u092c\u093e\u091c\u093e\u0930\u094b\u0902 \u0928\u0947 Seriously \u0932\u0947\u0928\u093e \u0915\u093f\u092f\u093e \u092c\u0902\u0926! \u091c\u093e\u0928\u093f\u090f Anil Singhvi \u0938\u0947 #StockMarket #Trump #TrumpTariffs\u2026",
+      "text_cleaned": "Trump Threatens, But Markets Stay Calm \u2013 Anil Singhvi Explains Trump Threatens, But Markets Stay Calm \u2013 Anil Singhvi Explains | \u091f\u094d\u0930\u0902\u092a \u0915\u0940 \u0927\u092e\u0915\u0940 \u0938\u0947 \u092c\u093e\u091c\u093e\u0930 \u092c\u0947\u0905\u0938\u0930 \u0915\u094d\u092f\u094b\u0902? \u0926\u0941\u0928\u093f\u092f\u093e \u092d\u0930 \u0915\u0947 \u092c\u093e\u091c\u093e\u0930\u094b\u0902 \u0928\u0947 Seriously \u0932\u0947\u0928\u093e \u0915\u093f\u092f\u093e \u092c\u0902\u0926! \u091c\u093e\u0928\u093f\u090f Anil Singhvi \u0938\u0947 \u2026",
+      "text_preview": "#ZeeBusiness\u3000Trump Threatens, But Markets Stay Calm \u2013 Anil Singhvi\u00a0Explains\n\nTrump Threatens, But Markets Stay Calm \u2013 Anil Singhvi Explains #Editorstake | \u091f\u094d\u0930\u0902\u092a \u0915\u0940 \u0927\u092e\u0915\u0940 \u0938\u0947 \u092c\u093e\u091c\u093e\u0930 \u092c\u0947\u0905\u0938\u0930 \u0915\u094d\u092f\u094b\u0902? \u0926\u0941\u0928\u093f\u092f\u093e \u092d\u0930...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-06T09:17:42Z",
+      "hashtags": "['#StockMarket' '#TrumpTariffs' '#Editorstake' '#Trump' '#ZeeBusiness']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:20:03.589800",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:20:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 236,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpvbijs5s2q",
+      "text": "The phrase \"I reject your reality and substitute my own\" made famous by Adam Savage is the motto of the Trump Administration . Don\u2019t like jobs numbers it was democrats, don\u2019t like your name in the Epstein files Obama wrote it, unable to end Ukraine war day 1 blame Ukraine for starting it.\n#trump",
+      "text_cleaned": "The phrase \"I reject your reality and substitute my own\" made famous by Adam Savage is the motto of the Trump Administration . Don\u2019t like jobs numbers it was democrats, don\u2019t like your name in the Epstein files Obama wrote it, unable to end Ukraine war day 1 blame Ukraine for starting it.",
+      "text_preview": "The phrase \"I reject your reality and substitute my own\" made famous by Adam Savage is the motto of the Trump Administration . Don\u2019t like jobs numbers it was democrats, don\u2019t like your name in the Eps...",
+      "author": "horatiohayes.bsky.social",
+      "author_display_name": "Horatio Hayes",
+      "created_at": "2025-08-06T09:17:21.915Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:20:03.589816",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:20:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 289,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpvcxzmtu25",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-06T09:18:11.408Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:20:03.589722",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:20:10.006000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpv5dlx5i2v",
+      "text": "GOP backlash or \u2018Democrat op\u2019? Town hall outrage generates split-screen reaction\n#Trump",
+      "text_cleaned": "GOP backlash or \u2018Democrat op\u2019? Town hall outrage generates split-screen reaction",
+      "text_preview": "GOP backlash or \u2018Democrat op\u2019? Town hall outrage generates split-screen reaction\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T09:15:00.932Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:20:03.589837",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:20:10.006000",
+      "text_length": 87,
+      "text_cleaned_length": 80,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpv5gfvys2b",
+      "text": "MAGA expectations soar after DOJ orders Russia grand jury probe\n#Trump",
+      "text_cleaned": "MAGA expectations soar after DOJ orders Russia grand jury probe",
+      "text_preview": "MAGA expectations soar after DOJ orders Russia grand jury probe\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T09:15:04.915Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:20:03.589830",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:20:10.006000",
+      "text_length": 70,
+      "text_cleaned_length": 63,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpvd24wak26",
+      "text": "EVIL! #Trump #Netanyahu \n#CRIMESAGAINSTHUMANITY #USA #ISRAEL #GAZA #WARCRIMES #PALESTINIANS",
+      "text_cleaned": "EVIL!",
+      "text_preview": "EVIL! #Trump #Netanyahu \n#CRIMESAGAINSTHUMANITY #USA #ISRAEL #GAZA #WARCRIMES #PALESTINIANS",
+      "author": "risse67.bsky.social",
+      "author_display_name": "Riss\u00e9 (risay)",
+      "created_at": "2025-08-06T09:18:13.922Z",
+      "hashtags": "['#CRIMESAGAINSTHUMANITY' '#PALESTINIANS' '#Netanyahu' '#GAZA' '#Trump'\n '#WARCRIMES' '#USA' '#ISRAEL']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:20:03.589715",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:20:10.006000",
+      "text_length": 91,
+      "text_cleaned_length": 5,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpv5onhnn2y",
+      "text": "\n#EU   #Polen   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#EU   #Polen   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T09:15:34.630930+00:00",
+      "hashtags": "['#Trump' '#Polen' '#EU']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:20:03.589824",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:20:10.006000",
+      "text_length": 22,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpuv4o7u22h",
+      "text": "This is in response to the nonsense post about Nebraska no longer getting health care UNLESS they work. Despicable. Our government has taken away our rights. The living wage is a JOKE! People cannot survive this way when you are thriving on fucking PROFITS! #AMAZON #WALMART #rights #profits #economy",
+      "text_cleaned": "This is in response to the nonsense post about Nebraska no longer getting health care UNLESS they work. Despicable. Our government has taken away our rights. The living wage is a JOKE! People cannot survive this way when you are thriving on fucking PROFITS!",
+      "text_preview": "This is in response to the nonsense post about Nebraska no longer getting health care UNLESS they work. Despicable. Our government has taken away our rights. The living wage is a JOKE! People cannot s...",
+      "author": "cndnntnv.bsky.social",
+      "author_display_name": "Meesha Lutz",
+      "created_at": "2025-08-06T09:10:26.825Z",
+      "hashtags": "['#AMAZON' '#rights' '#economy' '#profits' '#WALMART']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:15:03.411797",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:15:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 257,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpuyb52u22j",
+      "text": "Ei, @euractiv.com @politico.eu could anyone ask Madam President @vonderleyen.ec.europa.eu, Commissioner @marossefcovic.bsky.social or the @ec.europa.eu for a development on this? A clarification? A denial? An update? Anything? Are we giving 600B to #Trump? Yes? No? Thanks",
+      "text_cleaned": "Ei, .com .eu could anyone ask Madam President .ec.europa.eu, Commissioner .bsky.social or the .europa.eu for a development on this? A clarification? A denial? An update? Anything? Are we giving 600B to ? Yes? No? Thanks",
+      "text_preview": "Ei, @euractiv.com @politico.eu could anyone ask Madam President @vonderleyen.ec.europa.eu, Commissioner @marossefcovic.bsky.social or the @ec.europa.eu for a development on this? A clarification? A de...",
+      "author": "ricsilvestre.bsky.social",
+      "author_display_name": "RicSilvestre \ud83c\uddea\ud83c\uddfa \ud83c\uddf5\ud83c\uddf9",
+      "created_at": "2025-08-06T09:12:12.168Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@marossefcovic.bsky.social' '@vonderleyen.ec.europa.eu' '@ec.europa.eu'\n '@euractiv.com' '@politico.eu']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:15:03.412150",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:15:10.006000",
+      "text_length": 272,
+      "text_cleaned_length": 219,
+      "hashtag_count": 1,
+      "mention_count": 5,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpux4eu7l2a",
+      "text": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the war in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/PqWSA4RD",
+      "text_cleaned": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the war in... .ai",
+      "text_preview": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progre...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-06T09:11:33.447Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:15:03.412159",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:15:10.006000",
+      "text_length": 280,
+      "text_cleaned_length": 237,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpuuoj3u22s",
+      "text": "Julia #Kl\u00f6ckner h\u00f6rt \"Somewhere over the rainbow\"\nDonald #Trump summt \"Windmills of your mind\"\nUnd Jens #Spahn? Der ist der \"Masked SInger\".",
+      "text_cleaned": "Julia h\u00f6rt \"Somewhere over the rainbow\" Donald summt \"Windmills of your mind\" Und Jens ? Der ist der \"Masked SInger\".",
+      "text_preview": "Julia #Kl\u00f6ckner h\u00f6rt \"Somewhere over the rainbow\"\nDonald #Trump summt \"Windmills of your mind\"\nUnd Jens #Spahn? Der ist der \"Masked SInger\".",
+      "author": "milchaufex1984.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T09:10:11.976Z",
+      "hashtags": "['#Kl\u00f6ckner' '#Spahn' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:15:03.412170",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:15:10.006000",
+      "text_length": 140,
+      "text_cleaned_length": 117,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpuxo334m2q",
+      "text": "\n#get\u00f6tet   #liveblog   #Moskau   #Russland   #Saporischschja   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#get\u00f6tet   #liveblog   #Moskau   #Russland   #Saporischschja   #Trump   #Ukraine",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T09:12:12.700533+00:00",
+      "hashtags": "['#Moskau' '#get\u00f6tet' '#Ukraine' '#Russland' '#liveblog' '#Saporischschja'\n '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:15:03.412136",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:15:10.006000",
+      "text_length": 81,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpuywrb3w2y",
+      "text": "\n#JD Vance   #Trump   #Vance",
+      "text_cleaned": "Vance",
+      "text_preview": "\n#JD Vance   #Trump   #Vance",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T09:12:55.381469+00:00",
+      "hashtags": "['#JD' '#Trump' '#Vance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:15:03.412125",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:15:10.006000",
+      "text_length": 28,
+      "text_cleaned_length": 5,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
