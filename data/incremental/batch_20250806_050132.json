@@ -1,0 +1,365 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_050132",
+    "post_count": 13,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 04:55:10.007000",
+    "latest_received_at": "2025-08-06 05:00:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpgs4dwlk2c",
+      "text": "Rivian expects tariffs to increase car production costs by 'a couple thousand dollars per unit'\n\nwww.businessinsider.com/rivian-q2-ea...\n\n#News #USNews #Business #Auto #Automotive #Manufacturing #EVs #ElectricVehicles #Economy #EconomicPolicy #Politics #Tariffs #TrumpTariffs #TrumpEconomy #Rivian",
+      "text_cleaned": "Rivian expects tariffs to increase car production costs by 'a couple thousand dollars per unit'",
+      "text_preview": "Rivian expects tariffs to increase car production costs by 'a couple thousand dollars per unit'\n\nwww.businessinsider.com/rivian-q2-ea...\n\n#News #USNews #Business #Auto #Automotive #Manufacturing #EVs ...",
+      "author": "b2o6n4.bsky.social",
+      "author_display_name": "Woke Not Broke \ud83c\uddfa\ud83c\uddf8\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-06T04:58:13.438Z",
+      "hashtags": "['#TrumpEconomy' '#Manufacturing' '#USNews' '#EVs' '#Auto' '#TrumpTariffs'\n '#Rivian' '#News' '#ElectricVehicles' '#Economy' '#Politics' '#Tariffs'\n '#EconomicPolicy' '#Automotive' '#Business']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:00:03.715150",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:00:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 95,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpgojeq7k2g",
+      "text": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includes #Trump)\n\nPass it on!",
+      "text_cleaned": "Don\u2019t let this drop from the headlines y\u2019all! Keep posting AND (This includes ) Pass it on!",
+      "text_preview": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includ...",
+      "author": "betseyrocks.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T04:56:12.878Z",
+      "hashtags": "['#ReleaseTheEpsteinFiles' '#TrumpIsAPedophile' '#TrumpIsARapist'\n '#BelieveTheVictims' '#TrumpIsOnTheList' '#Trump'\n '#ExposeProsecuteTheJohns']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:00:03.715508",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:00:10.007000",
+      "text_length": 223,
+      "text_cleaned_length": 91,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpgnw3m622g",
+      "text": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includes #Trump)\n\nPass it on!",
+      "text_cleaned": "Don\u2019t let this drop from the headlines y\u2019all! Keep posting AND (This includes ) Pass it on!",
+      "text_preview": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includ...",
+      "author": "betseyrocks.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T04:55:52.656Z",
+      "hashtags": "['#ReleaseTheEpsteinFiles' '#TrumpIsAPedophile' '#TrumpIsARapist'\n '#BelieveTheVictims' '#TrumpIsOnTheList' '#Trump'\n '#ExposeProsecuteTheJohns']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:00:03.715525",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:00:10.007000",
+      "text_length": 223,
+      "text_cleaned_length": 91,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpgo2nmzc24",
+      "text": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance www.youtube.com/watch?v=dPXA...",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance www.youtube.com/watch?...",
+      "author": "greasydump.bsky.social",
+      "author_display_name": "Farts are Funny",
+      "created_at": "2025-08-06T04:55:57.441Z",
+      "hashtags": "['#PamBondi' '#AlinaHabba' '#KashPatel' '#Sexualabuser' '#Epsteinfiles'\n '#Racist' '#EpsteinTrumpfiles' '#DanBongino' '#Espsteincoverup'\n '#JDVance' '#GOP' '#Trump' '#Epstein' '#Epsteinlist' '#Republican'\n '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:00:03.715518",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:00:10.007000",
+      "text_length": 209,
+      "text_cleaned_length": 0,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpgskpxc22c",
+      "text": "Despite Trump's peace calls, Russian attacks on #Ukraine double since inauguration\nwww.bbc.com/news/article... #Russia #Putinswar #Trump",
+      "text_cleaned": "Despite Trump's peace calls, Russian attacks on double since inauguration",
+      "text_preview": "Despite Trump's peace calls, Russian attacks on #Ukraine double since inauguration\nwww.bbc.com/news/article... #Russia #Putinswar #Trump",
+      "author": "matisaksk.bsky.social",
+      "author_display_name": "Andrej Matisak",
+      "created_at": "2025-08-06T04:58:28.512Z",
+      "hashtags": "['#Putinswar' '#Trump' '#Russia' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:00:03.715499",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:00:10.007000",
+      "text_length": 136,
+      "text_cleaned_length": 73,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpgiaurjt2l",
+      "text": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/R1ihUI0Q",
+      "text_cleaned": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... .ai",
+      "text_preview": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi askin...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-06T04:52:42.464Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:55:03.955859",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:55:10.007000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpgjkljlc2k",
+      "text": "www.dailykos.com/stories/2025...\n\nMusk\u2019s popularity is in free fall\u2014he\u2019s polling worse than Trump, Rubio, and even Netanyahu, who\u2019s facing global outrage over Gaza. That\u2019s right, Elon managed to out-villain a guy accused of bombing civilians. Quite the achievement.\n\n#Trump #Musk #Netanyahu",
+      "text_cleaned": "Musk\u2019s popularity is in free fall\u2014he\u2019s polling worse than Trump, Rubio, and even Netanyahu, who\u2019s facing global outrage over Gaza. That\u2019s right, Elon managed to out-villain a guy accused of bombing civilians. Quite the achievement.",
+      "text_preview": "www.dailykos.com/stories/2025...\n\nMusk\u2019s popularity is in free fall\u2014he\u2019s polling worse than Trump, Rubio, and even Netanyahu, who\u2019s facing global outrage over Gaza. That\u2019s right, Elon managed to out-v...",
+      "author": "gwfoto.bsky.social",
+      "author_display_name": "GW",
+      "created_at": "2025-08-06T04:53:26.377Z",
+      "hashtags": "['#Trump' '#Netanyahu' '#Musk']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:55:03.955840",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:55:10.007000",
+      "text_length": 290,
+      "text_cleaned_length": 231,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpgh245hs2p",
+      "text": "@bloomberg.com @cnn.com @cnbc.com @mjfree.bsky.social @barbrastreisand.bsky.social @nytimes.com @ec.europa.eu @kajakallas.bsky.social @folketinget.dk USA kan stoppe Israel og Netanyahu \u00f8jeblikkelig og tillade folket i Gaza n\u00f8dhj\u00e6lp.  USA er medansvarlig og vender blikket v\u00e6k. #Trump #Israel #Gaza \u2b07\ufe0f",
+      "text_cleaned": ".com .com .com .bsky.social .bsky.social .com .europa.eu .bsky.social .dk USA kan stoppe Israel og Netanyahu \u00f8jeblikkelig og tillade folket i Gaza n\u00f8dhj\u00e6lp. USA er medansvarlig og vender blikket v\u00e6k. \u2b07\ufe0f",
+      "text_preview": "@bloomberg.com @cnn.com @cnbc.com @mjfree.bsky.social @barbrastreisand.bsky.social @nytimes.com @ec.europa.eu @kajakallas.bsky.social @folketinget.dk USA kan stoppe Israel og Netanyahu \u00f8jeblikkelig og...",
+      "author": "mrohrberg.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T04:52:01.971Z",
+      "hashtags": "['#Trump' '#Gaza' '#Israel']",
+      "mentions": "['@cnn.com' '@bloomberg.com' '@folketinget.dk' '@mjfree.bsky.social'\n '@cnbc.com' '@kajakallas.bsky.social' '@barbrastreisand.bsky.social'\n '@ec.europa.eu' '@nytimes.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:55:03.955871",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:55:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 202,
+      "hashtag_count": 3,
+      "mention_count": 9,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpgj2t5de2c",
+      "text": "#Trump y\u00f6netimi, eski Ba\u015fkan #Biden d\u00f6neminde ba\u015flat\u0131lan ve d\u00fc\u015f\u00fck ile orta gelirli hanelere #g\u00fcne\u015fenerjisi sa\u011flamay\u0131 ama\u00e7layan 7 milyar dolarl\u0131k hibe program\u0131n\u0131 sonland\u0131rmay\u0131 de\u011ferlendiriyor #SonDakika #ABD #Enerji #GES",
+      "text_cleaned": "y\u00f6netimi, eski Ba\u015fkan d\u00f6neminde ba\u015flat\u0131lan ve d\u00fc\u015f\u00fck ile orta gelirli hanelere sa\u011flamay\u0131 ama\u00e7layan 7 milyar dolarl\u0131k hibe program\u0131n\u0131 sonland\u0131rmay\u0131 de\u011ferlendiriyor",
+      "text_preview": "#Trump y\u00f6netimi, eski Ba\u015fkan #Biden d\u00f6neminde ba\u015flat\u0131lan ve d\u00fc\u015f\u00fck ile orta gelirli hanelere #g\u00fcne\u015fenerjisi sa\u011flamay\u0131 ama\u00e7layan 7 milyar dolarl\u0131k hibe program\u0131n\u0131 sonland\u0131rmay\u0131 de\u011ferlendiriyor #SonDakik...",
+      "author": "cevrehatti.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T04:53:08Z",
+      "hashtags": "['#Enerji' '#Trump' '#Biden' '#ABD' '#SonDakika' '#GES' '#g\u00fcne\u015fenerjisi']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:55:03.955851",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:55:10.007000",
+      "text_length": 219,
+      "text_cleaned_length": 161,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpggcmqkc2g",
+      "text": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n#SuperPedoTrump\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includes #Trump)\n\nPass it on!",
+      "text_cleaned": "Don\u2019t let this drop from the headlines y\u2019all! Keep posting AND (This includes ) Pass it on!",
+      "text_preview": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n#SuperPedoTrump\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJo...",
+      "author": "betseyrocks.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T04:51:37.365Z",
+      "hashtags": "['#BelieveTheVictims' '#TrumpIsARapist' '#ExposeProsecuteTheJohns'\n '#Trump' '#TrumpIsOnTheList' '#SuperPedoTrump' '#TrumpIsAPedophile'\n '#ReleaseTheEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:55:03.955881",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:55:10.007000",
+      "text_length": 239,
+      "text_cleaned_length": 91,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpgetmwk62b",
+      "text": "Strategy doubles Bitcoin holdings to 628K  since election - published 05 Aug 2025 #UnitedStates #Trump #WallStreet #Strategy #live",
+      "text_cleaned": "Strategy doubles Bitcoin holdings to 628K since election - published 05 Aug 2025",
+      "text_preview": "Strategy doubles Bitcoin holdings to 628K  since election - published 05 Aug 2025 #UnitedStates #Trump #WallStreet #Strategy #live",
+      "author": "crypto-news-en.bsky.social",
+      "author_display_name": "Crypto News",
+      "created_at": "2025-08-06T04:50:48.0152991Z",
+      "hashtags": "['#Strategy' '#UnitedStates' '#Trump' '#live' '#WallStreet']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:55:03.955905",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:55:10.007000",
+      "text_length": 130,
+      "text_cleaned_length": 80,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpgfevqrr2d",
+      "text": "Trump awaits outcome of envoy\u2019s Moscow talks before deciding on punitive tariffs #Trump #Moscow #socialnewsxyz",
+      "text_cleaned": "Trump awaits outcome of envoy\u2019s Moscow talks before deciding on punitive tariffs",
+      "text_preview": "Trump awaits outcome of envoy\u2019s Moscow talks before deciding on punitive tariffs #Trump #Moscow #socialnewsxyz",
+      "author": "socialnews.xyz",
+      "author_display_name": "Social News XYZ",
+      "created_at": "2025-08-06T04:51:05Z",
+      "hashtags": "['#Trump' '#socialnewsxyz' '#Moscow']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:55:03.955888",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:55:10.007000",
+      "text_length": 110,
+      "text_cleaned_length": 80,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpgelvf2h2h",
+      "text": "\n#Krieg   #liveblog   #Russland   #Selenskyj   #Trump   #Ukraine   #Ukraine-Krieg",
+      "text_cleaned": "-Krieg",
+      "text_preview": "\n#Krieg   #liveblog   #Russland   #Selenskyj   #Trump   #Ukraine   #Ukraine-Krieg",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T04:51:00.693166+00:00",
+      "hashtags": "['#Trump' '#Krieg' '#Ukraine' '#Selenskyj' '#liveblog' '#Russland']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:55:03.955896",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:55:10.007000",
+      "text_length": 81,
+      "text_cleaned_length": 6,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
