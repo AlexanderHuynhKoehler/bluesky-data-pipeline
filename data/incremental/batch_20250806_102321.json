@@ -1,0 +1,446 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_102321",
+    "post_count": 16,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 10:15:10.015000",
+    "latest_received_at": "2025-08-06 10:20:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpykfgovs2v",
+      "text": "\u201cDonald Trump now has the power to pardon Ghislaine Maxwell and release her from prison. That\u2019s what he\u2019s going to do in exchange for her insisting he knew nothing about Epstein\u2019s raping of children. He will claim she was just a scapegoat. And that\u2019s a lie.\u201d\n\nLawrence O\u2019Donnell\n5 August 2025\n\n#Trump",
+      "text_cleaned": "\u201cDonald Trump now has the power to pardon Ghislaine Maxwell and release her from prison. That\u2019s what he\u2019s going to do in exchange for her insisting he knew nothing about Epstein\u2019s raping of children. He will claim she was just a scapegoat. And that\u2019s a lie.\u201d Lawrence O\u2019Donnell 5 August 2025",
+      "text_preview": "\u201cDonald Trump now has the power to pardon Ghislaine Maxwell and release her from prison. That\u2019s what he\u2019s going to do in exchange for her insisting he knew nothing about Epstein\u2019s raping of children. ...",
+      "author": "garymarlowe.bsky.social",
+      "author_display_name": "Gary Marlowe",
+      "created_at": "2025-08-06T10:16:01.883Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:20:03.521941",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:20:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 291,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpykyhvlx2c",
+      "text": "In a parliamentary meeting, MP Farid Bustani discussed challenges with private electricity generators and proposed solutions. A consumer protection law and a public competition law are set for approval. Increased monitoring of generator compliance was emphasized. \n\n#Lebanon #Economy #Energy",
+      "text_cleaned": "In a parliamentary meeting, MP Farid Bustani discussed challenges with private electricity generators and proposed solutions. A consumer protection law and a public competition law are set for approval. Increased monitoring of generator compliance was emphasized.",
+      "text_preview": "In a parliamentary meeting, MP Farid Bustani discussed challenges with private electricity generators and proposed solutions. A consumer protection law and a public competition law are set for approva...",
+      "author": "observelebanon.bsky.social",
+      "author_display_name": "Observe Lebanon",
+      "created_at": "2025-08-06T10:16:21.429912+00:00",
+      "hashtags": "['#Lebanon' '#Economy' '#Energy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:20:03.521618",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:20:10.006000",
+      "text_length": 291,
+      "text_cleaned_length": 263,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyq55iwg2v",
+      "text": "Ook in #Canada beginnen de gevolgen van de #handelsoorlog van #Trump steeds duidelijker te worden. De regering gaat nu bijvoorbeeld de #houtindustrie stimuleren met een pakket van C$1,25 miljard aan maatregelen om de moed erin te houden. buff.ly/2Er7pFI",
+      "text_cleaned": "Ook in beginnen de gevolgen van de van steeds duidelijker te worden. De regering gaat nu bijvoorbeeld de stimuleren met een pakket van C$1,25 miljard aan maatregelen om de moed erin te houden. buff.ly/2Er7pFI",
+      "text_preview": "Ook in #Canada beginnen de gevolgen van de #handelsoorlog van #Trump steeds duidelijker te worden. De regering gaat nu bijvoorbeeld de #houtindustrie stimuleren met een pakket van C$1,25 miljard aan m...",
+      "author": "jackhoogland.bsky.social",
+      "author_display_name": "Jack Hoogland",
+      "created_at": "2025-08-06T10:19:14.345Z",
+      "hashtags": "['#handelsoorlog' '#Canada' '#houtindustrie' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:20:03.521906",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:20:10.006000",
+      "text_length": 253,
+      "text_cleaned_length": 208,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpymuy44h22",
+      "text": "Claves del d\u00eda: Posible tregua a\u00e9rea de Rusia, EEUU ya negocia con Putin y el ataque a la banca\n\nhttps://youtu.be/PfbYskCu3Hg\n\n#claves #vizner #eeuu #rusia #trump #putin #banca #tregua #mercados #useconomy #economia #geopolitica #negociostv #clavesdeldia #josevizner",
+      "text_cleaned": "Claves del d\u00eda: Posible tregua a\u00e9rea de Rusia, EEUU ya negocia con Putin y el ataque a la banca",
+      "text_preview": "Claves del d\u00eda: Posible tregua a\u00e9rea de Rusia, EEUU ya negocia con Putin y el ataque a la banca\n\nhttps://youtu.be/PfbYskCu3Hg\n\n#claves #vizner #eeuu #rusia #trump #putin #banca #tregua #mercados #usec...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-06T10:17:25.139766Z",
+      "hashtags": "['#rusia' '#negociostv' '#useconomy' '#putin' '#eeuu' '#claves' '#trump'\n '#banca' '#economia' '#geopolitica' '#josevizner' '#clavesdeldia'\n '#tregua' '#vizner' '#mercados']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:20:03.521934",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:20:10.006000",
+      "text_length": 266,
+      "text_cleaned_length": 95,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyn2qv4k2y",
+      "text": "#Republicans are not #Christians \nChristians don't starve children, they aren't racist, they don't let people suffer needlessly, their God is #Trump",
+      "text_cleaned": "are not Christians don't starve children, they aren't racist, they don't let people suffer needlessly, their God is",
+      "text_preview": "#Republicans are not #Christians \nChristians don't starve children, they aren't racist, they don't let people suffer needlessly, their God is #Trump",
+      "author": "tess-mac.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:17:31.346Z",
+      "hashtags": "['#Trump' '#Christians' '#Republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:20:03.521923",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:20:10.006000",
+      "text_length": 148,
+      "text_cleaned_length": 115,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyo7iksi2y",
+      "text": "\n#Krieg   #Moskau   #Putin   #Russland   #Sanktionen   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Krieg   #Moskau   #Putin   #Russland   #Sanktionen   #Trump   #Ukraine",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T10:18:30.335876+00:00",
+      "hashtags": "['#Ukraine' '#Moskau' '#Trump' '#Russland' '#Putin' '#Krieg' '#Sanktionen']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:20:03.521915",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:20:10.006000",
+      "text_length": 72,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyctbgds2v",
+      "text": "\u201cAnd today her lawyers used the word \u2018scapegoat\u2019. That\u2019s the word Donald Trump is going to use, that Todd Blanche is going to use, if they are scheming to make Donald Trump\u2018s wish come true for Ghislaine Maxwell.\u201d\n\nLawrence O\u2019Donnell\n5 August 2025\n\n#Trump\n#Epstein\n#Ghislaine\n\n2/2",
+      "text_cleaned": "\u201cAnd today her lawyers used the word \u2018scapegoat\u2019. That\u2019s the word Donald Trump is going to use, that Todd Blanche is going to use, if they are scheming to make Donald Trump\u2018s wish come true for Ghislaine Maxwell.\u201d Lawrence O\u2019Donnell 5 August 2025 2/2",
+      "text_preview": "\u201cAnd today her lawyers used the word \u2018scapegoat\u2019. That\u2019s the word Donald Trump is going to use, that Todd Blanche is going to use, if they are scheming to make Donald Trump\u2018s wish come true for Ghisla...",
+      "author": "garymarlowe.bsky.social",
+      "author_display_name": "Gary Marlowe",
+      "created_at": "2025-08-06T10:11:47.945Z",
+      "hashtags": "['#Epstein' '#Trump' '#Ghislaine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589373",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 280,
+      "text_cleaned_length": 250,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpya66wa222",
+      "text": "FBI Staff: \"Where do I put these #Epstein Files?\"\n\nTrump Staff: \"Are those #Epstein Files associated with #Trump?\"\n\nFBI Staff: \"Yes\"\n\nTrump Staff: \"Put them down here with the rest of them\"\n\nFBI Staff: \"You're going to need a bigger shredder, there are thousands more!\"",
+      "text_cleaned": "FBI Staff: \"Where do I put these Files?\" Trump Staff: \"Are those Files associated with ?\" FBI Staff: \"Yes\" Trump Staff: \"Put them down here with the rest of them\" FBI Staff: \"You're going to need a bigger shredder, there are thousands more!\"",
+      "text_preview": "FBI Staff: \"Where do I put these #Epstein Files?\"\n\nTrump Staff: \"Are those #Epstein Files associated with #Trump?\"\n\nFBI Staff: \"Yes\"\n\nTrump Staff: \"Put them down here with the rest of them\"\n\nFBI Staff...",
+      "author": "bornsmiledie.bsky.social",
+      "author_display_name": "Turn Me Loose",
+      "created_at": "2025-08-06T10:10:18.745Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589400",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 269,
+      "text_cleaned_length": 241,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpyctb3m22v",
+      "text": "\u201cWhen Ghislaine Maxwell spoke at her sentencing hearing she heard the prosecutor minutes before say she personally molested kids. Ghislaine Maxwell did not dispute that statement.\u201d\n\nLawrence O\u2019Donnell\n5 August 2025\n\n#Trump\n#Epstein\n#Ghislaine\n\n1/2",
+      "text_cleaned": "\u201cWhen Ghislaine Maxwell spoke at her sentencing hearing she heard the prosecutor minutes before say she personally molested kids. Ghislaine Maxwell did not dispute that statement.\u201d Lawrence O\u2019Donnell 5 August 2025 1/2",
+      "text_preview": "\u201cWhen Ghislaine Maxwell spoke at her sentencing hearing she heard the prosecutor minutes before say she personally molested kids. Ghislaine Maxwell did not dispute that statement.\u201d\n\nLawrence O\u2019Donnell...",
+      "author": "garymarlowe.bsky.social",
+      "author_display_name": "Gary Marlowe",
+      "created_at": "2025-08-06T10:11:47.944Z",
+      "hashtags": "['#Epstein' '#Trump' '#Ghislaine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589383",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 247,
+      "text_cleaned_length": 217,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvpygpqlbs2w",
+      "text": "Alcuni giorni fa #Trump \u00e8 andato a giocare a golf in #Scozia. Ha passato il tempo a parlare male delle #paleeoliche (che lui odia e che si vedevano in lontananza dal campo di gioco).\nTrump \u00e8 un negazionista del surriscaldamento globale e un convinto sostenitore dell\u2019industria petrolifera.\ncontinua\u2b07\ufe0f",
+      "text_cleaned": "Alcuni giorni fa \u00e8 andato a giocare a golf in . Ha passato il tempo a parlare male delle (che lui odia e che si vedevano in lontananza dal campo di gioco). Trump \u00e8 un negazionista del surriscaldamento globale e un convinto sostenitore dell\u2019industria petrolifera. continua\u2b07\ufe0f",
+      "text_preview": "Alcuni giorni fa #Trump \u00e8 andato a giocare a golf in #Scozia. Ha passato il tempo a parlare male delle #paleeoliche (che lui odia e che si vedevano in lontananza dal campo di gioco).\nTrump \u00e8 un negazi...",
+      "author": "tartacana.bsky.social",
+      "author_display_name": "Stefano Tartarotti",
+      "created_at": "2025-08-06T10:13:58.473Z",
+      "hashtags": "['#Trump' '#Scozia' '#paleeoliche']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589330",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 300,
+      "text_cleaned_length": 273,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvpydclvns2c",
+      "text": "When #Trump says jump, every Republican asks: How high? But is he weaker than he appears? My \ud83c\udf99  #podcast, #TheGlobalAgora with @hankgreene.bsky.social:\n\u25b6\ufe0f ko-fi.com/post/Podcast...\nIf you enjoy what I do, please buy me coffee \u2615\ufe0f! Thank you! #Obama #politics #GOP #Dems",
+      "text_cleaned": "When says jump, every Republican asks: How high? But is he weaker than he appears? My \ud83c\udf99 , with .bsky.social: \u25b6\ufe0f ko-fi.com/post/Podcast... If you enjoy what I do, please buy me coffee \u2615\ufe0f! Thank you!",
+      "text_preview": "When #Trump says jump, every Republican asks: How high? But is he weaker than he appears? My \ud83c\udf99  #podcast, #TheGlobalAgora with @hankgreene.bsky.social:\n\u25b6\ufe0f ko-fi.com/post/Podcast...\nIf you enjoy what I...",
+      "author": "matisaksk.bsky.social",
+      "author_display_name": "Andrej Matisak",
+      "created_at": "2025-08-06T10:12:04.025Z",
+      "hashtags": "['#Trump' '#podcast' '#GOP' '#Obama' '#TheGlobalAgora' '#politics' '#Dems']",
+      "mentions": "['@hankgreene.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589364",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 268,
+      "text_cleaned_length": 197,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyfw3fws2f",
+      "text": "This is too funny not to share! #DISTRACT from #EpsteinFiles its the 50th Anniversary of #Jaws OK he has used these to get our #Attention elsewhere\n#Redskins #Immigration \n#Biden #Obama #Trans\n#ChristopherWyatt  #CagleCartoons",
+      "text_cleaned": "This is too funny not to share! from its the 50th Anniversary of OK he has used these to get our elsewhere",
+      "text_preview": "This is too funny not to share! #DISTRACT from #EpsteinFiles its the 50th Anniversary of #Jaws OK he has used these to get our #Attention elsewhere\n#Redskins #Immigration \n#Biden #Obama #Trans\n#Christ...",
+      "author": "angelalangford81.bsky.social",
+      "author_display_name": "\ud83d\udcceThe Ghost Army of Fellas!",
+      "created_at": "2025-08-06T10:13:31.535Z",
+      "hashtags": "['#CagleCartoons' '#Jaws' '#DISTRACT' '#EpsteinFiles' '#Immigration'\n '#Obama' '#Biden' '#Redskins' '#ChristopherWyatt' '#Trans' '#Attention']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589638",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 226,
+      "text_cleaned_length": 106,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyhj5kvs2q",
+      "text": "#Trump Hires a New Bureau of Labor Statistics (BLS) Commissioner Today ... /s",
+      "text_cleaned": "Hires a New Bureau of Labor Statistics (BLS) Commissioner Today ... /s",
+      "text_preview": "#Trump Hires a New Bureau of Labor Statistics (BLS) Commissioner Today ... /s",
+      "author": "zenarchie.bsky.social",
+      "author_display_name": "ZenArchie",
+      "created_at": "2025-08-06T10:14:25.113Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589320",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 77,
+      "text_cleaned_length": 70,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyfpo2ba2y",
+      "text": "\n#Moskau   #Putin   #Russland   #Steve Witkoff   #Trump   #Washington",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Moskau   #Putin   #Russland   #Steve Witkoff   #Trump   #Washington",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T10:13:45.321110+00:00",
+      "hashtags": "['#Trump' '#Putin' '#Moskau' '#Russland' '#Steve' '#Washington']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589352",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 69,
+      "text_cleaned_length": 7,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyfzptpp2t",
+      "text": "\n#Donald Tusk   #Migration   #Trump   #Tusk",
+      "text_cleaned": "Tusk",
+      "text_preview": "\n#Donald Tusk   #Migration   #Trump   #Tusk",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T10:13:55.864586+00:00",
+      "hashtags": "['#Tusk' '#Trump' '#Migration' '#Donald']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589343",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 43,
+      "text_cleaned_length": 4,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpybqnj7s2w",
+      "text": "#pediatriccancer #trump #goldenballroom",
+      "text_cleaned": "",
+      "text_preview": "#pediatriccancer #trump #goldenballroom",
+      "author": "bearless.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:11:11.652Z",
+      "hashtags": "['#pediatriccancer' '#trump' '#goldenballroom']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:15:03.589391",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:15:10.015000",
+      "text_length": 39,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    }
+  ]
+}
