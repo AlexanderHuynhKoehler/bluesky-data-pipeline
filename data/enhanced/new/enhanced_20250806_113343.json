@@ -1,0 +1,323 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113343",
+    "original_batch": "batch_20250804_091303.json",
+    "enhanced_post_count": 9,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 8,
+      "emotion_coverage": 8,
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvktoxejgs2s",
+      "text": "Ernsthaft, mir f\u00e4llt daf\u00fcr kein anderer Begriff als #Faschismus ein.\n\nUnd die #Demokraten gucken nur schulterzuckend zu, w\u00e4hrend die Demokratie in den #USA stirbt.\n#Trump #DonaldDumb\nwww.tagesschau.de/ausland/trum...",
+      "text_cleaned": "Ernsthaft, mir f\u00e4llt daf\u00fcr kein anderer Begriff als ein. Und die gucken nur schulterzuckend zu, w\u00e4hrend die Demokratie in den stirbt.",
+      "text_preview": "Ernsthaft, mir f\u00e4llt daf\u00fcr kein anderer Begriff als #Faschismus ein.\n\nUnd die #Demokraten gucken nur schulterzuckend zu, w\u00e4hrend die Demokratie in den #USA stirbt.\n#Trump #DonaldDumb\nwww.tagesschau.de...",
+      "author": "stunka.de",
+      "author_display_name": "stunka",
+      "created_at": "2025-08-04T09:05:47.503Z",
+      "hashtags": "['#USA' '#DonaldDumb' '#Demokraten' '#Trump' '#Faschismus']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:10:03.423082",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:10:10.006000",
+      "text_length": 216,
+      "text_cleaned_length": 133,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.09223662316799164,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "disgust",
+      "emotion_confidence": 0.35459381341934204,
+      "ml_processed_at": "2025-08-06 11:33:43.921337",
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvktojk5cp2n",
+      "text": "Trump elogia Sydney Sweeney dopo aver scoperto che \u00e8 repubblicana ... LEGGI TUTTO #Trump #SydneySweeney #politica #repubblicani #attori",
+      "text_cleaned": "Trump elogia Sydney Sweeney dopo aver scoperto che \u00e8 repubblicana ... LEGGI TUTTO",
+      "text_preview": "Trump elogia Sydney Sweeney dopo aver scoperto che \u00e8 repubblicana ... LEGGI TUTTO #Trump #SydneySweeney #politica #repubblicani #attori",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-04T09:05:32Z",
+      "hashtags": "['#attori' '#SydneySweeney' '#Trump' '#repubblicani' '#politica']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:10:03.423089",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:10:10.006000",
+      "text_length": 135,
+      "text_cleaned_length": 81,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.057100556790828705,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7356250882148743,
+      "ml_processed_at": "2025-08-06 11:33:43.921337",
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvktubjkuw2k",
+      "text": "\n#Milit\u00e4r   #Russland   #Trump   #US-Milit\u00e4r",
+      "text_cleaned": "-Milit\u00e4r",
+      "text_preview": "\n#Milit\u00e4r   #Russland   #Trump   #US-Milit\u00e4r",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T09:08:52.722580+00:00",
+      "hashtags": "['#Russland' '#Trump' '#US' '#Milit\u00e4r']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:10:03.423069",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:10:10.006000",
+      "text_length": 44,
+      "text_cleaned_length": 8,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": "",
+      "ml_sentiment_label": "",
+      "dominant_emotion": "",
+      "emotion_confidence": "",
+      "ml_processed_at": "2025-08-06 11:33:43.921337",
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkteusmet2v",
+      "text": "BILL UPDATE:\n\nS.2643: A bill to amend the Infrastructure Investment and Jobs Act to authorize the Secretary of Agriculture, acting through the Chief of the Forest Service, to ente...\n\nACTION: Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.\n\n#congress #economy #labor",
+      "text_cleaned": "BILL UPDATE: S.2643: A bill to amend the Infrastructure Investment and Jobs Act to authorize the Secretary of Agriculture, acting through the Chief of the Forest Service, to ente... ACTION: Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "text_preview": "BILL UPDATE:\n\nS.2643: A bill to amend the Infrastructure Investment and Jobs Act to authorize the Secretary of Agriculture, acting through the Chief of the Forest Service, to ente...\n\nACTION: Read twi...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-04T09:00:07.067Z",
+      "hashtags": "['#economy' '#labor' '#congress']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:05:03.740313",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:05:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 271,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0,
+      "ml_sentiment_score": 0.014104336872696875,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8034623861312866,
+      "ml_processed_at": "2025-08-06 11:33:43.921337",
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkti332gk2l",
+      "text": "HH #DalaiLama is my hero, such a wonderful role model ... brave with integrity and humility, compassion and leadership.\nThe #respect he has worldwide is something #Trump #Starmer #Macron #Carney #Mertz #vonderleyen #Meloni #Albanese and others can only dream about.",
+      "text_cleaned": "HH is my hero, such a wonderful role model ... brave with integrity and humility, compassion and leadership. The he has worldwide is something and others can only dream about.",
+      "text_preview": "HH #DalaiLama is my hero, such a wonderful role model ... brave with integrity and humility, compassion and leadership.\nThe #respect he has worldwide is something #Trump #Starmer #Macron #Carney #Mert...",
+      "author": "lynnerosie.bsky.social",
+      "author_display_name": "Lynne Gray",
+      "created_at": "2025-08-04T09:01:56.473Z",
+      "hashtags": "['#Mertz' '#Carney' '#Trump' '#respect' '#Albanese' '#Meloni' '#DalaiLama'\n '#vonderleyen' '#Starmer' '#Macron']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:05:03.740580",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:05:10.008000",
+      "text_length": 265,
+      "text_cleaned_length": 175,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.967325811740011,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.5535376667976379,
+      "ml_processed_at": "2025-08-06 11:33:43.921337",
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkti5t2tk2o",
+      "text": "Trump\u2019s Diplomatic Efforts Spark Nobel Peace Prize Debate \ud83c\udf0d RMN News: www.ramanmedianetwork.com/trumps-diplo...\n#Trump #NobelPeacePrize #Peacemaking #IndiaPakistan #Kashmir #Modi #RMNNews",
+      "text_cleaned": "Trump\u2019s Diplomatic Efforts Spark Nobel Peace Prize Debate \ud83c\udf0d RMN News:",
+      "text_preview": "Trump\u2019s Diplomatic Efforts Spark Nobel Peace Prize Debate \ud83c\udf0d RMN News: www.ramanmedianetwork.com/trumps-diplo...\n#Trump #NobelPeacePrize #Peacemaking #IndiaPakistan #Kashmir #Modi #RMNNews",
+      "author": "rmn-india.bsky.social",
+      "author_display_name": "Raman Media Network RMN",
+      "created_at": "2025-08-04T09:01:59.388Z",
+      "hashtags": "['#Trump' '#IndiaPakistan' '#Peacemaking' '#NobelPeacePrize' '#RMNNews'\n '#Modi' '#Kashmir']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:05:03.740571",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:05:10.008000",
+      "text_length": 187,
+      "text_cleaned_length": 69,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.3198571759276092,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "joy",
+      "emotion_confidence": 0.465368390083313,
+      "ml_processed_at": "2025-08-06 11:33:43.921337",
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvktff5myc23",
+      "text": "Told ya...\nPutin might piss off Trump enough that he might do the right thing and at least sanction ruZZia! #SanctionsNow #ArmUkraineToWin #Trump #Ukraine",
+      "text_cleaned": "Told ya... Putin might piss off Trump enough that he might do the right thing and at least sanction ruZZia!",
+      "text_preview": "Told ya...\nPutin might piss off Trump enough that he might do the right thing and at least sanction ruZZia! #SanctionsNow #ArmUkraineToWin #Trump #Ukraine",
+      "author": "bonkski.bsky.social",
+      "author_display_name": "Slava Bonkus #ElonSucksSoHard",
+      "created_at": "2025-08-04T09:00:26.402Z",
+      "hashtags": "['#ArmUkraineToWin' '#SanctionsNow' '#Trump' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:05:03.740592",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:05:10.008000",
+      "text_length": 154,
+      "text_cleaned_length": 107,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 4.0,
+      "ml_sentiment_score": -0.22312156111001968,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "anger",
+      "emotion_confidence": 0.657145082950592,
+      "ml_processed_at": "2025-08-06 11:33:43.921337",
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvktjnxtvv26",
+      "text": "Trump squeezes states on college tuition for undocumented students\n#Trump",
+      "text_cleaned": "Trump squeezes states on college tuition for undocumented students",
+      "text_preview": "Trump squeezes states on college tuition for undocumented students\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T09:02:49.169Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:05:03.740563",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:05:10.008000",
+      "text_length": 73,
+      "text_cleaned_length": 66,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.3408909682184458,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.6097874641418457,
+      "ml_processed_at": "2025-08-06 11:33:43.921337",
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvktg564rs2q",
+      "text": "Wat Richard Gere hier zegt. #Trump",
+      "text_cleaned": "Wat Richard Gere hier zegt.",
+      "text_preview": "Wat Richard Gere hier zegt. #Trump",
+      "author": "cisrits.bsky.social",
+      "author_display_name": "Cis Rits",
+      "created_at": "2025-08-04T09:00:51.595Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T09:05:03.740585",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 09:05:10.008000",
+      "text_length": 34,
+      "text_cleaned_length": 27,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 3.5,
+      "ml_sentiment_score": 0.08585278689861298,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.4995054006576538,
+      "ml_processed_at": "2025-08-06 11:33:43.921337",
+      "processing_speed": 120.45653024964616,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
