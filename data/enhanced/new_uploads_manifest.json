@@ -375,6 +375,14 @@
       "original_batch": "batch_20250804_054128.json",
       "status": "waiting_for_databricks_import",
       "uploaded_at": "2025-08-06T11:32:04.403472"
+    },
+    {
+      "timestamp": "20250806_113206",
+      "filename": "enhanced_20250806_113206.json",
+      "post_count": 13,
+      "original_batch": "batch_20250804_054213.json",
+      "status": "waiting_for_databricks_import",
+      "uploaded_at": "2025-08-06T11:32:06.690764"
     }
   ],
   "databricks_import_instructions": {
