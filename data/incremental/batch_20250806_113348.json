@@ -1,0 +1,716 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_113348",
+    "post_count": 26,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 11:25:10.010000",
+    "latest_received_at": "2025-08-06 11:30:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvq4bxgejlq2",
+      "text": "So why is the #EU cowering before Trump like a mouse? Opinion Alex Hurst\n\n\u00ab \u2026the problem is that, as Macron remarked, the EU isn\u2019t feared enough.\n\nYet, it has far more leverage than China does against the US economy.\n\nIf deployed, the EU\u2019s anti-coercion tool would enable it to end the making of [\u2026]",
+      "text_cleaned": "So why is the cowering before Trump like a mouse? Opinion Alex Hurst \u00ab \u2026the problem is that, as Macron remarked, the EU isn\u2019t feared enough. Yet, it has far more leverage than China does against the US economy. If deployed, the EU\u2019s anti-coercion tool would enable it to end the making of [\u2026]",
+      "text_preview": "So why is the #EU cowering before Trump like a mouse? Opinion Alex Hurst\n\n\u00ab \u2026the problem is that, as Macron remarked, the EU isn\u2019t feared enough.\n\nYet, it has far more leverage than China does against...",
+      "author": "annaanthro.mastodon.social.ap.brid.gy",
+      "author_display_name": "AnnaAnthro",
+      "created_at": "2025-08-06T11:22:49.000Z",
+      "hashtags": "['#EU']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.913452",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 299,
+      "text_cleaned_length": 292,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4fr4sktv2",
+      "text": "Excellent piece from #TheDaily on Trump\u2019s firing of Dr. Erika McEntarfer, head of the Bureau of Labor Statistics\n\nBen Casselman speaks to methodology behind the numbers and their revisions, the likelihood of rigging the numbers, and the perils of undermining market confidence in government [\u2026]",
+      "text_cleaned": "Excellent piece from on Trump\u2019s firing of Dr. Erika McEntarfer, head of the Bureau of Labor Statistics Ben Casselman speaks to methodology behind the numbers and their revisions, the likelihood of rigging the numbers, and the perils of undermining market confidence in government [\u2026]",
+      "text_preview": "Excellent piece from #TheDaily on Trump\u2019s firing of Dr. Erika McEntarfer, head of the Bureau of Labor Statistics\n\nBen Casselman speaks to methodology behind the numbers and their revisions, the likeli...",
+      "author": "mnutty.mastodon.ie.ap.brid.gy",
+      "author_display_name": "Martin Nutty",
+      "created_at": "2025-08-06T11:24:42.000Z",
+      "hashtags": "['#TheDaily']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.912962",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 294,
+      "text_cleaned_length": 283,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4nrjbgc23",
+      "text": "\u201c\u2018The Law in DC must be changed to prosecute these \u201cminors\u201d as adults, and lock them up for a long time, starting at age 14,\u2019 Mr. #Trump said in his social media post.\u201d They be \u201cwilding\u201d, right, Donald? www.nytimes.com/2025/08/05/u...",
+      "text_cleaned": "\u201c\u2018The Law in DC must be changed to prosecute these \u201cminors\u201d as adults, and lock them up for a long time, starting at age 14,\u2019 Mr. said in his social media post.\u201d They be \u201cwilding\u201d, right, Donald?",
+      "text_preview": "\u201c\u2018The Law in DC must be changed to prosecute these \u201cminors\u201d as adults, and lock them up for a long time, starting at age 14,\u2019 Mr. #Trump said in his social media post.\u201d They be \u201cwilding\u201d, right, Donal...",
+      "author": "peaktoil.bsky.social",
+      "author_display_name": "Protected Identity",
+      "created_at": "2025-08-06T11:29:30.174Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.913276",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 234,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4khwmac2d",
+      "text": "Aya\u011f\u0131nda kedi d\u00f6vmesi olan kedi g\u00f6renleri \u015fa\u015fk\u0131na \u00e7evirdi.\n#Haber #SonDakika #G\u00fcndem #G\u00fcncel #G\u00fcncelHaberler #VideoHaber #Fla\u015fHaber #S\u0131cakGeli\u015fme #Anl\u0131kHaber #News #BreakingNews #Trending #TurkeyNews #WorldNews #LiveUpdate #Politics #Economy",
+      "text_cleaned": "Aya\u011f\u0131nda kedi d\u00f6vmesi olan kedi g\u00f6renleri \u015fa\u015fk\u0131na \u00e7evirdi.",
+      "text_preview": "Aya\u011f\u0131nda kedi d\u00f6vmesi olan kedi g\u00f6renleri \u015fa\u015fk\u0131na \u00e7evirdi.\n#Haber #SonDakika #G\u00fcndem #G\u00fcncel #G\u00fcncelHaberler #VideoHaber #Fla\u015fHaber #S\u0131cakGeli\u015fme #Anl\u0131kHaber #News #BreakingNews #Trending #TurkeyNews ...",
+      "author": "gumuskentresmi.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T11:27:39.470Z",
+      "hashtags": "['#S\u0131cakGeli\u015fme' '#SonDakika' '#G\u00fcncelHaberler' '#WorldNews' '#G\u00fcndem'\n '#LiveUpdate' '#Politics' '#G\u00fcncel' '#Haber' '#Anl\u0131kHaber' '#VideoHaber'\n '#News' '#BreakingNews' '#Trending' '#Economy' '#Fla\u015fHaber' '#TurkeyNews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.912946",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 241,
+      "text_cleaned_length": 58,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4gfj3is2m",
+      "text": "My #Trump whisperer spidey senses say he doesn't completely trust #Vance, and probably wants to pull some nepotism anyway.\n\nca.news.yahoo.com/trump-snubs-...",
+      "text_cleaned": "My whisperer spidey senses say he doesn't completely trust , and probably wants to pull some nepotism anyway. ca.news.yahoo.com/trump-snubs-...",
+      "text_preview": "My #Trump whisperer spidey senses say he doesn't completely trust #Vance, and probably wants to pull some nepotism anyway.\n\nca.news.yahoo.com/trump-snubs-...",
+      "author": "loeb-ottomi.bsky.social",
+      "author_display_name": "Loeb_Ottomi",
+      "created_at": "2025-08-06T11:25:22.709Z",
+      "hashtags": "['#Vance' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.913318",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 157,
+      "text_cleaned_length": 143,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4k33a2r2q",
+      "text": "\n#Feuerpause   #Kreml   #Putin   #Sanktionen   #Trump   #Ukraine   #Waffenruhe",
+      "text_cleaned": "",
+      "text_preview": "\n#Feuerpause   #Kreml   #Putin   #Sanktionen   #Trump   #Ukraine   #Waffenruhe",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T11:27:46.417631+00:00",
+      "hashtags": "['#Trump' '#Kreml' '#Feuerpause' '#Waffenruhe' '#Sanktionen' '#Ukraine'\n '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.913297",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 78,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4hrnjeo2j",
+      "text": "\n#Kreml   #Moskau   #Putin   #Russland   #Sanktionen   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Kreml   #Moskau   #Putin   #Russland   #Sanktionen   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T11:26:29.417935+00:00",
+      "hashtags": "['#Trump' '#Kreml' '#Moskau' '#Russland' '#Sanktionen' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.913305",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 61,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4hum62s2t",
+      "text": "Thema des Tages: \nWie gef\u00e4hrlich ist #Epstein f\u00fcr #Trump?",
+      "text_cleaned": "Thema des Tages: Wie gef\u00e4hrlich ist f\u00fcr ?",
+      "text_preview": "Thema des Tages: \nWie gef\u00e4hrlich ist #Epstein f\u00fcr #Trump?",
+      "author": "blubinsky.bsky.social",
+      "author_display_name": "Die Bee",
+      "created_at": "2025-08-06T11:26:12.096Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.913312",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 57,
+      "text_cleaned_length": 41,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4lprfbw2h",
+      "text": "\n#Europa   #Trump   #Welthandel   #Zollpolitik",
+      "text_cleaned": "",
+      "text_preview": "\n#Europa   #Trump   #Welthandel   #Zollpolitik",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T11:28:41.672147+00:00",
+      "hashtags": "['#Europa' '#Trump' '#Zollpolitik' '#Welthandel']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.913290",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 46,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4lyeol42q",
+      "text": "\n#Regierung   #Trump   #Trump-Regierung",
+      "text_cleaned": "-Regierung",
+      "text_preview": "\n#Regierung   #Trump   #Trump-Regierung",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T11:28:50.697519+00:00",
+      "hashtags": "['#Regierung' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:30:03.913283",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:30:10.006000",
+      "text_length": 39,
+      "text_cleaned_length": 10,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4djrxoc2e",
+      "text": "*had SCOTUS doing his bidding for him saying he had immunity\n*flew to events like the UFC on the taxpayers dime? \n*did basically any of the shit trump has done? \n\ntheyd literally be arming themselves and saying theyre a tyrannical government.\n\nthese people would let #trump shit in their mouths.",
+      "text_cleaned": "*had SCOTUS doing his bidding for him saying he had immunity *flew to events like the UFC on the taxpayers dime? *did basically any of the shit trump has done? theyd literally be arming themselves and saying theyre a tyrannical government. these people would let shit in their mouths.",
+      "text_preview": "*had SCOTUS doing his bidding for him saying he had immunity\n*flew to events like the UFC on the taxpayers dime? \n*did basically any of the shit trump has done? \n\ntheyd literally be arming themselves ...",
+      "author": "lm-entertainment.com",
+      "author_display_name": "LM-Entertainment Australia \ud83c\udde6\ud83c\uddfa\ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-06T11:23:46.533Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281113",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 295,
+      "text_cleaned_length": 284,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4cjjlk22b",
+      "text": "It's wild to me #Trump openly thanked Chief Injustice Roberts for giving him #PresidentialImmunity. The #Stolen #SCOTUS has been bought & paid for by #Heritage, #FederalistSociety, #Lobbyists & #Russia & here we are in #fascism.\n\nThe rot runs deep & must be rooted out. #NoActivistJudges. #Corruption",
+      "text_cleaned": "It's wild to me openly thanked Chief Injustice Roberts for giving him . The has been bought & paid for by , , & & here we are in . The rot runs deep & must be rooted out. .",
+      "text_preview": "It's wild to me #Trump openly thanked Chief Injustice Roberts for giving him #PresidentialImmunity. The #Stolen #SCOTUS has been bought & paid for by #Heritage, #FederalistSociety, #Lobbyists & #Russi...",
+      "author": "resistor2025bull.bsky.social",
+      "author_display_name": "#AbolishICE #ANTIFA #DemocracyNow",
+      "created_at": "2025-08-06T11:23:12.705Z",
+      "hashtags": "['#NoActivistJudges' '#fascism' '#FederalistSociety' '#Lobbyists'\n '#PresidentialImmunity' '#Trump' '#Corruption' '#Heritage' '#SCOTUS'\n '#Stolen' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281137",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 300,
+      "text_cleaned_length": 172,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvq4bav7ac2g",
+      "text": "Hair Fuhrer Trump will no doubt raid the sycophants green room at Fox \"News\" for a new crooked BLS bureau chief willing to cook the books & subsequently dazzle us all with a stellar June jobs report. It\u2019s good to be the king. #trump #BLS #FoxNews",
+      "text_cleaned": "Hair Fuhrer Trump will no doubt raid the sycophants green room at Fox \"News\" for a new crooked BLS bureau chief willing to cook the books & subsequently dazzle us all with a stellar June jobs report. It\u2019s good to be the king.",
+      "text_preview": "Hair Fuhrer Trump will no doubt raid the sycophants green room at Fox \"News\" for a new crooked BLS bureau chief willing to cook the books & subsequently dazzle us all with a stellar June jobs report. ...",
+      "author": "moranstephen1000.bsky.social",
+      "author_display_name": "Stephen Moran",
+      "created_at": "2025-08-06T11:22:30.090Z",
+      "hashtags": "['#BLS' '#FoxNews' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281145",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 246,
+      "text_cleaned_length": 225,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq467a6b22l",
+      "text": "Especialistas entendem que esvaziamento da organiza\u00e7\u00e3o torna improv\u00e1vel uma decis\u00e3o favor\u00e1vel ao fim da taxa\u00e7\u00e3o. Gesto \u00e9 considerado mais pol\u00edtico do que pr\u00e1tico\n\n#Trump #Alckmin #EUA #tarifaco\n\nistoedinheiro.com.br/platobr-por-...",
+      "text_cleaned": "Especialistas entendem que esvaziamento da organiza\u00e7\u00e3o torna improv\u00e1vel uma decis\u00e3o favor\u00e1vel ao fim da taxa\u00e7\u00e3o. Gesto \u00e9 considerado mais pol\u00edtico do que pr\u00e1tico istoedinheiro.com.br/platobr-por-...",
+      "text_preview": "Especialistas entendem que esvaziamento da organiza\u00e7\u00e3o torna improv\u00e1vel uma decis\u00e3o favor\u00e1vel ao fim da taxa\u00e7\u00e3o. Gesto \u00e9 considerado mais pol\u00edtico do que pr\u00e1tico\n\n#Trump #Alckmin #EUA #tarifaco\n\nistoe...",
+      "author": "istoedinheiro.bsky.social",
+      "author_display_name": "Isto\u00c9 Dinheiro Online",
+      "created_at": "2025-08-06T11:20:47.692Z",
+      "hashtags": "['#EUA' '#tarifaco' '#Alckmin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281176",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 231,
+      "text_cleaned_length": 198,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq455a6tc26",
+      "text": "\ud83e\udd2f #BillGates e il megayacht da 645 milioni: venduto \"come nuovo\" senza mai essere usato! Scopri i dettagli di un'operazione da capogiro su ORA ULTIMA: www.oraultima.com/bill-gates-y...\n\n#OraUltima #6agosto #saelanews #buongiorno #italia #news #economia #finanza #economy #finance #money",
+      "text_cleaned": "\ud83e\udd2f e il megayacht da 645 milioni: venduto \"come nuovo\" senza mai essere usato! Scopri i dettagli di un'operazione da capogiro su ORA ULTIMA:",
+      "text_preview": "\ud83e\udd2f #BillGates e il megayacht da 645 milioni: venduto \"come nuovo\" senza mai essere usato! Scopri i dettagli di un'operazione da capogiro su ORA ULTIMA: www.oraultima.com/bill-gates-y...\n\n#OraUltima #6a...",
+      "author": "oraultima.bsky.social",
+      "author_display_name": "ORA ULTIMA",
+      "created_at": "2025-08-06T11:20:12.041Z",
+      "hashtags": "['#6agosto' '#italia' '#BillGates' '#money' '#saelanews' '#finanza'\n '#buongiorno' '#finance' '#OraUltima' '#news' '#economy' '#economia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.280912",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 286,
+      "text_cleaned_length": 139,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq42goiunv2",
+      "text": "https://www.theguardian.com/commentisfree/2025/aug/06/eu-us-trade-deal-trump. A very good question! The leaders of other Western countries need to stop sucking up to baby #Trump & his over-inflated narcissistic ego. He's all wind & no trousers!",
+      "text_cleaned": "A very good question! The leaders of other Western countries need to stop sucking up to baby & his over-inflated narcissistic ego. He's all wind & no trousers!",
+      "text_preview": "https://www.theguardian.com/commentisfree/2025/aug/06/eu-us-trade-deal-trump. A very good question! The leaders of other Western countries need to stop sucking up to baby #Trump & his over-inflated na...",
+      "author": "rmblaber1956.mastodon.social.ap.brid.gy",
+      "author_display_name": "Richard Michael Blaber",
+      "created_at": "2025-08-06T11:18:37.000Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281190",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 244,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvq4dmuwo22d",
+      "text": "Avustralya k\u0131tas\u0131nda 40 santimlik u\u00e7abilen yeni bir b\u00f6cek t\u00fcr\u00fc ke\u015ffedildi.\n#Haber #SonDakika #G\u00fcndem #G\u00fcncel #G\u00fcncelHaberler #VideoHaber #Fla\u015fHaber #S\u0131cakGeli\u015fme #Anl\u0131kHaber #News #BreakingNews #Trending #TurkeyNews #WorldNews #LiveUpdate #Politics #Economy",
+      "text_cleaned": "Avustralya k\u0131tas\u0131nda 40 santimlik u\u00e7abilen yeni bir b\u00f6cek t\u00fcr\u00fc ke\u015ffedildi.",
+      "text_preview": "Avustralya k\u0131tas\u0131nda 40 santimlik u\u00e7abilen yeni bir b\u00f6cek t\u00fcr\u00fc ke\u015ffedildi.\n#Haber #SonDakika #G\u00fcndem #G\u00fcncel #G\u00fcncelHaberler #VideoHaber #Fla\u015fHaber #S\u0131cakGeli\u015fme #Anl\u0131kHaber #News #BreakingNews #Trend...",
+      "author": "gumuskentresmi.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T11:23:49.776Z",
+      "hashtags": "['#Fla\u015fHaber' '#TurkeyNews' '#WorldNews' '#G\u00fcncel' '#Haber' '#G\u00fcndem'\n '#SonDakika' '#Anl\u0131kHaber' '#News' '#Politics' '#Economy'\n '#G\u00fcncelHaberler' '#Trending' '#S\u0131cakGeli\u015fme' '#VideoHaber'\n '#BreakingNews' '#LiveUpdate']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.280832",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 257,
+      "text_cleaned_length": 74,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq45rpngs2d",
+      "text": "Annesine sayg\u0131s\u0131zl\u0131k yapan 10 ya\u015f\u0131ndaki \u00e7ocu\u011fa babas\u0131ndan ders:\n#Haber #SonDakika #G\u00fcndem #G\u00fcncel #G\u00fcncelHaberler #VideoHaber #Fla\u015fHaber #S\u0131cakGeli\u015fme #Anl\u0131kHaber #News #BreakingNews #Trending #TurkeyNews #WorldNews #LiveUpdate #Politics #Economy",
+      "text_cleaned": "Annesine sayg\u0131s\u0131zl\u0131k yapan 10 ya\u015f\u0131ndaki \u00e7ocu\u011fa babas\u0131ndan ders:",
+      "text_preview": "Annesine sayg\u0131s\u0131zl\u0131k yapan 10 ya\u015f\u0131ndaki \u00e7ocu\u011fa babas\u0131ndan ders:\n#Haber #SonDakika #G\u00fcndem #G\u00fcncel #G\u00fcncelHaberler #VideoHaber #Fla\u015fHaber #S\u0131cakGeli\u015fme #Anl\u0131kHaber #News #BreakingNews #Trending #Turkey...",
+      "author": "gumuskentresmi.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T11:20:33.518Z",
+      "hashtags": "['#Fla\u015fHaber' '#TurkeyNews' '#WorldNews' '#G\u00fcncel' '#Haber' '#G\u00fcndem'\n '#SonDakika' '#Anl\u0131kHaber' '#News' '#Politics' '#Economy'\n '#G\u00fcncelHaberler' '#Trending' '#S\u0131cakGeli\u015fme' '#VideoHaber'\n '#BreakingNews' '#LiveUpdate']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.280872",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 246,
+      "text_cleaned_length": 63,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4cl5ojs2q",
+      "text": "Grafitti in the Sunshine xx #cheshire #Pride #thong #RIP #Karen #exposed #transvestite #heels #cigarette #crossdress #lingerie #Wednesday #Welsh #Trump #pvc #tv #cd #mistress #Chester #August #slut #crossdress #knickers #paypig #domination #smoking",
+      "text_cleaned": "Grafitti in the Sunshine xx",
+      "text_preview": "Grafitti in the Sunshine xx #cheshire #Pride #thong #RIP #Karen #exposed #transvestite #heels #cigarette #crossdress #lingerie #Wednesday #Welsh #Trump #pvc #tv #cd #mistress #Chester #August #slut #c...",
+      "author": "chesterkaz.bsky.social",
+      "author_display_name": "Kaz",
+      "created_at": "2025-08-06T11:23:14.400Z",
+      "hashtags": "['#lingerie' '#transvestite' '#cheshire' '#slut' '#paypig' '#Pride'\n '#Trump' '#knickers' '#Karen' '#Wednesday' '#August' '#heels' '#thong'\n '#Chester' '#crossdress' '#cd' '#cigarette' '#smoking' '#domination'\n '#RIP' '#exposed' '#mistress' '#Welsh' '#tv' '#pvc']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281128",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 248,
+      "text_cleaned_length": 27,
+      "hashtag_count": 25,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq4ek5x222n",
+      "text": "From The Ministry of Truth: A Biography of George Orwell\u2019s 1984\nby Dorian Lynskey #Trump #Totalitarianism #Stalin ##Hitler #Fascism #ICE #ArbitraryArrests",
+      "text_cleaned": "From The Ministry of Truth: A Biography of George Orwell\u2019s 1984 by Dorian Lynskey #",
+      "text_preview": "From The Ministry of Truth: A Biography of George Orwell\u2019s 1984\nby Dorian Lynskey #Trump #Totalitarianism #Stalin ##Hitler #Fascism #ICE #ArbitraryArrests",
+      "author": "wjpme.bsky.social",
+      "author_display_name": "John \u2018the importance of ideas & information\u2019",
+      "created_at": "2025-08-06T11:24:20.452Z",
+      "hashtags": "['#Fascism' '#ArbitraryArrests' '#Totalitarianism' '#Trump' '#Stalin'\n '#Hitler' '#ICE']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281106",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 154,
+      "text_cleaned_length": 83,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq4c37o7s2b",
+      "text": "Ummm, it's been doing this for a bit now... in a variety of ways - #Fascism in action, #USA - #InformationControl -> #Media #SocialMedia #Education #Science + #Economy.",
+      "text_cleaned": "Ummm, it's been doing this for a bit now... in a variety of ways - in action, - -> + .",
+      "text_preview": "Ummm, it's been doing this for a bit now... in a variety of ways - #Fascism in action, #USA - #InformationControl -> #Media #SocialMedia #Education #Science + #Economy.",
+      "author": "alangnixon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T11:22:57.700Z",
+      "hashtags": "['#Fascism' '#USA' '#Media' '#SocialMedia' '#InformationControl'\n '#Science' '#Economy' '#Education']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.280856",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 168,
+      "text_cleaned_length": 86,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq4a2xehk27",
+      "text": "#Trump is nasty, brutish, and short and he's trying to make life like that for #Americans",
+      "text_cleaned": "is nasty, brutish, and short and he's trying to make life like that for",
+      "text_preview": "#Trump is nasty, brutish, and short and he's trying to make life like that for #Americans",
+      "author": "antiprofessor.bsky.social",
+      "author_display_name": "David Brady",
+      "created_at": "2025-08-06T11:21:50.319Z",
+      "hashtags": "['#Americans' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281162",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 89,
+      "text_cleaned_length": 71,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq456r4d72j",
+      "text": "FBI report disproves Trump\u2019s claim of a Biden-era out-of-control crime wave\n#Trump",
+      "text_cleaned": "FBI report disproves Trump\u2019s claim of a Biden-era out-of-control crime wave",
+      "text_preview": "FBI report disproves Trump\u2019s claim of a Biden-era out-of-control crime wave\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T11:20:13.021Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281184",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 82,
+      "text_cleaned_length": 75,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvq45oavjc2q",
+      "text": "Click Subscribe. #Portugal #UnemploymentRate #Economy #JobMarket #Employment",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Portugal #UnemploymentRate #Economy #JobMarket #Employment",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-06T11:20:29Z",
+      "hashtags": "['#Portugal' '#UnemploymentRate' '#JobMarket' '#Economy' '#Employment']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.280895",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 76,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq47sfpp62k",
+      "text": "\n#Entwaffnung   #Hisbollah   #Israel   #Libanon   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Entwaffnung   #Hisbollah   #Israel   #Libanon   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T11:22:01.781596+00:00",
+      "hashtags": "['#Entwaffnung' '#Hisbollah' '#Libanon' '#Trump' '#Israel']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281154",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 56,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq47cuaok2q",
+      "text": "How #Trump made cars built in US \ud83c\uddfa\ud83c\uddf8 collapse #Ford",
+      "text_cleaned": "How made cars built in US \ud83c\uddfa\ud83c\uddf8 collapse",
+      "text_preview": "How #Trump made cars built in US \ud83c\uddfa\ud83c\uddf8 collapse #Ford",
+      "author": "hateloosers.bsky.social",
+      "author_display_name": "Balanced Image ",
+      "created_at": "2025-08-06T11:21:25.046Z",
+      "hashtags": "['#Ford' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:25:03.281169",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:25:10.010000",
+      "text_length": 50,
+      "text_cleaned_length": 37,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
