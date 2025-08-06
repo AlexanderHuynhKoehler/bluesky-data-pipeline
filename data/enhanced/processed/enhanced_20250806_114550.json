@@ -1,0 +1,323 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_114550",
+    "original_batch": "batch_20250806_070215.json",
+    "enhanced_post_count": 9,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 9,
+      "emotion_coverage": 9,
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvpnde3uus2z",
+      "text": "I\u2019ve had this thought for awhile. Trump doesn\u2019t care about the mountain of debt he is creating because he\u2019s at the end of his life and he won\u2019t have to pay it back, as with everything he\u2019s avoided paying.  He\u2019s used to not paying and not taking responsibility. Debt means nothing to him. #Trump #debt",
+      "text_cleaned": "I\u2019ve had this thought for awhile. Trump doesn\u2019t care about the mountain of debt he is creating because he\u2019s at the end of his life and he won\u2019t have to pay it back, as with everything he\u2019s avoided paying. He\u2019s used to not paying and not taking responsibility. Debt means nothing to him.",
+      "text_preview": "I\u2019ve had this thought for awhile. Trump doesn\u2019t care about the mountain of debt he is creating because he\u2019s at the end of his life and he won\u2019t have to pay it back, as with everything he\u2019s avoided pay...",
+      "author": "caroharp.bsky.social",
+      "author_display_name": "Caro Line",
+      "created_at": "2025-08-06T06:55:14.439Z",
+      "hashtags": "['#Trump' '#debt']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:00:03.519175",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:00:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 286,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0,
+      "ml_sentiment_score": -0.6790641117841005,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8817954063415527,
+      "ml_processed_at": "2025-08-06 11:45:50.055401",
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvpncv4d6c2m",
+      "text": "I #giovani vanno aiutati. Per evitare che diventino dei #salvini delle #meloni dei #tajani dei #netanyahu dei #putin degli #orban dei #trump dei #milei delle #vonderleyen.\nVanno aiutati tanto.\n\n#futuro #adolescenti #societ\u00e0malata #societ\u00e0\n\nbeppegrillo.it/la-salute-me...",
+      "text_cleaned": "I vanno aiutati. Per evitare che diventino dei delle dei dei dei degli dei dei delle . Vanno aiutati tanto. beppegrillo.it/la-salute-me...",
+      "text_preview": "I #giovani vanno aiutati. Per evitare che diventino dei #salvini delle #meloni dei #tajani dei #netanyahu dei #putin degli #orban dei #trump dei #milei delle #vonderleyen.\nVanno aiutati tanto.\n\n#futur...",
+      "author": "stefanobornia.bsky.social",
+      "author_display_name": "Stefano Bornia",
+      "created_at": "2025-08-06T06:54:58.724Z",
+      "hashtags": "['#futuro' '#tajani' '#salvini' '#vonderleyen' '#societ\u00e0malata' '#meloni'\n '#milei' '#societ\u00e0' '#netanyahu' '#orban' '#trump' '#putin' '#giovani'\n '#adolescenti']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:00:03.519194",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:00:10.007000",
+      "text_length": 270,
+      "text_cleaned_length": 138,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.378362700343132,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7254298329353333,
+      "ml_processed_at": "2025-08-06 11:45:50.055401",
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvpndw36zs24",
+      "text": "#guerra #economica\n#trade #wars\n\n\u00a1 #YA #BASTA ! \n\u00a1 Prefiero #Guerra #Economica ! ..que soportar a este #ladron y #mequetrefe #sexista #homofobo #ultraderechista #invasor \n\n#THIEF #TRUMP\n#ENOUGH IS #ENOUGH",
+      "text_cleaned": "\u00a1 ! \u00a1 Prefiero ! ..que soportar a este y IS",
+      "text_preview": "#guerra #economica\n#trade #wars\n\n\u00a1 #YA #BASTA ! \n\u00a1 Prefiero #Guerra #Economica ! ..que soportar a este #ladron y #mequetrefe #sexista #homofobo #ultraderechista #invasor \n\n#THIEF #TRUMP\n#ENOUGH IS #EN...",
+      "author": "rod2ik.bsky.social",
+      "author_display_name": "Rod2ik \ud83c\uddea\ud83c\uddfa \ud83c\udde8\ud83c\uddf5 \ud83c\uddea\ud83c\uddf8 \ud83c\uddfa\ud83c\udde6 \ud83c\udde8\ud83c\udde6 \ud83c\udde9\ud83c\uddf0 \ud83c\uddec\ud83c\uddf1 \u262e\ud83d\udd4a\ufe0f",
+      "created_at": "2025-08-06T06:55:33.268Z",
+      "hashtags": "['#TRUMP' '#Economica' '#THIEF' '#sexista' '#ENOUGH' '#guerra' '#Guerra'\n '#economica' '#wars' '#mequetrefe' '#ultraderechista' '#invasor' '#BASTA'\n '#YA' '#ladron' '#trade' '#homofobo']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:00:03.519167",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:00:10.007000",
+      "text_length": 204,
+      "text_cleaned_length": 43,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.35413292422890663,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "disgust",
+      "emotion_confidence": 0.3038708567619324,
+      "ml_processed_at": "2025-08-06 11:45:50.055401",
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvpnfuyooc2g",
+      "text": "May commentary on rare back-to-back speeches on US, Chinese AI strategies \ud83d\udc49 t.ly/OfaS1\n\n#MLex #MLexAI #AI #ArtificialIntelligence #China #US #Trump #Xi #SouthKorea #APEC",
+      "text_cleaned": "May commentary on rare back-to-back speeches on US, Chinese AI strategies \ud83d\udc49 t.ly/OfaS1",
+      "text_preview": "May commentary on rare back-to-back speeches on US, Chinese AI strategies \ud83d\udc49 t.ly/OfaS1\n\n#MLex #MLexAI #AI #ArtificialIntelligence #China #US #Trump #Xi #SouthKorea #APEC",
+      "author": "realchoonsik.bsky.social",
+      "author_display_name": "Choonsik Yoo",
+      "created_at": "2025-08-06T06:56:39.268Z",
+      "hashtags": "['#US' '#MLex' '#APEC' '#SouthKorea' '#Xi' '#Trump'\n '#ArtificialIntelligence' '#AI' '#China' '#MLexAI']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:00:03.519155",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:00:10.007000",
+      "text_length": 169,
+      "text_cleaned_length": 86,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.013493652362376452,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.848024308681488,
+      "ml_processed_at": "2025-08-06 11:45:50.055401",
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvpnd3gnrs2z",
+      "text": "Die Spiele und die Fackel kann #Trump sich sonst wohin stecken.\n1936 reloaded",
+      "text_cleaned": "Die Spiele und die Fackel kann sich sonst wohin stecken. 1936 reloaded",
+      "text_preview": "Die Spiele und die Fackel kann #Trump sich sonst wohin stecken.\n1936 reloaded",
+      "author": "klatschase.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T06:55:05.355Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:00:03.519183",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:00:10.007000",
+      "text_length": 77,
+      "text_cleaned_length": 70,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.0134046770632267,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7693474888801575,
+      "ml_processed_at": "2025-08-06 11:45:50.055401",
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvpnkeegc22o",
+      "text": "Propaganda #trump #trump4life #vaccinesarefake #makeamericagreatagain #trump2025",
+      "text_cleaned": "Propaganda",
+      "text_preview": "Propaganda #trump #trump4life #vaccinesarefake #makeamericagreatagain #trump2025",
+      "author": "ijerkittobailout.bsky.social",
+      "author_display_name": "Daniel Dozier",
+      "created_at": "2025-08-06T06:59:09.600Z",
+      "hashtags": "['#makeamericagreatagain' '#vaccinesarefake' '#trump' '#trump4life'\n '#trump2025']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:00:03.519145",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:00:10.007000",
+      "text_length": 80,
+      "text_cleaned_length": 10,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0,
+      "ml_sentiment_score": -0.34995924681425095,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "disgust",
+      "emotion_confidence": 0.9466382265090942,
+      "ml_processed_at": "2025-08-06 11:45:50.055401",
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvpn3bbyek2h",
+      "text": "I was at a family party on Sunday, and several of us persuaded a young couple not to go on holiday in America while Trump is dictator there.  They are now looking at Canada and New Zealand. \nClever kids.\n#America #tourism #Trump\nStay away from the USA.",
+      "text_cleaned": "I was at a family party on Sunday, and several of us persuaded a young couple not to go on holiday in America while Trump is dictator there. They are now looking at Canada and New Zealand. Clever kids. Stay away from the USA.",
+      "text_preview": "I was at a family party on Sunday, and several of us persuaded a young couple not to go on holiday in America while Trump is dictator there.  They are now looking at Canada and New Zealand. \nClever ki...",
+      "author": "chr1stop4.bsky.social",
+      "author_display_name": "OnlyMe",
+      "created_at": "2025-08-06T06:50:43.057Z",
+      "hashtags": "['#Trump' '#tourism' '#America']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:55:03.218245",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:55:10.007000",
+      "text_length": 252,
+      "text_cleaned_length": 225,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.4173809140920639,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7685996294021606,
+      "ml_processed_at": "2025-08-06 11:45:50.055401",
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvpn6hmigb26",
+      "text": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/R1ihUI0Q",
+      "text_cleaned": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... .ai",
+      "text_preview": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi askin...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-06T06:52:30.191Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:55:03.218230",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:55:10.007000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.014920074865221976,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "fear",
+      "emotion_confidence": 0.49968209862709045,
+      "ml_processed_at": "2025-08-06 11:45:50.055401",
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvpn4r2gqk2r",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-06T06:51:32.849Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:55:03.218237",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:55:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.006507499516010284,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "surprise",
+      "emotion_confidence": 0.6424132585525513,
+      "ml_processed_at": "2025-08-06 11:45:50.055401",
+      "processing_speed": 88.02644705698245,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
