@@ -1,0 +1,153 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113252",
+    "original_batch": "batch_20250804_072208.json",
+    "enhanced_post_count": 4,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 4,
+      "emotion_coverage": 4,
+      "processing_speed": 74.80410674546033,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvknihda6k2w",
+      "text": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647\nTo be honest I have never heard this term before but it sure fits to a tee when it comes to TACO.\n#GOP #RESIST #trump #VoteBlue #NoKings #indivisible #ICE\nwww.usatoday.com/story/news/p...",
+      "text_cleaned": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647 To be honest I have never heard this term before but it sure fits to a tee when it comes to TACO.",
+      "text_preview": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647\nTo be honest I have never heard this term before but it sure fits to a tee when it comes to TACO.\n#GOP #RESIST #trump #VoteBlue #NoKing...",
+      "author": "clydepowell.bsky.social",
+      "author_display_name": "\u2728 Clyde \u2728",
+      "created_at": "2025-08-04T07:14:46.905Z",
+      "hashtags": "['#GOP' '#VoteBlue' '#RESIST' '#trump' '#ICE' '#NoKings' '#indivisible']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:20:02.956854",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:20:10.008000",
+      "text_length": 252,
+      "text_cleaned_length": 162,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 3.0,
+      "ml_sentiment_score": -0.882665766403079,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "anger",
+      "emotion_confidence": 0.6388643980026245,
+      "ml_processed_at": "2025-08-06 11:32:51.837456",
+      "processing_speed": 74.80410674546033,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvknohumak2a",
+      "text": "EA on RTE Radio 1: Protecting Women in #Ireland; #Trump #Tariffs on #Europe; #Israel Killing and Starvation in #Gaza (Scott Lucas/Lisa Costello/Niamh Hourigan/Harry McGee with Brendan O'Connor Show)\n\neaworldview.com/2025/08/irel...",
+      "text_cleaned": "EA on RTE Radio 1: Protecting Women in ; on ; Killing and Starvation in (Scott Lucas/Lisa Costello/Niamh Hourigan/Harry McGee with Brendan O'Connor Show) eaworldview.com/2025/08/irel...",
+      "text_preview": "EA on RTE Radio 1: Protecting Women in #Ireland; #Trump #Tariffs on #Europe; #Israel Killing and Starvation in #Gaza (Scott Lucas/Lisa Costello/Niamh Hourigan/Harry McGee with Brendan O'Connor Show)\n\n...",
+      "author": "scottlucas.bsky.social",
+      "author_display_name": "Scott Lucas",
+      "created_at": "2025-08-04T07:18:08.802Z",
+      "hashtags": "['#Tariffs' '#Europe' '#Trump' '#Gaza' '#Ireland' '#Israel']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:20:02.956844",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:20:10.008000",
+      "text_length": 231,
+      "text_cleaned_length": 185,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.18407812155783176,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "fear",
+      "emotion_confidence": 0.745925784111023,
+      "ml_processed_at": "2025-08-06 11:32:51.837456",
+      "processing_speed": 74.80410674546033,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvknfew7ms26",
+      "text": "#Incin\u00e9ration de #10M$ de #contraceptifs provenant de #Belgique en #France suite \u00e0 la d\u00e9cision de #Trump d'arr\u00eater l' #aideam\u00e9ricaine aux pays les + pauvres: itws aussi d'Avril Beno\u00eet / @msf.fr et de @sarahdurocher.bsky.social / @leplanningfamilial.bsky.social [3], la [VID\u00c9O]: youtu.be/drxtCIKj-qk",
+      "text_cleaned": "de $ de provenant de en suite \u00e0 la d\u00e9cision de d'arr\u00eater l' aux pays les + pauvres: itws aussi d'Avril Beno\u00eet / .fr et de .bsky.social / .bsky.social [3], la [VID\u00c9O]: youtu.be/drxtCIKj-qk",
+      "text_preview": "#Incin\u00e9ration de #10M$ de #contraceptifs provenant de #Belgique en #France suite \u00e0 la d\u00e9cision de #Trump d'arr\u00eater l' #aideam\u00e9ricaine aux pays les + pauvres: itws aussi d'Avril Beno\u00eet / @msf.fr et de ...",
+      "author": "frederickmoulin.bsky.social",
+      "author_display_name": "Fr\u00e9d\u00e9rick Moulin\ud83c\udf3b\u23da\ud83c\uddea\ud83c\uddfa#NouveauFrontPopulaire\ud83d\udc9b\ud83d\udc99",
+      "created_at": "2025-08-04T07:13:03.718Z",
+      "hashtags": "['#Belgique' '#10M' '#contraceptifs' '#aideam\u00e9ricaine' '#Trump' '#France'\n '#Incin\u00e9ration']",
+      "mentions": "['@msf.fr' '@leplanningfamilial.bsky.social' '@sarahdurocher.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:15:02.672450",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:15:10.006000",
+      "text_length": 298,
+      "text_cleaned_length": 187,
+      "hashtag_count": 7,
+      "mention_count": 3,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.0038190890103578564,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8352984189987183,
+      "ml_processed_at": "2025-08-06 11:32:51.837456",
+      "processing_speed": 74.80410674546033,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkng4tc2c26",
+      "text": "Als we de narcistische stumper #Trump een Nobel-prijs voor de vrede beloven zal hij hoogstwaarschijnlijk wel in beweging komen !\n\nOud-leiders Mossad en Shin Bet vragen Trump #Gaza-oorlog te be\u00ebindigen  - nos.nl/l/2577501#UP...",
+      "text_cleaned": "Als we de narcistische stumper een Nobel-prijs voor de vrede beloven zal hij hoogstwaarschijnlijk wel in beweging komen ! Oud-leiders Mossad en Shin Bet vragen Trump -oorlog te be\u00ebindigen - nos.nl/l/2577501...",
+      "text_preview": "Als we de narcistische stumper #Trump een Nobel-prijs voor de vrede beloven zal hij hoogstwaarschijnlijk wel in beweging komen !\n\nOud-leiders Mossad en Shin Bet vragen Trump #Gaza-oorlog te be\u00ebindigen...",
+      "author": "erik008.bsky.social",
+      "author_display_name": "ErikKnuyt",
+      "created_at": "2025-08-04T07:13:28.788Z",
+      "hashtags": "['#UP' '#Trump' '#Gaza']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:15:02.672440",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:15:10.006000",
+      "text_length": 226,
+      "text_cleaned_length": 209,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.028827279806137085,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7188427448272705,
+      "ml_processed_at": "2025-08-06 11:32:51.837456",
+      "processing_speed": 74.80410674546033,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
