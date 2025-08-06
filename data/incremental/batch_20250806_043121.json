@@ -1,0 +1,392 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_043121",
+    "post_count": 14,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 04:25:10.009000",
+    "latest_received_at": "2025-08-06 04:30:10.009000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpf5dnjwk25",
+      "text": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/R1ihUI0Q",
+      "text_cleaned": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... .ai",
+      "text_preview": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi askin...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-06T04:28:42.394Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:30:03.268097",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:30:10.009000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpf5tezfk23",
+      "text": "Is ANYONE surprised #Ghislaine #Pedo #Maxwell  opposing the #TRUTH being made public??\n\nWhile she's #fishing for a #Pardon from a former \"customer\" in her #Paedophile #Ring aka #Trump...\n\n#Release the #EpsteinFiles!",
+      "text_cleaned": "Is ANYONE surprised opposing the being made public?? While she's for a from a former \"customer\" in her aka ... the !",
+      "text_preview": "Is ANYONE surprised #Ghislaine #Pedo #Maxwell  opposing the #TRUTH being made public??\n\nWhile she's #fishing for a #Pardon from a former \"customer\" in her #Paedophile #Ring aka #Trump...\n\n#Release the...",
+      "author": "tarilliux.bsky.social",
+      "author_display_name": "Tarilliux",
+      "created_at": "2025-08-06T04:28:59.201Z",
+      "hashtags": "['#Pedo' '#Maxwell' '#Ghislaine' '#Paedophile' '#Release' '#Trump'\n '#TRUTH' '#fishing' '#Pardon' '#Ring' '#EpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:30:03.268085",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:30:10.009000",
+      "text_length": 215,
+      "text_cleaned_length": 116,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpetmkflg23",
+      "text": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/R1ihUI0Q",
+      "text_cleaned": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... .ai",
+      "text_preview": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi askin...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-06T04:23:16.323Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606578",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpetxlan22g",
+      "text": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includes #Trump)\n\nPass it on!",
+      "text_cleaned": "Don\u2019t let this drop from the headlines y\u2019all! Keep posting AND (This includes ) Pass it on!",
+      "text_preview": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includ...",
+      "author": "betseyrocks.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T04:23:28.059Z",
+      "hashtags": "['#ReleaseTheEpsteinFiles' '#TrumpIsARapist' '#TrumpIsOnTheList'\n '#BelieveTheVictims' '#TrumpIsAPedophile' '#Trump'\n '#ExposeProsecuteTheJohns']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606552",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 223,
+      "text_cleaned_length": 91,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpetie5ps2g",
+      "text": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includes #Trump)\n\nPass it on!",
+      "text_cleaned": "Don\u2019t let this drop from the headlines y\u2019all! Keep posting AND (This includes ) Pass it on!",
+      "text_preview": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includ...",
+      "author": "betseyrocks.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T04:23:12.098Z",
+      "hashtags": "['#ReleaseTheEpsteinFiles' '#TrumpIsARapist' '#TrumpIsOnTheList'\n '#BelieveTheVictims' '#TrumpIsAPedophile' '#Trump'\n '#ExposeProsecuteTheJohns']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606590",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 223,
+      "text_cleaned_length": 91,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpermxlgr2m",
+      "text": "\ud83d\udd34 Importance: 78/100\n#news #Featured #TopStories #World #interview #trump #trumpadministration\n\nThe Trump administration is considering publicly releasing the transcript of a Justice Department...",
+      "text_cleaned": "\ud83d\udd34 Importance: 78/100 The Trump administration is considering publicly releasing the transcript of a Justice Department...",
+      "text_preview": "\ud83d\udd34 Importance: 78/100\n#news #Featured #TopStories #World #interview #trump #trumpadministration\n\nThe Trump administration is considering publicly releasing the transcript of a Justice Department...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-06T04:14:14+00:00",
+      "hashtags": "['#news' '#trump' '#TopStories' '#trumpadministration' '#interview'\n '#World' '#Featured']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606679",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 196,
+      "text_cleaned_length": 121,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpepgcqtb2a",
+      "text": "Trump investigar\u00e1 den\u00fancias sobre criptomoedas e fechamento de contas banc\u00e1... - published 05 Aug 2025 #government #Trump #WallStreet #CoinBase #Business",
+      "text_cleaned": "Trump investigar\u00e1 den\u00fancias sobre criptomoedas e fechamento de contas banc\u00e1... - published 05 Aug 2025",
+      "text_preview": "Trump investigar\u00e1 den\u00fancias sobre criptomoedas e fechamento de contas banc\u00e1... - published 05 Aug 2025 #government #Trump #WallStreet #CoinBase #Business",
+      "author": "crypto-news-pt.bsky.social",
+      "author_display_name": "Not\u00edcias sobre criptomoedas",
+      "created_at": "2025-08-06T04:20:55.6660849Z",
+      "hashtags": "['#Business' '#WallStreet' '#government' '#Trump' '#CoinBase']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606607",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 153,
+      "text_cleaned_length": 102,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpetqgaxy2p",
+      "text": "Trump to launch probe into crypto and debanking claims - published 05 Aug 2025 #government #Trump #WallStreet #CoinBase #Business",
+      "text_cleaned": "Trump to launch probe into crypto and debanking claims - published 05 Aug 2025",
+      "text_preview": "Trump to launch probe into crypto and debanking claims - published 05 Aug 2025 #government #Trump #WallStreet #CoinBase #Business",
+      "author": "crypto-news-en.bsky.social",
+      "author_display_name": "Crypto News",
+      "created_at": "2025-08-06T04:23:20.4834767Z",
+      "hashtags": "['#Business' '#WallStreet' '#government' '#Trump' '#CoinBase']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606569",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 129,
+      "text_cleaned_length": 78,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpevxwk3k2j",
+      "text": "My travels in Trump\u2019s Florida: Maga superstars, gen Z Republicans \u2013 and the shame of \u2018Alligator Alcatraz\u2019\n#Trump",
+      "text_cleaned": "My travels in Trump\u2019s Florida: Maga superstars, gen Z Republicans \u2013 and the shame of \u2018Alligator Alcatraz\u2019",
+      "text_preview": "My travels in Trump\u2019s Florida: Maga superstars, gen Z Republicans \u2013 and the shame of \u2018Alligator Alcatraz\u2019\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T04:24:34.410Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606534",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 112,
+      "text_cleaned_length": 105,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpeuglygc2d",
+      "text": "He thinks he can buy anything by hook or by crook.!!!!! Respected @sanders.senate.gov #Trump #Epstein",
+      "text_cleaned": "He thinks he can buy anything by hook or by crook.!!!!! Respected .senate.gov",
+      "text_preview": "He thinks he can buy anything by hook or by crook.!!!!! Respected @sanders.senate.gov #Trump #Epstein",
+      "author": "skusa.bsky.social",
+      "author_display_name": "SKUSA",
+      "created_at": "2025-08-06T04:23:43.805Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "['@sanders.senate.gov']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606541",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 101,
+      "text_cleaned_length": 77,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpevypstd2e",
+      "text": "Trump says he didn't know about Ghislaine Maxwell's prison transfer beforehand\n#Trump",
+      "text_cleaned": "Trump says he didn't know about Ghislaine Maxwell's prison transfer beforehand",
+      "text_preview": "Trump says he didn't know about Ghislaine Maxwell's prison transfer beforehand\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T04:24:35.674Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606527",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 85,
+      "text_cleaned_length": 78,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpenwntsk27",
+      "text": "#DiddlerOnTheRoof #Pedo #Trump #Epstein\n#EpsteinFiles #MAGA #Pedophiles #Maxwell\n#TDS #Comedy #Humour #Humor",
+      "text_cleaned": "",
+      "text_preview": "#DiddlerOnTheRoof #Pedo #Trump #Epstein\n#EpsteinFiles #MAGA #Pedophiles #Maxwell\n#TDS #Comedy #Humour #Humor",
+      "author": "b7bird.bsky.social",
+      "author_display_name": "\ud83e\udd8b\ud83e\udd8b",
+      "created_at": "2025-08-06T04:20:05.752Z",
+      "hashtags": "['#Humour' '#Comedy' '#DiddlerOnTheRoof' '#Pedophiles' '#TDS' '#MAGA'\n '#Maxwell' '#Trump' '#Pedo' '#Humor' '#EpsteinFiles' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606618",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 108,
+      "text_cleaned_length": 0,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvpevyviya2i",
+      "text": "U.S. Army air defenses are a sizzling hot commodity\n#Trump",
+      "text_cleaned": "U.S. Army air defenses are a sizzling hot commodity",
+      "text_preview": "U.S. Army air defenses are a sizzling hot commodity\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T04:24:36.486Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606521",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 58,
+      "text_cleaned_length": 51,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpeqou3dc2o",
+      "text": "ANYONE ELSE REMEMBER THIS?\n\n#republicanhypocrisy #trump #maga",
+      "text_cleaned": "ANYONE ELSE REMEMBER THIS?",
+      "text_preview": "ANYONE ELSE REMEMBER THIS?\n\n#republicanhypocrisy #trump #maga",
+      "author": "jmenard99.bsky.social",
+      "author_display_name": "Joey M",
+      "created_at": "2025-08-06T04:21:38.233Z",
+      "hashtags": "['#trump' '#maga' '#republicanhypocrisy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:25:03.606598",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:25:10.009000",
+      "text_length": 61,
+      "text_cleaned_length": 26,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    }
+  ]
+}
