@@ -1,0 +1,473 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_022033",
+    "post_count": 17,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 02:15:10.007000",
+    "latest_received_at": "2025-08-06 02:20:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvp5osrcrs2f",
+      "text": "youtu.be/U944dHbCzz8?...\n   In the future people will ask: how did this orange spray tanned maniac get control of the Republican party where everybody is crippled with moral weakness, moral depravity, letting #Trump do whatever the hell he wants while he's laughing at them as they're kissing his ass",
+      "text_cleaned": "youtu.be/U944dHbCzz8?... In the future people will ask: how did this orange spray tanned maniac get control of the Republican party where everybody is crippled with moral weakness, moral depravity, letting do whatever the hell he wants while he's laughing at them as they're kissing his ass",
+      "text_preview": "youtu.be/U944dHbCzz8?...\n   In the future people will ask: how did this orange spray tanned maniac get control of the Republican party where everybody is crippled with moral weakness, moral depravity,...",
+      "author": "gazansrterrorists.bsky.social",
+      "author_display_name": "FACTSmatter",
+      "created_at": "2025-08-06T02:15:19.049Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:20:03.672719",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:20:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 290,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5ogxhfw2l",
+      "text": "BILL UPDATE:\n\nH.1087: United States Colored Troops Congressional Gold Medal Act\n\nACTION: Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for con...\n\n#congress #economy",
+      "text_cleaned": "BILL UPDATE: H.1087: United States Colored Troops Congressional Gold Medal Act ACTION: Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for con...",
+      "text_preview": "BILL UPDATE:\n\nH.1087: United States Colored Troops Congressional Gold Medal Act\n\nACTION: Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for ...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-06T02:15:05.066Z",
+      "hashtags": "['#congress' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:20:03.672436",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:20:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 276,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvp5rriqnc2q",
+      "text": "Wow. Absolutely EVERYONE should hear this. Release the Epstein files! #maga #trump #pedopresident #survivor #feloninchief #epstein #epsteinfiles\nA Pardon for #ghislainemaxwell is an full admission of guilt. Full stop.",
+      "text_cleaned": "Wow. Absolutely EVERYONE should hear this. Release the Epstein files! A Pardon for is an full admission of guilt. Full stop.",
+      "text_preview": "Wow. Absolutely EVERYONE should hear this. Release the Epstein files! #maga #trump #pedopresident #survivor #feloninchief #epstein #epsteinfiles\nA Pardon for #ghislainemaxwell is an full admission of ...",
+      "author": "troychristian.bsky.social",
+      "author_display_name": "Troy Christian",
+      "created_at": "2025-08-06T02:16:58.386Z",
+      "hashtags": "['#epsteinfiles' '#trump' '#ghislainemaxwell' '#epstein' '#survivor'\n '#pedopresident' '#maga' '#feloninchief']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:20:03.672693",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:20:10.007000",
+      "text_length": 217,
+      "text_cleaned_length": 124,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5vjrbxk2b",
+      "text": "Federal prison workers express outrage and shock at Ghislaine Maxwell's transfer to a minimum security camp.\n\n#maxwell #ghislaine #ghislainemaxwell #sexoffenders #sexualabuse #victims #epstein #trump #epsteinfiles\n\nwww.nbcnews.com/news/us-news...",
+      "text_cleaned": "Federal prison workers express outrage and shock at Ghislaine Maxwell's transfer to a minimum security camp.",
+      "text_preview": "Federal prison workers express outrage and shock at Ghislaine Maxwell's transfer to a minimum security camp.\n\n#maxwell #ghislaine #ghislainemaxwell #sexoffenders #sexualabuse #victims #epstein #trump ...",
+      "author": "arty-san.bsky.social",
+      "author_display_name": "Arty-san",
+      "created_at": "2025-08-06T02:19:04.493Z",
+      "hashtags": "['#victims' '#sexualabuse' '#ghislaine' '#sexoffenders'\n '#ghislainemaxwell' '#trump' '#maxwell' '#epsteinfiles' '#epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:20:03.672679",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:20:10.007000",
+      "text_length": 246,
+      "text_cleaned_length": 108,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5p36atj26",
+      "text": "The Recap: Melania readies to ruin Christmas, and Texas Republican stalks Trump\n#Trump",
+      "text_cleaned": "The Recap: Melania readies to ruin Christmas, and Texas Republican stalks Trump",
+      "text_preview": "The Recap: Melania readies to ruin Christmas, and Texas Republican stalks Trump\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T02:15:27.440Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:20:03.672712",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:20:10.007000",
+      "text_length": 86,
+      "text_cleaned_length": 79,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5rvbmsk2m",
+      "text": "We all know he did it. \n\n#Trump knows he did it. \n\napple.news/Ac8aV0y8HShe...",
+      "text_cleaned": "We all know he did it. knows he did it. apple.news/Ac8aV0y8HShe...",
+      "text_preview": "We all know he did it. \n\n#Trump knows he did it. \n\napple.news/Ac8aV0y8HShe...",
+      "author": "blackholeentropy.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:17:02.344Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:20:03.672685",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:20:10.007000",
+      "text_length": 77,
+      "text_cleaned_length": 66,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5p47rnx2m",
+      "text": "Americans love to hate this guy\n#Trump",
+      "text_cleaned": "Americans love to hate this guy",
+      "text_preview": "Americans love to hate this guy\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T02:15:28.907Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:20:03.672698",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:20:10.007000",
+      "text_length": 38,
+      "text_cleaned_length": 31,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5hbcejkv2",
+      "text": "\"... people that live in the inner city are not doing that work. They're just not doing that work. And they've tried - we've tried, everybody tried. They don't do it. These people do it naturally, naturally.\"\n****\n\nWow, did we try the people in the suburbs ?\nHe forgot to say something about [\u2026]",
+      "text_cleaned": "\"... people that live in the inner city are not doing that work. They're just not doing that work. And they've tried - we've tried, everybody tried. They don't do it. These people do it naturally, naturally.\" **** Wow, did we try the people in the suburbs ? He forgot to say something about [\u2026]",
+      "text_preview": "\"... people that live in the inner city are not doing that work. They're just not doing that work. And they've tried - we've tried, everybody tried. They don't do it. These people do it naturally, nat...",
+      "author": "revpuddudley.mas.to.ap.brid.gy",
+      "author_display_name": "RevPudDudley",
+      "created_at": "2025-08-06T02:11:03.000Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334966",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 295,
+      "text_cleaned_length": 294,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5lqjo422p",
+      "text": "..\ud83c\uddfa\ud83c\uddf8..\n\nThis... and others to watch...\n\n- Bad Faith\n- God and Country \n- Vigilante Inc.\n\nAll Americans need to know.\n\n#trump #donaldtrump #fascism #project2025 #christiannationalism #kkk #racism #theocracy #democracy #freedom #peterthiel #palantir #elonmusk #tesla #spacex",
+      "text_cleaned": "..\ud83c\uddfa\ud83c\uddf8.. This... and others to watch... - Bad Faith - God and Country - Vigilante Inc. All Americans need to know.",
+      "text_preview": "..\ud83c\uddfa\ud83c\uddf8..\n\nThis... and others to watch...\n\n- Bad Faith\n- God and Country \n- Vigilante Inc.\n\nAll Americans need to know.\n\n#trump #donaldtrump #fascism #project2025 #christiannationalism #kkk #racism #theo...",
+      "author": "neverdieeasy.bsky.social",
+      "author_display_name": "Never_Die_Easy",
+      "created_at": "2025-08-06T02:13:36.040Z",
+      "hashtags": "['#christiannationalism' '#peterthiel' '#project2025' '#donaldtrump'\n '#trump' '#fascism' '#kkk' '#spacex' '#freedom' '#tesla' '#palantir'\n '#elonmusk' '#democracy' '#theocracy' '#racism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334936",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 272,
+      "text_cleaned_length": 112,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5ktlals24",
+      "text": "\u4f17\u8bae\u9662\u76d1\u7763\u59d4\u5458\u4f1a\u7684\u4f20\u7968\u8981\u6c42\u5728 8 \u6708 19 \u65e5\u4e4b\u524d\u63d0\u4ea4\u201c\u6240\u6709\u4e0e\u6770\u5f17\u91cc\u00b7\u7231\u6cfc\u65af\u5766\u548c\u5409\u65af\u5170\u00b7\u9ea6\u514b\u65af\u97e6\u6709\u5173\u6216\u63d0\u53ca\u7684\u6587\u4ef6\u548c\u901a\u8baf\u201d\u3002\n\n#\u7231\u6cfc\u65af\u5766 #Epstein #\u5ddd\u666e #Trump #\u63a9\u76d6\u8bc1\u636e #CoverUp",
+      "text_cleaned": "\u4f17\u8bae\u9662\u76d1\u7763\u59d4\u5458\u4f1a\u7684\u4f20\u7968\u8981\u6c42\u5728 8 \u6708 19 \u65e5\u4e4b\u524d\u63d0\u4ea4\u201c\u6240\u6709\u4e0e\u6770\u5f17\u91cc\u00b7\u7231\u6cfc\u65af\u5766\u548c\u5409\u65af\u5170\u00b7\u9ea6\u514b\u65af\u97e6\u6709\u5173\u6216\u63d0\u53ca\u7684\u6587\u4ef6\u548c\u901a\u8baf\u201d\u3002",
+      "text_preview": "\u4f17\u8bae\u9662\u76d1\u7763\u59d4\u5458\u4f1a\u7684\u4f20\u7968\u8981\u6c42\u5728 8 \u6708 19 \u65e5\u4e4b\u524d\u63d0\u4ea4\u201c\u6240\u6709\u4e0e\u6770\u5f17\u91cc\u00b7\u7231\u6cfc\u65af\u5766\u548c\u5409\u65af\u5170\u00b7\u9ea6\u514b\u65af\u97e6\u6709\u5173\u6216\u63d0\u53ca\u7684\u6587\u4ef6\u548c\u901a\u8baf\u201d\u3002\n\n#\u7231\u6cfc\u65af\u5766 #Epstein #\u5ddd\u666e #Trump #\u63a9\u76d6\u8bc1\u636e #CoverUp",
+      "author": "sittingtight.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:13:05.684Z",
+      "hashtags": "['#\u7231\u6cfc\u65af\u5766' '#\u63a9\u76d6\u8bc1\u636e' '#\u5ddd\u666e' '#CoverUp' '#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334947",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 103,
+      "text_cleaned_length": 61,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5eydo4s2l",
+      "text": "And then, just like that, all my right-wing friends stopped posting Trump memes. Life is like a box of chocolates. Eventually you get to the orange child-rapist surprise and you\u2019re like WTF? #trump",
+      "text_cleaned": "And then, just like that, all my right-wing friends stopped posting Trump memes. Life is like a box of chocolates. Eventually you get to the orange child-rapist surprise and you\u2019re like WTF?",
+      "text_preview": "And then, just like that, all my right-wing friends stopped posting Trump memes. Life is like a box of chocolates. Eventually you get to the orange child-rapist surprise and you\u2019re like WTF? #trump",
+      "author": "zarzoproductions.bsky.social",
+      "author_display_name": "Bernie Gerling",
+      "created_at": "2025-08-06T02:09:49.339Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334995",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 197,
+      "text_cleaned_length": 190,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5mu3yvm2z",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "cosmicmeta.io",
+      "author_display_name": "Cosmic Meta IO",
+      "created_at": "2025-08-06T02:14:13.154Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334923",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5hwa5ok2q",
+      "text": "The problem with releasing the #epstein files is that they got their pedophilia all tangled up with their collusion with the Russian mob to steal the election. #traitor #trump",
+      "text_cleaned": "The problem with releasing the files is that they got their pedophilia all tangled up with their collusion with the Russian mob to steal the election.",
+      "text_preview": "The problem with releasing the #epstein files is that they got their pedophilia all tangled up with their collusion with the Russian mob to steal the election. #traitor #trump",
+      "author": "jonathancapone.bsky.social",
+      "author_display_name": "Jonathan Capone",
+      "created_at": "2025-08-06T02:11:27.802Z",
+      "hashtags": "['#traitor' '#trump' '#epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334956",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 175,
+      "text_cleaned_length": 150,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvp5gocork2p",
+      "text": "..\ud83c\uddfa\ud83c\uddf8..\n\ud83d\udc47 \n\n#trump #fascism #texas #donaldtrump #liberty #freedom #democracy #theocracy #tesla #elonmusk #peterthiel #palantir",
+      "text_cleaned": "..\ud83c\uddfa\ud83c\uddf8.. \ud83d\udc47",
+      "text_preview": "..\ud83c\uddfa\ud83c\uddf8..\n\ud83d\udc47 \n\n#trump #fascism #texas #donaldtrump #liberty #freedom #democracy #theocracy #tesla #elonmusk #peterthiel #palantir",
+      "author": "neverdieeasy.bsky.social",
+      "author_display_name": "Never_Die_Easy",
+      "created_at": "2025-08-06T02:10:45.941Z",
+      "hashtags": "['#peterthiel' '#texas' '#donaldtrump' '#trump' '#fascism' '#liberty'\n '#freedom' '#tesla' '#palantir' '#elonmusk' '#democracy' '#theocracy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334978",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 125,
+      "text_cleaned_length": 8,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5nwml5j2i",
+      "text": "Prosecutor who negotiated Epstein's sweetheart deal left off subpoena list\n#Trump",
+      "text_cleaned": "Prosecutor who negotiated Epstein's sweetheart deal left off subpoena list",
+      "text_preview": "Prosecutor who negotiated Epstein's sweetheart deal left off subpoena list\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T02:14:26.313Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334905",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 81,
+      "text_cleaned_length": 74,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5fcoict2o",
+      "text": "\n#deportation   #Georgetown   #government   #Trump   #Trump administration",
+      "text_cleaned": "administration",
+      "text_preview": "\n#deportation   #Georgetown   #government   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T02:10:21.023262+00:00",
+      "hashtags": "['#Trump' '#deportation' '#government' '#Georgetown']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334987",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 74,
+      "text_cleaned_length": 14,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp5n4ccg22z",
+      "text": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "text_cleaned": "",
+      "text_preview": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "author": "antimaggotzone.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:14:21.914Z",
+      "hashtags": "['#ReleaseTheEpsteinFiles' '#EpsteinCoverUp' '#EpsteinFiles' '#Trump'\n '#EpsteinTrumpFiles' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:15:04.334915",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:15:10.007000",
+      "text_length": 90,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
