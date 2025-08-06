@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_121403",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 12:05:10.006000",
+    "latest_received_at": "2025-08-06 12:10:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvq6t4jbbs27",
+      "text": "A $2Tr #securities market linked to #US #inflation could be the first area of #Treasuries that would crack if the BLS is politicized, according to bond investors.\nSince #Trump fired #BLS chief Erika #McEntarfer when a jobs report showed rising unemployment rising, investors fear eroding trust.",
+      "text_cleaned": "A $2Tr market linked to could be the first area of that would crack if the BLS is politicized, according to bond investors. Since fired chief Erika when a jobs report showed rising unemployment rising, investors fear eroding trust.",
+      "text_preview": "A $2Tr #securities market linked to #US #inflation could be the first area of #Treasuries that would crack if the BLS is politicized, according to bond investors.\nSince #Trump fired #BLS chief Erika #...",
+      "author": "dr-john-von-pi.bsky.social",
+      "author_display_name": "Jan Pi",
+      "created_at": "2025-08-06T12:08:16.972Z",
+      "hashtags": "['#inflation' '#Treasuries' '#McEntarfer' '#Trump' '#BLS' '#securities'\n '#US']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386868",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 294,
+      "text_cleaned_length": 231,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6sgtvrs2l",
+      "text": "Please help me spread this message. I hope for your support. I make this request on behalf of all the families that have been scammed. Thank you.\n#Driven #Trump #Ofac\n#Ocif #Nataliazequeira #GobiernoDePuertoRico, #JenniferGonzalezColon",
+      "text_cleaned": "Please help me spread this message. I hope for your support. I make this request on behalf of all the families that have been scammed. Thank you. ,",
+      "text_preview": "Please help me spread this message. I hope for your support. I make this request on behalf of all the families that have been scammed. Thank you.\n#Driven #Trump #Ofac\n#Ocif #Nataliazequeira #GobiernoD...",
+      "author": "alexrantunez.bsky.social",
+      "author_display_name": "ALEX ANTUNEZ",
+      "created_at": "2025-08-06T12:07:53.523Z",
+      "hashtags": "['#Ofac' '#Ocif' '#JenniferGonzalezColon' '#Trump' '#Driven'\n '#Nataliazequeira' '#GobiernoDePuertoRico']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386894",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 235,
+      "text_cleaned_length": 147,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lvq6sg5nuk2l",
+      "text": "@omgpodcast22.bsky.social The perpetrators of the #NodusBank scam remain at large, so I am trying to raise awareness about the #scam, which has affected many families. I urge #OFAC and #Trump t",
+      "text_cleaned": ".bsky.social The perpetrators of the scam remain at large, so I am trying to raise awareness about the , which has affected many families. I urge and t",
+      "text_preview": "@omgpodcast22.bsky.social The perpetrators of the #NodusBank scam remain at large, so I am trying to raise awareness about the #scam, which has affected many families. I urge #OFAC and #Trump t",
+      "author": "alexrantunez.bsky.social",
+      "author_display_name": "ALEX ANTUNEZ",
+      "created_at": "2025-08-06T12:07:53.521Z",
+      "hashtags": "['#scam' '#OFAC' '#NodusBank' '#Trump']",
+      "mentions": "['@omgpodcast22.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386901",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 193,
+      "text_cleaned_length": 151,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lvq6v2g6uu2s",
+      "text": "With Sanctions Looming, Trump\u2019s Envoy to Russia Meets With Putin The envoy, Steve Witkoff, was making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the war... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/PqWSA4RD",
+      "text_cleaned": "With Sanctions Looming, Trump\u2019s Envoy to Russia Meets With Putin The envoy, Steve Witkoff, was making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the war... .ai",
+      "text_preview": "With Sanctions Looming, Trump\u2019s Envoy to Russia Meets With Putin The envoy, Steve Witkoff, was making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear prog...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-06T12:09:21.582Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386847",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6np4und2b",
+      "text": "Two 15-year-olds arrested in connection with DOGE staffer 'Big Balls' beating in DC\n#Trump",
+      "text_cleaned": "Two 15-year-olds arrested in connection with DOGE staffer 'Big Balls' beating in DC",
+      "text_preview": "Two 15-year-olds arrested in connection with DOGE staffer 'Big Balls' beating in DC\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T12:05:14.525Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386916",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 90,
+      "text_cleaned_length": 83,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6teancc2b",
+      "text": "\ud83e\ude77 So Sorry i,ve missed \ud83c\udde6\ud83c\uddfa #Australia - & thank Yu VERY much\u2757\ufe0f\ud83c\udde8\ud83c\udde6\n( #trump is EXHAUSTING! ) \ud83d\udd1a #ausPoli",
+      "text_cleaned": "\ud83e\ude77 So Sorry i,ve missed \ud83c\udde6\ud83c\uddfa - & thank Yu VERY much\u2757\ufe0f\ud83c\udde8\ud83c\udde6 ( is EXHAUSTING! ) \ud83d\udd1a",
+      "text_preview": "\ud83e\ude77 So Sorry i,ve missed \ud83c\udde6\ud83c\uddfa #Australia - & thank Yu VERY much\u2757\ufe0f\ud83c\udde8\ud83c\udde6\n( #trump is EXHAUSTING! ) \ud83d\udd1a #ausPoli",
+      "author": "grannycanuck.bsky.social",
+      "author_display_name": "\ud83d\udcaa\ud83c\udffc\ud83e\udece\ud83d\udef6\ud83e\uddab\ud83c\udf32\ud83d\udca8\ud83e\udea8\ud83c\udf0a",
+      "created_at": "2025-08-06T12:08:25.078Z",
+      "hashtags": "['#Australia' '#trump' '#ausPoli']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386861",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 100,
+      "text_cleaned_length": 73,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6sjwi3c2m",
+      "text": "#FYI #US #USA #trump #vance #MAGA  #ICE #fascism #stopfascism #nazis #fcknazis #hostiletakeover #democracy \n\n#boycott #protest #resist #takeaction\n\nwww.youtube.com/shorts/_Tngg...",
+      "text_cleaned": "",
+      "text_preview": "#FYI #US #USA #trump #vance #MAGA  #ICE #fascism #stopfascism #nazis #fcknazis #hostiletakeover #democracy \n\n#boycott #protest #resist #takeaction\n\nwww.youtube.com/shorts/_Tngg...",
+      "author": "ivichoc.bsky.social",
+      "author_display_name": "Ivi Choc",
+      "created_at": "2025-08-06T12:07:57.479Z",
+      "hashtags": "['#hostiletakeover' '#vance' '#trump' '#resist' '#fascism' '#protest'\n '#nazis' '#FYI' '#ICE' '#democracy' '#MAGA' '#stopfascism' '#US'\n '#takeaction' '#USA' '#boycott' '#fcknazis']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386886",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 179,
+      "text_cleaned_length": 0,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6p2ibw22h",
+      "text": "How dare you attack \"Big Balls?\" He has that nickname 'cause he's got big balls! #poetry #haiku #AmericanHaiku #Trump",
+      "text_cleaned": "How dare you attack \"Big Balls?\" He has that nickname 'cause he's got big balls!",
+      "text_preview": "How dare you attack \"Big Balls?\" He has that nickname 'cause he's got big balls! #poetry #haiku #AmericanHaiku #Trump",
+      "author": "chadpoetforhire.bsky.social",
+      "author_display_name": "Chad Parenteau",
+      "created_at": "2025-08-06T12:06:00.622Z",
+      "hashtags": "['#haiku' '#AmericanHaiku' '#Trump' '#poetry']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386908",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 117,
+      "text_cleaned_length": 80,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6smsr7c2r",
+      "text": "Trump is now taking over the Los Angeles Olympic committee.\n\nSeriously.\n#trump",
+      "text_cleaned": "Trump is now taking over the Los Angeles Olympic committee. Seriously.",
+      "text_preview": "Trump is now taking over the Los Angeles Olympic committee.\n\nSeriously.\n#trump",
+      "author": "nikolai-raven.bsky.social",
+      "author_display_name": "Nikolai Raven",
+      "created_at": "2025-08-06T12:08:00.504Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386875",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 78,
+      "text_cleaned_length": 70,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6vplir22k",
+      "text": "DESESPERADO #TRUMP NO PUEDE CON #RUSIA! OTRO TRIUNFO DE #BRICS! \ud83d\udc4d\u270d\ufe0f",
+      "text_cleaned": "DESESPERADO NO PUEDE CON ! OTRO TRIUNFO DE ! \ud83d\udc4d\u270d\ufe0f",
+      "text_preview": "DESESPERADO #TRUMP NO PUEDE CON #RUSIA! OTRO TRIUNFO DE #BRICS! \ud83d\udc4d\u270d\ufe0f",
+      "author": "maximilianlex.bsky.social",
+      "author_display_name": "MaximilianLex",
+      "created_at": "2025-08-06T12:09:44.067Z",
+      "hashtags": "['#TRUMP' '#RUSIA' '#BRICS']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386841",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 67,
+      "text_cleaned_length": 48,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6ugeft22a",
+      "text": "#fuckingfelon #fuckingpedophile #trump #nixon #electionfraud #epsteinfiles",
+      "text_cleaned": "",
+      "text_preview": "#fuckingfelon #fuckingpedophile #trump #nixon #electionfraud #epsteinfiles",
+      "author": "anniemluke.bsky.social",
+      "author_display_name": "Annie",
+      "created_at": "2025-08-06T12:09:00.850Z",
+      "hashtags": "['#trump' '#nixon' '#fuckingpedophile' '#fuckingfelon' '#epsteinfiles'\n '#electionfraud']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:10:03.386854",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:10:10.008000",
+      "text_length": 74,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6g7wiys22",
+      "text": "At dementia care homes, escapees like #Trump are referred to as \"wanderers\", or \"elopers\". \ud83d\ude35\u200d\ud83d\udcab \ud83d\ude0f It's a subconscious response to the #EpsteinGate walls closing in. #TrumpsteinFiles\n\nWandering & Sundowning in Dementia...\npracticalneurology.com/diseases-dia...\n\nca.news.yahoo.com/trump-weirde...",
+      "text_cleaned": "At dementia care homes, escapees like are referred to as \"wanderers\", or \"elopers\". \ud83d\ude35\u200d\ud83d\udcab \ud83d\ude0f It's a subconscious response to the walls closing in. Wandering & Sundowning in Dementia... practicalneurology.com/diseases-dia... ca.news.yahoo.com/trump-weirde...",
+      "text_preview": "At dementia care homes, escapees like #Trump are referred to as \"wanderers\", or \"elopers\". \ud83d\ude35\u200d\ud83d\udcab \ud83d\ude0f It's a subconscious response to the #EpsteinGate walls closing in. #TrumpsteinFiles\n\nWandering & Sundow...",
+      "author": "loeb-ottomi.bsky.social",
+      "author_display_name": "Loeb_Ottomi",
+      "created_at": "2025-08-06T12:01:04.343Z",
+      "hashtags": "['#EpsteinGate' '#TrumpsteinFiles' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:05:03.351893",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:05:10.006000",
+      "text_length": 293,
+      "text_cleaned_length": 254,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq66uhhvs23",
+      "text": "RFK Jr. pulls $500 million in funding for vaccine development\n\n#Vaccine expert: \u201cI don\u2019t think I\u2019ve seen a more dangerous decision in public health in my 50 years in the business.\u201d\n\n#RFKjr #Trump #HHS #Covid #Measles #Flu #Health\n\ntinyurl.com/e4v4fyvv",
+      "text_cleaned": "RFK Jr. pulls $500 million in funding for vaccine development expert: \u201cI don\u2019t think I\u2019ve seen a more dangerous decision in public health in my 50 years in the business.\u201d tinyurl.com/e4v4fyvv",
+      "text_preview": "RFK Jr. pulls $500 million in funding for vaccine development\n\n#Vaccine expert: \u201cI don\u2019t think I\u2019ve seen a more dangerous decision in public health in my 50 years in the business.\u201d\n\n#RFKjr #Trump #HHS...",
+      "author": "armst-ed.bsky.social",
+      "author_display_name": "Ed Armstrong",
+      "created_at": "2025-08-06T11:56:57.436Z",
+      "hashtags": "['#Flu' '#Covid' '#HHS' '#Health' '#RFKjr' '#Measles' '#Vaccine' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:05:03.351945",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:05:10.006000",
+      "text_length": 251,
+      "text_cleaned_length": 191,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq6ewfwbl2m",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #Art\n2. #bb27\n3. #oc\n4. #TRUMP\n5. #nufc\n6. #gamedev\n7. #Gaza\n8. #poetry\n9. #questpit\n10. #digitalart\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #Art\n2. #bb27\n3. #oc\n4. #TRUMP\n5. #nufc\n6. #gamedev\n7. #Gaza\n8. #poetry\n9. #questpit\n10. #digitalart\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-06T12:00:20Z",
+      "hashtags": "['#questpit' '#TRUMP' '#poetry' '#digitalart' '#Gaza' '#bb27' '#gamedev'\n '#oc' '#Art' '#nufc']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:05:03.351912",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:05:10.006000",
+      "text_length": 169,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq6eiz3uz2p",
+      "text": "BILL UPDATE:\n\nS.2846: CARE for Moms Act\n\nACTION: Read twice and referred to the Committee on Finance. (text: CR S4592-4597)\n\n#congress #economy",
+      "text_cleaned": "BILL UPDATE: S.2846: CARE for Moms Act ACTION: Read twice and referred to the Committee on Finance. (text: CR S4592-4597)",
+      "text_preview": "BILL UPDATE:\n\nS.2846: CARE for Moms Act\n\nACTION: Read twice and referred to the Committee on Finance. (text: CR S4592-4597)\n\n#congress #economy",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-06T12:00:04.497Z",
+      "hashtags": "['#congress' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:05:03.351583",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:05:10.006000",
+      "text_length": 143,
+      "text_cleaned_length": 121,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvq6l7qbms2k",
+      "text": "I so wish you had been interviewing #Trump yesterday.\n\nThat would have been must see tv.\n\n#EconSky",
+      "text_cleaned": "I so wish you had been interviewing yesterday. That would have been must see tv.",
+      "text_preview": "I so wish you had been interviewing #Trump yesterday.\n\nThat would have been must see tv.\n\n#EconSky",
+      "author": "capemaydave.bsky.social",
+      "author_display_name": "Cape May Dave - proud vermin",
+      "created_at": "2025-08-06T12:03:51.912Z",
+      "hashtags": "['#Trump' '#EconSky']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:05:03.351878",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:05:10.006000",
+      "text_length": 98,
+      "text_cleaned_length": 80,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6fch3kc2o",
+      "text": "Gang of Pedophiles. Everyday more #GOP and voters are exposed. #Trump #MAGA",
+      "text_cleaned": "Gang of Pedophiles. Everyday more and voters are exposed.",
+      "text_preview": "Gang of Pedophiles. Everyday more #GOP and voters are exposed. #Trump #MAGA",
+      "author": "stlgal.bsky.social",
+      "author_display_name": "Disillusioned Sociologist",
+      "created_at": "2025-08-06T12:00:33.423Z",
+      "hashtags": "['#MAGA' '#Trump' '#GOP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:05:03.351901",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:05:10.006000",
+      "text_length": 75,
+      "text_cleaned_length": 57,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6jq3nk227",
+      "text": "What Would really #MAGA\n#Roof\n#JUMP\n#Trump",
+      "text_cleaned": "What Would really",
+      "text_preview": "What Would really #MAGA\n#Roof\n#JUMP\n#Trump",
+      "author": "jenrednnifer.bsky.social",
+      "author_display_name": "Just Call me Jen",
+      "created_at": "2025-08-06T12:03:01.942Z",
+      "hashtags": "['#MAGA' '#JUMP' '#Trump' '#Roof']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:05:03.351885",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:05:10.006000",
+      "text_length": 42,
+      "text_cleaned_length": 17,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    }
+  ]
+}
