@@ -1,0 +1,473 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_083244",
+    "post_count": 17,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 08:25:10.007000",
+    "latest_received_at": "2025-08-06 08:30:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpsgwo3ub72",
+      "text": "the admirer of #putin , mr #witkoff has arrived in the #orc #city of #moscow to have heartily talks with his idol and then fly back home with lovely messages from #putler that he will be a nice guy in 2-3 months and #trumpery #trump will #taco as usually.\n\nSource [\u2026]",
+      "text_cleaned": "the admirer of , mr has arrived in the of to have heartily talks with his idol and then fly back home with lovely messages from that he will be a nice guy in 2-3 months and will as usually. Source [\u2026]",
+      "text_preview": "the admirer of #putin , mr #witkoff has arrived in the #orc #city of #moscow to have heartily talks with his idol and then fly back home with lovely messages from #putler that he will be a nice guy in...",
+      "author": "aho.mastodon.social.ap.brid.gy",
+      "author_display_name": "Aho",
+      "created_at": "2025-08-06T08:26:32.000Z",
+      "hashtags": "['#putler' '#trumpery' '#taco' '#trump' '#putin' '#moscow' '#city'\n '#witkoff' '#orc']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:30:03.457667",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:30:10.007000",
+      "text_length": 267,
+      "text_cleaned_length": 200,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsgtollj2q",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-06T08:26:39.975Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:30:03.457657",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:30:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpskkzaps2a",
+      "text": "\ud83d\udd25 From 2017 to Now:\n\n$BTC & $ETH surged 3,458% & 1,300%\n$XRP holds firm\n$LTC, $BCH faded\nEnter: $USDT, $BNB\n\n#Crypto #DeFi #BTC #ETH #BNB #Bitcoin #trump",
+      "text_cleaned": "\ud83d\udd25 From 2017 to Now: $BTC & $ETH surged 3,458% & 1,300% $XRP holds firm $LTC, $BCH faded Enter: $USDT, $BNB",
+      "text_preview": "\ud83d\udd25 From 2017 to Now:\n\n$BTC & $ETH surged 3,458% & 1,300%\n$XRP holds firm\n$LTC, $BCH faded\nEnter: $USDT, $BNB\n\n#Crypto #DeFi #BTC #ETH #BNB #Bitcoin #trump",
+      "author": "coinpedianews.bsky.social",
+      "author_display_name": "Coinpedia Fintech News",
+      "created_at": "2025-08-06T08:28:45.271Z",
+      "hashtags": "['#DeFi' '#BNB' '#Bitcoin' '#BTC' '#trump' '#ETH' '#Crypto']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:30:03.457641",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:30:10.007000",
+      "text_length": 153,
+      "text_cleaned_length": 106,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsgqqlh42n",
+      "text": "\n#Krieg   #Moskau   #Russland   #Sanktionen   #Steve Witkoff   #Trump   #Trump-Gesandter   #Ukraine   #Ukraine-Krieg",
+      "text_cleaned": "Witkoff -Gesandter -Krieg",
+      "text_preview": "\n#Krieg   #Moskau   #Russland   #Sanktionen   #Steve Witkoff   #Trump   #Trump-Gesandter   #Ukraine   #Ukraine-Krieg",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T08:26:57.634570+00:00",
+      "hashtags": "['#Krieg' '#Sanktionen' '#Trump' '#Moskau' '#Ukraine' '#Russland' '#Steve']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:30:03.457650",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:30:10.007000",
+      "text_length": 116,
+      "text_cleaned_length": 25,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsezfsm22v",
+      "text": "#china made... ##MAGA stuff #Trump\n\nyoutube.com/shorts/gjh-C...",
+      "text_cleaned": "made... # stuff youtube.com/shorts/gjh-C...",
+      "text_preview": "#china made... ##MAGA stuff #Trump\n\nyoutube.com/shorts/gjh-C...",
+      "author": "rod2ik.bsky.social",
+      "author_display_name": "Rod2ik \ud83c\uddea\ud83c\uddfa \ud83c\udde8\ud83c\uddf5 \ud83c\uddea\ud83c\uddf8 \ud83c\uddfa\ud83c\udde6 \ud83c\udde8\ud83c\udde6 \ud83c\udde9\ud83c\uddf0 \ud83c\uddec\ud83c\uddf1 \u262e\ud83d\udd4a\ufe0f",
+      "created_at": "2025-08-06T08:25:39.049Z",
+      "hashtags": "['#MAGA' '#Trump' '#china']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:30:03.457690",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:30:10.007000",
+      "text_length": 63,
+      "text_cleaned_length": 43,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvpseuba2e2h",
+      "text": "\n#JD Vance   #Marco Rubio   #Trump   #Vance   #Wahl",
+      "text_cleaned": "Vance Rubio",
+      "text_preview": "\n#JD Vance   #Marco Rubio   #Trump   #Vance   #Wahl",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T08:25:54.222118+00:00",
+      "hashtags": "['#JD' '#Wahl' '#Vance' '#Trump' '#Marco']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:30:03.457674",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:30:10.007000",
+      "text_length": 51,
+      "text_cleaned_length": 11,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsffj45s2g",
+      "text": "He is trying to bankrupt our country! \ud83d\ude2c\n\n#Trump",
+      "text_cleaned": "He is trying to bankrupt our country! \ud83d\ude2c",
+      "text_preview": "He is trying to bankrupt our country! \ud83d\ude2c\n\n#Trump",
+      "author": "thomaspercy1.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T08:25:51.739Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:30:03.457680",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:30:10.007000",
+      "text_length": 47,
+      "text_cleaned_length": 39,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpscrj4js2b",
+      "text": "Always seen together with rapists.\n\n#Trump #rapist",
+      "text_cleaned": "Always seen together with rapists.",
+      "text_preview": "Always seen together with rapists.\n\n#Trump #rapist",
+      "author": "donloewi.bsky.social",
+      "author_display_name": "DonLoewi",
+      "created_at": "2025-08-06T08:24:23.606Z",
+      "hashtags": "['#rapist' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:30:03.457696",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:30:10.007000",
+      "text_length": 50,
+      "text_cleaned_length": 34,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvps7roknk2s",
+      "text": "Wenn Donald #Trump #Einfuhrz\u00f6lle verh\u00e4ngt, werden importierte #Medikamente in den USA teurer.\n\nWas Trump nicht will; er will die Preise dr\u00fccken.\n\nDarum keine Zugest\u00e4ndnisse machen, verst\u00e4rkten Absatz in anderen M\u00e4rkten versuchen, auf bessere Zeiten hoffen, soziale Folgen abfedern.",
+      "text_cleaned": "Wenn Donald verh\u00e4ngt, werden importierte in den USA teurer. Was Trump nicht will; er will die Preise dr\u00fccken. Darum keine Zugest\u00e4ndnisse machen, verst\u00e4rkten Absatz in anderen M\u00e4rkten versuchen, auf bessere Zeiten hoffen, soziale Folgen abfedern.",
+      "text_preview": "Wenn Donald #Trump #Einfuhrz\u00f6lle verh\u00e4ngt, werden importierte #Medikamente in den USA teurer.\n\nWas Trump nicht will; er will die Preise dr\u00fccken.\n\nDarum keine Zugest\u00e4ndnisse machen, verst\u00e4rkten Absatz ...",
+      "author": "hansjoachimlang.bsky.social",
+      "author_display_name": "Hans-Joachim Lang",
+      "created_at": "2025-08-06T08:22:43.174Z",
+      "hashtags": "['#Medikamente' '#Einfuhrz\u00f6lle' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:25:03.508573",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:25:10.007000",
+      "text_length": 281,
+      "text_cleaned_length": 245,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvps4jhlzt2l",
+      "text": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/PqWSA4RD",
+      "text_cleaned": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... .ai",
+      "text_preview": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progre...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-06T08:20:53.584Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:25:03.508597",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:25:10.007000",
+      "text_length": 273,
+      "text_cleaned_length": 230,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvps65huqm2s",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-06T08:21:48.118Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:25:03.508589",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:25:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsccqsbk2a",
+      "text": "\ud83d\udd25 #ETH continues to dominate TVL at $294.6B\n\n#TRX: $82.7B\n$SOL: $23.4B\n$BASE & $ARB both cross $10B\n$BNB: $8.1B\n\n#Crypto #Blockchain #CryptoNews #trump #bitcoin",
+      "text_cleaned": "\ud83d\udd25 continues to dominate TVL at $294.6B : $82.7B $SOL: $23.4B $BASE & $ARB both cross $10B $BNB: $8.1B",
+      "text_preview": "\ud83d\udd25 #ETH continues to dominate TVL at $294.6B\n\n#TRX: $82.7B\n$SOL: $23.4B\n$BASE & $ARB both cross $10B\n$BNB: $8.1B\n\n#Crypto #Blockchain #CryptoNews #trump #bitcoin",
+      "author": "coinpedianews.bsky.social",
+      "author_display_name": "Coinpedia Fintech News",
+      "created_at": "2025-08-06T08:24:08.170Z",
+      "hashtags": "['#bitcoin' '#TRX' '#Crypto' '#CryptoNews' '#trump' '#ETH' '#Blockchain']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:25:03.508544",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:25:10.007000",
+      "text_length": 160,
+      "text_cleaned_length": 101,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsa5iob22s",
+      "text": "President Donald Trump's special envoy, Steve Witkoff, arrived in Moscow for talks with Russian officials.\n\n#USA #Trump #Witkoff #Ukraine\ufe0f #UkraineRussiaWar #Russia",
+      "text_cleaned": "President Donald Trump's special envoy, Steve Witkoff, arrived in Moscow for talks with Russian officials. \ufe0f",
+      "text_preview": "President Donald Trump's special envoy, Steve Witkoff, arrived in Moscow for talks with Russian officials.\n\n#USA #Trump #Witkoff #Ukraine\ufe0f #UkraineRussiaWar #Russia",
+      "author": "ulfh3dnar.bsky.social",
+      "author_display_name": "Ulfh3dnar",
+      "created_at": "2025-08-06T08:22:55.565Z",
+      "hashtags": "['#USA' '#Trump' '#Russia' '#Ukraine' '#UkraineRussiaWar' '#Witkoff']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:25:03.508562",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:25:10.007000",
+      "text_length": 164,
+      "text_cleaned_length": 108,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvps3lgsrs27",
+      "text": "Felonious Trump aka the Apricot Asshole doesn't pass the Epstein case smell test. #Trump #Epsteincase #GhislaineMaxwell",
+      "text_cleaned": "Felonious Trump aka the Apricot Asshole doesn't pass the Epstein case smell test.",
+      "text_preview": "Felonious Trump aka the Apricot Asshole doesn't pass the Epstein case smell test. #Trump #Epsteincase #GhislaineMaxwell",
+      "author": "moranstephen1000.bsky.social",
+      "author_display_name": "Stephen Moran",
+      "created_at": "2025-08-06T08:20:22.411Z",
+      "hashtags": "['#Epsteincase' '#GhislaineMaxwell' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:25:03.508608",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:25:10.007000",
+      "text_length": 119,
+      "text_cleaned_length": 81,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvps656rps2o",
+      "text": "-\n#Trump  #USA  U.S.A.  #MAGA  ... the actual status :\nIch wusste nicht, dass es so schlimm ist.",
+      "text_cleaned": "- U.S.A. ... the actual status : Ich wusste nicht, dass es so schlimm ist.",
+      "text_preview": "-\n#Trump  #USA  U.S.A.  #MAGA  ... the actual status :\nIch wusste nicht, dass es so schlimm ist.",
+      "author": "rungholt.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T08:21:48.132Z",
+      "hashtags": "['#USA' '#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:25:03.508581",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:25:10.007000",
+      "text_length": 96,
+      "text_cleaned_length": 74,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvpscnrs6c25",
+      "text": "Oooh, #Trump 's golfing buddy has arrived in Moscow; #Putin must be soooo worried! \n\ud83d\ude44",
+      "text_cleaned": "Oooh, 's golfing buddy has arrived in Moscow; must be soooo worried! \ud83d\ude44",
+      "text_preview": "Oooh, #Trump 's golfing buddy has arrived in Moscow; #Putin must be soooo worried! \n\ud83d\ude44",
+      "author": "quokkafella.nafofellas.com",
+      "author_display_name": "",
+      "created_at": "2025-08-06T08:24:19.750Z",
+      "hashtags": "['#Putin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:25:03.508533",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:25:10.007000",
+      "text_length": 85,
+      "text_cleaned_length": 70,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvps7qomix2p",
+      "text": "\n#Atomwaffen   #Regierung   #Trump   #Trump-Regierung",
+      "text_cleaned": "-Regierung",
+      "text_preview": "\n#Atomwaffen   #Regierung   #Trump   #Trump-Regierung",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T08:23:02.690673+00:00",
+      "hashtags": "['#Atomwaffen' '#Regierung' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:25:03.508553",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:25:10.007000",
+      "text_length": 53,
+      "text_cleaned_length": 10,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
