@@ -1,0 +1,527 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_085250",
+    "post_count": 19,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 08:45:10.008000",
+    "latest_received_at": "2025-08-06 08:50:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvptijxivmy2",
+      "text": "Texas Democrat Reacts as Abbott Asks State Supreme Court to Remove Him: 'Insanity' - Newsweek\n\nhttps://www.newsweek.com/texas-democrat-reacts-greg-abbott-redistricting-lawsuit-2109428\n\nNot insanity, a planned and plotted criminal offense...\n\n#texas #uspol #trump #crime",
+      "text_cleaned": "Texas Democrat Reacts as Abbott Asks State Supreme Court to Remove Him: 'Insanity' - Newsweek Not insanity, a planned and plotted criminal offense...",
+      "text_preview": "Texas Democrat Reacts as Abbott Asks State Supreme Court to Remove Him: 'Insanity' - Newsweek\n\nhttps://www.newsweek.com/texas-democrat-reacts-greg-abbott-redistricting-lawsuit-2109428\n\nNot insanity, a...",
+      "author": "xs4me2.mastodon.social.ap.brid.gy",
+      "author_display_name": "xs4me2",
+      "created_at": "2025-08-06T08:45:28.000Z",
+      "hashtags": "['#trump' '#crime' '#texas' '#uspol']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:50:03.623032",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:50:10.007000",
+      "text_length": 269,
+      "text_cleaned_length": 149,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvptqcwphj27",
+      "text": "\ud83d\udcc2 Epstein. Trump. Immunity deals.\nCongress wants the files unsealed.\nMaxwell testified. Melania\u2019s name is back.\nWill the DOJ comply\u2014or cover up?\n#Democracy #EpsteinFiles #Accountability #Trump #News #Resist #Bluecrew",
+      "text_cleaned": "\ud83d\udcc2 Epstein. Trump. Immunity deals. Congress wants the files unsealed. Maxwell testified. Melania\u2019s name is back. Will the DOJ comply\u2014or cover up?",
+      "text_preview": "\ud83d\udcc2 Epstein. Trump. Immunity deals.\nCongress wants the files unsealed.\nMaxwell testified. Melania\u2019s name is back.\nWill the DOJ comply\u2014or cover up?\n#Democracy #EpsteinFiles #Accountability #Trump #News #...",
+      "author": "citizenofeurope.com",
+      "author_display_name": "Citizen \ud83d\udc99 Of \ud83d\udc99 Europe Official",
+      "created_at": "2025-08-06T08:49:50Z",
+      "hashtags": "['#EpsteinFiles' '#Bluecrew' '#Trump' '#Accountability' '#Democracy'\n '#Resist' '#News']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:50:03.622989",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:50:10.007000",
+      "text_length": 216,
+      "text_cleaned_length": 144,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvptka5f2k2h",
+      "text": "Diddler on the Roof. (caution. may be satire, perhaps, allegedly)\n\nIn other news, @briantylercohen.bsky.social comments as Trump EMBARRASSES himself.\n\n#usa #uspoli #Trump #Epstein #EpsteinFiles #Texas\n\nyoutu.be/fJGVAyUb61o/",
+      "text_cleaned": "Diddler on the Roof. (caution. may be satire, perhaps, allegedly) In other news, .bsky.social comments as Trump EMBARRASSES himself. youtu.be/fJGVAyUb61o/",
+      "text_preview": "Diddler on the Roof. (caution. may be satire, perhaps, allegedly)\n\nIn other news, @briantylercohen.bsky.social comments as Trump EMBARRASSES himself.\n\n#usa #uspoli #Trump #Epstein #EpsteinFiles #Texas...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-06T08:46:27.625Z",
+      "hashtags": "['#EpsteinFiles' '#uspoli' '#Trump' '#usa' '#Epstein' '#Texas']",
+      "mentions": "['@briantylercohen.bsky.social']",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:50:03.623015",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:50:10.007000",
+      "text_length": 223,
+      "text_cleaned_length": 154,
+      "hashtag_count": 6,
+      "mention_count": 1,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvpthtcwbd2p",
+      "text": "BILL UPDATE:\n\nH.5896: United Negro College Fund, Inc. Congressional Gold Medal Act\n\nACTION: Referred to the House Committee on Financial Services.\n\n#congress #economy #education",
+      "text_cleaned": "BILL UPDATE: H.5896: United Negro College Fund, Inc. Congressional Gold Medal Act ACTION: Referred to the House Committee on Financial Services.",
+      "text_preview": "BILL UPDATE:\n\nH.5896: United Negro College Fund, Inc. Congressional Gold Medal Act\n\nACTION: Referred to the House Committee on Financial Services.\n\n#congress #economy #education",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-06T08:45:05.997Z",
+      "hashtags": "['#education' '#congress' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:50:03.622632",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:50:10.007000",
+      "text_length": 177,
+      "text_cleaned_length": 144,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvpthkwgd32c",
+      "text": "\ud83d\ude80 Trending Now on BlueSky (Last 15 minutes):\n\n#BB27 #photography #nsfw #nowplaying #art #Trump #pussy #porn #news #horny #Gay #AI #\uc139\ube14 #BookSky #cum \n\nTrends refresh every 15 minutes.",
+      "text_cleaned": "\ud83d\ude80 Trending Now on BlueSky (Last 15 minutes): Trends refresh every 15 minutes.",
+      "text_preview": "\ud83d\ude80 Trending Now on BlueSky (Last 15 minutes):\n\n#BB27 #photography #nsfw #nowplaying #art #Trump #pussy #porn #news #horny #Gay #AI #\uc139\ube14 #BookSky #cum \n\nTrends refresh every 15 minutes.",
+      "author": "trendtags.bsky.social",
+      "author_display_name": "Trending Tags (Beta)",
+      "created_at": "2025-08-06T08:44:58.030070Z",
+      "hashtags": "['#porn' '#\uc139\ube14' '#Gay' '#BB27' '#Trump' '#news' '#AI' '#nsfw' '#nowplaying'\n '#art' '#horny' '#BookSky' '#photography' '#cum' '#pussy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:50:03.623044",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:50:10.007000",
+      "text_length": 182,
+      "text_cleaned_length": 77,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvptkaywvc2p",
+      "text": "#TulskiGabbard is the only woman in the #Trump orbit without the \"MAGA-Lardo look\" - That's because she's not Trump's bitch. Tulski belongs to #Putin.",
+      "text_cleaned": "is the only woman in the orbit without the \"MAGA-Lardo look\" - That's because she's not Trump's bitch. Tulski belongs to .",
+      "text_preview": "#TulskiGabbard is the only woman in the #Trump orbit without the \"MAGA-Lardo look\" - That's because she's not Trump's bitch. Tulski belongs to #Putin.",
+      "author": "onionwars.bsky.social",
+      "author_display_name": "RealOnionWars",
+      "created_at": "2025-08-06T08:46:28.524Z",
+      "hashtags": "['#TulskiGabbard' '#Trump' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:50:03.623005",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:50:10.007000",
+      "text_length": 150,
+      "text_cleaned_length": 122,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvptkecfvc2p",
+      "text": "Yes\n#epstein #moon #trump #hiding",
+      "text_cleaned": "Yes",
+      "text_preview": "Yes\n#epstein #moon #trump #hiding",
+      "author": "illuminati-ganga.bsky.social",
+      "author_display_name": "ILLUMINATI GANGA",
+      "created_at": "2025-08-06T08:46:31.976Z",
+      "hashtags": "['#epstein' '#trump' '#hiding' '#moon']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:50:03.622996",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:50:10.007000",
+      "text_length": 33,
+      "text_cleaned_length": 3,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpti3ddxo24",
+      "text": "\n#Kremlin   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War",
+      "text_cleaned": "Witkoff War",
+      "text_preview": "\n#Kremlin   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T08:45:36.018083+00:00",
+      "hashtags": "['#Kremlin' '#Ukraine' '#Trump' '#Steve']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:50:03.623022",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:50:10.007000",
+      "text_length": 61,
+      "text_cleaned_length": 11,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpthaezic2z",
+      "text": "Oooooooooh\n#Trump #TheList\n#TrumpRussianAsset\n#HeIsOnTheList",
+      "text_cleaned": "Oooooooooh",
+      "text_preview": "Oooooooooh\n#Trump #TheList\n#TrumpRussianAsset\n#HeIsOnTheList",
+      "author": "markvzmaximvz.bsky.social",
+      "author_display_name": "Markvz",
+      "created_at": "2025-08-06T08:44:47.213Z",
+      "hashtags": "['#TrumpRussianAsset' '#TheList' '#Trump' '#HeIsOnTheList']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:50:03.623053",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:50:10.007000",
+      "text_length": 60,
+      "text_cleaned_length": 10,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvptak7kws23",
+      "text": "1. #NytOmTrump #Trump har fundet sig en til at f\u00e5 opm\u00e6rksomhed. \n\nTold. Der var ingen aftale om $600 Mia mlm #eudk, s\u00e5 nu truer han igen med ulovlige toldsatser. (Det er kun Kongressen, der kan indf\u00f8re. Det g\u00e5r helt tilbage til revolutionen mod Kong George 3.) \nyoutu.be/QTPGNq9Zte0?...",
+      "text_cleaned": "1. har fundet sig en til at f\u00e5 opm\u00e6rksomhed. Told. Der var ingen aftale om $600 Mia mlm , s\u00e5 nu truer han igen med ulovlige toldsatser. (Det er kun Kongressen, der kan indf\u00f8re. Det g\u00e5r helt tilbage til revolutionen mod Kong George 3.) youtu.be/QTPGNq9Zte0?...",
+      "text_preview": "1. #NytOmTrump #Trump har fundet sig en til at f\u00e5 opm\u00e6rksomhed. \n\nTold. Der var ingen aftale om $600 Mia mlm #eudk, s\u00e5 nu truer han igen med ulovlige toldsatser. (Det er kun Kongressen, der kan indf\u00f8r...",
+      "author": "flemmingleer.bsky.social",
+      "author_display_name": "Flemming Leer Jakobsen \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-06T08:41:02.638Z",
+      "hashtags": "['#Trump' '#NytOmTrump' '#eudk']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915533",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 286,
+      "text_cleaned_length": 259,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvptffpqak23",
+      "text": "De vraag is wel of er binnenkort nog wel voldoende onafhankelijke polls zullen zijn die deze impopulariteit van #Trump durven/kunnen publiceren.\nEn momenteel is de #MAGA #GOP keihard bezig om er zeker van te zijn dat de uitslag van de #2026Midterms & #2028Elections bij voorbaat vaststaat.",
+      "text_cleaned": "De vraag is wel of er binnenkort nog wel voldoende onafhankelijke polls zullen zijn die deze impopulariteit van durven/kunnen publiceren. En momenteel is de keihard bezig om er zeker van te zijn dat de uitslag van de & bij voorbaat vaststaat.",
+      "text_preview": "De vraag is wel of er binnenkort nog wel voldoende onafhankelijke polls zullen zijn die deze impopulariteit van #Trump durven/kunnen publiceren.\nEn momenteel is de #MAGA #GOP keihard bezig om er zeker...",
+      "author": "dr-john-von-pi.bsky.social",
+      "author_display_name": "Jan Pi",
+      "created_at": "2025-08-06T08:43:45.699Z",
+      "hashtags": "['#MAGA' '#Trump' '#2026Midterms' '#2028Elections' '#GOP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915435",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 289,
+      "text_cleaned_length": 242,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvptbepu7u2x",
+      "text": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/PqWSA4RD",
+      "text_cleaned": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... .ai",
+      "text_preview": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progre...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-06T08:41:30.120Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915526",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 273,
+      "text_cleaned_length": 230,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvptc2e5rc2f",
+      "text": "as they should be. is trump going to be subpoened? SCOTUS has ruled in the past that the president can be subpoened to the house oversight committee? \n\nor is this just another attempt to deflect from #trump? #epstein \n\nwww.abc.net.au/news/2025-08...",
+      "text_cleaned": "as they should be. is trump going to be subpoened? SCOTUS has ruled in the past that the president can be subpoened to the house oversight committee? or is this just another attempt to deflect from ?",
+      "text_preview": "as they should be. is trump going to be subpoened? SCOTUS has ruled in the past that the president can be subpoened to the house oversight committee? \n\nor is this just another attempt to deflect from ...",
+      "author": "lm-entertainment.com",
+      "author_display_name": "LM-Entertainment Australia \ud83c\udde6\ud83c\uddfa\ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-06T08:41:53.121Z",
+      "hashtags": "['#trump' '#epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915519",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 249,
+      "text_cleaned_length": 199,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvptcfpthk24",
+      "text": "16-min analysis\n\nFacts of #Trump long-time cooperation w #Russia, including 2016 campaign and 2017 coverup\n\nUsing Gov't as personal weapon to bury evidence w hoax of \" #Obama - #Clinton Plot\"\n\nTrying to divert from #EpsteinFiles\n\n#TrumpRussia",
+      "text_cleaned": "16-min analysis Facts of long-time cooperation w , including 2016 campaign and 2017 coverup Using Gov't as personal weapon to bury evidence w hoax of \" - Plot\" Trying to divert from",
+      "text_preview": "16-min analysis\n\nFacts of #Trump long-time cooperation w #Russia, including 2016 campaign and 2017 coverup\n\nUsing Gov't as personal weapon to bury evidence w hoax of \" #Obama - #Clinton Plot\"\n\nTrying ...",
+      "author": "scottlucas.bsky.social",
+      "author_display_name": "Scott Lucas",
+      "created_at": "2025-08-06T08:42:05.038Z",
+      "hashtags": "['#Obama' '#EpsteinFiles' '#TrumpRussia' '#Trump' '#Clinton' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915513",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 242,
+      "text_cleaned_length": 181,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpt7xeg2e2o",
+      "text": "Prima di aiutare a gestire Truth Social, Chris Pavlovski possedeva domini porno. Ora \u00e8 alleato con un movimento politico che vuole vietare la pornografia. #chris-pavlovski #trump #truth-social",
+      "text_cleaned": "Prima di aiutare a gestire Truth Social, Chris Pavlovski possedeva domini porno. Ora \u00e8 alleato con un movimento politico che vuole vietare la pornografia. -pavlovski -social",
+      "text_preview": "Prima di aiutare a gestire Truth Social, Chris Pavlovski possedeva domini porno. Ora \u00e8 alleato con un movimento politico che vuole vietare la pornografia. #chris-pavlovski #trump #truth-social",
+      "author": "forbes.it",
+      "author_display_name": "Forbes Italia",
+      "created_at": "2025-08-06T08:40:42+00:00",
+      "hashtags": "['#trump' '#truth' '#chris']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915547",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 192,
+      "text_cleaned_length": 173,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvptdxla722k",
+      "text": "#Trump loudmouth, the chatterbox will tuck his tail between his legs like always.\n\n#Trump Gro\u00dfmaul, der Schw\u00e4tzer wird seinen Schwanz wie immer wieder einziehen.\n\nwww.n-tv.de/25947725",
+      "text_cleaned": "loudmouth, the chatterbox will tuck his tail between his legs like always. Gro\u00dfmaul, der Schw\u00e4tzer wird seinen Schwanz wie immer wieder einziehen.",
+      "text_preview": "#Trump loudmouth, the chatterbox will tuck his tail between his legs like always.\n\n#Trump Gro\u00dfmaul, der Schw\u00e4tzer wird seinen Schwanz wie immer wieder einziehen.\n\nwww.n-tv.de/25947725",
+      "author": "tenplus2006.bsky.social",
+      "author_display_name": "Bergli",
+      "created_at": "2025-08-06T08:42:57.317Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915442",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 183,
+      "text_cleaned_length": 146,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvptbsqw2a2v",
+      "text": "\n#Kremlin   #Moscow   #Russia   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War   #war",
+      "text_cleaned": "Witkoff War",
+      "text_preview": "\n#Kremlin   #Moscow   #Russia   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T08:42:05.724953+00:00",
+      "hashtags": "['#Kremlin' '#Moscow' '#Trump' '#war' '#Steve' '#Ukraine' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915459",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 88,
+      "text_cleaned_length": 11,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpt7py7us2o",
+      "text": "\n#ceasefire   #Moscow   #Russia   #Sanctions   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#ceasefire   #Moscow   #Russia   #Sanctions   #Trump   #Ukraine",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T08:40:55.717598+00:00",
+      "hashtags": "['#ceasefire' '#Moscow' '#Trump' '#Sanctions' '#Ukraine' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915541",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 64,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvptckorfk23",
+      "text": "{ #Epstein, #Pedophilia, #Trump }",
+      "text_cleaned": "{ , , }",
+      "text_preview": "{ #Epstein, #Pedophilia, #Trump }",
+      "author": "alangnixon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T08:42:10.246Z",
+      "hashtags": "['#Trump' '#Epstein' '#Pedophilia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:45:02.915448",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:45:10.008000",
+      "text_length": 33,
+      "text_cleaned_length": 7,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
