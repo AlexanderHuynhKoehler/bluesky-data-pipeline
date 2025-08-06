@@ -1,0 +1,959 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_125420",
+    "post_count": 35,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 12:45:10.007000",
+    "latest_received_at": "2025-08-06 12:50:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvqb44qbkh2d",
+      "text": "What to know about Putin meeting Trump's envoy\r\n\r\nUS Special envoy Steve Witkoff met with Russian President Vladimir Putin just days before the White House's deadline for Russia to reach a peace deal with Ukraine or potentially face economic penalties. Here's what to know. #trump #putin #usa #russia",
+      "text_cleaned": "What to know about Putin meeting Trump's envoy US Special envoy Steve Witkoff met with Russian President Vladimir Putin just days before the White House's deadline for Russia to reach a peace deal with Ukraine or potentially face economic penalties. Here's what to know.",
+      "text_preview": "What to know about Putin meeting Trump's envoy\r\n\r\nUS Special envoy Steve Witkoff met with Russian President Vladimir Putin just days before the White House's deadline for Russia to reach a peace deal ...",
+      "author": "confettimother.is.democrat",
+      "author_display_name": "\ud83c\udde8 \ud83c\udded \ud83c\uddea \ud83c\uddf7 \ud83c\uddfe \ud83c\uddf1 \ud83c\uddfa\ud83c\uddf8 \ud83c\udde8\ud83c\udde6 \ud83c\uddfa\ud83c\udde6 \ud83e\ude75 \ud83d\udc99 \ud83c\udf0a",
+      "created_at": "2025-08-06T12:49:06.327Z",
+      "hashtags": "['#putin' '#usa' '#trump' '#russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082068",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 270,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqav4lc7k2m",
+      "text": "\"Ghislaine Maxwell told Justice Department she never saw Trump do anything concerning with Epstein, report says\".\n\nFrom a convicted sex offender that didn't see anything \n\u203c\ufe0fconcerning\u203c\ufe0fabout luring girls into Epstein's den and participating in the sexual abuse of victims. #Epstein #Maxwell #trump",
+      "text_cleaned": "\"Ghislaine Maxwell told Justice Department she never saw Trump do anything concerning with Epstein, report says\". From a convicted sex offender that didn't see anything \u203c\ufe0fconcerning\u203c\ufe0fabout luring girls into Epstein's den and participating in the sexual abuse of victims.",
+      "text_preview": "\"Ghislaine Maxwell told Justice Department she never saw Trump do anything concerning with Epstein, report says\".\n\nFrom a convicted sex offender that didn't see anything \n\u203c\ufe0fconcerning\u203c\ufe0fabout luring gi...",
+      "author": "robinleefield.com",
+      "author_display_name": "Robin Lee Field",
+      "created_at": "2025-08-06T12:45:11.630Z",
+      "hashtags": "['#Maxwell' '#Epstein' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082192",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 270,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqavlukvl2j",
+      "text": "This is how dumb Trump & MAGA are, they are getting behind American Eagle jeans just because it has the word American in the name, not knowing that they are made in China, you can't make this level of stupity up\n\n#AmericanEagle #jeans #clothes #SydneySweeney #Trump #MAGA #Tariffs",
+      "text_cleaned": "This is how dumb Trump & MAGA are, they are getting behind American Eagle jeans just because it has the word American in the name, not knowing that they are made in China, you can't make this level of stupity up",
+      "text_preview": "This is how dumb Trump & MAGA are, they are getting behind American Eagle jeans just because it has the word American in the name, not knowing that they are made in China, you can't make this level of...",
+      "author": "thealexperspective.bsky.social",
+      "author_display_name": "The Alex Perspective",
+      "created_at": "2025-08-06T12:45:27.435Z",
+      "hashtags": "['#Trump' '#SydneySweeney' '#clothes' '#MAGA' '#Tariffs' '#jeans'\n '#AmericanEagle']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082166",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 280,
+      "text_cleaned_length": 211,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqaw4ic3k27",
+      "text": "It\u2019s not a #HoAd #Trump. \u201cMr Trump wrote on Truth Social: \u201c #SydneySweeney, a registered #Republican, has the \u2018HOTTEST\u2019 ad out there. It\u2019s for #AmericanEagle, &the jeans r \u2018flying off the shelves.\u2019 Go get \u2018em Sydney!\u201d\n\napple.news/AHy0pODYtS0a...",
+      "text_cleaned": "It\u2019s not a . \u201cMr Trump wrote on Truth Social: \u201c , a registered , has the \u2018HOTTEST\u2019 ad out there. It\u2019s for , &the jeans r \u2018flying off the shelves.\u2019 Go get \u2018em Sydney!\u201d apple.news/AHy0pODYtS0a...",
+      "text_preview": "It\u2019s not a #HoAd #Trump. \u201cMr Trump wrote on Truth Social: \u201c #SydneySweeney, a registered #Republican, has the \u2018HOTTEST\u2019 ad out there. It\u2019s for #AmericanEagle, &the jeans r \u2018flying off the shelves.\u2019 Go...",
+      "author": "silverywildebeest.bsky.social",
+      "author_display_name": "Silvery Wildebeest",
+      "created_at": "2025-08-06T12:45:45.086Z",
+      "hashtags": "['#Trump' '#Republican' '#SydneySweeney' '#HoAd' '#AmericanEagle']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082140",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 245,
+      "text_cleaned_length": 193,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqavyuzmc2n",
+      "text": "\u201cHegel remarks somewhere that all great world-historic facts and personages appear, so to speak, twice. He forgot to add: the first time as tragedy, the second time as farce.\u201d\n\n#farce #history #Marx #Trump #olympics",
+      "text_cleaned": "\u201cHegel remarks somewhere that all great world-historic facts and personages appear, so to speak, twice. He forgot to add: the first time as tragedy, the second time as farce.\u201d",
+      "text_preview": "\u201cHegel remarks somewhere that all great world-historic facts and personages appear, so to speak, twice. He forgot to add: the first time as tragedy, the second time as farce.\u201d\n\n#farce #history #Marx #...",
+      "author": "meerashar.bsky.social",
+      "author_display_name": "Meera Ashar \u0964  \u0aae\u0ac0\u0ab0\u0abe\u0a82",
+      "created_at": "2025-08-06T12:45:41.308Z",
+      "hashtags": "['#history' '#Trump' '#farce' '#Marx' '#olympics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082151",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 215,
+      "text_cleaned_length": 175,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqaxfu2p3j2",
+      "text": "Das #Trump-Regime in den #USA pullt dann mal eben ein #Einreiseverbot f\u00fcr #Trans-#Sportler:innen.\n\nWas f\u00fcr bigotte Arschl\u00f6cher.\n\nhttps://www.faz.net/aktuell/sport/sportpolitik/nach-anordnung-von-donald-trump-kein-visum-fuer-transathleten-in-den-usa-110624967.html",
+      "text_cleaned": "Das -Regime in den pullt dann mal eben ein f\u00fcr -:innen. Was f\u00fcr bigotte Arschl\u00f6cher.",
+      "text_preview": "Das #Trump-Regime in den #USA pullt dann mal eben ein #Einreiseverbot f\u00fcr #Trans-#Sportler:innen.\n\nWas f\u00fcr bigotte Arschl\u00f6cher.\n\nhttps://www.faz.net/aktuell/sport/sportpolitik/nach-anordnung-von-donal...",
+      "author": "carolina.norden.social.ap.brid.gy",
+      "author_display_name": "Carolina Koehn",
+      "created_at": "2025-08-06T12:46:24.000Z",
+      "hashtags": "['#Trump' '#Einreiseverbot' '#USA' '#Sportler' '#Trans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082101",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 263,
+      "text_cleaned_length": 84,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqawenv6k27",
+      "text": "For anyone stressed about nuclear submarines and strong Russian rhetoric\u2026one should be reminded of the prophetic movie Wag the Dog and connect the dots with Epstein and his files #Trump #MAGA",
+      "text_cleaned": "For anyone stressed about nuclear submarines and strong Russian rhetoric\u2026one should be reminded of the prophetic movie Wag the Dog and connect the dots with Epstein and his files",
+      "text_preview": "For anyone stressed about nuclear submarines and strong Russian rhetoric\u2026one should be reminded of the prophetic movie Wag the Dog and connect the dots with Epstein and his files #Trump #MAGA",
+      "author": "hollowshel.bsky.social",
+      "author_display_name": "Discovery of the Endless",
+      "created_at": "2025-08-06T12:45:53.659Z",
+      "hashtags": "['#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082129",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 191,
+      "text_cleaned_length": 178,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqaypwoiei2",
+      "text": "#Kennedy #mRNA\n\nLet's face it: the #Trump administatrion favours nonscientific nonsense which actually puts lifes in severe danger:\nhttps://www.nytimes.com/2025/08/05/health/rfk-jr-vaccine-funding.html",
+      "text_cleaned": "Let's face it: the administatrion favours nonscientific nonsense which actually puts lifes in severe danger:",
+      "text_preview": "#Kennedy #mRNA\n\nLet's face it: the #Trump administatrion favours nonscientific nonsense which actually puts lifes in severe danger:\nhttps://www.nytimes.com/2025/08/05/health/rfk-jr-vaccine-funding.htm...",
+      "author": "hhttg.mastodon.online.ap.brid.gy",
+      "author_display_name": "HhttG",
+      "created_at": "2025-08-06T12:47:08.000Z",
+      "hashtags": "['#Kennedy' '#Trump' '#mRNA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082081",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 201,
+      "text_cleaned_length": 108,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqauznn5c2b",
+      "text": "the SANE world sees a \n#trump \ud83c\udfac reMake\nFIDDLER on the ROOF\u203c\ufe0f\n\ud83d\udd1a #usPoli #FiddlerOnTheRoof Pic THX to @happytoast.co.uk",
+      "text_cleaned": "the SANE world sees a \ud83c\udfac reMake FIDDLER on the ROOF\u203c\ufe0f \ud83d\udd1a Pic THX to .co.uk",
+      "text_preview": "the SANE world sees a \n#trump \ud83c\udfac reMake\nFIDDLER on the ROOF\u203c\ufe0f\n\ud83d\udd1a #usPoli #FiddlerOnTheRoof Pic THX to @happytoast.co.uk",
+      "author": "grannycanuck.bsky.social",
+      "author_display_name": "\ud83d\udcaa\ud83c\udffc\ud83e\udece\ud83d\udef6\ud83e\uddab\ud83c\udf32\ud83d\udca8\ud83e\udea8\ud83c\udf0a",
+      "created_at": "2025-08-06T12:45:08.501Z",
+      "hashtags": "['#usPoli' '#trump' '#FiddlerOnTheRoof']",
+      "mentions": "['@happytoast.co.uk']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082200",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 117,
+      "text_cleaned_length": 72,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqb4rk6ws2x",
+      "text": "Ummm...thoughts and prayers? \ud83e\udd37\n\n#Trump #MAGA #DOGE #ElonMusk #Tesla #SpaceX\n\nwww.mediaite.com/crime/police...",
+      "text_cleaned": "Ummm...thoughts and prayers? \ud83e\udd37",
+      "text_preview": "Ummm...thoughts and prayers? \ud83e\udd37\n\n#Trump #MAGA #DOGE #ElonMusk #Tesla #SpaceX\n\nwww.mediaite.com/crime/police...",
+      "author": "brittwhitmire.bsky.social",
+      "author_display_name": "Britt Whitmire",
+      "created_at": "2025-08-06T12:49:28.492Z",
+      "hashtags": "['#Trump' '#Tesla' '#DOGE' '#SpaceX' '#MAGA' '#ElonMusk']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082060",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 109,
+      "text_cleaned_length": 30,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqaxkg7ny2v",
+      "text": "\n#budget   #fires   #protests   #taxes   #threats   #Trump   #Trump administration",
+      "text_cleaned": "administration",
+      "text_preview": "\n#budget   #fires   #protests   #taxes   #threats   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T12:46:53.674687+00:00",
+      "hashtags": "['#Trump' '#threats' '#budget' '#fires' '#protests' '#taxes']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082090",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 82,
+      "text_cleaned_length": 14,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqauksqfx2m",
+      "text": "\n#killing   #peace   #Putin   #Russia   #Tariffs   #Trump   #Trump envoy   #Washington",
+      "text_cleaned": "envoy",
+      "text_preview": "\n#killing   #peace   #Putin   #Russia   #Tariffs   #Trump   #Trump envoy   #Washington",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T12:45:13.415868+00:00",
+      "hashtags": "['#Putin' '#Trump' '#Washington' '#peace' '#Russia' '#Tariffs' '#killing']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082184",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 86,
+      "text_cleaned_length": 5,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqavcdqn32j",
+      "text": "Trump's envoy Witkoff meets Putin ahead of ceasefire deadline\n#Trump",
+      "text_cleaned": "Trump's envoy Witkoff meets Putin ahead of ceasefire deadline",
+      "text_preview": "Trump's envoy Witkoff meets Putin ahead of ceasefire deadline\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T12:45:17.223Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082172",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 68,
+      "text_cleaned_length": 61,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvqb4kwora2q",
+      "text": "\n#campaign   #Justice   #Pam Bondi   #Trump",
+      "text_cleaned": "Bondi",
+      "text_preview": "\n#campaign   #Justice   #Pam Bondi   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T12:49:41.983628+00:00",
+      "hashtags": "['#campaign' '#Trump' '#Pam' '#Justice']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082052",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 43,
+      "text_cleaned_length": 5,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqazwbss22n",
+      "text": "Just Do It Donald! \n#Trump",
+      "text_cleaned": "Just Do It Donald!",
+      "text_preview": "Just Do It Donald! \n#Trump",
+      "author": "slaylikebuffy87.bsky.social",
+      "author_display_name": "Meaghan \ud83d\udc9c\ud83d\udfe7\ud83c\udf0a\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-06T12:47:52.795Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082074",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 26,
+      "text_cleaned_length": 18,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvqav357an2j",
+      "text": "\n#trade war   #Trump   #war",
+      "text_cleaned": "war",
+      "text_preview": "\n#trade war   #Trump   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T12:45:30.540068+00:00",
+      "hashtags": "['#trade' '#Trump' '#war']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:50:04.082158",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:50:10.007000",
+      "text_length": 27,
+      "text_cleaned_length": 3,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqarrskbk24",
+      "text": "Every time #Trump or his goons meet with Russians I wonder how he's selling is into tyranny today.\n\nPOTUS has virtually unlimited power to negotiate anything. Only when it's time to SIGN the treaty does congress have power to object - and he has congress on a leash.\n\nThat makes it all damnably LEGAL",
+      "text_cleaned": "Every time or his goons meet with Russians I wonder how he's selling is into tyranny today. POTUS has virtually unlimited power to negotiate anything. Only when it's time to SIGN the treaty does congress have power to object - and he has congress on a leash. That makes it all damnably LEGAL",
+      "text_preview": "Every time #Trump or his goons meet with Russians I wonder how he's selling is into tyranny today.\n\nPOTUS has virtually unlimited power to negotiate anything. Only when it's time to SIGN the treaty do...",
+      "author": "luditetechy.bsky.social",
+      "author_display_name": "BT",
+      "created_at": "2025-08-06T12:43:19.671Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647667",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 291,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqanduq3z27",
+      "text": "The #Trump administration is not just denying #climate #science, it is actively censoring it.\n\n@pallavis.bsky.social @granthamlse.bsky.social examines how this undermines scientific institutions, threatens global climate preparedness and deepens #inequalities on @lseimpactblog.bsky.social.",
+      "text_cleaned": "The administration is not just denying , it is actively censoring it. .bsky.social .bsky.social examines how this undermines scientific institutions, threatens global climate preparedness and deepens on .bsky.social.",
+      "text_preview": "The #Trump administration is not just denying #climate #science, it is actively censoring it.\n\n@pallavis.bsky.social @granthamlse.bsky.social examines how this undermines scientific institutions, thre...",
+      "author": "lseblogs.bsky.social",
+      "author_display_name": "LSE Blogs",
+      "created_at": "2025-08-06T12:40:50.570Z",
+      "hashtags": "['#Trump' '#inequalities' '#science' '#climate']",
+      "mentions": "['@lseimpactblog.bsky.social.' '@pallavis.bsky.social'\n '@granthamlse.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647720",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 290,
+      "text_cleaned_length": 216,
+      "hashtag_count": 4,
+      "mention_count": 3,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqarctl4s2d",
+      "text": "Any distortion of the truth is unacceptable. #Trump rules by lies, false promises and abuses.\nThose that just do their job and report cards consistent data collected in a scientific way have to make way for those that submit to the dictator.\n#TrumpDictator\nwww.nytimes.com/2025/08/05/o...",
+      "text_cleaned": "Any distortion of the truth is unacceptable. rules by lies, false promises and abuses. Those that just do their job and report cards consistent data collected in a scientific way have to make way for those that submit to the dictator.",
+      "text_preview": "Any distortion of the truth is unacceptable. #Trump rules by lies, false promises and abuses.\nThose that just do their job and report cards consistent data collected in a scientific way have to make w...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-06T12:43:03.975Z",
+      "hashtags": "['#Trump' '#TrumpDictator']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647676",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 288,
+      "text_cleaned_length": 234,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqasho4yk2v",
+      "text": "#Modi to visit #China, first trip since 2019\nIndian PM's visit comes at a time when #Trump has targeted the #Brics nations for buying oil from #Russia and for what Trump claims is a grouping that challenges the hegemony of the #dollar.\n#SCO #IndiaChina #ModiXi\nwww.indiatoday.in/india/story/...",
+      "text_cleaned": "to visit , first trip since 2019 Indian PM's visit comes at a time when has targeted the nations for buying oil from and for what Trump claims is a grouping that challenges the hegemony of the .",
+      "text_preview": "#Modi to visit #China, first trip since 2019\nIndian PM's visit comes at a time when #Trump has targeted the #Brics nations for buying oil from #Russia and for what Trump claims is a grouping that chal...",
+      "author": "naleenkumar.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T12:43:42.593Z",
+      "hashtags": "['#ModiXi' '#Trump' '#SCO' '#Brics' '#Modi' '#China' '#dollar'\n '#IndiaChina' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647649",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 294,
+      "text_cleaned_length": 194,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqalnqzds24",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udd25\ud83c\uddfa\ud83c\udde6 #Rusia Vs #Ucrania - D\u00eda 1259 - Aqu\u00ed dejamos nuestro #informe diario sobre la #GuerraEnUcrania\u2b07\ufe0f\n\n#Witkoff / #Putin\n#Trump / #Zelenski \n#OTAN \n#Zaporiyia / #Rostov / #Odessa\n\n\ud83d\udfe5\u00a1Comparte!\ud83d\ude4f\n\nwww.guerradeucrania.com/index.php/20...",
+      "text_cleaned": "\ud83c\uddf7\ud83c\uddfa\ud83d\udd25\ud83c\uddfa\ud83c\udde6 Vs - D\u00eda 1259 - Aqu\u00ed dejamos nuestro diario sobre la \u2b07\ufe0f / / / / \ud83d\udfe5\u00a1Comparte!\ud83d\ude4f",
+      "text_preview": "\ud83c\uddf7\ud83c\uddfa\ud83d\udd25\ud83c\uddfa\ud83c\udde6 #Rusia Vs #Ucrania - D\u00eda 1259 - Aqu\u00ed dejamos nuestro #informe diario sobre la #GuerraEnUcrania\u2b07\ufe0f\n\n#Witkoff / #Putin\n#Trump / #Zelenski \n#OTAN \n#Zaporiyia / #Rostov / #Odessa\n\n\ud83d\udfe5\u00a1Comparte!\ud83d\ude4f\n\nwww.g...",
+      "author": "rejercitos.bsky.social",
+      "author_display_name": "Revista Ej\u00e9rcitos",
+      "created_at": "2025-08-06T12:39:54.098Z",
+      "hashtags": "['#Trump' '#Witkoff' '#informe' '#Ucrania' '#Zaporiyia' '#Rusia' '#Putin'\n '#Zelenski' '#Odessa' '#Rostov' '#GuerraEnUcrania' '#OTAN']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647733",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 234,
+      "text_cleaned_length": 82,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqaqcq2bc2x",
+      "text": "While the average American worker continues to struggle to make ends meet, corporate valuations are consistently reaching all-time highs. \ud83d\ude44\ud83d\ude44\ud83d\ude44\n\n#podcast #society #economy #thecuratedculture #like #share",
+      "text_cleaned": "While the average American worker continues to struggle to make ends meet, corporate valuations are consistently reaching all-time highs. \ud83d\ude44\ud83d\ude44\ud83d\ude44",
+      "text_preview": "While the average American worker continues to struggle to make ends meet, corporate valuations are consistently reaching all-time highs. \ud83d\ude44\ud83d\ude44\ud83d\ude44\n\n#podcast #society #economy #thecuratedculture #like #shar...",
+      "author": "thecuratedculture.bsky.social",
+      "author_display_name": "The Curated Culture",
+      "created_at": "2025-08-06T12:42:30.305Z",
+      "hashtags": "['#economy' '#podcast' '#share' '#thecuratedculture' '#society' '#like']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647244",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 201,
+      "text_cleaned_length": 141,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqaphxbbk2z",
+      "text": "#Trump v2.0\nWhat's the latest?\nCheck out the link for access to our August newsletter #LetterFromAmerica\n\nCapital at risk \n\ud83d\udcf7 @charliee1972.bsky.social \nwww.linkedin.com/posts/raymon...",
+      "text_cleaned": "v2.0 What's the latest? Check out the link for access to our August newsletter Capital at risk \ud83d\udcf7 .bsky.social",
+      "text_preview": "#Trump v2.0\nWhat's the latest?\nCheck out the link for access to our August newsletter #LetterFromAmerica\n\nCapital at risk \n\ud83d\udcf7 @charliee1972.bsky.social \nwww.linkedin.com/posts/raymon...",
+      "author": "rjwaterstreet.bsky.social",
+      "author_display_name": "Raymond James Water Street",
+      "created_at": "2025-08-06T12:42:02.228Z",
+      "hashtags": "['#Trump' '#LetterFromAmerica']",
+      "mentions": "['@charliee1972.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647695",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 184,
+      "text_cleaned_length": 109,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqaubtx4k2h",
+      "text": "Ne pourrions nous pas nous tenir au cot\u00e9 des #Suisses ?\n--\nSi \u00e7a pouvait nous aider \u00e0 nous tenir debout devant #Trump.... ?\n--\nSource\u00a0: @mediapart.fr \nsearch.app/zfDL4",
+      "text_cleaned": "Ne pourrions nous pas nous tenir au cot\u00e9 des ? -- Si \u00e7a pouvait nous aider \u00e0 nous tenir debout devant .... ? -- Source : .fr search.app/zfDL4",
+      "text_preview": "Ne pourrions nous pas nous tenir au cot\u00e9 des #Suisses ?\n--\nSi \u00e7a pouvait nous aider \u00e0 nous tenir debout devant #Trump.... ?\n--\nSource\u00a0: @mediapart.fr \nsearch.app/zfDL4",
+      "author": "banalcommetout.bsky.social",
+      "author_display_name": "BanalCommeTout \u23da\ud83d\udd3b",
+      "created_at": "2025-08-06T12:44:43.600Z",
+      "hashtags": "['#Trump' '#Suisses']",
+      "mentions": "['@mediapart.fr']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647593",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 167,
+      "text_cleaned_length": 141,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqatecsdx2m",
+      "text": "Now I'm confused. A couple of posts ago in my feed I saw a quote from Sarah Huckabee Sanders saying that if #Trump says it's true, it's true.",
+      "text_cleaned": "Now I'm confused. A couple of posts ago in my feed I saw a quote from Sarah Huckabee Sanders saying that if says it's true, it's true.",
+      "text_preview": "Now I'm confused. A couple of posts ago in my feed I saw a quote from Sarah Huckabee Sanders saying that if #Trump says it's true, it's true.",
+      "author": "cbartoldwrite.bsky.social",
+      "author_display_name": "Carol Bartold",
+      "created_at": "2025-08-06T12:44:12.563Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647609",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 141,
+      "text_cleaned_length": 134,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqamv77xs23",
+      "text": "This week\u2019s Substack letter a couple of days late.\n#jobmarket #economy #grattitude #mentalhealth #stress #grit #grind\n\nopen.substack.com/pub/johncoy/...",
+      "text_cleaned": "This week\u2019s Substack letter a couple of days late. open.substack.com/pub/johncoy/...",
+      "text_preview": "This week\u2019s Substack letter a couple of days late.\n#jobmarket #economy #grattitude #mentalhealth #stress #grit #grind\n\nopen.substack.com/pub/johncoy/...",
+      "author": "johnfromsanantonio.bsky.social",
+      "author_display_name": "John Coy",
+      "created_at": "2025-08-06T12:40:35.459Z",
+      "hashtags": "['#economy' '#stress' '#jobmarket' '#grit' '#grattitude' '#grind'\n '#mentalhealth']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647268",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 152,
+      "text_cleaned_length": 84,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqasly6xk2e",
+      "text": "#trump is so obsessed with drugs coming into the US,,,What is his boarder personal doing to prevent it,,is this not their job?",
+      "text_cleaned": "is so obsessed with drugs coming into the US,,,What is his boarder personal doing to prevent it,,is this not their job?",
+      "text_preview": "#trump is so obsessed with drugs coming into the US,,,What is his boarder personal doing to prevent it,,is this not their job?",
+      "author": "lovecanada.bsky.social",
+      "author_display_name": "CANADA NOT FOR SALE ",
+      "created_at": "2025-08-06T12:43:47.117Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647638",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 126,
+      "text_cleaned_length": 119,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqanhugd222",
+      "text": "Whatever happened to spines? Remember those? Are they too expensive in 2025? Or too inconvenient? \n\n#Harvard #extortion #trump",
+      "text_cleaned": "Whatever happened to spines? Remember those? Are they too expensive in 2025? Or too inconvenient?",
+      "text_preview": "Whatever happened to spines? Remember those? Are they too expensive in 2025? Or too inconvenient? \n\n#Harvard #extortion #trump",
+      "author": "riodylan.bsky.social",
+      "author_display_name": "Rio Dylan Hernandez",
+      "created_at": "2025-08-06T12:40:55.028Z",
+      "hashtags": "['#Harvard' '#extortion' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647710",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 126,
+      "text_cleaned_length": 97,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqaqnmybs22",
+      "text": "If you were at Bezos\u2019 wedding you do not qualify as \u201cwoke\u201d\n\nAnd CBS has never been woke \n\n#gayleking #CBS #trump",
+      "text_cleaned": "If you were at Bezos\u2019 wedding you do not qualify as \u201cwoke\u201d And CBS has never been woke",
+      "text_preview": "If you were at Bezos\u2019 wedding you do not qualify as \u201cwoke\u201d\n\nAnd CBS has never been woke \n\n#gayleking #CBS #trump",
+      "author": "riodylan.bsky.social",
+      "author_display_name": "Rio Dylan Hernandez",
+      "created_at": "2025-08-06T12:42:41.739Z",
+      "hashtags": "['#gayleking' '#trump' '#CBS']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647683",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 112,
+      "text_cleaned_length": 86,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqasf7xzc2a",
+      "text": "We're off to see the wizard, the wonderful wizard of fraud...\n#Trump #EpsteinFiles \n#DontLookBehindTheCurtain",
+      "text_cleaned": "We're off to see the wizard, the wonderful wizard of fraud...",
+      "text_preview": "We're off to see the wizard, the wonderful wizard of fraud...\n#Trump #EpsteinFiles \n#DontLookBehindTheCurtain",
+      "author": "enrich12.bsky.social",
+      "author_display_name": "enrich12",
+      "created_at": "2025-08-06T12:43:40.033Z",
+      "hashtags": "['#Trump' '#DontLookBehindTheCurtain' '#EpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 3,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647659",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 109,
+      "text_cleaned_length": 61,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 6.0
+    },
+    {
+      "post_id": "3lvqanjvbjc2g",
+      "text": "Hey #Trump voters. Your leader is making child rape and sex trafficking an ok thing to do.",
+      "text_cleaned": "Hey voters. Your leader is making child rape and sex trafficking an ok thing to do.",
+      "text_preview": "Hey #Trump voters. Your leader is making child rape and sex trafficking an ok thing to do.",
+      "author": "petallu.bsky.social",
+      "author_display_name": "Petal Lu \u24cb \ud83c\udf31\ud83d\udc99\ud83c\udf0e",
+      "created_at": "2025-08-06T12:40:57.152Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647702",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 90,
+      "text_cleaned_length": 83,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqalqarwfo2",
+      "text": "\n\n#AI #ai #economy #college #labor-market #college-graduates #trending-uk\n\nOrigin | Interest | Match",
+      "text_cleaned": "-market -graduates -uk Origin | Interest | Match",
+      "text_preview": "\n\n#AI #ai #economy #college #labor-market #college-graduates #trending-uk\n\nOrigin | Interest | Match",
+      "author": "llms.activitypub.awakari.com.ap.brid.gy",
+      "author_display_name": "LLMs",
+      "created_at": "2025-08-06T11:50:30.000Z",
+      "hashtags": "['#economy' '#college' '#trending' '#ai' '#AI' '#labor']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647390",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 100,
+      "text_cleaned_length": 48,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqasatatf2w",
+      "text": "\n#Department of Justice   #Florida   #Justice   #Texas   #Trump   #Trump administration",
+      "text_cleaned": "of Justice administration",
+      "text_preview": "\n#Department of Justice   #Florida   #Justice   #Texas   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T12:43:55.843860+00:00",
+      "hashtags": "['#Trump' '#Justice' '#Florida' '#Department' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647629",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 87,
+      "text_cleaned_length": 25,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqasno57i2w",
+      "text": "\n#ceasefire   #Putin   #Russia   #Sanctions   #Trump   #Ukraine   #Vladimir Putin",
+      "text_cleaned": "Putin",
+      "text_preview": "\n#ceasefire   #Putin   #Russia   #Sanctions   #Trump   #Ukraine   #Vladimir Putin",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T12:44:09.300744+00:00",
+      "hashtags": "['#Trump' '#Sanctions' '#Ukraine' '#Putin' '#Vladimir' '#ceasefire'\n '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647618",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 81,
+      "text_cleaned_length": 5,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqat6xe7h2m",
+      "text": "\n#peace   #Putin   #Russia   #Steve Witkoff   #Trump   #Ukraine",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#peace   #Putin   #Russia   #Steve Witkoff   #Trump   #Ukraine",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T12:44:27.439808+00:00",
+      "hashtags": "['#Trump' '#peace' '#Ukraine' '#Steve' '#Putin' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:45:04.647602",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:45:10.007000",
+      "text_length": 63,
+      "text_cleaned_length": 7,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
