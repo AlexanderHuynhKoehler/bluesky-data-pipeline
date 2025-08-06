@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_111340",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 11:05:10.008000",
+    "latest_received_at": "2025-08-06 11:10:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvq3juobfs2b",
+      "text": "#TheNerdReich are not good faith actors and their #Hype should not be trusted. These are the same people who stood behind #Trump at his inauguration to line their pockets. The same who restrict/sell data and IP, but want to steal all of ours for free. Do not buy our #PlaceToStand from them, #auspol.",
+      "text_cleaned": "are not good faith actors and their should not be trusted. These are the same people who stood behind at his inauguration to line their pockets. The same who restrict/sell data and IP, but want to steal all of ours for free. Do not buy our from them, .",
+      "text_preview": "#TheNerdReich are not good faith actors and their #Hype should not be trusted. These are the same people who stood behind #Trump at his inauguration to line their pockets. The same who restrict/sell d...",
+      "author": "alangnixon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T11:09:25.532Z",
+      "hashtags": "['#TheNerdReich' '#Hype' '#auspol' '#PlaceToStand' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:10:03.219005",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:10:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 252,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq3eimwj222",
+      "text": "Trump esalta lo spot di Sydney Sweeney, la sinistra grida al razzismo. J.D. Vance interviene: \u00e8 solo una ragazza in jeans o un caso politico?\n\n#sweeney #trump #americaneagle\n\nyoutube.com/shorts/fgY7t...",
+      "text_cleaned": "Trump esalta lo spot di Sydney Sweeney, la sinistra grida al razzismo. J.D. Vance interviene: \u00e8 solo una ragazza in jeans o un caso politico? youtube.com/shorts/fgY7t...",
+      "text_preview": "Trump esalta lo spot di Sydney Sweeney, la sinistra grida al razzismo. J.D. Vance interviene: \u00e8 solo una ragazza in jeans o un caso politico?\n\n#sweeney #trump #americaneagle\n\nyoutube.com/shorts/fgY7t....",
+      "author": "bobobaldini.bsky.social",
+      "author_display_name": "Roberto Baldini",
+      "created_at": "2025-08-06T11:06:25.130Z",
+      "hashtags": "['#americaneagle' '#trump' '#sweeney']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:10:03.219030",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:10:10.008000",
+      "text_length": 202,
+      "text_cleaned_length": 169,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq3fxa4bs24",
+      "text": "#Trump \n\nSometimes, it's as if Trump literally can't remember what he said half an hour ago.\n\nBut that's apparently an act because he NEVER forgets who his paymasters are:\n\nThe fossil fuel industries.",
+      "text_cleaned": "Sometimes, it's as if Trump literally can't remember what he said half an hour ago. But that's apparently an act because he NEVER forgets who his paymasters are: The fossil fuel industries.",
+      "text_preview": "#Trump \n\nSometimes, it's as if Trump literally can't remember what he said half an hour ago.\n\nBut that's apparently an act because he NEVER forgets who his paymasters are:\n\nThe fossil fuel industries.",
+      "author": "bosherston.bsky.social",
+      "author_display_name": "Lily Ponds",
+      "created_at": "2025-08-06T11:07:13.996Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:10:03.219014",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:10:10.008000",
+      "text_length": 200,
+      "text_cleaned_length": 189,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq3daeuqc2h",
+      "text": "Amazing Video.  You want to understand WHY the MAGAat people do what they do? \n\nStupidity. \n\nBut it's not because people are dumb.  This video worth the watch. \n\n#resist #trump #maga",
+      "text_cleaned": "Amazing Video. You want to understand WHY the MAGAat people do what they do? Stupidity. But it's not because people are dumb. This video worth the watch.",
+      "text_preview": "Amazing Video.  You want to understand WHY the MAGAat people do what they do? \n\nStupidity. \n\nBut it's not because people are dumb.  This video worth the watch. \n\n#resist #trump #maga",
+      "author": "01f0ck01trump01.bsky.social",
+      "author_display_name": "Fawkes News Channel",
+      "created_at": "2025-08-06T11:05:42.925Z",
+      "hashtags": "['#resist' '#trump' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:10:03.219039",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:10:10.008000",
+      "text_length": 182,
+      "text_cleaned_length": 153,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq3cgzwoa2m",
+      "text": "Trump bedreigt EU met hogere tarieven en eist 600 miljard dollar aan investeringen #Trump #EU #tarieven #investeringen #handelsoorlog",
+      "text_cleaned": "Trump bedreigt EU met hogere tarieven en eist 600 miljard dollar aan investeringen",
+      "text_preview": "Trump bedreigt EU met hogere tarieven en eist 600 miljard dollar aan investeringen #Trump #EU #tarieven #investeringen #handelsoorlog",
+      "author": "businessam.bsky.social",
+      "author_display_name": "Business AM",
+      "created_at": "2025-08-06T11:05:15Z",
+      "hashtags": "['#EU' '#Trump' '#tarieven' '#handelsoorlog' '#investeringen']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:10:03.219047",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:10:10.008000",
+      "text_length": 133,
+      "text_cleaned_length": 82,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq3fovrt22y",
+      "text": "But he'll end the war within 24 hours.\n\n#Trump #Ukraine #Russia #Putin",
+      "text_cleaned": "But he'll end the war within 24 hours.",
+      "text_preview": "But he'll end the war within 24 hours.\n\n#Trump #Ukraine #Russia #Putin",
+      "author": "pmchoan.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T11:07:05.211Z",
+      "hashtags": "['#Ukraine' '#Trump' '#Putin' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:10:03.219021",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:10:10.008000",
+      "text_length": 70,
+      "text_cleaned_length": 38,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq3jzeov22a",
+      "text": "He\u2019ll do anything to appease #Trump www.bbc.com/news/article...",
+      "text_cleaned": "He\u2019ll do anything to appease",
+      "text_preview": "He\u2019ll do anything to appease #Trump www.bbc.com/news/article...",
+      "author": "skipdillard.bsky.social",
+      "author_display_name": "Skip Dillard",
+      "created_at": "2025-08-06T11:09:30.460Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:10:03.218996",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:10:10.008000",
+      "text_length": 63,
+      "text_cleaned_length": 28,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq36k5tk22g",
+      "text": "\u2b55\ufe0f WEDNESDAY \ud83c\udf99\ufe0f#MOATS \nJOIN ME for The Midweek Mother Of All Talk Shows #LIVE on all platforms \n\n\u25aa\ufe0fwith guests Judge Napolitano and Larry Johnson \n\n\ud83c\uddec\ud83c\udde7  7pm LONDON \n\ud83c\uddfa\ud83c\uddf8  11am PT | 2pm ET \n\n\ud83d\udccb #Gaza #Palestine #Famine #Starmer #Trump #Russia #Putin #Ukraine #Epstein #Maxwell #Zelensky #Hiroshima #Netanyahu",
+      "text_cleaned": "\u2b55\ufe0f WEDNESDAY \ud83c\udf99\ufe0f JOIN ME for The Midweek Mother Of All Talk Shows on all platforms \u25aa\ufe0fwith guests Judge Napolitano and Larry Johnson \ud83c\uddec\ud83c\udde7 7pm LONDON \ud83c\uddfa\ud83c\uddf8 11am PT | 2pm ET \ud83d\udccb",
+      "text_preview": "\u2b55\ufe0f WEDNESDAY \ud83c\udf99\ufe0f#MOATS \nJOIN ME for The Midweek Mother Of All Talk Shows #LIVE on all platforms \n\n\u25aa\ufe0fwith guests Judge Napolitano and Larry Johnson \n\n\ud83c\uddec\ud83c\udde7  7pm LONDON \n\ud83c\uddfa\ud83c\uddf8  11am PT | 2pm ET \n\n\ud83d\udccb #Gaza #Pale...",
+      "author": "moatstv.bsky.social",
+      "author_display_name": "The Mother Of All Talk Shows",
+      "created_at": "2025-08-06T11:03:05.398Z",
+      "hashtags": "['#MOATS' '#Trump' '#Starmer' '#Famine' '#Putin' '#Palestine' '#Epstein'\n '#LIVE' '#Netanyahu' '#Maxwell' '#Gaza' '#Russia' '#Hiroshima' '#Ukraine'\n '#Zelensky']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676836",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 303,
+      "text_cleaned_length": 166,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq3437yfc2i",
+      "text": "You can soften the impact.\nStop the fleet.\nApply proportional sanctions to the % of consumption of energy imports coming from #Russia (about 20 to 50%) adjusted for the percentage of Russian exports going there with credits for efforts to decrease reliance.\n#Trump #Ukraine\nbbc.com/news/article...",
+      "text_cleaned": "You can soften the impact. Stop the fleet. Apply proportional sanctions to the % of consumption of energy imports coming from (about 20 to 50%) adjusted for the percentage of Russian exports going there with credits for efforts to decrease reliance. bbc.com/news/article...",
+      "text_preview": "You can soften the impact.\nStop the fleet.\nApply proportional sanctions to the % of consumption of energy imports coming from #Russia (about 20 to 50%) adjusted for the percentage of Russian exports g...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-06T11:01:42.636Z",
+      "hashtags": "['#Russia' '#Ukraine' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676870",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 297,
+      "text_cleaned_length": 273,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq2z4a3l42e",
+      "text": "#Environnement | Alors que les effets du r\u00e9chauffement climatique sont d\u00e9j\u00e0 l\u00e0, le gouvernement #Trump fait un pas de + dans sa politique radicalement anti-\u00e9cologiste. Reconnaitre la dangerosit\u00e9 des gaz \u00e0 effet de serre est une des bases de la lutte contre le r\u00e9chauffement.\nwww.liberation.fr/en...\n",
+      "text_cleaned": "| Alors que les effets du r\u00e9chauffement climatique sont d\u00e9j\u00e0 l\u00e0, le gouvernement fait un pas de + dans sa politique radicalement anti-\u00e9cologiste. Reconnaitre la dangerosit\u00e9 des gaz \u00e0 effet de serre est une des bases de la lutte contre le r\u00e9chauffement.",
+      "text_preview": "#Environnement | Alors que les effets du r\u00e9chauffement climatique sont d\u00e9j\u00e0 l\u00e0, le gouvernement #Trump fait un pas de + dans sa politique radicalement anti-\u00e9cologiste. Reconnaitre la dangerosit\u00e9 des g...",
+      "author": "ldh.fr",
+      "author_display_name": "LDH France",
+      "created_at": "2025-08-06T11:00:01.000Z",
+      "hashtags": "['#Environnement' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 3,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676954",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 252,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lvq2zdjyfk2t",
+      "text": "The DOJ has refused to release the \"Epstein List\" as they had promised, but we can get a real insight into the names that are probably on it with the release of these letters from some very prominent people.\n#trump #maga #gop #republicans #epstein\nwww.theguardian.com/us-news/2025...",
+      "text_cleaned": "The DOJ has refused to release the \"Epstein List\" as they had promised, but we can get a real insight into the names that are probably on it with the release of these letters from some very prominent people.",
+      "text_preview": "The DOJ has refused to release the \"Epstein List\" as they had promised, but we can get a real insight into the names that are probably on it with the release of these letters from some very prominent ...",
+      "author": "lpspratt.bsky.social",
+      "author_display_name": "Lou Pratt",
+      "created_at": "2025-08-06T11:00:10.694Z",
+      "hashtags": "['#trump' '#maga' '#republicans' '#epstein' '#gop']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676946",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 283,
+      "text_cleaned_length": 207,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq2ybkvdxc2",
+      "text": "Vietnam reports strong January-July trade data, imports from US rise 22.7%\n\nhttps://vietnam-aujourdhui.info/2025/08/06/vietnam-reports-strong-january-july-trade-data-imports-from-us-rise-22-7/\n\n#VietnamNews #Economy #Trade #UnitedStatesOfAmerica #Vietnam",
+      "text_cleaned": "Vietnam reports strong January-July trade data, imports from US rise 22.7%",
+      "text_preview": "Vietnam reports strong January-July trade data, imports from US rise 22.7%\n\nhttps://vietnam-aujourdhui.info/2025/08/06/vietnam-reports-strong-january-july-trade-data-imports-from-us-rise-22-7/\n\n#Vietn...",
+      "author": "vietnam-aujourdhui.mamot.fr.ap.brid.gy",
+      "author_display_name": "Le Vi\u00eat Nam, aujourd\u2019hui.",
+      "created_at": "2025-08-06T10:59:09.000Z",
+      "hashtags": "['#Economy' '#Trade' '#VietnamNews' '#Vietnam' '#UnitedStatesOfAmerica']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676550",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 254,
+      "text_cleaned_length": 74,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq2zomc7o2u",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #bb27\n3. #oc\n4. #NUFC\n5. #tRUMP\n6. #questpit\n7. #digitalart\n8. #hiroshima\n9. #gamedev\n10. #illustration\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #bb27\n3. #oc\n4. #NUFC\n5. #tRUMP\n6. #questpit\n7. #digitalart\n8. #hiroshima\n9. #gamedev\n10. #illustration\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-06T11:00:21Z",
+      "hashtags": "['#questpit' '#tRUMP' '#art' '#oc' '#digitalart' '#hiroshima' '#gamedev'\n '#NUFC' '#illustration' '#bb27']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 4,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676881",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 180,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvq3agmvve2l",
+      "text": "Trump menace l\u2019UE d\u2019une hausse des tarifs douaniers et exige un investissement de 600 milliards de dollars #Trump #UE #tarifsdouaniers #n\u00e9gociations #investissement",
+      "text_cleaned": "Trump menace l\u2019UE d\u2019une hausse des tarifs douaniers et exige un investissement de 600 milliards de dollars",
+      "text_preview": "Trump menace l\u2019UE d\u2019une hausse des tarifs douaniers et exige un investissement de 600 milliards de dollars #Trump #UE #tarifsdouaniers #n\u00e9gociations #investissement",
+      "author": "businessam-fr.bsky.social",
+      "author_display_name": "Business AM - FR",
+      "created_at": "2025-08-06T11:04:08Z",
+      "hashtags": "['#Trump' '#UE' '#investissement' '#n\u00e9gociations' '#tarifsdouaniers']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676824",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 164,
+      "text_cleaned_length": 106,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq35xh2fv2b",
+      "text": "August 06, 2025 - DJT's Truth Social Overflow & General Discussion https://www.reddit.com/r/trumptweets/comments/1mj10ww/august_06_2025_djts_truth_social_overflow_general/\n#truthsocial #trump",
+      "text_cleaned": "August 06, 2025 - DJT's Truth Social Overflow & General Discussion",
+      "text_preview": "August 06, 2025 - DJT's Truth Social Overflow & General Discussion https://www.reddit.com/r/trumptweets/comments/1mj10ww/august_06_2025_djts_truth_social_overflow_general/\n#truthsocial #trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T11:02:44.798Z",
+      "hashtags": "['#truthsocial' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676854",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 191,
+      "text_cleaned_length": 66,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq35vbjsc22",
+      "text": "#MAGA\n\n#Trump covers his ass and moves #Maxwell to low security prison in #Texas for her silence because he is GUILTY.",
+      "text_cleaned": "covers his ass and moves to low security prison in for her silence because he is GUILTY.",
+      "text_preview": "#MAGA\n\n#Trump covers his ass and moves #Maxwell to low security prison in #Texas for her silence because he is GUILTY.",
+      "author": "electionevery.bsky.social",
+      "author_display_name": "Election_Every",
+      "created_at": "2025-08-06T11:02:43.501Z",
+      "hashtags": "['#Texas' '#Maxwell' '#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676862",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 118,
+      "text_cleaned_length": 88,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq36ee74c2w",
+      "text": "Is the Trump administration prepping for a pardon in the Epstein case #GetTheRant #Trump #Epstein #RealTalk #Politics",
+      "text_cleaned": "Is the Trump administration prepping for a pardon in the Epstein case",
+      "text_preview": "Is the Trump administration prepping for a pardon in the Epstein case #GetTheRant #Trump #Epstein #RealTalk #Politics",
+      "author": "gettherant.bsky.social",
+      "author_display_name": "Get The Rant",
+      "created_at": "2025-08-06T11:02:59.326Z",
+      "hashtags": "['#Trump' '#Epstein' '#GetTheRant' '#Politics' '#RealTalk']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676845",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 117,
+      "text_cleaned_length": 69,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq2zhsens2a",
+      "text": "#USpol #Taiwan #Intel\n#DonaldTrump #Trump",
+      "text_cleaned": "",
+      "text_preview": "#USpol #Taiwan #Intel\n#DonaldTrump #Trump",
+      "author": "politozi.bsky.social",
+      "author_display_name": "Politozi-Global",
+      "created_at": "2025-08-06T11:00:15.162Z",
+      "hashtags": "['#Trump' '#Taiwan' '#DonaldTrump' '#Intel' '#USpol']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:05:03.676933",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:05:10.008000",
+      "text_length": 41,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
