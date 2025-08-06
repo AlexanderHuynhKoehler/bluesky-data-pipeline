@@ -1,0 +1,365 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_080234",
+    "post_count": 13,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 07:55:10.007000",
+    "latest_received_at": "2025-08-06 08:00:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpqppqznc2m",
+      "text": "For Richard Nixon it was All the President's Men that was his undoing.\nFor Bill Clinton it was All the President's Women that was his undoing.\nWhen the Epstein files get released will we find that for Donald Trump it was All the President's Young Girls that will be his undoing?\n#Epstein #Trump",
+      "text_cleaned": "For Richard Nixon it was All the President's Men that was his undoing. For Bill Clinton it was All the President's Women that was his undoing. When the Epstein files get released will we find that for Donald Trump it was All the President's Young Girls that will be his undoing?",
+      "text_preview": "For Richard Nixon it was All the President's Men that was his undoing.\nFor Bill Clinton it was All the President's Women that was his undoing.\nWhen the Epstein files get released will we find that for...",
+      "author": "tuckyswans.bsky.social",
+      "author_display_name": "Greg Tuck",
+      "created_at": "2025-08-06T07:55:50.545Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:00:03.769504",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:00:10.007000",
+      "text_length": 294,
+      "text_cleaned_length": 278,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpquvkmws24",
+      "text": "#Trump is an authoriarian and meddlesome idiot that mindlessly spews out his biased opinions: that we knew.\n#Jaguar and its business strategy are none of it's business.\nHe \"bought\" a #Tesla when it suited his politics and now he is whining about Jaguar.\n#TrumpDictator\nwww.bbc.com/news/article...",
+      "text_cleaned": "is an authoriarian and meddlesome idiot that mindlessly spews out his biased opinions: that we knew. and its business strategy are none of it's business. He \"bought\" a when it suited his politics and now he is whining about Jaguar.",
+      "text_preview": "#Trump is an authoriarian and meddlesome idiot that mindlessly spews out his biased opinions: that we knew.\n#Jaguar and its business strategy are none of it's business.\nHe \"bought\" a #Tesla when it su...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-06T07:58:44.399Z",
+      "hashtags": "['#TrumpDictator' '#Trump' '#Jaguar' '#Tesla']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:00:03.769490",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:00:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 231,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqq5rj7c2b",
+      "text": "And the U.S. is winding down its mRNA vaccine activities at the same time.\n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN\n#Disease #Pandemic",
+      "text_cleaned": "And the U.S. is winding down its mRNA vaccine activities at the same time.",
+      "text_preview": "And the U.S. is winding down its mRNA vaccine activities at the same time.\n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN\n#Disease #Pandemic",
+      "author": "snagglepussdan.bsky.social",
+      "author_display_name": "Dan Smith",
+      "created_at": "2025-08-06T07:56:05.240Z",
+      "hashtags": "['#Pandemic' '#CORRUPTION' '#AUTHORITARIAN' '#tRUMP' '#LIES' '#Disease']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:00:03.769497",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:00:10.007000",
+      "text_length": 133,
+      "text_cleaned_length": 74,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqvo3bdk2b",
+      "text": "Putin controls #TACO\nGood luck Mr. #WITKOFF\nYou will need it.\n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN",
+      "text_cleaned": "Putin controls Good luck Mr. You will need it.",
+      "text_preview": "Putin controls #TACO\nGood luck Mr. #WITKOFF\nYou will need it.\n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN",
+      "author": "snagglepussdan.bsky.social",
+      "author_display_name": "Dan Smith",
+      "created_at": "2025-08-06T07:59:10.111Z",
+      "hashtags": "['#CORRUPTION' '#WITKOFF' '#AUTHORITARIAN' '#tRUMP' '#LIES' '#TACO']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:00:03.769482",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:00:10.007000",
+      "text_length": 101,
+      "text_cleaned_length": 46,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqimeqt223",
+      "text": "Because I\u2019m red and I\u2019m rich and entitled all of Texas is red so we need Byzantine district boundaries to force our neighbors to be red because we\u2019re better than they are.\n\nThe irrational cannot be defeated with reason, Jesus is a Republican and #Trump is gods chosen pedophile. \n\nNow I get it.",
+      "text_cleaned": "Because I\u2019m red and I\u2019m rich and entitled all of Texas is red so we need Byzantine district boundaries to force our neighbors to be red because we\u2019re better than they are. The irrational cannot be defeated with reason, Jesus is a Republican and is gods chosen pedophile. Now I get it.",
+      "text_preview": "Because I\u2019m red and I\u2019m rich and entitled all of Texas is red so we need Byzantine district boundaries to force our neighbors to be red because we\u2019re better than they are.\n\nThe irrational cannot be de...",
+      "author": "luditetechy.bsky.social",
+      "author_display_name": "BT",
+      "created_at": "2025-08-06T07:51:51.264Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:55:03.873909",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:55:10.007000",
+      "text_length": 294,
+      "text_cleaned_length": 284,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqlog5ck24",
+      "text": "Pure politics. #Trump and the #GOP would cheer if it were the #republicans walking out.\nThe #Democrats use their last weapon to stop abuse of power by the #Republican majority.\nGerrymandering should be a crime. It is a crime against democracy.\nWake up #Texas.\n#GreggAbbott\nwww.bbc.com/news/article...",
+      "text_cleaned": "Pure politics. and the would cheer if it were the walking out. The use their last weapon to stop abuse of power by the majority. Gerrymandering should be a crime. It is a crime against democracy. Wake up .",
+      "text_preview": "Pure politics. #Trump and the #GOP would cheer if it were the #republicans walking out.\nThe #Democrats use their last weapon to stop abuse of power by the #Republican majority.\nGerrymandering should b...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-06T07:53:34.922Z",
+      "hashtags": "['#Texas' '#Republican' '#Trump' '#GreggAbbott' '#GOP' '#Democrats'\n '#republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:55:03.873857",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:55:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 205,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqgh4or22k",
+      "text": "El presidente de Estados Unidos, Donald #Trump, ha advertido que reinstaurar\u00e1 #aranceles del 35% a las exportaciones europeas si la Uni\u00f3n Europea no cumple con el compromiso de invertir 600.000 millones de d\u00f3lares en la econom\u00eda estadounidense.",
+      "text_cleaned": "El presidente de Estados Unidos, Donald , ha advertido que reinstaurar\u00e1 del 35% a las exportaciones europeas si la Uni\u00f3n Europea no cumple con el compromiso de invertir 600.000 millones de d\u00f3lares en la econom\u00eda estadounidense.",
+      "text_preview": "El presidente de Estados Unidos, Donald #Trump, ha advertido que reinstaurar\u00e1 #aranceles del 35% a las exportaciones europeas si la Uni\u00f3n Europea no cumple con el compromiso de invertir 600.000 millon...",
+      "author": "estrelladigital.bsky.social",
+      "author_display_name": "Estrella Digital",
+      "created_at": "2025-08-06T07:50:39.501Z",
+      "hashtags": "['#aranceles' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:55:03.873930",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:55:10.007000",
+      "text_length": 244,
+      "text_cleaned_length": 227,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqivs76d2g",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-06T07:52:01.779Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:55:03.873902",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:55:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqkz7dj42j",
+      "text": "G\u00fcncel News press Trump'tan son dakika a\u00e7\u0131klama... Aliyev ile Pa\u015finyan'\u0131 Beyaz Saray'da a\u011f\u0131rlayacak! #Trump #Aliyev #Pa\u015finyan #BeyazSaray #Azerbaycan",
+      "text_cleaned": "G\u00fcncel News press Trump'tan son dakika a\u00e7\u0131klama... Aliyev ile Pa\u015finyan'\u0131 Beyaz Saray'da a\u011f\u0131rlayacak!",
+      "text_preview": "G\u00fcncel News press Trump'tan son dakika a\u00e7\u0131klama... Aliyev ile Pa\u015finyan'\u0131 Beyaz Saray'da a\u011f\u0131rlayacak! #Trump #Aliyev #Pa\u015finyan #BeyazSaray #Azerbaycan",
+      "author": "eshahaber.bsky.social",
+      "author_display_name": "ESHAHABER.COM.TR",
+      "created_at": "2025-08-06T07:53:12Z",
+      "hashtags": "['#Azerbaycan' '#Trump' '#BeyazSaray' '#Pa\u015finyan' '#Aliyev']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:55:03.873874",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:55:10.007000",
+      "text_length": 149,
+      "text_cleaned_length": 100,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqkelbkk2b",
+      "text": "#MAGA = MAKE AMERICA GRIEF-STRICKEN AGAIN.\nWe'll be I'll prepared for the next pandemic.\n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN",
+      "text_cleaned": "= MAKE AMERICA GRIEF-STRICKEN AGAIN. We'll be I'll prepared for the next pandemic.",
+      "text_preview": "#MAGA = MAKE AMERICA GRIEF-STRICKEN AGAIN.\nWe'll be I'll prepared for the next pandemic.\n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN",
+      "author": "snagglepussdan.bsky.social",
+      "author_display_name": "Dan Smith",
+      "created_at": "2025-08-06T07:52:51.050Z",
+      "hashtags": "['#LIES' '#CORRUPTION' '#AUTHORITARIAN' '#MAGA' '#tRUMP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:55:03.873883",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:55:10.007000",
+      "text_length": 128,
+      "text_cleaned_length": 82,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqioh74c2o",
+      "text": "\n#Russia   #Sanctions   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War   #war",
+      "text_cleaned": "Witkoff War",
+      "text_preview": "\n#Russia   #Sanctions   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T07:52:14.887500+00:00",
+      "hashtags": "['#Russia' '#war' '#Steve' '#Trump' '#Sanctions' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:55:03.873892",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:55:10.007000",
+      "text_length": 80,
+      "text_cleaned_length": 11,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqfu3yyk2n",
+      "text": "\n#ceasefire   #Moscow   #Trump   #Trump envoy   #Ukraine",
+      "text_cleaned": "envoy",
+      "text_preview": "\n#ceasefire   #Moscow   #Trump   #Trump envoy   #Ukraine",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T07:50:40.138615+00:00",
+      "hashtags": "['#ceasefire' '#Moscow' '#Ukraine' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:55:03.873921",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:55:10.007000",
+      "text_length": 56,
+      "text_cleaned_length": 5,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqkxpqt72v",
+      "text": "\n#Gaza   #Israel   #occupation   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Gaza   #Israel   #occupation   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T07:53:31.709035+00:00",
+      "hashtags": "['#Israel' '#Gaza' '#occupation' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:55:03.873865",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:55:10.007000",
+      "text_length": 39,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
