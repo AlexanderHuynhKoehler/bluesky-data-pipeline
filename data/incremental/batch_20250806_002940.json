@@ -1,0 +1,662 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_002940",
+    "post_count": 24,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 00:20:10.008000",
+    "latest_received_at": "2025-08-06 00:25:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvoxitjetk2v",
+      "text": "\"The Wall Street Journal reports that nearly 10 million U.S. children live in poverty, the highest total in seven years. But roughly half of all kids \u2013 35 million \u2013 live below the bottom rung of the middle class, which is considered about $75,000 for a family of four...\"\n\n#news #economy #trump",
+      "text_cleaned": "\"The Wall Street Journal reports that nearly 10 million U.S. children live in poverty, the highest total in seven years. But roughly half of all kids \u2013 35 million \u2013 live below the bottom rung of the middle class, which is considered about $75,000 for a family of four...\"",
+      "text_preview": "\"The Wall Street Journal reports that nearly 10 million U.S. children live in poverty, the highest total in seven years. But roughly half of all kids \u2013 35 million \u2013 live below the bottom rung of the m...",
+      "author": "ericonthego.bsky.social",
+      "author_display_name": "Eric J.",
+      "created_at": "2025-08-06T00:24:36.060Z",
+      "hashtags": "['#trump' '#economy' '#news']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:25:04.036600",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:25:10.007000",
+      "text_length": 294,
+      "text_cleaned_length": 271,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoxhlgusc2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:23:54.038Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:25:04.036956",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:25:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoxaod4xs2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:20:02.180Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:25:04.037007",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:25:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoxcl73pw2z",
+      "text": "Over 40 arrested in NYC as a Jewish group protests the Gaza war at Trump's hotel! They're demanding the U.S. push Israel to let more aid in. This is a powerful and growing protest. \n\n#Gaza #IfNotNow #NYC #Trump",
+      "text_cleaned": "Over 40 arrested in NYC as a Jewish group protests the Gaza war at Trump's hotel! They're demanding the U.S. push Israel to let more aid in. This is a powerful and growing protest.",
+      "text_preview": "Over 40 arrested in NYC as a Jewish group protests the Gaza war at Trump's hotel! They're demanding the U.S. push Israel to let more aid in. This is a powerful and growing protest. \n\n#Gaza #IfNotNow #...",
+      "author": "meaww.com",
+      "author_display_name": "MEAWW News",
+      "created_at": "2025-08-06T00:21:05.719Z",
+      "hashtags": "['#NYC' '#Trump' '#Gaza' '#IfNotNow']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:25:04.036998",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:25:10.007000",
+      "text_length": 210,
+      "text_cleaned_length": 180,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvoxivgqtb2y",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "cosmicmeta.io",
+      "author_display_name": "Cosmic Meta IO",
+      "created_at": "2025-08-06T00:24:37.893Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:25:04.036928",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:25:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoxckzn4s2k",
+      "text": "\ud835\uddd7\ud835\udde2\ud835\udde1\ud835\uddd4\ud835\udddf\ud835\uddd7 \ud835\udde7\ud835\udde5\ud835\udde8\ud835\udde0\ud835\udde3\n\n\ud835\ude12\ud835\ude15\ud835\ude0c\ud835\ude0c\ud835\ude13 \ud835\ude09\ud835\ude0c\ud835\ude0d\ud835\ude16\ud835\ude19\ud835\ude0c \ud835\ude19\ud835\ude16\ud835\ude15\n\n#trump #gop #nokings #felon47 #Fascism #promptart #digitalart",
+      "text_cleaned": "\ud835\uddd7\ud835\udde2\ud835\udde1\ud835\uddd4\ud835\udddf\ud835\uddd7 \ud835\udde7\ud835\udde5\ud835\udde8\ud835\udde0\ud835\udde3 \ud835\ude12\ud835\ude15\ud835\ude0c\ud835\ude0c\ud835\ude13 \ud835\ude09\ud835\ude0c\ud835\ude0d\ud835\ude16\ud835\ude19\ud835\ude0c \ud835\ude19\ud835\ude16\ud835\ude15",
+      "text_preview": "\ud835\uddd7\ud835\udde2\ud835\udde1\ud835\uddd4\ud835\udddf\ud835\uddd7 \ud835\udde7\ud835\udde5\ud835\udde8\ud835\udde0\ud835\udde3\n\n\ud835\ude12\ud835\ude15\ud835\ude0c\ud835\ude0c\ud835\ude13 \ud835\ude09\ud835\ude0c\ud835\ude0d\ud835\ude16\ud835\ude19\ud835\ude0c \ud835\ude19\ud835\ude16\ud835\ude15\n\n#trump #gop #nokings #felon47 #Fascism #promptart #digitalart",
+      "author": "alanroseca.bsky.social",
+      "author_display_name": "Alan \ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-06T00:21:05.819Z",
+      "hashtags": "['#trump' '#Fascism' '#gop' '#felon47' '#nokings' '#digitalart'\n '#promptart']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:25:04.036991",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:25:10.007000",
+      "text_length": 93,
+      "text_cleaned_length": 29,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoxeosme22p",
+      "text": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance youtu.be/IVq5kNbtOus?...",
+      "text_cleaned": "youtu.be/IVq5kNbtOus?...",
+      "text_preview": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance youtu.be/IVq5kNbtOus?....",
+      "author": "greasydump.bsky.social",
+      "author_display_name": "Farts are Funny",
+      "created_at": "2025-08-06T00:22:16.905Z",
+      "hashtags": "['#Republican' '#GOP' '#Sexualabuser' '#JDVance' '#DanBongino'\n '#EpsteinTrumpfiles' '#Epstein' '#Racist' '#Epsteinfiles' '#Trump'\n '#KashPatel' '#Espsteincoverup' '#PamBondi' '#MAGA' '#Epsteinlist'\n '#AlinaHabba']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:25:04.036974",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:25:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 24,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoxik2ndk22",
+      "text": "Fitness Test\n#Trump #GolfCheat #PresidentialFitnessTest #UnfitToBePresident #ExecutiveOrder",
+      "text_cleaned": "Fitness Test",
+      "text_preview": "Fitness Test\n#Trump #GolfCheat #PresidentialFitnessTest #UnfitToBePresident #ExecutiveOrder",
+      "author": "tc2oons.bsky.social",
+      "author_display_name": "Tim Campbell",
+      "created_at": "2025-08-06T00:24:26.132Z",
+      "hashtags": "['#PresidentialFitnessTest' '#Trump' '#ExecutiveOrder' '#GolfCheat'\n '#UnfitToBePresident']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:25:04.036946",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:25:10.007000",
+      "text_length": 91,
+      "text_cleaned_length": 12,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvoxdkm52s2h",
+      "text": "#Trump #tariffs\nDestruction of #AmericanJobs",
+      "text_cleaned": "Destruction of",
+      "text_preview": "#Trump #tariffs\nDestruction of #AmericanJobs",
+      "author": "missplaced.bsky.social",
+      "author_display_name": "MissPlaced ",
+      "created_at": "2025-08-06T00:21:38.943Z",
+      "hashtags": "['#AmericanJobs' '#Trump' '#tariffs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:25:04.036981",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:25:10.007000",
+      "text_length": 44,
+      "text_cleaned_length": 14,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowxu3n5s2y",
+      "text": "NEVER FORGET.\n\nW/ YOUR Change.org PETITION, PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict rapist, liar, & wannabe dictator #Trump & convict his #J6Rioters; ALL traitors to #democracy.\n\nIn 11/26, NEVER VOTE 4 #GOP\n\nTY @mjfree.bsky.social\n\n#BlueCrew www.change.org/p/with-this-...",
+      "text_cleaned": "NEVER FORGET. W/ YOUR Change.org PETITION, PEACEFUL PROTESTS & CALLS, we compel to impeach & convict rapist, liar, & wannabe dictator & convict his ; ALL traitors to . In 11/26, NEVER VOTE 4 TY .bsky.social",
+      "text_preview": "NEVER FORGET.\n\nW/ YOUR Change.org PETITION, PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict rapist, liar, & wannabe dictator #Trump & convict his #J6Rioters; ALL traitors to #democ...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-06T00:15:06.114Z",
+      "hashtags": "['#democracy' '#GOP' '#Congress' '#J6Rioters' '#BlueCrew' '#Trump']",
+      "mentions": "['@mjfree.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921751",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 206,
+      "hashtag_count": 6,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvox6xt6dg2f",
+      "text": "Yes, it's an INSANE, NUCLEAR response - but the only other option being discussed openly is praying we win the next tight election & #Trump doesn't declare martial law to block that election.\n\nHe owns both chambers and SCOTUS, they WILL back him if he declares martial law - their NUCLEAR OPTION.",
+      "text_cleaned": "Yes, it's an INSANE, NUCLEAR response - but the only other option being discussed openly is praying we win the next tight election & doesn't declare martial law to block that election. He owns both chambers and SCOTUS, they WILL back him if he declares martial law - their NUCLEAR OPTION.",
+      "text_preview": "Yes, it's an INSANE, NUCLEAR response - but the only other option being discussed openly is praying we win the next tight election & #Trump doesn't declare martial law to block that election.\n\nHe owns...",
+      "author": "luditetechy.bsky.social",
+      "author_display_name": "BT",
+      "created_at": "2025-08-06T00:18:59.063Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921532",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 296,
+      "text_cleaned_length": 288,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvox24ps7c2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:16:22.394Z",
+      "hashtags": "['#Trump' '#Epstein' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921623",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvowyw7z7k22",
+      "text": "@moderation.bsky.app\n\nHow exactly is this post or any other by this account \"intolerant\"?\n\nPlease explain it to me using small, easy-to-understand words.\n\n#PedotRump\n#PedoPresident\n#Pedo47\n#tRump flew on the #LolitaExpress\n#EpsteinFiles #EpsteinList",
+      "text_cleaned": ".bsky.app How exactly is this post or any other by this account \"intolerant\"? Please explain it to me using small, easy-to-understand words. flew on the",
+      "text_preview": "@moderation.bsky.app\n\nHow exactly is this post or any other by this account \"intolerant\"?\n\nPlease explain it to me using small, easy-to-understand words.\n\n#PedotRump\n#PedoPresident\n#Pedo47\n#tRump flew...",
+      "author": "alouzon.bsky.social",
+      "author_display_name": "alouzon \ud83c\udf41  \ud83c\udde8\ud83c\udde6 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-06T00:15:42.027Z",
+      "hashtags": "['#PedoPresident' '#tRump' '#LolitaExpress' '#EpsteinFiles' '#PedotRump'\n '#Pedo47' '#EpsteinList']",
+      "mentions": "['@moderation.bsky.app']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921673",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 249,
+      "text_cleaned_length": 152,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowxuw4ss2c",
+      "text": "\u201cThese people do it naturally.\u201d\n\n!?\n\nSo all Latinos just naturally want to pick oranges!?\n\nYou orange fucker. \n\n#Trump gets his nails polished and names his buildings Spanish words and thinks he knows anything about Latinos. \n\nTrue asshole.",
+      "text_cleaned": "\u201cThese people do it naturally.\u201d !? So all Latinos just naturally want to pick oranges!? You orange fucker. gets his nails polished and names his buildings Spanish words and thinks he knows anything about Latinos. True asshole.",
+      "text_preview": "\u201cThese people do it naturally.\u201d\n\n!?\n\nSo all Latinos just naturally want to pick oranges!?\n\nYou orange fucker. \n\n#Trump gets his nails polished and names his buildings Spanish words and thinks he knows...",
+      "author": "whodatisnt.bsky.social",
+      "author_display_name": "WhoDatIsnt",
+      "created_at": "2025-08-06T00:15:07.103Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921703",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 240,
+      "text_cleaned_length": 226,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvox6rj6hk2t",
+      "text": "Be the deaths of millions of people on the heads of Trump & RFK jr\n\nTrump & RFK jr cancel $500 million issued to develop new vaccines for a host of human diseases \n\n#Trump #RFKjr #TrumpAndRfkjrWillKillUsAll\n\nthehill.com/policy/healt...",
+      "text_cleaned": "Be the deaths of millions of people on the heads of Trump & RFK jr Trump & RFK jr cancel $500 million issued to develop new vaccines for a host of human diseases thehill.com/policy/healt...",
+      "text_preview": "Be the deaths of millions of people on the heads of Trump & RFK jr\n\nTrump & RFK jr cancel $500 million issued to develop new vaccines for a host of human diseases \n\n#Trump #RFKjr #TrumpAndRfkjrWillKil...",
+      "author": "charliesaito22.bsky.social",
+      "author_display_name": "Chris Nagano",
+      "created_at": "2025-08-06T00:18:58.359Z",
+      "hashtags": "['#Trump' '#RFKjr' '#TrumpAndRfkjrWillKillUsAll']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921540",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 235,
+      "text_cleaned_length": 189,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvox2segc72r",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-06T00:16:44.914Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921595",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvox3vwl622n",
+      "text": "Yeah that \"magical\" #Cancer treatment which have been This Close for 30c years will not see the Light of day bc of #trump not #bigpharma\n\n#liberals might be dumber than #maga\n\n\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "text_cleaned": "Yeah that \"magical\" treatment which have been This Close for 30c years will not see the Light of day bc of not might be dumber than \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "text_preview": "Yeah that \"magical\" #Cancer treatment which have been This Close for 30c years will not see the Light of day bc of #trump not #bigpharma\n\n#liberals might be dumber than #maga\n\n\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "author": "eddy-comrade25.bsky.social",
+      "author_display_name": "N99mani",
+      "created_at": "2025-08-06T00:17:22.385Z",
+      "hashtags": "['#Cancer' '#maga' '#liberals' '#trump' '#bigpharma']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921565",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 183,
+      "text_cleaned_length": 139,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvox4ecspc2b",
+      "text": "Dementia Don was seen wandering on the White House roof today, to distract from the Trumpstein pedo-files.\n#Trump #SouthPark #Epstein #EpsteinFiles #Trumpstein #PedoPrez #POTUS #POTUS47 #DJT #FDJT #PedoFiles #TrumpFiles #Trumpstein",
+      "text_cleaned": "Dementia Don was seen wandering on the White House roof today, to distract from the Trumpstein pedo-files.",
+      "text_preview": "Dementia Don was seen wandering on the White House roof today, to distract from the Trumpstein pedo-files.\n#Trump #SouthPark #Epstein #EpsteinFiles #Trumpstein #PedoPrez #POTUS #POTUS47 #DJT #FDJT #Pe...",
+      "author": "phillytim.bsky.social",
+      "author_display_name": "phillyTim \ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-06T00:17:37.457Z",
+      "hashtags": "['#FDJT' '#SouthPark' '#PedoPrez' '#Trumpstein' '#TrumpFiles'\n '#EpsteinFiles' '#Epstein' '#POTUS47' '#DJT' '#Trump' '#POTUS'\n '#PedoFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921555",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 231,
+      "text_cleaned_length": 106,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvox2mcl5c22",
+      "text": "#ReleaseTheEpsteinFiles\n#tRumpEpsteinFiles\n#EpsteinFiles #EpsteinList\n#EpsteinClientList\n#Epstein\n#tRump won't release them because he's all throughout them\n#HesOnTheList\n#PedotRump\n#PedoPresident\n#Pedo47",
+      "text_cleaned": "won't release them because he's all throughout them",
+      "text_preview": "#ReleaseTheEpsteinFiles\n#tRumpEpsteinFiles\n#EpsteinFiles #EpsteinList\n#EpsteinClientList\n#Epstein\n#tRump won't release them because he's all throughout them\n#HesOnTheList\n#PedotRump\n#PedoPresident\n#Pe...",
+      "author": "alouzon.bsky.social",
+      "author_display_name": "alouzon \ud83c\udf41  \ud83c\udde8\ud83c\udde6 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-06T00:16:38.735Z",
+      "hashtags": "['#EpsteinClientList' '#PedoPresident' '#tRumpEpsteinFiles' '#tRump'\n '#HesOnTheList' '#EpsteinFiles' '#Epstein' '#PedotRump' '#Pedo47'\n '#ReleaseTheEpsteinFiles' '#EpsteinList']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921609",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 204,
+      "text_cleaned_length": 51,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvox3vbyxk2p",
+      "text": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance www.youtube.com/watch?v=1GiI...",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance www.youtube.com/watch?...",
+      "author": "greasydump.bsky.social",
+      "author_display_name": "Farts are Funny",
+      "created_at": "2025-08-06T00:17:21.710Z",
+      "hashtags": "['#GOP' '#PamBondi' '#Racist' '#EpsteinTrumpfiles' '#JDVance'\n '#Republican' '#Sexualabuser' '#DanBongino' '#Epstein' '#Espsteincoverup'\n '#Epsteinfiles' '#MAGA' '#KashPatel' '#Trump' '#Epsteinlist'\n '#AlinaHabba']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921580",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 209,
+      "text_cleaned_length": 0,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowxlocyk2p",
+      "text": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance www.cbsnews.com/news/house-o...",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance www.cbsnews.com/news/h...",
+      "author": "greasydump.bsky.social",
+      "author_display_name": "Farts are Funny",
+      "created_at": "2025-08-06T00:14:57.410Z",
+      "hashtags": "['#GOP' '#PamBondi' '#Racist' '#EpsteinTrumpfiles' '#JDVance'\n '#Republican' '#Sexualabuser' '#DanBongino' '#Epstein' '#Espsteincoverup'\n '#Epsteinfiles' '#MAGA' '#KashPatel' '#Trump' '#Epsteinlist'\n '#AlinaHabba']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921774",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 209,
+      "text_cleaned_length": 0,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowyvv4lc2p",
+      "text": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #Epsteinfiles #EpsteinTrumpfiles #Epsteinlist #Espsteincoverup #GOP #Racist #MAGA #Republican #Sexualabuser #Trump #DanBongino #KashPatel #PamBondi #AlinaHabba #JDVance",
+      "author": "greasydump.bsky.social",
+      "author_display_name": "Farts are Funny",
+      "created_at": "2025-08-06T00:15:41.674Z",
+      "hashtags": "['#GOP' '#PamBondi' '#Racist' '#EpsteinTrumpfiles' '#JDVance'\n '#Republican' '#Sexualabuser' '#DanBongino' '#Epstein' '#Espsteincoverup'\n '#Epsteinfiles' '#MAGA' '#KashPatel' '#Trump' '#Epsteinlist'\n '#AlinaHabba']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921693",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 177,
+      "text_cleaned_length": 0,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvox2yntlc2f",
+      "text": "On #EpsteinFiles poll shows 63% think #Trump administration is hiding information:\nwww.youtube.com/watch?v=YjRk...",
+      "text_cleaned": "On poll shows 63% think administration is hiding information:",
+      "text_preview": "On #EpsteinFiles poll shows 63% think #Trump administration is hiding information:\nwww.youtube.com/watch?v=YjRk...",
+      "author": "puffysdad.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:16:51.689Z",
+      "hashtags": "['#Trump' '#EpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921587",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 114,
+      "text_cleaned_length": 61,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowxrfkbk2k",
+      "text": "#RFK Jr #Epstein #Trump",
+      "text_cleaned": "Jr",
+      "text_preview": "#RFK Jr #Epstein #Trump",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:15:03.411Z",
+      "hashtags": "['#Trump' '#RFK' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:20:03.921762",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:20:10.008000",
+      "text_length": 23,
+      "text_cleaned_length": 2,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
