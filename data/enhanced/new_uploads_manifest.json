@@ -1,14 +1,6 @@
 {
   "pending_imports": [
     {
-      "timestamp": "20250806_114057",
-      "filename": "enhanced_20250806_114057.json",
-      "post_count": 19,
-      "original_batch": "batch_20250805_121446.json",
-      "status": "waiting_for_databricks_import",
-      "uploaded_at": "2025-08-06T11:40:57.735401"
-    },
-    {
       "timestamp": "20250806_114059",
       "filename": "enhanced_20250806_114059.json",
       "post_count": 23,
@@ -399,6 +391,14 @@
       "original_batch": "batch_20250805_192744.json",
       "status": "waiting_for_databricks_import",
       "uploaded_at": "2025-08-06T11:43:01.552691"
+    },
+    {
+      "timestamp": "20250806_114303",
+      "filename": "enhanced_20250806_114303.json",
+      "post_count": 27,
+      "original_batch": "batch_20250805_193747.json",
+      "status": "waiting_for_databricks_import",
+      "uploaded_at": "2025-08-06T11:43:04.000901"
     }
   ],
   "databricks_import_instructions": {
