@@ -1,0 +1,311 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_091257",
+    "post_count": 11,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 09:05:10.009000",
+    "latest_received_at": "2025-08-06 09:10:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpus3ao5224",
+      "text": "I was so excited when I told you about my plans for the Summer Olympics in LA that I accidentally mentioned the wrong year. The Summer Olympics in LA are of course 2028. So I have plenty of time to plan all the propaganda and train the military that will secure the event.\n\n#Trump #LosAngeles2028",
+      "text_cleaned": "I was so excited when I told you about my plans for the Summer Olympics in LA that I accidentally mentioned the wrong year. The Summer Olympics in LA are of course 2028. So I have plenty of time to plan all the propaganda and train the military that will secure the event.",
+      "text_preview": "I was so excited when I told you about my plans for the Summer Olympics in LA that I accidentally mentioned the wrong year. The Summer Olympics in LA are of course 2028. So I have plenty of time to pl...",
+      "author": "cult45parody.bsky.social",
+      "author_display_name": "The Emperor of the United States  \ud83d\udc51",
+      "created_at": "2025-08-06T09:08:44.664Z",
+      "hashtags": "['#LosAngeles2028' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:10:03.688141",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:10:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 272,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpunjzyrk2v",
+      "text": "Peace in one day in Ukraine, Donald #Trump?\nYou brought disruption in supplies of defensive weapons, extorted #Ukraine, commercialized the war, encouraged #Putin and helped #Russia double its war crimes.\nYou are guilty of aiding and abetting a criminal war.\n#Ukrainewar.\nwww.bbc.com/news/article...",
+      "text_cleaned": "Peace in one day in Ukraine, Donald ? You brought disruption in supplies of defensive weapons, extorted , commercialized the war, encouraged and helped double its war crimes. You are guilty of aiding and abetting a criminal war. .",
+      "text_preview": "Peace in one day in Ukraine, Donald #Trump?\nYou brought disruption in supplies of defensive weapons, extorted #Ukraine, commercialized the war, encouraged #Putin and helped #Russia double its war crim...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-06T09:06:12.407Z",
+      "hashtags": "['#Russia' '#Ukraine' '#Putin' '#Trump' '#Ukrainewar']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:10:03.688153",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:10:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 230,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpusc4czv2e",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-06T09:08:51.688Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:10:03.688130",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:10:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpuic5ffrg2",
+      "text": "@davidho\n\nSimply criminal. The Trump administration should be ashamed of themselves for making this happen\u2026\n\n#uspol #trump #incompetence #rfkjr",
+      "text_cleaned": "Simply criminal. The Trump administration should be ashamed of themselves for making this happen\u2026",
+      "text_preview": "@davidho\n\nSimply criminal. The Trump administration should be ashamed of themselves for making this happen\u2026\n\n#uspol #trump #incompetence #rfkjr",
+      "author": "xs4me2.mastodon.social.ap.brid.gy",
+      "author_display_name": "xs4me2",
+      "created_at": "2025-08-06T09:03:10.000Z",
+      "hashtags": "['#rfkjr' '#uspol' '#incompetence' '#trump']",
+      "mentions": "['@davidho']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:10:03.688189",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:10:10.007000",
+      "text_length": 143,
+      "text_cleaned_length": 97,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpudwukql2t",
+      "text": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the war in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/PqWSA4RD",
+      "text_cleaned": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the war in... .ai",
+      "text_preview": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progre...",
+      "author": "cosmicmeta.io",
+      "author_display_name": "Cosmic Meta IO",
+      "created_at": "2025-08-06T09:00:50.133Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:05:03.902941",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:05:10.009000",
+      "text_length": 280,
+      "text_cleaned_length": 237,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpueyha2l22",
+      "text": "\u201cThe real conspiracy theory around Trump and Epstein is that multiple apparently unconnected women lied, and continue to lie, about Trump\u2019s behavior. This with nothing to gain, and much to lose, by speaking out about his misdeeds.\u201d\n\nMust Read #EpsteinFiles #Trump",
+      "text_cleaned": "\u201cThe real conspiracy theory around Trump and Epstein is that multiple apparently unconnected women lied, and continue to lie, about Trump\u2019s behavior. This with nothing to gain, and much to lose, by speaking out about his misdeeds.\u201d Must Read",
+      "text_preview": "\u201cThe real conspiracy theory around Trump and Epstein is that multiple apparently unconnected women lied, and continue to lie, about Trump\u2019s behavior. This with nothing to gain, and much to lose, by sp...",
+      "author": "rmendes.net",
+      "author_display_name": "Ricardo",
+      "created_at": "2025-08-06T09:01:00+00:00",
+      "hashtags": "['#Trump' '#EpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:05:03.902932",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:05:10.009000",
+      "text_length": 263,
+      "text_cleaned_length": 241,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvpuiih32c2b",
+      "text": "Allgemeine R\u00fcckgrat-Verkr\u00fcmmung.\n\n.. sehr bedenklich und bedauerlich, dass die Welt geneigt ist,\nvor hemmungs- und skrupellosen Despoten und Tyrannen\nzu Kreuze zu kriechen.\n\n#Trump #Putin #Xi",
+      "text_cleaned": "Allgemeine R\u00fcckgrat-Verkr\u00fcmmung. .. sehr bedenklich und bedauerlich, dass die Welt geneigt ist, vor hemmungs- und skrupellosen Despoten und Tyrannen zu Kreuze zu kriechen.",
+      "text_preview": "Allgemeine R\u00fcckgrat-Verkr\u00fcmmung.\n\n.. sehr bedenklich und bedauerlich, dass die Welt geneigt ist,\nvor hemmungs- und skrupellosen Despoten und Tyrannen\nzu Kreuze zu kriechen.\n\n#Trump #Putin #Xi",
+      "author": "hartmutzimmer.bsky.social",
+      "author_display_name": "Hartmut Zimmer",
+      "created_at": "2025-08-06T09:03:22.965Z",
+      "hashtags": "['#Xi' '#Trump' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:05:03.902913",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:05:10.009000",
+      "text_length": 191,
+      "text_cleaned_length": 171,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpucwlrxc2f",
+      "text": "#TulsiGabbard may be opening another Pandora's box as some \"inconvenient truths\" for #Trump may come to light just like with the #Epstein case. She screwed up there as well.\n#TrumpDictator\nwww.bbc.com/news/article...",
+      "text_cleaned": "may be opening another Pandora's box as some \"inconvenient truths\" for may come to light just like with the case. She screwed up there as well.",
+      "text_preview": "#TulsiGabbard may be opening another Pandora's box as some \"inconvenient truths\" for #Trump may come to light just like with the #Epstein case. She screwed up there as well.\n#TrumpDictator\nwww.bbc.com...",
+      "author": "onepaul.bsky.social",
+      "author_display_name": "Paul L",
+      "created_at": "2025-08-06T09:00:16.474Z",
+      "hashtags": "['#TulsiGabbard' '#Trump' '#Epstein' '#TrumpDictator']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:05:03.902963",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:05:10.009000",
+      "text_length": 216,
+      "text_cleaned_length": 143,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpucyyeyd25",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #OC\n4. #R4Today\n5. #digitalart\n6. #QuestPit\n7. #AI\n8. #Hiroshima\n9. #NUFC\n10. #Trump\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #OC\n4. #R4Today\n5. #digitalart\n6. #QuestPit\n7. #AI\n8. #Hiroshima\n9. #NUFC\n10. #Trump\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-06T09:00:18Z",
+      "hashtags": "['#art' '#R4Today' '#OC' '#digitalart' '#Hiroshima' '#Trump' '#AI' '#bb27'\n '#NUFC' '#QuestPit']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:05:03.902954",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:05:10.009000",
+      "text_length": 170,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvpufejfu22l",
+      "text": "And he could care less!\n\nA teardrop = death to American small business via the criminal #Trump \n\n& #EpsteinBFF\n#smallbusiness\n#47Felon\n#Trumpstein",
+      "text_cleaned": "And he could care less! A teardrop = death to American small business via the criminal &",
+      "text_preview": "And he could care less!\n\nA teardrop = death to American small business via the criminal #Trump \n\n& #EpsteinBFF\n#smallbusiness\n#47Felon\n#Trumpstein",
+      "author": "no-dm.bsky.social",
+      "author_display_name": "No DM",
+      "created_at": "2025-08-06T09:01:38.178Z",
+      "hashtags": "['#smallbusiness' '#EpsteinBFF' '#Trumpstein' '#47Felon' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:05:03.902923",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:05:10.009000",
+      "text_length": 146,
+      "text_cleaned_length": 88,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpujyemq22s",
+      "text": "Gaza, Trump: \"Occupazione Striscia? Dipende da Israele\" ... LEGGI TUTTO #Gaza #Trump #Israele #Occupazione #PoliticaInternazionale",
+      "text_cleaned": "Gaza, Trump: \"Occupazione Striscia? Dipende da Israele\" ... LEGGI TUTTO",
+      "text_preview": "Gaza, Trump: \"Occupazione Striscia? Dipende da Israele\" ... LEGGI TUTTO #Gaza #Trump #Israele #Occupazione #PoliticaInternazionale",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-06T09:04:13Z",
+      "hashtags": "['#Occupazione' '#Israele' '#Gaza' '#PoliticaInternazionale' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:05:03.902840",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:05:10.009000",
+      "text_length": 130,
+      "text_cleaned_length": 71,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
