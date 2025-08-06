@@ -1,0 +1,187 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113941",
+    "original_batch": "batch_20250805_065248.json",
+    "enhanced_post_count": 5,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 5,
+      "emotion_coverage": 5,
+      "processing_speed": 78.82829620520582,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvn4elisac2y",
+      "text": "It\u2019s still strange to see that information  arrives to #Trump with a latency of, not two weeks, but two years",
+      "text_cleaned": "It\u2019s still strange to see that information arrives to with a latency of, not two weeks, but two years",
+      "text_preview": "It\u2019s still strange to see that information  arrives to #Trump with a latency of, not two weeks, but two years",
+      "author": "martinbarto.bsky.social",
+      "author_display_name": "Martin Barto",
+      "created_at": "2025-08-05T06:46:22.668Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:50:02.907387",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:50:10.006000",
+      "text_length": 109,
+      "text_cleaned_length": 101,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0,
+      "ml_sentiment_score": -0.5408030953258276,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "surprise",
+      "emotion_confidence": 0.8744227886199951,
+      "ml_processed_at": "2025-08-06 11:39:41.125962",
+      "processing_speed": 78.82829620520582,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn4bpiv5s2g",
+      "text": "What asshat #MikeFlood doesn't get is this: look, unfortunate circumstances, but I fell into unemployment. Hey FLOOD - YOU KNOW HOW DAMN HARD THE ECONOMY IS RIGHT NOW trying to find a job? Get a grip you fascist, #Trump boot-licking fool! All you do is spew #FoxNews lies & propaganda. \n#IWantToWork",
+      "text_cleaned": "What asshat doesn't get is this: look, unfortunate circumstances, but I fell into unemployment. Hey FLOOD - YOU KNOW HOW DAMN HARD THE ECONOMY IS RIGHT NOW trying to find a job? Get a grip you fascist, boot-licking fool! All you do is spew lies & propaganda.",
+      "text_preview": "What asshat #MikeFlood doesn't get is this: look, unfortunate circumstances, but I fell into unemployment. Hey FLOOD - YOU KNOW HOW DAMN HARD THE ECONOMY IS RIGHT NOW trying to find a job? Get a grip ...",
+      "author": "resistor2025bull.bsky.social",
+      "author_display_name": "#AbolishICE #ANTIFA #DemocracyNow",
+      "created_at": "2025-08-05T06:44:46.204Z",
+      "hashtags": "['#FoxNews' '#MikeFlood' '#IWantToWork' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:45:03.242029",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:45:10.026000",
+      "text_length": 299,
+      "text_cleaned_length": 258,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.9478510338813066,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "anger",
+      "emotion_confidence": 0.3344011902809143,
+      "ml_processed_at": "2025-08-06 11:39:41.125962",
+      "processing_speed": 78.82829620520582,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn3zflnb22m",
+      "text": "The war in Gaza should end because Hamas no longer poses a strategic threat to Israel, hundreds of former spies, soldiers and police have told Donald Trump, the US president.\n\n#trump #gaza #hamas #palestine #idf #generals #netanyahu #ceasefire #peace",
+      "text_cleaned": "The war in Gaza should end because Hamas no longer poses a strategic threat to Israel, hundreds of former spies, soldiers and police have told Donald Trump, the US president.",
+      "text_preview": "The war in Gaza should end because Hamas no longer poses a strategic threat to Israel, hundreds of former spies, soldiers and police have told Donald Trump, the US president.\n\n#trump #gaza #hamas #pal...",
+      "author": "apirus.bsky.social",
+      "author_display_name": "SUPPORTING PALESTINE",
+      "created_at": "2025-08-05T06:40:07.372Z",
+      "hashtags": "['#generals' '#peace' '#idf' '#trump' '#hamas' '#gaza' '#netanyahu'\n '#palestine' '#ceasefire']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:45:03.242048",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:45:10.026000",
+      "text_length": 250,
+      "text_cleaned_length": 174,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 5.0,
+      "ml_sentiment_score": -0.43001765944063663,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.42100638151168823,
+      "ml_processed_at": "2025-08-06 11:39:41.125962",
+      "processing_speed": 78.82829620520582,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn45jcq322h",
+      "text": "#trump, put this in your datebook because the world is looking forward to your arrest.",
+      "text_cleaned": ", put this in your datebook because the world is looking forward to your arrest.",
+      "text_preview": "#trump, put this in your datebook because the world is looking forward to your arrest.",
+      "author": "endorameow.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T06:42:25.481Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:45:03.242038",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:45:10.026000",
+      "text_length": 86,
+      "text_cleaned_length": 80,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.04177732765674591,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8892196416854858,
+      "ml_processed_at": "2025-08-06 11:39:41.125962",
+      "processing_speed": 78.82829620520582,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn3ytrg6s2g",
+      "text": "Nuestra vi\u00f1eta de hoy en #Deia , #NoticiasdeGipuzkoa\n y Diario de #Noticiasde\u00c1lava\n\n#Trump #Outin #Ucrania",
+      "text_cleaned": "Nuestra vi\u00f1eta de hoy en , y Diario de",
+      "text_preview": "Nuestra vi\u00f1eta de hoy en #Deia , #NoticiasdeGipuzkoa\n y Diario de #Noticiasde\u00c1lava\n\n#Trump #Outin #Ucrania",
+      "author": "jjgamboa.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T06:39:48.683Z",
+      "hashtags": "['#Trump' '#Ucrania' '#Noticiasde\u00c1lava' '#NoticiasdeGipuzkoa' '#Deia'\n '#Outin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:45:03.242056",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:45:10.026000",
+      "text_length": 106,
+      "text_cleaned_length": 38,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0,
+      "ml_sentiment_score": 0.02250500712543726,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.5663861632347107,
+      "ml_processed_at": "2025-08-06 11:39:41.125962",
+      "processing_speed": 78.82829620520582,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
