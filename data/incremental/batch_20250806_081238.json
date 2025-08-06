@@ -1,0 +1,446 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_081238",
+    "post_count": 16,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 08:05:10.009000",
+    "latest_received_at": "2025-08-06 08:10:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvprg6mlvk2j",
+      "text": "#\"I don't know anything about it\": #Trump on #US imports of Russian chemicals and fertilizers \n\n#TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsmells #terrorism #ArrestTrumpNow #RussianAsset #TrumpStinks \n\nwww.aninews.in/news/world/u...",
+      "text_cleaned": "#\"I don't know anything about it\": on imports of Russian chemicals and fertilizers",
+      "text_preview": "#\"I don't know anything about it\": #Trump on #US imports of Russian chemicals and fertilizers \n\n#TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsme...",
+      "author": "oden-gjallarhornet.bsky.social",
+      "author_display_name": "Oden",
+      "created_at": "2025-08-06T08:08:24.327Z",
+      "hashtags": "['#ArrestTrumpNow' '#TrumpFascist' '#US' '#TrumpTraitor' '#donaldtrump'\n '#Trumpsmells' '#Fascism' '#terrorism' '#TrumpStinks' '#Trump'\n '#TrumpRacist' '#TrumpRapist' '#RussianAsset' '#Russia' '#TrumpLies']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:10:03.499877",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:10:10.007000",
+      "text_length": 290,
+      "text_cleaned_length": 82,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpr7zdakk2j",
+      "text": "Maybe everybody should stop making deals with Dictators and Fascists. Including Donald J. #trump from the UNITED STATES OF FASCIST AMERICA #usfa! ... \ud83c\udf2e",
+      "text_cleaned": "Maybe everybody should stop making deals with Dictators and Fascists. Including Donald J. from the UNITED STATES OF FASCIST AMERICA ! ... \ud83c\udf2e",
+      "text_preview": "Maybe everybody should stop making deals with Dictators and Fascists. Including Donald J. #trump from the UNITED STATES OF FASCIST AMERICA #usfa! ... \ud83c\udf2e",
+      "author": "andyger.bsky.social",
+      "author_display_name": "Der Motzmichel auf Bluesky!!! \ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\udde6\ud83c\uddea\ud83c\uddfa\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83d\udd4a\ufe0f\u262e\ufe0f\ud83c\udf4d\u2764\ufe0f\ud83e\udd2a\ud83d\ude80\ud83d\udd96\ud83c\udffd\u270c\ud83c\udffd\ud83d\udd95\ud83c\udffc\ud83d\ude48\ud83e\udd21",
+      "created_at": "2025-08-06T08:04:57.450Z",
+      "hashtags": "['#trump' '#usfa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:10:03.499906",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:10:10.007000",
+      "text_length": 151,
+      "text_cleaned_length": 139,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvprgwuwoc2k",
+      "text": "El enviado de #Trump llega a #Rusia dos d\u00edas antes de la fecha l\u00edmite para las sanciones si no detiene la #guerra en #Ucrania\n\nelpais.com/internaciona...",
+      "text_cleaned": "El enviado de llega a dos d\u00edas antes de la fecha l\u00edmite para las sanciones si no detiene la en elpais.com/internaciona...",
+      "text_preview": "El enviado de #Trump llega a #Rusia dos d\u00edas antes de la fecha l\u00edmite para las sanciones si no detiene la #guerra en #Ucrania\n\nelpais.com/internaciona...",
+      "author": "rod2ik.bsky.social",
+      "author_display_name": "Rod2ik \ud83c\uddea\ud83c\uddfa \ud83c\udde8\ud83c\uddf5 \ud83c\uddea\ud83c\uddf8 \ud83c\uddfa\ud83c\udde6 \ud83c\udde8\ud83c\udde6 \ud83c\udde9\ud83c\uddf0 \ud83c\uddec\ud83c\uddf1 \u262e\ud83d\udd4a\ufe0f",
+      "created_at": "2025-08-06T08:08:49.765Z",
+      "hashtags": "['#guerra' '#Rusia' '#Trump' '#Ucrania']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:10:03.499864",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:10:10.007000",
+      "text_length": 153,
+      "text_cleaned_length": 121,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvprfdbwnc2j",
+      "text": "#US - #Kennedy to halt $500 million in #vaccine projects \n\n#Trump #TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsmells #terrorism #ArrestTrumpNow #RussianAsset #TrumpStinks \n\nwww.politico.com/news/2025/08...",
+      "text_cleaned": "- to halt $500 million in projects",
+      "text_preview": "#US - #Kennedy to halt $500 million in #vaccine projects \n\n#Trump #TrumpFascist #TrumpTraitor #donaldtrump #TrumpRapist #TrumpLies #Russia #TrumpRacist #Fascism #Trumpsmells #terrorism #ArrestTrumpNow...",
+      "author": "oden-gjallarhornet.bsky.social",
+      "author_display_name": "Oden",
+      "created_at": "2025-08-06T08:07:55.665Z",
+      "hashtags": "['#ArrestTrumpNow' '#TrumpFascist' '#US' '#TrumpTraitor' '#vaccine'\n '#donaldtrump' '#Trumpsmells' '#Fascism' '#terrorism' '#TrumpStinks'\n '#Trump' '#TrumpRacist' '#TrumpRapist' '#RussianAsset' '#Russia'\n '#TrumpLies' '#Kennedy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:10:03.499889",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:10:10.007000",
+      "text_length": 262,
+      "text_cleaned_length": 34,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvprgamjqr25",
+      "text": "China Unveils New Financial Guidelines to Boost Advanced Manufacturing\n\n#china #manufacturing #economy #technology #finance ",
+      "text_cleaned": "China Unveils New Financial Guidelines to Boost Advanced Manufacturing",
+      "text_preview": "China Unveils New Financial Guidelines to Boost Advanced Manufacturing\n\n#china #manufacturing #economy #technology #finance ",
+      "author": "agentictribune.bsky.social",
+      "author_display_name": "Agentic Tribune",
+      "created_at": "2025-08-06T08:08:26.381753+00:00",
+      "hashtags": "['#technology' '#china' '#manufacturing' '#economy' '#finance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:10:03.499538",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:10:10.007000",
+      "text_length": 124,
+      "text_cleaned_length": 70,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvprc3m2rc2c",
+      "text": "L'avvertimento.\n\n\u270f Ellekappa, la Repubblica - 6 agosto 2025 - \n\n#dazi #Trump #Ue",
+      "text_cleaned": "L'avvertimento. \u270f Ellekappa, la Repubblica - 6 agosto 2025 -",
+      "text_preview": "L'avvertimento.\n\n\u270f Ellekappa, la Repubblica - 6 agosto 2025 - \n\n#dazi #Trump #Ue",
+      "author": "anisepis.bsky.social",
+      "author_display_name": "Anis",
+      "created_at": "2025-08-06T08:06:06.797Z",
+      "hashtags": "['#Ue' '#dazi' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:10:03.499896",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:10:10.007000",
+      "text_length": 80,
+      "text_cleaned_length": 60,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpriwsllf2b",
+      "text": "AI execs back OpenAI's open-source return\n#Trump",
+      "text_cleaned": "AI execs back OpenAI's open-source return",
+      "text_preview": "AI execs back OpenAI's open-source return\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T08:09:56.445Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:10:03.499854",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:10:10.007000",
+      "text_length": 48,
+      "text_cleaned_length": 41,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqynrp5fh2",
+      "text": "Das ist mal eine gute Nachricht. Die US Gesundheitsbeh\u00f6rde streicht Gelder f\u00fcr mRNA Impfstoffe.\n\nSollen sie alle an #Covid19 und der #Grippe verenden.\nDas ist nat\u00fcrliche Selektion in ihrer urspr\u00fcnglichen Form. Der Mensch stirbt nicht mehr auf der Jagd nach Mammuts. Er stirbt an seiner eigenen [\u2026]",
+      "text_cleaned": "Das ist mal eine gute Nachricht. Die US Gesundheitsbeh\u00f6rde streicht Gelder f\u00fcr mRNA Impfstoffe. Sollen sie alle an und der verenden. Das ist nat\u00fcrliche Selektion in ihrer urspr\u00fcnglichen Form. Der Mensch stirbt nicht mehr auf der Jagd nach Mammuts. Er stirbt an seiner eigenen [\u2026]",
+      "text_preview": "Das ist mal eine gute Nachricht. Die US Gesundheitsbeh\u00f6rde streicht Gelder f\u00fcr mRNA Impfstoffe.\n\nSollen sie alle an #Covid19 und der #Grippe verenden.\nDas ist nat\u00fcrliche Selektion in ihrer urspr\u00fcnglic...",
+      "author": "my-millennium.nrw.social.ap.brid.gy",
+      "author_display_name": "M\u00f6hrchen",
+      "created_at": "2025-08-06T08:00:23.000Z",
+      "hashtags": "['#Covid19' '#Grippe']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:05:03.404500",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:05:10.009000",
+      "text_length": 297,
+      "text_cleaned_length": 279,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpqxzogtb2y",
+      "text": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/PqWSA4RD",
+      "text_cleaned": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... .ai",
+      "text_preview": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progre...",
+      "author": "cosmicmeta.io",
+      "author_display_name": "Cosmic Meta IO",
+      "created_at": "2025-08-06T08:00:29.205Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:05:03.404492",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:05:10.009000",
+      "text_length": 273,
+      "text_cleaned_length": 230,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpr6dj6xd2g",
+      "text": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/PqWSA4RD",
+      "text_cleaned": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... .ai",
+      "text_preview": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progre...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-06T08:04:00.807Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:05:03.404439",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:05:10.009000",
+      "text_length": 273,
+      "text_cleaned_length": 230,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpr32gwcs2c",
+      "text": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647\nWe are going to redraw them all out of office and listen to them whine about it.\nReap what you sow.\nKEEP UP THE GOOD TROUBLE\n#GOP #RESIST #trump #VoteBlue #NoKings #indivisible #ICE\nwww.axios.com/2025/08/05/t...",
+      "text_cleaned": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647 We are going to redraw them all out of office and listen to them whine about it. Reap what you sow. KEEP UP THE GOOD TROUBLE",
+      "text_preview": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647\nWe are going to redraw them all out of office and listen to them whine about it.\nReap what you sow.\nKEEP UP THE GOOD TROUBLE\n#GOP #RESI...",
+      "author": "clydepowell.bsky.social",
+      "author_display_name": "\u2728 Clyde \u2728",
+      "created_at": "2025-08-06T08:02:10.846Z",
+      "hashtags": "['#trump' '#indivisible' '#NoKings' '#GOP' '#RESIST' '#ICE' '#VoteBlue']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:05:03.404485",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:05:10.009000",
+      "text_length": 276,
+      "text_cleaned_length": 189,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvpr33ubic2b",
+      "text": "#Trump v2.0\nWhat's the latest?\nCheck out the link for access to our August newsletter #LetterFromAmerica\n\nCapital at risk \n\ud83d\udcf7 @charliee1972.bsky.social \nwww.linkedin.com/posts/raymon...",
+      "text_cleaned": "v2.0 What's the latest? Check out the link for access to our August newsletter Capital at risk \ud83d\udcf7 .bsky.social",
+      "text_preview": "#Trump v2.0\nWhat's the latest?\nCheck out the link for access to our August newsletter #LetterFromAmerica\n\nCapital at risk \n\ud83d\udcf7 @charliee1972.bsky.social \nwww.linkedin.com/posts/raymon...",
+      "author": "rjwaterstreet.bsky.social",
+      "author_display_name": "Raymond James Water Street",
+      "created_at": "2025-08-06T08:02:12.331Z",
+      "hashtags": "['#Trump' '#LetterFromAmerica']",
+      "mentions": "['@charliee1972.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:05:03.404467",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:05:10.009000",
+      "text_length": 184,
+      "text_cleaned_length": 109,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpqxqs64725",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #BB27\n2. #art\n3. #OC\n4. #questpit\n5. #r4today\n6. #digitalart\n7. #Trump\n8. #AI\n9. #WNBA\n10. #Hiroshima\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #BB27\n2. #art\n3. #OC\n4. #questpit\n5. #r4today\n6. #digitalart\n7. #Trump\n8. #AI\n9. #WNBA\n10. #Hiroshima\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-06T08:00:19Z",
+      "hashtags": "['#digitalart' '#Trump' '#OC' '#Hiroshima' '#AI' '#r4today' '#questpit'\n '#art' '#BB27' '#WNBA']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:05:03.404513",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:05:10.009000",
+      "text_length": 170,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpr4nfc6s2b",
+      "text": "Grotesque treatment of follow human beings. \n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN",
+      "text_cleaned": "Grotesque treatment of follow human beings.",
+      "text_preview": "Grotesque treatment of follow human beings. \n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN",
+      "author": "snagglepussdan.bsky.social",
+      "author_display_name": "Dan Smith",
+      "created_at": "2025-08-06T08:03:04.272Z",
+      "hashtags": "['#tRUMP' '#CORRUPTION' '#LIES' '#AUTHORITARIAN']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:05:03.404453",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:05:10.009000",
+      "text_length": 84,
+      "text_cleaned_length": 43,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpr2gyx2p2r",
+      "text": "\n#Sanctions   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War",
+      "text_cleaned": "Witkoff War",
+      "text_preview": "\n#Sanctions   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T08:02:11.057194+00:00",
+      "hashtags": "['#Steve' '#Trump' '#Ukraine' '#Sanctions']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:05:03.404476",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:05:10.009000",
+      "text_length": 63,
+      "text_cleaned_length": 11,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpqx2zt3h2y",
+      "text": "Donald Trump, Master Statistician\n#Trump",
+      "text_cleaned": "Donald Trump, Master Statistician",
+      "text_preview": "Donald Trump, Master Statistician\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T07:59:56.854Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:05:03.404521",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:05:10.009000",
+      "text_length": 40,
+      "text_cleaned_length": 33,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
