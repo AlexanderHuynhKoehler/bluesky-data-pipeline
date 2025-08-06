@@ -1,0 +1,797 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_001936",
+    "post_count": 29,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 00:10:10.007000",
+    "latest_received_at": "2025-08-06 00:15:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvowrwnb2s2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:11:47.583Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577585",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowvduhqk2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:13:42.115Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577477",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowtwiex22k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:12:54.533Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577566",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowstmiws2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:12:17.967Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577574",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowowldtc2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:10:06.858Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577699",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowpsrtpk2n",
+      "text": "Top Business Hashtags 2025-08-05 15:25 : #gold #trump #data #ceo #ai #highway #live #past #voice #people #yield #growth #doge #jobs #report #president #business #reveals\n\ud83d\udcca Headline Sentiment : \n\ud83d\udd34 32 (55.17%) Negative \n\ud83d\udfe2 26 (44.83%) Positive \nReads \ud83d\ude80 : seefinish.com/business/",
+      "text_cleaned": "Top Business Hashtags 2025-08-05 15:25 : \ud83d\udcca Headline Sentiment : \ud83d\udd34 32 (55.17%) Negative \ud83d\udfe2 26 (44.83%) Positive Reads \ud83d\ude80 : seefinish.com/business/",
+      "text_preview": "Top Business Hashtags 2025-08-05 15:25 : #gold #trump #data #ceo #ai #highway #live #past #voice #people #yield #growth #doge #jobs #report #president #business #reveals\n\ud83d\udcca Headline Sentiment : \n\ud83d\udd34 32 (...",
+      "author": "seefinishpublyk.bsky.social",
+      "author_display_name": "Seefinish - Publyk Sqyare",
+      "created_at": "2025-08-06T00:10:36.422Z",
+      "hashtags": "['#data' '#ai' '#highway' '#president' '#ceo' '#people' '#voice' '#yield'\n '#business' '#reveals' '#growth' '#doge' '#report' '#live' '#jobs'\n '#trump' '#past' '#gold']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577650",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 275,
+      "text_cleaned_length": 143,
+      "hashtag_count": 18,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvowq22zms2n",
+      "text": "Top Business Hashtags 2025-08-05 15:25 : #gold #trump #data #ceo #ai #highway #live #past #voice #people #yield #growth #doge #jobs #report #president #business #reveals\n\ud83d\udcca Headline Sentiment : \n\ud83d\udd34 32 (55.17%) Negative \n\ud83d\udfe2 26 (44.83%) Positive \nReads \ud83d\ude80 : seefinish.com/business/",
+      "text_cleaned": "Top Business Hashtags 2025-08-05 15:25 : \ud83d\udcca Headline Sentiment : \ud83d\udd34 32 (55.17%) Negative \ud83d\udfe2 26 (44.83%) Positive Reads \ud83d\ude80 : seefinish.com/business/",
+      "text_preview": "Top Business Hashtags 2025-08-05 15:25 : #gold #trump #data #ceo #ai #highway #live #past #voice #people #yield #growth #doge #jobs #report #president #business #reveals\n\ud83d\udcca Headline Sentiment : \n\ud83d\udd34 32 (...",
+      "author": "seefinishpublyk.bsky.social",
+      "author_display_name": "Seefinish - Publyk Sqyare",
+      "created_at": "2025-08-06T00:10:36.423Z",
+      "hashtags": "['#data' '#ai' '#highway' '#president' '#ceo' '#people' '#voice' '#yield'\n '#business' '#reveals' '#growth' '#doge' '#report' '#live' '#jobs'\n '#trump' '#past' '#gold']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577638",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 275,
+      "text_cleaned_length": 143,
+      "hashtag_count": 18,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowr6nipc2u",
+      "text": "Tired of political chaos? A new blog post breaks down Trump's trade war, one-person rule, and the dangers of abandoning a globalized world. #Trump #TradeWar #Globalization\n----\nDonald Trump's Trade War: A Flawed, Dangerous Policy\nopen.substack.com/pub/alaen/p/...",
+      "text_cleaned": "Tired of political chaos? A new blog post breaks down Trump's trade war, one-person rule, and the dangers of abandoning a globalized world. ---- Donald Trump's Trade War: A Flawed, Dangerous Policy open.substack.com/pub/alaen/p/...",
+      "text_preview": "Tired of political chaos? A new blog post breaks down Trump's trade war, one-person rule, and the dangers of abandoning a globalized world. #Trump #TradeWar #Globalization\n----\nDonald Trump's Trade Wa...",
+      "author": "oms1953.bsky.social",
+      "author_display_name": "WoodSnake2025",
+      "created_at": "2025-08-06T00:11:22.425Z",
+      "hashtags": "['#TradeWar' '#Trump' '#Globalization']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577621",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 263,
+      "text_cleaned_length": 231,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowowaebc27",
+      "text": "Dropkick Murphys just played this stunning montage of Donald Trump and Jeffrey Epstein at their concert. \nRepost this to make sure every American sees this!\n\nsubstack.com/@demwinsmedi...\n\n#USpoli \n#Trump\n#EpsteinList\n#TrumpIsOnTheList\n#TrumpIsNotFitForOffice",
+      "text_cleaned": "Dropkick Murphys just played this stunning montage of Donald Trump and Jeffrey Epstein at their concert. Repost this to make sure every American sees this! substack.com/...",
+      "text_preview": "Dropkick Murphys just played this stunning montage of Donald Trump and Jeffrey Epstein at their concert. \nRepost this to make sure every American sees this!\n\nsubstack.com/@demwinsmedi...\n\n#USpoli \n#Tr...",
+      "author": "theubiquitousj-man.bsky.social",
+      "author_display_name": "The Ubiquitous J-Man",
+      "created_at": "2025-08-06T00:10:06.497Z",
+      "hashtags": "['#Trump' '#TrumpIsNotFitForOffice' '#TrumpIsOnTheList' '#EpsteinList'\n '#USpoli']",
+      "mentions": "['@demwinsmedi...']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577710",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 258,
+      "text_cleaned_length": 172,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvowrt7ixs2f",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-06T00:11:43.680Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577611",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowuhkbp22c",
+      "text": "8/5/2025 Get the Baby Oil ready! Diddy formerly asks Trump for a pardon!\n-\n#maga #republican #fyp\u30b7\u309aviral #democrat #trump #diddy",
+      "text_cleaned": "8/5/2025 Get the Baby Oil ready! Diddy formerly asks Trump for a pardon! - \u309aviral",
+      "text_preview": "8/5/2025 Get the Baby Oil ready! Diddy formerly asks Trump for a pardon!\n-\n#maga #republican #fyp\u30b7\u309aviral #democrat #trump #diddy",
+      "author": "republicanmoderate.bsky.social",
+      "author_display_name": "The Moderate Republican",
+      "created_at": "2025-08-06T00:13:12.420Z",
+      "hashtags": "['#fyp\u30b7' '#diddy' '#democrat' '#trump' '#republican' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577555",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 128,
+      "text_cleaned_length": 81,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowvgar5k2b",
+      "text": "Of course he\u2019ll pardon that jackass. Look at all the scumbags #Trump has let off the hook so far.\n\nwww.usatoday.com/story/news/p...",
+      "text_cleaned": "Of course he\u2019ll pardon that jackass. Look at all the scumbags has let off the hook so far.",
+      "text_preview": "Of course he\u2019ll pardon that jackass. Look at all the scumbags #Trump has let off the hook so far.\n\nwww.usatoday.com/story/news/p...",
+      "author": "ogieogilthorpe.bsky.social",
+      "author_display_name": "Ogie Ogilthorpe",
+      "created_at": "2025-08-06T00:13:44.614Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577468",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 131,
+      "text_cleaned_length": 90,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowoog7f22b",
+      "text": "If #Trump didn\u2019t know the Maxwell was being moved, then I\u2019m the fucking pope.\n\nwww.usatoday.com/story/news/p...",
+      "text_cleaned": "If didn\u2019t know the Maxwell was being moved, then I\u2019m the fucking pope.",
+      "text_preview": "If #Trump didn\u2019t know the Maxwell was being moved, then I\u2019m the fucking pope.\n\nwww.usatoday.com/story/news/p...",
+      "author": "ogieogilthorpe.bsky.social",
+      "author_display_name": "Ogie Ogilthorpe",
+      "created_at": "2025-08-06T00:09:58.299Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577717",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 111,
+      "text_cleaned_length": 70,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowpfkzrn2r",
+      "text": "Trump: FBI \"may have to\" help bring back Texas Democrats who fled state\n#Trump",
+      "text_cleaned": "Trump: FBI \"may have to\" help bring back Texas Democrats who fled state",
+      "text_preview": "Trump: FBI \"may have to\" help bring back Texas Democrats who fled state\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T00:10:18.362Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577678",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 78,
+      "text_cleaned_length": 71,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowpgg6pu2m",
+      "text": "Trump puts big banks in his crosshairs, claiming discrimination\n#Trump",
+      "text_cleaned": "Trump puts big banks in his crosshairs, claiming discrimination",
+      "text_preview": "Trump puts big banks in his crosshairs, claiming discrimination\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T00:10:23.416Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577666",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 70,
+      "text_cleaned_length": 63,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowpgbzek26",
+      "text": "How ethnic stereotypes underlie Trump's agricultural vision\n#Trump",
+      "text_cleaned": "How ethnic stereotypes underlie Trump's agricultural vision",
+      "text_preview": "How ethnic stereotypes underlie Trump's agricultural vision\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T00:10:23.276Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577672",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 66,
+      "text_cleaned_length": 59,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowpbh25f2r",
+      "text": "Trump admin pulls funding for new mRNA vaccines\n#Trump",
+      "text_cleaned": "Trump admin pulls funding for new mRNA vaccines",
+      "text_preview": "Trump admin pulls funding for new mRNA vaccines\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T00:10:17.382Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577688",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 54,
+      "text_cleaned_length": 47,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowph6yu72y",
+      "text": "Day 1659: \"Everything is on the table.\"\n#Trump",
+      "text_cleaned": "Day 1659: \"Everything is on the table.\"",
+      "text_preview": "Day 1659: \"Everything is on the table.\"\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T00:10:24.212Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:15:03.577658",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:15:10.006000",
+      "text_length": 46,
+      "text_cleaned_length": 39,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvowji6rpc2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff and Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff and Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:07:03.993Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775140",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 232,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowodjrxs2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:09:46.884Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775084",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvownlgzvs2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:09:21.627Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775103",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowlkxpk22k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:08:14.017Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775123",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowmkmdtk2k",
+      "text": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross www.politico.com/news/magazin...",
+      "text_cleaned": "Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victims. Sarah Kellen, Nadia Marcinkova, Lesley Groff & Adriana Ross",
+      "text_preview": "#Trump #Epstein #GhislaneMaxwell Second tier of women \u201cassistants\u201d kept the wheels of the sex- trafficking enterprise turning. None of these women has been charged, named in legal documents & by victi...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:08:47.198Z",
+      "hashtags": "['#Epstein' '#Trump' '#GhislaneMaxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775109",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 230,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvownpfjuz2y",
+      "text": "How the Epstein Files Blew Up a Pro-Trump AI Bot Network\u00a0on X Using large language models to run influence campaigns can go awry when they start echoing narratives that contradict the intended message\n\nInterest | Match | Feed",
+      "text_cleaned": "How the Epstein Files Blew Up a Pro-Trump AI Bot Network on X Using large language models to run influence campaigns can go awry when they start echoing narratives that contradict the intended message Interest | Match | Feed",
+      "text_preview": "How the Epstein Files Blew Up a Pro-Trump AI Bot Network\u00a0on X Using large language models to run influence campaigns can go awry when they start echoing narratives that contradict the intended message...",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-06T00:09:25Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775089",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 225,
+      "text_cleaned_length": 224,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowlivdjc2j",
+      "text": "April 2025, People died, Trump boasted and then it all went quiet. Maybe one day the #Truth will come out.\n#Trump #Houthis #Anonymous #USA #DroneStrike #Death #Hodeida #Eid #Festival #CENTCOM #disinformation #misinformation \nx.com/i/grok/share...",
+      "text_cleaned": "April 2025, People died, Trump boasted and then it all went quiet. Maybe one day the will come out. x.com/i/grok/share...",
+      "text_preview": "April 2025, People died, Trump boasted and then it all went quiet. Maybe one day the #Truth will come out.\n#Trump #Houthis #Anonymous #USA #DroneStrike #Death #Hodeida #Eid #Festival #CENTCOM #disinfo...",
+      "author": "zarcode.bsky.social",
+      "author_display_name": "For a Better World",
+      "created_at": "2025-08-06T00:08:11.840Z",
+      "hashtags": "['#Eid' '#Festival' '#disinformation' '#USA' '#Anonymous' '#Death'\n '#Trump' '#Houthis' '#Truth' '#DroneStrike' '#Hodeida' '#CENTCOM'\n '#misinformation']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775133",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 246,
+      "text_cleaned_length": 121,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowhwrws22h",
+      "text": "US economy on \u2018precipice of recession,\u2019 Moody\u2019s chief economist warns!\n\nthehill.com/homenews/adm...\n\n#USpoli \n#Trump \n#TrumpTariffs \ud83d\udcc8\n#TrumpCession\ud83d\udcc9\n#TrumpFlation\ud83d\udcc8\n#FuckTrump \ud83d\udd95\ud83c\udffc",
+      "text_cleaned": "US economy on \u2018precipice of recession,\u2019 Moody\u2019s chief economist warns! thehill.com/homenews/adm... \ud83d\udcc8 \ud83d\udcc9 \ud83d\udcc8 \ud83d\udd95\ud83c\udffc",
+      "text_preview": "US economy on \u2018precipice of recession,\u2019 Moody\u2019s chief economist warns!\n\nthehill.com/homenews/adm...\n\n#USpoli \n#Trump \n#TrumpTariffs \ud83d\udcc8\n#TrumpCession\ud83d\udcc9\n#TrumpFlation\ud83d\udcc8\n#FuckTrump \ud83d\udd95\ud83c\udffc",
+      "author": "theubiquitousj-man.bsky.social",
+      "author_display_name": "The Ubiquitous J-Man",
+      "created_at": "2025-08-06T00:06:12.192Z",
+      "hashtags": "['#TrumpTariffs' '#TrumpFlation' '#TrumpCession' '#FuckTrump' '#USpoli'\n '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775148",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 177,
+      "text_cleaned_length": 107,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowhdmeys2y",
+      "text": "How about we throw Trump merchandise into the harbor instead of tea. #tariffs #trump",
+      "text_cleaned": "How about we throw Trump merchandise into the harbor instead of tea.",
+      "text_preview": "How about we throw Trump merchandise into the harbor instead of tea. #tariffs #trump",
+      "author": "ventandwhine.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:05:52.087Z",
+      "hashtags": "['#tariffs' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775154",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 84,
+      "text_cleaned_length": 68,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvowlr77dc23",
+      "text": "More #FascistFluffers and general assholes nominated by #Trump, #USA.",
+      "text_cleaned": "More and general assholes nominated by , .",
+      "text_preview": "More #FascistFluffers and general assholes nominated by #Trump, #USA.",
+      "author": "alangnixon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T00:08:20.554Z",
+      "hashtags": "['#USA' '#Trump' '#FascistFluffers']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775115",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 69,
+      "text_cleaned_length": 42,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvownm2c4k2o",
+      "text": "yep.  #trump destroyed jobs and workers lives.",
+      "text_cleaned": "yep. destroyed jobs and workers lives.",
+      "text_preview": "yep.  #trump destroyed jobs and workers lives.",
+      "author": "xraynaqueen.bsky.social",
+      "author_display_name": "XraynaVotesBlue \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\uddf2\ud83c\uddfd",
+      "created_at": "2025-08-06T00:09:22.259Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T00:10:04.775096",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 00:10:10.007000",
+      "text_length": 46,
+      "text_cleaned_length": 38,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
