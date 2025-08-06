@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_024040",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 02:35:10.007000",
+    "latest_received_at": "2025-08-06 02:40:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvp6ua4cuc2d",
+      "text": "\u201cMSNBC\u2019s Lawrence O\u2019Donnell is predicting a pardon for convicted sex trafficker Ghislaine Maxwell, whose accomplice Jeffrey #Epstein died in prison while awaiting trial \u2014 as long as she exonerates President Donald #Trump from any potential involvement in their crimes.\u201d #corruption flip.it/3k0t8m",
+      "text_cleaned": "\u201cMSNBC\u2019s Lawrence O\u2019Donnell is predicting a pardon for convicted sex trafficker Ghislaine Maxwell, whose accomplice Jeffrey died in prison while awaiting trial \u2014 as long as she exonerates President Donald from any potential involvement in their crimes.\u201d flip.it/3k0t8m",
+      "text_preview": "\u201cMSNBC\u2019s Lawrence O\u2019Donnell is predicting a pardon for convicted sex trafficker Ghislaine Maxwell, whose accomplice Jeffrey #Epstein died in prison while awaiting trial \u2014 as long as she exonerates Pre...",
+      "author": "mediaactive.bsky.social",
+      "author_display_name": "MediaActive \u25aa\ufe0fEQUALITY \u25aa\ufe0fJUSTICE \u25aa\ufe0fPEACE",
+      "created_at": "2025-08-06T02:36:14.557Z",
+      "hashtags": "['#Trump' '#Epstein' '#corruption']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:40:03.602033",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:40:10.006000",
+      "text_length": 296,
+      "text_cleaned_length": 268,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6rzp537r2",
+      "text": "#Trump has openly mused about whether to remove #JeromePowell before his tenure as chair ends, but he's held off on dismissing the #Fed chair after a recent #SCOTUS ruling suggested he could only do so for cause rather than out of policy disagreements. Trump has put pressure on Powell by [\u2026]",
+      "text_cleaned": "has openly mused about whether to remove before his tenure as chair ends, but he's held off on dismissing the chair after a recent ruling suggested he could only do so for cause rather than out of policy disagreements. Trump has put pressure on Powell by [\u2026]",
+      "text_preview": "#Trump has openly mused about whether to remove #JeromePowell before his tenure as chair ends, but he's held off on dismissing the #Fed chair after a recent #SCOTUS ruling suggested he could only do s...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-06T02:33:58.000Z",
+      "hashtags": "['#Trump' '#SCOTUS' '#Fed' '#JeromePowell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:40:03.601686",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:40:10.006000",
+      "text_length": 292,
+      "text_cleaned_length": 258,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6wfzacr2l",
+      "text": "One of the many reasons I don\u2019t believe in God is religion(s).\nIf God existed, he/she would never have allowed religion to be weaponized and used as a tool for fascist cult leaders.\n#trump #MAGA #fascism #religion #white...\n#democracy #usa #gop #fascists\n\n\ud83d\udc49 Vote 'em Out!\n",
+      "text_cleaned": "One of the many reasons I don\u2019t believe in God is religion(s). If God existed, he/she would never have allowed religion to be weaponized and used as a tool for fascist cult leaders. ... \ud83d\udc49 Vote 'em Out!",
+      "text_preview": "One of the many reasons I don\u2019t believe in God is religion(s).\nIf God existed, he/she would never have allowed religion to be weaponized and used as a tool for fascist cult leaders.\n#trump #MAGA #fasc...",
+      "author": "cubanx.bsky.social",
+      "author_display_name": "CubanX",
+      "created_at": "2025-08-06T02:37:27.811833+00:00",
+      "hashtags": "['#usa' '#white' '#gop' '#fascism' '#fascists' '#religion' '#democracy'\n '#MAGA' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:40:03.602025",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:40:10.006000",
+      "text_length": 272,
+      "text_cleaned_length": 201,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6zynewz2m",
+      "text": "Trump threatens federal takeover of DC after attack on former DOGE worker\n#Trump",
+      "text_cleaned": "Trump threatens federal takeover of DC after attack on former DOGE worker",
+      "text_preview": "Trump threatens federal takeover of DC after attack on former DOGE worker\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T02:39:27.690Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:40:03.601989",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:40:10.006000",
+      "text_length": 80,
+      "text_cleaned_length": 73,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6tl4jx42z",
+      "text": "\ud83d\udd5f 04:29 | NOS Nieuws\n\ud83d\udd38 #Trump #Bezuinigingen #Subsidie #USA #Universiteit",
+      "text_cleaned": "\ud83d\udd5f 04:29 | NOS Nieuws \ud83d\udd38",
+      "text_preview": "\ud83d\udd5f 04:29 | NOS Nieuws\n\ud83d\udd38 #Trump #Bezuinigingen #Subsidie #USA #Universiteit",
+      "author": "nieuwsjunkies.nl",
+      "author_display_name": "NieuwsJunkies.nl",
+      "created_at": "2025-08-06T02:35:52.3484138+00:00",
+      "hashtags": "['#Trump' '#Universiteit' '#Bezuinigingen' '#USA' '#Subsidie']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:40:03.602041",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:40:10.006000",
+      "text_length": 73,
+      "text_cleaned_length": 22,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6xvro322z",
+      "text": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "text_cleaned": "",
+      "text_preview": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "author": "antimaggotzone.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:38:17.922Z",
+      "hashtags": "['#Trump' '#ReleaseTheEpsteinFiles' '#EpsteinCoverUp' '#Epstein'\n '#EpsteinTrumpFiles' '#EpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:40:03.601999",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:40:10.006000",
+      "text_length": 90,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvp6wozd7f2w",
+      "text": "\n#conflict   #peace   #peace talks   #Trump",
+      "text_cleaned": "talks",
+      "text_preview": "\n#conflict   #peace   #peace talks   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T02:37:58.111204+00:00",
+      "hashtags": "['#conflict' '#Trump' '#peace']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:40:03.602008",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:40:10.006000",
+      "text_length": 43,
+      "text_cleaned_length": 5,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6wioyzs2t",
+      "text": "#diddlerontheroof #tRUMP #maga #pedophiles",
+      "text_cleaned": "",
+      "text_preview": "#diddlerontheroof #tRUMP #maga #pedophiles",
+      "author": "amywooly.bsky.social",
+      "author_display_name": "Amy",
+      "created_at": "2025-08-06T02:37:30.660Z",
+      "hashtags": "['#tRUMP' '#maga' '#pedophiles' '#diddlerontheroof']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:40:03.602014",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:40:10.006000",
+      "text_length": 42,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvp6n6npoc2d",
+      "text": "\u201cYeonsoo Go, who was handcuffed by Immigration & Customs Enforcement agents upon leaving her visa hearing, was kept at a facility in Louisiana, according to the ICE database\u201d. Intensifying FEAR is a key ingredient in the accelerating #Trump #fascism project. #racism\n#GOP flip.it/cMmGg3",
+      "text_cleaned": "\u201cYeonsoo Go, who was handcuffed by Immigration & Customs Enforcement agents upon leaving her visa hearing, was kept at a facility in Louisiana, according to the ICE database\u201d. Intensifying FEAR is a key ingredient in the accelerating project. flip.it/cMmGg3",
+      "text_preview": "\u201cYeonsoo Go, who was handcuffed by Immigration & Customs Enforcement agents upon leaving her visa hearing, was kept at a facility in Louisiana, according to the ICE database\u201d. Intensifying FEAR is a k...",
+      "author": "mediaactive.bsky.social",
+      "author_display_name": "MediaActive \u25aa\ufe0fEQUALITY \u25aa\ufe0fJUSTICE \u25aa\ufe0fPEACE",
+      "created_at": "2025-08-06T02:32:18.149Z",
+      "hashtags": "['#Trump' '#racism' '#fascism' '#GOP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649738",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 286,
+      "text_cleaned_length": 257,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6k2b2b3p2",
+      "text": "\"I think Kevin & Kevin, both Kevins, are very good,\" #Trump said during an interview on CNBC's \"Squawk Box.\"\n\nHe said 2 other people were also under consideration, but Treasury Secretary Scott Bessent is not among them.\n\n\"I love Scott, but he wants to stay where he is,\" Trump said. He did not [\u2026]",
+      "text_cleaned": "\"I think Kevin & Kevin, both Kevins, are very good,\" said during an interview on CNBC's \"Squawk Box.\" He said 2 other people were also under consideration, but Treasury Secretary Scott Bessent is not among them. \"I love Scott, but he wants to stay where he is,\" Trump said. He did not [\u2026]",
+      "text_preview": "\"I think Kevin & Kevin, both Kevins, are very good,\" #Trump said during an interview on CNBC's \"Squawk Box.\"\n\nHe said 2 other people were also under consideration, but Treasury Secretary Scott Bessent...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-06T02:30:21.000Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649497",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 297,
+      "text_cleaned_length": 288,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvp6ml43p5v2",
+      "text": "The news that #Trump plans to make a decision on the #Fed chair \"soon\" comes as the Republican president has been highly critical of current chair #JeromePowell, whose term ends in May 2026. Trump recently floated having the Fed's board of governors take full control of the US central bank from [\u2026]",
+      "text_cleaned": "The news that plans to make a decision on the chair \"soon\" comes as the Republican president has been highly critical of current chair , whose term ends in May 2026. Trump recently floated having the Fed's board of governors take full control of the US central bank from [\u2026]",
+      "text_preview": "The news that #Trump plans to make a decision on the #Fed chair \"soon\" comes as the Republican president has been highly critical of current chair #JeromePowell, whose term ends in May 2026. Trump rec...",
+      "author": "nonilex.masto.ai.ap.brid.gy",
+      "author_display_name": "Nonilex",
+      "created_at": "2025-08-06T02:31:49.000Z",
+      "hashtags": "['#Trump' '#Fed' '#JeromePowell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649481",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 299,
+      "text_cleaned_length": 274,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6qfzjbs2r",
+      "text": "\u2018We lost everything\u2019: Families of detained #immigrants are drowning in #debt\n\nThe consequences of #Trump \u2019s #immigrationPolicy are also #Economic \u2014 without their primary breadwinners, #family members are losing everything they worked so hard to achieve.\n\nshare.google/qVb7o9sV0cKA...",
+      "text_cleaned": "\u2018We lost everything\u2019: Families of detained are drowning in The consequences of \u2019s are also \u2014 without their primary breadwinners, members are losing everything they worked so hard to achieve. share.google/qVb7o9sV0cKA...",
+      "text_preview": "\u2018We lost everything\u2019: Families of detained #immigrants are drowning in #debt\n\nThe consequences of #Trump \u2019s #immigrationPolicy are also #Economic \u2014 without their primary breadwinners, #family members ...",
+      "author": "maqsoodasi.bsky.social",
+      "author_display_name": "Maqsood Asi",
+      "created_at": "2025-08-06T02:34:06.540Z",
+      "hashtags": "['#Economic' '#debt' '#Trump' '#immigrationPolicy' '#immigrants' '#family']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649709",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 283,
+      "text_cleaned_length": 219,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6nmh5nk2a",
+      "text": "#trump \n\nHey, game show host, trump! \nHere\u2019s an idea\u2026 instead of firing everyone for speaking the truth about your failing as a leader, \nDO BETTER!\n\nTHANK YOU FOR YOUR ATTENTION TO THIS MATTER!",
+      "text_cleaned": "Hey, game show host, trump! Here\u2019s an idea\u2026 instead of firing everyone for speaking the truth about your failing as a leader, DO BETTER! THANK YOU FOR YOUR ATTENTION TO THIS MATTER!",
+      "text_preview": "#trump \n\nHey, game show host, trump! \nHere\u2019s an idea\u2026 instead of firing everyone for speaking the truth about your failing as a leader, \nDO BETTER!\n\nTHANK YOU FOR YOUR ATTENTION TO THIS MATTER!",
+      "author": "anniemollo.bsky.social",
+      "author_display_name": "AnnieM \ud83e\udd8b\ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-06T02:32:32.615Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649730",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 193,
+      "text_cleaned_length": 181,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6p6ly362a",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-06T02:33:25.023Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649716",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6m3mlp22v",
+      "text": "If these people won't draw the line at children getting raped, then the line doesn't exist. \n\nSeriously, if you're willing to compromise on that, what ISN'T negotiable? \n\n#Trump #Epstein",
+      "text_cleaned": "If these people won't draw the line at children getting raped, then the line doesn't exist. Seriously, if you're willing to compromise on that, what ISN'T negotiable?",
+      "text_preview": "If these people won't draw the line at children getting raped, then the line doesn't exist. \n\nSeriously, if you're willing to compromise on that, what ISN'T negotiable? \n\n#Trump #Epstein",
+      "author": "kemek.bsky.social",
+      "author_display_name": "Benjamin O. Anderson",
+      "created_at": "2025-08-06T02:31:41.412Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649758",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 186,
+      "text_cleaned_length": 166,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp6n2rd7c2z",
+      "text": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "text_cleaned": "",
+      "text_preview": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "author": "antimaggotzone.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:32:14.058Z",
+      "hashtags": "['#EpsteinFiles' '#Trump' '#Epstein' '#EpsteinTrumpFiles'\n '#EpsteinCoverUp' '#ReleaseTheEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649745",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 90,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 5.5
+    },
+    {
+      "post_id": "3lvp6kth7uc2z",
+      "text": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "text_cleaned": "",
+      "text_preview": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "author": "antimaggotzone.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:30:59.275Z",
+      "hashtags": "['#EpsteinFiles' '#Trump' '#Epstein' '#EpsteinTrumpFiles'\n '#EpsteinCoverUp' '#ReleaseTheEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 5,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649765",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 90,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 8.0
+    },
+    {
+      "post_id": "3lvp6nu5qbk2z",
+      "text": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "text_cleaned": "",
+      "text_preview": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "author": "antimaggotzone.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:32:40.684Z",
+      "hashtags": "['#EpsteinFiles' '#Trump' '#Epstein' '#EpsteinTrumpFiles'\n '#EpsteinCoverUp' '#ReleaseTheEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 3,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:35:03.649724",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:35:10.007000",
+      "text_length": 90,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 6.0
+    }
+  ]
+}
