@@ -1,0 +1,187 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113900",
+    "original_batch": "batch_20250805_040156.json",
+    "enhanced_post_count": 5,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 4,
+      "emotion_coverage": 4,
+      "processing_speed": 75.24454477050413,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvmt2lvag22t",
+      "text": "youtu.be/ID7dlzSZeWM?...\n#dementiaawareness #dementia #Alzheimers #Trump #MAGA #Biden #Demoncrats #Democrats #Republicans #politics #antisjw #sjw #hatespeech #monsters #onionnuggetz #deepfatfried #fraychaoswizard the dementia files are opened again",
+      "text_cleaned": "youtu.be/ID7dlzSZeWM?... the dementia files are opened again",
+      "text_preview": "youtu.be/ID7dlzSZeWM?...\n#dementiaawareness #dementia #Alzheimers #Trump #MAGA #Biden #Demoncrats #Democrats #Republicans #politics #antisjw #sjw #hatespeech #monsters #onionnuggetz #deepfatfried #fra...",
+      "author": "craftyandy.bsky.social",
+      "author_display_name": "CraftyAndy",
+      "created_at": "2025-08-05T03:59:43.856Z",
+      "hashtags": "['#antisjw' '#politics' '#dementia' '#monsters' '#Demoncrats' '#Biden'\n '#onionnuggetz' '#deepfatfried' '#MAGA' '#sjw' '#hatespeech'\n '#Alzheimers' '#Trump' '#Republicans' '#fraychaoswizard'\n '#dementiaawareness' '#Democrats']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:00:03.513100",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:00:10.008000",
+      "text_length": 248,
+      "text_cleaned_length": 60,
+      "hashtag_count": 17,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.3157901205122471,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "surprise",
+      "emotion_confidence": 0.7566158771514893,
+      "ml_processed_at": "2025-08-06 11:39:00.524942",
+      "processing_speed": 75.24454477050413,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvmsu7g4js25",
+      "text": "#fyp #epstein #trump #maga\nyoutube.com/shorts/ZaItW...",
+      "text_cleaned": "youtube.com/shorts/ZaItW...",
+      "text_preview": "#fyp #epstein #trump #maga\nyoutube.com/shorts/ZaItW...",
+      "author": "xanthe91.bsky.social",
+      "author_display_name": "Xanthe",
+      "created_at": "2025-08-05T03:56:09.452Z",
+      "hashtags": "['#fyp' '#maga' '#epstein' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T04:00:03.513108",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 04:00:10.008000",
+      "text_length": 54,
+      "text_cleaned_length": 27,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.009389961138367653,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7801876664161682,
+      "ml_processed_at": "2025-08-06 11:39:00.524942",
+      "processing_speed": 75.24454477050413,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvmsitotis2g",
+      "text": "youtube.com/shorts/S_2-U...\nJohn Bolton, quien fue Consejero de Seguridad Nacional en 2018 a 2019, durante el primer mandato de Donald Trump, asegur\u00f3 que Trump no tiene idea de como funcionan los submarinos nucleares estrat\u00e9gicos de los Estados Unidos.\n\n#noticias #geopolitica #Trump #Rusia",
+      "text_cleaned": "youtube.com/shorts/S_2-U... John Bolton, quien fue Consejero de Seguridad Nacional en 2018 a 2019, durante el primer mandato de Donald Trump, asegur\u00f3 que Trump no tiene idea de como funcionan los submarinos nucleares estrat\u00e9gicos de los Estados Unidos.",
+      "text_preview": "youtube.com/shorts/S_2-U...\nJohn Bolton, quien fue Consejero de Seguridad Nacional en 2018 a 2019, durante el primer mandato de Donald Trump, asegur\u00f3 que Trump no tiene idea de como funcionan los subm...",
+      "author": "geopolitica-y.bsky.social",
+      "author_display_name": "Econom\u00eda y Geopol\u00edtica",
+      "created_at": "2025-08-05T03:49:48.055Z",
+      "hashtags": "['#noticias' '#Rusia' '#geopolitica' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:55:03.043763",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:55:10.007000",
+      "text_length": 290,
+      "text_cleaned_length": 252,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0,
+      "ml_sentiment_score": -0.009587161615490914,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8249958157539368,
+      "ml_processed_at": "2025-08-06 11:39:00.524942",
+      "processing_speed": 75.24454477050413,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvmsq5ccds2d",
+      "text": "Judge Richard M. German had ordered the release of this letter \n\nHere is a letter sent by to Judge German from an anonymous lady who was abused by Epstein \n\n#trump #epsteinfiles\n\nstorage.courtlistener.com/recap/gov.us...",
+      "text_cleaned": "Judge Richard M. German had ordered the release of this letter Here is a letter sent by to Judge German from an anonymous lady who was abused by Epstein storage.courtlistener.com/recap/gov.us...",
+      "text_preview": "Judge Richard M. German had ordered the release of this letter \n\nHere is a letter sent by to Judge German from an anonymous lady who was abused by Epstein \n\n#trump #epsteinfiles\n\nstorage.courtlistener...",
+      "author": "lostmyticket.bsky.social",
+      "author_display_name": "Bob Osser",
+      "created_at": "2025-08-05T03:53:53.011Z",
+      "hashtags": "['#trump' '#epsteinfiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:55:03.043750",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:55:10.007000",
+      "text_length": 220,
+      "text_cleaned_length": 194,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.003689492493867874,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.4308139383792877,
+      "ml_processed_at": "2025-08-06 11:39:00.524942",
+      "processing_speed": 75.24454477050413,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvmsrn22zc25",
+      "text": "#fyp #epstein #trump #maga",
+      "text_cleaned": "",
+      "text_preview": "#fyp #epstein #trump #maga",
+      "author": "xanthe91.bsky.social",
+      "author_display_name": "Xanthe",
+      "created_at": "2025-08-05T03:54:43.074Z",
+      "hashtags": "['#fyp' '#maga' '#epstein' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T03:55:03.043741",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 03:55:10.007000",
+      "text_length": 26,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": "",
+      "ml_sentiment_label": "",
+      "dominant_emotion": "",
+      "emotion_confidence": "",
+      "ml_processed_at": "2025-08-06 11:39:00.524942",
+      "processing_speed": 75.24454477050413,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
