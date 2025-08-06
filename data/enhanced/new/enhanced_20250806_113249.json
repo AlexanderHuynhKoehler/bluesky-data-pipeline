@@ -1,0 +1,255 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113249",
+    "original_batch": "batch_20250804_071246.json",
+    "enhanced_post_count": 7,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 5,
+      "emotion_coverage": 5,
+      "processing_speed": 90.02682799474243,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvkmwwqdb22c",
+      "text": "To my friends in the US: Orb\u00e1n in Hungary forced the statistical bureau to doctor data on poverty. He set up a bunch of pollsters to create fake polls that always favor him. So, #Trump is just following down that path.",
+      "text_cleaned": "To my friends in the US: Orb\u00e1n in Hungary forced the statistical bureau to doctor data on poverty. He set up a bunch of pollsters to create fake polls that always favor him. So, is just following down that path.",
+      "text_preview": "To my friends in the US: Orb\u00e1n in Hungary forced the statistical bureau to doctor data on poverty. He set up a bunch of pollsters to create fake polls that always favor him. So, #Trump is just followi...",
+      "author": "henribeyle.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T07:04:59.084Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:10:03.243601",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:10:10.007000",
+      "text_length": 218,
+      "text_cleaned_length": 211,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.7891926215961576,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "disgust",
+      "emotion_confidence": 0.5593723058700562,
+      "ml_processed_at": "2025-08-06 11:32:49.460357",
+      "processing_speed": 90.02682799474243,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkn6fp7hc2n",
+      "text": "#Trump s weiterer Schlag gegen den #Klimaschutz - ein DLF #Podcast\n\nshare.deutschlandradio.de/dlf-audiothe...",
+      "text_cleaned": "s weiterer Schlag gegen den - ein DLF share.deutschlandradio.de/dlf-audiothe...",
+      "text_preview": "#Trump s weiterer Schlag gegen den #Klimaschutz - ein DLF #Podcast\n\nshare.deutschlandradio.de/dlf-audiothe...",
+      "author": "unpaesslichkeiten.bsky.social",
+      "author_display_name": "Unp\u00e4sslichkeiten",
+      "created_at": "2025-08-04T07:09:09.657Z",
+      "hashtags": "['#Klimaschutz' '#Podcast' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:10:03.243574",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:10:10.007000",
+      "text_length": 109,
+      "text_cleaned_length": 79,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.009869638457894325,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.5098473429679871,
+      "ml_processed_at": "2025-08-06 11:32:49.460357",
+      "processing_speed": 90.02682799474243,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkn2j2mos2z",
+      "text": "www.tiktok.com/t/ZT6UgfovC/\n\n#trump",
+      "text_cleaned": "",
+      "text_preview": "www.tiktok.com/t/ZT6UgfovC/\n\n#trump",
+      "author": "prompt-click-nomad.bsky.social",
+      "author_display_name": "Abiud Amaro Diaz",
+      "created_at": "2025-08-04T07:06:58.959Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:10:03.243593",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:10:10.007000",
+      "text_length": 35,
+      "text_cleaned_length": 0,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": "",
+      "ml_sentiment_label": "",
+      "dominant_emotion": "",
+      "emotion_confidence": "",
+      "ml_processed_at": "2025-08-06 11:32:49.460357",
+      "processing_speed": 90.02682799474243,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkn5ntjxc2y",
+      "text": "It's Van Gone. #Trump",
+      "text_cleaned": "It's Van Gone.",
+      "text_preview": "It's Van Gone. #Trump",
+      "author": "moranstephen1000.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T07:08:44.629Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:10:03.243581",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:10:10.007000",
+      "text_length": 21,
+      "text_cleaned_length": 14,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.21728893741965294,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8797687888145447,
+      "ml_processed_at": "2025-08-06 11:32:49.460357",
+      "processing_speed": 90.02682799474243,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkn2ynpfc2y",
+      "text": "MAGA #MAGA #Trump #GOP",
+      "text_cleaned": "MAGA",
+      "text_preview": "MAGA #MAGA #Trump #GOP",
+      "author": "moranstephen1000.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T07:07:15.309Z",
+      "hashtags": "['#MAGA' '#GOP' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:10:03.243587",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:10:10.007000",
+      "text_length": 22,
+      "text_cleaned_length": 4,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": "",
+      "ml_sentiment_label": "",
+      "dominant_emotion": "",
+      "emotion_confidence": "",
+      "ml_processed_at": "2025-08-06 11:32:49.460357",
+      "processing_speed": 90.02682799474243,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkms3xhma2w",
+      "text": "\ud83d\udcca Weak U.S. job growth is putting the Fed under the spotlight! \ud83d\udcbc Analysts predict possible interest rate shifts. Eyes on the crypto market for ripple effects on Bitcoin and digital assets! \ud83d\ude80 #Economy #Fed #CryptoNews",
+      "text_cleaned": "\ud83d\udcca Weak U.S. job growth is putting the Fed under the spotlight! \ud83d\udcbc Analysts predict possible interest rate shifts. Eyes on the crypto market for ripple effects on Bitcoin and digital assets! \ud83d\ude80",
+      "text_preview": "\ud83d\udcca Weak U.S. job growth is putting the Fed under the spotlight! \ud83d\udcbc Analysts predict possible interest rate shifts. Eyes on the crypto market for ripple effects on Bitcoin and digital assets! \ud83d\ude80 #Economy ...",
+      "author": "miningguide.bsky.social",
+      "author_display_name": "MiningGuide",
+      "created_at": "2025-08-04T07:02:16.510284Z",
+      "hashtags": "['#Fed' '#CryptoNews' '#Economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:05:03.340151",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:05:10.008000",
+      "text_length": 216,
+      "text_cleaned_length": 190,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.4056583531200886,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "fear",
+      "emotion_confidence": 0.8552823662757874,
+      "ml_processed_at": "2025-08-06 11:32:49.460357",
+      "processing_speed": 90.02682799474243,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkmofz4qs23",
+      "text": "And a lot of #Republican men are creepy:  like #TedCruz  talking about Sydney Sweeney; gross!\n& #Trump talking about Karoline Levitt's lips; yuck!\n\nyoutube.com/shorts/R5ZoI...",
+      "text_cleaned": "And a lot of men are creepy: like talking about Sydney Sweeney; gross! & talking about Karoline Levitt's lips; yuck! youtube.com/shorts/R5ZoI...",
+      "text_preview": "And a lot of #Republican men are creepy:  like #TedCruz  talking about Sydney Sweeney; gross!\n& #Trump talking about Karoline Levitt's lips; yuck!\n\nyoutube.com/shorts/R5ZoI...",
+      "author": "msjaggers.bsky.social",
+      "author_display_name": "Ms Jaggers",
+      "created_at": "2025-08-04T07:00:13.111Z",
+      "hashtags": "['#Republican' '#Trump' '#TedCruz']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T07:05:03.340422",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 07:05:10.008000",
+      "text_length": 175,
+      "text_cleaned_length": 144,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.9061676161363721,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "disgust",
+      "emotion_confidence": 0.9642390608787537,
+      "ml_processed_at": "2025-08-06 11:32:49.460357",
+      "processing_speed": 90.02682799474243,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
