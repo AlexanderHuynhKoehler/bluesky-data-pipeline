@@ -1,0 +1,689 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_134440",
+    "post_count": 25,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 13:35:10.006000",
+    "latest_received_at": "2025-08-06 13:40:10.006000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvqdr7s2k22i",
+      "text": "The #GOP scheme: redraw the Texas map mid\u2011decade to wipe out Democratic districts, esp. ones w/ Black & Latino majorities, & create 5 more GOP\u2011friendly seats for #Trump.\n\nBut #Democrats aren\u2019t just standing there.\n\n\u2705 Fighting Fire With Fire - by JoJoFromJerz\njojofromjerz.substack.com/p/fighting-f...",
+      "text_cleaned": "The scheme: redraw the Texas map mid\u2011decade to wipe out Democratic districts, esp. ones w/ Black & Latino majorities, & create 5 more GOP\u2011friendly seats for . But aren\u2019t just standing there. \u2705 Fighting Fire With Fire - by JoJoFromJerz jojofromjerz.substack.com/p/fighting-f...",
+      "text_preview": "The #GOP scheme: redraw the Texas map mid\u2011decade to wipe out Democratic districts, esp. ones w/ Black & Latino majorities, & create 5 more GOP\u2011friendly seats for #Trump.\n\nBut #Democrats aren\u2019t just st...",
+      "author": "kurtsh.bsky.social",
+      "author_display_name": "kurtsh",
+      "created_at": "2025-08-06T13:36:41.735509Z",
+      "hashtags": "['#Democrats' '#Trump' '#GOP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354962",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 300,
+      "text_cleaned_length": 276,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdtuq6222r",
+      "text": "EXPEL #PeteHoekStra\nNO \u201cgovernment officials\u201d are directing #\ud83c\udde8\ud83c\udde6 citizens to #boycottUSA*\nwe WERE not \u201cAnti-American\u201d\nwe ARE anti #Tariffs #ICE #AlligatorAlcatraz \ud83d\udc0a++\n* OH #BOURBON & #California #Wine \ud83c\udf77\ud83d\ude02 \ud83d\udd1a on #CBC #Power&Politics \u2022 #usMca! #cdnPoli #Canada #trump #NAmer2025 #ExpelPeteHoekstra",
+      "text_cleaned": "EXPEL NO \u201cgovernment officials\u201d are directing #\ud83c\udde8\ud83c\udde6 citizens to * we WERE not \u201cAnti-American\u201d we ARE anti \ud83d\udc0a++ * OH & \ud83c\udf77\ud83d\ude02 \ud83d\udd1a on &Politics \u2022 !",
+      "text_preview": "EXPEL #PeteHoekStra\nNO \u201cgovernment officials\u201d are directing #\ud83c\udde8\ud83c\udde6 citizens to #boycottUSA*\nwe WERE not \u201cAnti-American\u201d\nwe ARE anti #Tariffs #ICE #AlligatorAlcatraz \ud83d\udc0a++\n* OH #BOURBON & #California #Wine ...",
+      "author": "grannycanuck.bsky.social",
+      "author_display_name": "\ud83d\udcaa\ud83c\udffc\ud83e\udece\ud83d\udef6\ud83e\uddab\ud83c\udf32\ud83d\udca8\ud83e\udea8\ud83c\udf0a",
+      "created_at": "2025-08-06T13:38:11.071Z",
+      "hashtags": "['#boycottUSA' '#ExpelPeteHoekstra' '#CBC' '#BOURBON' '#cdnPoli' '#trump'\n '#Tariffs' '#Power' '#usMca' '#California' '#PeteHoekStra' '#NAmer2025'\n '#Wine' '#Canada' '#ICE' '#AlligatorAlcatraz']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354946",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 292,
+      "text_cleaned_length": 136,
+      "hashtag_count": 16,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvqdntfv422i",
+      "text": "2024 What else #Democrats are lying about \u2014 Part 4: Most things. Cynics assume all politicians are liars but today\u2019s #DemocraticParty #leadership is particularly prone to #dishonesty about #policies great & small. #Democratic lies inspired by fantastic #fraud perpetrated by #Biden mental acuity",
+      "text_cleaned": "2024 What else are lying about \u2014 Part 4: Most things. Cynics assume all politicians are liars but today\u2019s is particularly prone to about great & small. lies inspired by fantastic perpetrated by mental acuity",
+      "text_preview": "2024 What else #Democrats are lying about \u2014 Part 4: Most things. Cynics assume all politicians are liars but today\u2019s #DemocraticParty #leadership is particularly prone to #dishonesty about #policies g...",
+      "author": "usaneeds3rdparty.bsky.social",
+      "author_display_name": "Independent Moderate",
+      "created_at": "2025-08-06T13:34:48.361Z",
+      "hashtags": "['#Democrats' '#policies' '#DemocraticParty' '#Biden' '#leadership'\n '#Democratic' '#dishonesty' '#fraud']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.355157",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 295,
+      "text_cleaned_length": 207,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqdrevkix62",
+      "text": "The #GOP scheme: redraw the Texas map mid\u2011decade to wipe out Democratic districts, esp. ones w/ Black & Latino majorities, & create 5 more GOP\u2011friendly seats for #Trump.\n\nBut #Democrats aren\u2019t just standing there.\n\n\u2705 Fighting Fire With Fire - by JoJoFromJerz [\u2026]",
+      "text_cleaned": "The scheme: redraw the Texas map mid\u2011decade to wipe out Democratic districts, esp. ones w/ Black & Latino majorities, & create 5 more GOP\u2011friendly seats for . But aren\u2019t just standing there. \u2705 Fighting Fire With Fire - by JoJoFromJerz [\u2026]",
+      "text_preview": "The #GOP scheme: redraw the Texas map mid\u2011decade to wipe out Democratic districts, esp. ones w/ Black & Latino majorities, & create 5 more GOP\u2011friendly seats for #Trump.\n\nBut #Democrats aren\u2019t just st...",
+      "author": "kurtsh.mastodon.social.ap.brid.gy",
+      "author_display_name": "kurtsh",
+      "created_at": "2025-08-06T13:36:40.000Z",
+      "hashtags": "['#Democrats' '#Trump' '#GOP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354971",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 262,
+      "text_cleaned_length": 238,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdomfc5s2o",
+      "text": "#Magic by #Trump. All the new tariff #TAX paid by #American people. Maybe a rebate from the Government. The rebate will be a fraction of the additional tax paid by Americans. Where is Trump\u2019s tariff tax money going? Here\u2019s what he\u2019s said and how much has come in. www.marketwatch.com/story/where-...",
+      "text_cleaned": "by . All the new tariff paid by people. Maybe a rebate from the Government. The rebate will be a fraction of the additional tax paid by Americans. Where is Trump\u2019s tariff tax money going? Here\u2019s what he\u2019s said and how much has come in.",
+      "text_preview": "#Magic by #Trump. All the new tariff #TAX paid by #American people. Maybe a rebate from the Government. The rebate will be a fraction of the additional tax paid by Americans. Where is Trump\u2019s tariff t...",
+      "author": "therealenzooo.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T13:35:14.555Z",
+      "hashtags": "['#American' '#Magic' '#TAX' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354999",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 299,
+      "text_cleaned_length": 235,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqdrmkulc26",
+      "text": "\ud83d\udd25 I numeri di #TIM fanno sognare: \u00e8 l'inizio della svolta tanto attesa? \ud83d\udea8 Scopri i dati che hanno incantato il mercato su ORA ULTIMA: www.oraultima.com/risultati-ti...\n\n#OraUltima #6agosto #saelanews #buongiorno #italia #news #economia #finanza #economy #finance #money",
+      "text_cleaned": "\ud83d\udd25 I numeri di fanno sognare: \u00e8 l'inizio della svolta tanto attesa? \ud83d\udea8 Scopri i dati che hanno incantato il mercato su ORA ULTIMA:",
+      "text_preview": "\ud83d\udd25 I numeri di #TIM fanno sognare: \u00e8 l'inizio della svolta tanto attesa? \ud83d\udea8 Scopri i dati che hanno incantato il mercato su ORA ULTIMA: www.oraultima.com/risultati-ti...\n\n#OraUltima #6agosto #saelanews ...",
+      "author": "oraultima.bsky.social",
+      "author_display_name": "ORA ULTIMA",
+      "created_at": "2025-08-06T13:36:55.402Z",
+      "hashtags": "['#money' '#finance' '#saelanews' '#economia' '#italia' '#buongiorno'\n '#6agosto' '#economy' '#OraUltima' '#TIM' '#news' '#finanza']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354611",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 269,
+      "text_cleaned_length": 128,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdv7zdac2q",
+      "text": "We didnt all vote for the orange lunatic. He\u2019s a reflection of a majority of voters who weren\u2019t disenfranchised. We the people don\u2019t deserve this. #trump #theycameforme",
+      "text_cleaned": "We didnt all vote for the orange lunatic. He\u2019s a reflection of a majority of voters who weren\u2019t disenfranchised. We the people don\u2019t deserve this.",
+      "text_preview": "We didnt all vote for the orange lunatic. He\u2019s a reflection of a majority of voters who weren\u2019t disenfranchised. We the people don\u2019t deserve this. #trump #theycameforme",
+      "author": "pink-pixie78.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T13:38:56.461Z",
+      "hashtags": "['#trump' '#theycameforme']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354930",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 168,
+      "text_cleaned_length": 146,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdpcjq3c26",
+      "text": "Ya know #Harvard kills me. They bow on bended knee to #Trump with a huge #Endowment. They should tell #Trump to pound sand.",
+      "text_cleaned": "Ya know kills me. They bow on bended knee to with a huge . They should tell to pound sand.",
+      "text_preview": "Ya know #Harvard kills me. They bow on bended knee to #Trump with a huge #Endowment. They should tell #Trump to pound sand.",
+      "author": "mern.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T13:35:37.770Z",
+      "hashtags": "['#Endowment' '#Trump' '#Harvard']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354979",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 123,
+      "text_cleaned_length": 90,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdpw2whm2l",
+      "text": "How is AI reshaping the economy? Big Tech is now 'propping up the US economy'\n\nInterest | Match | Feed",
+      "text_cleaned": "How is AI reshaping the economy? Big Tech is now 'propping up the US economy' Interest | Match | Feed",
+      "text_preview": "How is AI reshaping the economy? Big Tech is now 'propping up the US economy'\n\nInterest | Match | Feed",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-06T13:35:58Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354628",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 102,
+      "text_cleaned_length": 101,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdvsdf5c2i",
+      "text": "\"I want my mommy\"- #Trump #coward #Afraid of #women #pedophile #teens #girls #epstein #maxwell",
+      "text_cleaned": "\"I want my mommy\"- of",
+      "text_preview": "\"I want my mommy\"- #Trump #coward #Afraid of #women #pedophile #teens #girls #epstein #maxwell",
+      "author": "daybyday4ever.bsky.social",
+      "author_display_name": "Dan",
+      "created_at": "2025-08-06T13:39:15.663Z",
+      "hashtags": "['#Afraid' '#women' '#coward' '#maxwell' '#pedophile' '#Trump' '#teens'\n '#girls' '#epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354922",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 94,
+      "text_cleaned_length": 21,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvqdnn2ff22q",
+      "text": "How many sex traffickers are #Trump planning to pardon?",
+      "text_cleaned": "How many sex traffickers are planning to pardon?",
+      "text_preview": "How many sex traffickers are #Trump planning to pardon?",
+      "author": "vincemcguire.bsky.social",
+      "author_display_name": "Vince McGuire",
+      "created_at": "2025-08-06T13:34:41.692Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.355005",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 55,
+      "text_cleaned_length": 48,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdspba452a",
+      "text": "\n#Klimawandel   #LGBTQ   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Klimawandel   #LGBTQ   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T13:37:52.116463+00:00",
+      "hashtags": "['#LGBTQ' '#Klimawandel' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354954",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 31,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdojzfjw2y",
+      "text": "\n#EU   #Trump   #Z\u00f6lle",
+      "text_cleaned": "",
+      "text_preview": "\n#EU   #Trump   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T13:35:32.404000+00:00",
+      "hashtags": "['#EU' '#Z\u00f6lle' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:40:04.354987",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:40:10.006000",
+      "text_length": 22,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdhm4d3224",
+      "text": "Will the #Trump era get a, \"Have you no sense of decency?\", moment that breaks the spell? Trump & #Epstein were close friends. How much \"owning the libs\" is needed until #Republicans realize they embody what they railed against? The President of the United States abused & trafficked children. #MAGA",
+      "text_cleaned": "Will the era get a, \"Have you no sense of decency?\", moment that breaks the spell? Trump & were close friends. How much \"owning the libs\" is needed until realize they embody what they railed against? The President of the United States abused & trafficked children.",
+      "text_preview": "Will the #Trump era get a, \"Have you no sense of decency?\", moment that breaks the spell? Trump & #Epstein were close friends. How much \"owning the libs\" is needed until #Republicans realize they embo...",
+      "author": "underbrush.bsky.social",
+      "author_display_name": "F. Shoemaker",
+      "created_at": "2025-08-06T13:31:19.380Z",
+      "hashtags": "['#Republicans' '#MAGA' '#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013724",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 299,
+      "text_cleaned_length": 264,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdj3jro223",
+      "text": "\u2018Moral injury\u2019 happens when you watch injustice unfold in real time, knowing what could be done....and seeing those with power choose not to do it.\n\nYour distress isn\u2019t dysfunction, it\u2019s clarity.\n\nRead full piece here: \nsubstack.com/@aut2ask?r=1...\n\n#Trump #Gaza #News #Disability #DisSky",
+      "text_cleaned": "\u2018Moral injury\u2019 happens when you watch injustice unfold in real time, knowing what could be done....and seeing those with power choose not to do it. Your distress isn\u2019t dysfunction, it\u2019s clarity. Read full piece here: substack.com/?r=1...",
+      "text_preview": "\u2018Moral injury\u2019 happens when you watch injustice unfold in real time, knowing what could be done....and seeing those with power choose not to do it.\n\nYour distress isn\u2019t dysfunction, it\u2019s clarity.\n\nRea...",
+      "author": "aut2ask.bsky.social",
+      "author_display_name": "Aut2Ask \ud83e\udda6",
+      "created_at": "2025-08-06T13:32:09.087Z",
+      "hashtags": "['#News' '#DisSky' '#Disability' '#Gaza' '#Trump']",
+      "mentions": "['@aut2ask']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013709",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 288,
+      "text_cleaned_length": 237,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdevvmqs2l",
+      "text": "\"Do you know anybody that builds a $200 million ballroom onto their house and then moves out in 3 1/2 years?\"\n\n@karaswisher.bsky.social and guest co-host Anthony Scaramucci discuss Trump's White House renovation.\n\nFull episode on YouTube.\n\n#karaswisher #anthonyscaramucci #trump #whitehouse",
+      "text_cleaned": "\"Do you know anybody that builds a $200 million ballroom onto their house and then moves out in 3 1/2 years?\" .bsky.social and guest co-host Anthony Scaramucci discuss Trump's White House renovation. Full episode on YouTube.",
+      "text_preview": "\"Do you know anybody that builds a $200 million ballroom onto their house and then moves out in 3 1/2 years?\"\n\n@karaswisher.bsky.social and guest co-host Anthony Scaramucci discuss Trump's White House...",
+      "author": "pivotpod.bsky.social",
+      "author_display_name": "Pivot Podcast",
+      "created_at": "2025-08-06T13:29:48.983Z",
+      "hashtags": "['#anthonyscaramucci' '#karaswisher' '#whitehouse' '#trump']",
+      "mentions": "['@karaswisher.bsky.social']",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013753",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 290,
+      "text_cleaned_length": 224,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvqdkh2c7k2i",
+      "text": "\ud83d\udc99\u270a\ud83d\udc99 This is a huge amount of resources for numerous & varied ways to fight & defend against trump\u2019s regime. \ud83d\udc99\u270a\ud83d\udc99\n\n#SCOTUS #Epstein #maga #indivisible #trump #iran #revolution #ukraine #congress #meidastouch #usa #fdt #musk #immigrants #ice\n\nBrought to you by @drharmony.net\n\nlinktr.ee/revolution2025",
+      "text_cleaned": "\ud83d\udc99\u270a\ud83d\udc99 This is a huge amount of resources for numerous & varied ways to fight & defend against trump\u2019s regime. \ud83d\udc99\u270a\ud83d\udc99 Brought to you by .net linktr.ee/revolution2025",
+      "text_preview": "\ud83d\udc99\u270a\ud83d\udc99 This is a huge amount of resources for numerous & varied ways to fight & defend against trump\u2019s regime. \ud83d\udc99\u270a\ud83d\udc99\n\n#SCOTUS #Epstein #maga #indivisible #trump #iran #revolution #ukraine #congress #meidas...",
+      "author": "mai-bee.bsky.social",
+      "author_display_name": "Mai Bee",
+      "created_at": "2025-08-06T13:32:54.718Z",
+      "hashtags": "['#usa' '#revolution' '#congress' '#ukraine' '#SCOTUS' '#meidastouch'\n '#ice' '#fdt' '#immigrants' '#trump' '#Epstein' '#maga' '#indivisible'\n '#musk' '#iran']",
+      "mentions": "['@drharmony.net']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013661",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 298,
+      "text_cleaned_length": 159,
+      "hashtag_count": 15,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdjwrwts2r",
+      "text": "RECALL #PeteHoekStra\nNO \u201cgovernment officials\u201d are directing #\ud83c\udde8\ud83c\udde6 citizens to #boycottUSA*\nwe WERE not \u201cAnti-American\u201d\nwe ARE anti #Tariffs #ICE #AlligatorAlcatraz \ud83d\udc0a++\n* OH #BOURBON & #California #Wine \ud83c\udf77\ud83d\ude02 \ud83d\udd1a on #CBC #Power&Politics \u2022 #usMca! #cdnPoli #Canada #trump",
+      "text_cleaned": "RECALL NO \u201cgovernment officials\u201d are directing #\ud83c\udde8\ud83c\udde6 citizens to * we WERE not \u201cAnti-American\u201d we ARE anti \ud83d\udc0a++ * OH & \ud83c\udf77\ud83d\ude02 \ud83d\udd1a on &Politics \u2022 !",
+      "text_preview": "RECALL #PeteHoekStra\nNO \u201cgovernment officials\u201d are directing #\ud83c\udde8\ud83c\udde6 citizens to #boycottUSA*\nwe WERE not \u201cAnti-American\u201d\nwe ARE anti #Tariffs #ICE #AlligatorAlcatraz \ud83d\udc0a++\n* OH #BOURBON & #California #Wine...",
+      "author": "grannycanuck.bsky.social",
+      "author_display_name": "\ud83d\udcaa\ud83c\udffc\ud83e\udece\ud83d\udef6\ud83e\uddab\ud83c\udf32\ud83d\udca8\ud83e\udea8\ud83c\udf0a",
+      "created_at": "2025-08-06T13:32:37.683Z",
+      "hashtags": "['#BOURBON' '#usMca' '#CBC' '#Tariffs' '#Canada' '#California' '#Power'\n '#PeteHoekStra' '#AlligatorAlcatraz' '#ICE' '#cdnPoli' '#trump' '#Wine'\n '#boycottUSA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013683",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 263,
+      "text_cleaned_length": 137,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdjjjr5e23",
+      "text": "\u00daLTIMA HORA: Trump doblega a Apple: aumentar\u00e1 su compromiso de inversi\u00f3n en EEUU en 100.000 millones\n\nhttps://youtu.be/KgbZq2Dilnw\u00a0\n\n#ultimahora #apple #trump #eeuu #inversiones #uspresident #useconomy #economy #iphone #economia #negociostv",
+      "text_cleaned": "\u00daLTIMA HORA: Trump doblega a Apple: aumentar\u00e1 su compromiso de inversi\u00f3n en EEUU en 100.000 millones",
+      "text_preview": "\u00daLTIMA HORA: Trump doblega a Apple: aumentar\u00e1 su compromiso de inversi\u00f3n en EEUU en 100.000 millones\n\nhttps://youtu.be/KgbZq2Dilnw\u00a0\n\n#ultimahora #apple #trump #eeuu #inversiones #uspresident #useconom...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-06T13:32:23.631707Z",
+      "hashtags": "['#useconomy' '#economia' '#uspresident' '#negociostv' '#ultimahora'\n '#eeuu' '#economy' '#trump' '#iphone' '#inversiones' '#apple']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013332",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 240,
+      "text_cleaned_length": 100,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdhrhqdr2y",
+      "text": "The Banality of Weasel\n#Trump",
+      "text_cleaned": "The Banality of Weasel",
+      "text_preview": "The Banality of Weasel\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T13:31:23.537Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013716",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 29,
+      "text_cleaned_length": 22,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqdfvgneb2p",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #Trump\n3. #QuestPit\n4. #BB27\n5. #oc\n6. #writingcommunity\n7. #Gaza\n8. #AI\n9. #BookSky\n10. #Poetry\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #Trump\n3. #QuestPit\n4. #BB27\n5. #oc\n6. #writingcommunity\n7. #Gaza\n8. #AI\n9. #BookSky\n10. #Poetry\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-06T13:30:21Z",
+      "hashtags": "['#BookSky' '#art' '#AI' '#Poetry' '#QuestPit' '#oc' '#writingcommunity'\n '#BB27' '#Gaza' '#Trump']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013744",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 173,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqdjifzwv2q",
+      "text": "\n#Moskau   #Putin   #Russland   #Steve Witkoff   #Trump   #Washington",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Moskau   #Putin   #Russland   #Steve Witkoff   #Trump   #Washington",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T13:32:42.939156+00:00",
+      "hashtags": "['#Washington' '#Steve' '#Moskau' '#Putin' '#Russland' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013669",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 69,
+      "text_cleaned_length": 7,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdk2wgvb2n",
+      "text": "\n#Trump   #Verurteilung",
+      "text_cleaned": "",
+      "text_preview": "\n#Trump   #Verurteilung",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T13:33:02.359069+00:00",
+      "hashtags": "['#Trump' '#Verurteilung']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013649",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 23,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdgef55j2n",
+      "text": "\n#Trump   #Verurteilung",
+      "text_cleaned": "",
+      "text_preview": "\n#Trump   #Verurteilung",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T13:30:58.051627+00:00",
+      "hashtags": "['#Trump' '#Verurteilung']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013732",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 23,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdjr6hok2b",
+      "text": "#epsteincase #trump #epstein",
+      "text_cleaned": "",
+      "text_preview": "#epsteincase #trump #epstein",
+      "author": "bingley567.bsky.social",
+      "author_display_name": "bingley567",
+      "created_at": "2025-08-06T13:32:31.801Z",
+      "hashtags": "['#epstein' '#epsteincase' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:35:04.013690",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:35:10.006000",
+      "text_length": 28,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    }
+  ]
+}
