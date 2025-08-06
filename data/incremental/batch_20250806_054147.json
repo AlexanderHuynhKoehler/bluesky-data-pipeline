@@ -1,0 +1,581 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_054147",
+    "post_count": 21,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 05:35:10.007000",
+    "latest_received_at": "2025-08-06 05:40:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpizfpdxk2z",
+      "text": "Super Deal. EU Firmen investieren statt in eine zukunftsf\u00e4hige EU in ein Land, dass gerade in eine Diktatur umgebaut wird, um uns noch abh\u00e4ngiger von #Trump s Erpressungen zu machen. Plus, wir legen noch 5x so viel \u00d6l und Gas wie wir eigentlich brauchen obendrauf. Es braucht Neuverhandlungen!",
+      "text_cleaned": "Super Deal. EU Firmen investieren statt in eine zukunftsf\u00e4hige EU in ein Land, dass gerade in eine Diktatur umgebaut wird, um uns noch abh\u00e4ngiger von s Erpressungen zu machen. Plus, wir legen noch 5x so viel \u00d6l und Gas wie wir eigentlich brauchen obendrauf. Es braucht Neuverhandlungen!",
+      "text_preview": "Super Deal. EU Firmen investieren statt in eine zukunftsf\u00e4hige EU in ein Land, dass gerade in eine Diktatur umgebaut wird, um uns noch abh\u00e4ngiger von #Trump s Erpressungen zu machen. Plus, wir legen n...",
+      "author": "monab.bsky.social",
+      "author_display_name": "Mona Bachmann, Ph.D",
+      "created_at": "2025-08-06T05:38:05.615Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430113",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 293,
+      "text_cleaned_length": 286,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpj2zsnx62a",
+      "text": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/R1ihUI0Q",
+      "text_cleaned": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... .ai",
+      "text_preview": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi askin...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-06T05:39:00.073Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430072",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpizuhhf22m",
+      "text": "The war on green energy isn't about facts. It's a cynical, manufactured culture war. Wind turbines are no longer just technology; they're symbols of the \"woke elite.\"\n\nMy new article on 'The Third Take' dissects this psychological warfare.\n\n#Climate #GreenEnergy #Energy #Politics #USA #Trump",
+      "text_cleaned": "The war on green energy isn't about facts. It's a cynical, manufactured culture war. Wind turbines are no longer just technology; they're symbols of the \"woke elite.\" My new article on 'The Third Take' dissects this psychological warfare.",
+      "text_preview": "The war on green energy isn't about facts. It's a cynical, manufactured culture war. Wind turbines are no longer just technology; they're symbols of the \"woke elite.\"\n\nMy new article on 'The Third Tak...",
+      "author": "norker.net",
+      "author_display_name": "NORKER",
+      "created_at": "2025-08-06T05:38:21.085Z",
+      "hashtags": "['#Energy' '#USA' '#Trump' '#GreenEnergy' '#Politics' '#Climate']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430093",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 292,
+      "text_cleaned_length": 238,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpizmdmwk2l",
+      "text": "The President of the United States had a serial pedophile moved out of full incarceration into a place of luxury where the only punishment and denial of freedoms is to be restricted to having to achieve your 10,0000 steps in square shape \n#Trump",
+      "text_cleaned": "The President of the United States had a serial pedophile moved out of full incarceration into a place of luxury where the only punishment and denial of freedoms is to be restricted to having to achieve your 10,0000 steps in square shape",
+      "text_preview": "The President of the United States had a serial pedophile moved out of full incarceration into a place of luxury where the only punishment and denial of freedoms is to be restricted to having to achie...",
+      "author": "maplepoutine.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T05:38:12.570Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430101",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 245,
+      "text_cleaned_length": 237,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpivc3io22k",
+      "text": "www.alternet.org/trump-offici...\n\nThe new VP, AG, and FBI Director are having a dinner to \"craft a unified response\" to the Epstein case. Seems legit. Just a friendly chat among colleagues about a case with no bearing on anyone at the table.\n\n#Trump #Epstein",
+      "text_cleaned": "The new VP, AG, and FBI Director are having a dinner to \"craft a unified response\" to the Epstein case. Seems legit. Just a friendly chat among colleagues about a case with no bearing on anyone at the table.",
+      "text_preview": "www.alternet.org/trump-offici...\n\nThe new VP, AG, and FBI Director are having a dinner to \"craft a unified response\" to the Epstein case. Seems legit. Just a friendly chat among colleagues about a cas...",
+      "author": "gwfoto.bsky.social",
+      "author_display_name": "GW",
+      "created_at": "2025-08-06T05:35:47.601Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430157",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 258,
+      "text_cleaned_length": 207,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpittwyye2i",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-06T05:34:59.039Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430173",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpj24yyg22f",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-06T05:38:29.735Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430081",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpivvv7xk2r",
+      "text": "#Trump says his Deputy AG talking to #Maxwell over #Epstein is so that people who aren't involved are not hurt",
+      "text_cleaned": "says his Deputy AG talking to over is so that people who aren't involved are not hurt",
+      "text_preview": "#Trump says his Deputy AG talking to #Maxwell over #Epstein is so that people who aren't involved are not hurt",
+      "author": "oswaldosrm.com",
+      "author_display_name": "O\u0282\u026f\u03b1\u0285\u0503\u03c3 R\u03c3\u10e7\u04bd\u019a\u019a",
+      "created_at": "2025-08-06T05:36:08.367Z",
+      "hashtags": "['#Trump' '#Epstein' '#Maxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430148",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 110,
+      "text_cleaned_length": 85,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpj3jnqzc26",
+      "text": "What is wrong with Labour? The solution is so obvious, it\u2019s jumping out of the screen - raise taxes for the wealthy.\n#Shortfall #Tax #Economy \n#WealthTax #News\napple.news/AQOKoonzrQI-...",
+      "text_cleaned": "What is wrong with Labour? The solution is so obvious, it\u2019s jumping out of the screen - raise taxes for the wealthy. apple.news/AQOKoonzrQI-...",
+      "text_preview": "What is wrong with Labour? The solution is so obvious, it\u2019s jumping out of the screen - raise taxes for the wealthy.\n#Shortfall #Tax #Economy \n#WealthTax #News\napple.news/AQOKoonzrQI-...",
+      "author": "wooozle.bsky.social",
+      "author_display_name": "wooozle",
+      "created_at": "2025-08-06T05:39:16.864Z",
+      "hashtags": "['#News' '#Tax' '#Shortfall' '#Economy' '#WealthTax']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.429587",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 186,
+      "text_cleaned_length": 143,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpiy247eh2h",
+      "text": "\n#Haftstrafe   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Haftstrafe   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T05:37:40.582758+00:00",
+      "hashtags": "['#Haftstrafe' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430121",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpiwn7hts2t",
+      "text": "\"How #Trump 's secondary tariffs on #Russia could hit the global economy\"\nwww.bbc.com/news/article...",
+      "text_cleaned": "\"How 's secondary tariffs on could hit the global economy\"",
+      "text_preview": "\"How #Trump 's secondary tariffs on #Russia could hit the global economy\"\nwww.bbc.com/news/article...",
+      "author": "kostianv.bsky.social",
+      "author_display_name": "Ville Kostian",
+      "created_at": "2025-08-06T05:36:32.819Z",
+      "hashtags": "['#Russia' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430140",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 101,
+      "text_cleaned_length": 58,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpiuu3mn22c",
+      "text": "Terrifying that this man has this power #USA #RFK #Trump #GOP",
+      "text_cleaned": "Terrifying that this man has this power",
+      "text_preview": "Terrifying that this man has this power #USA #RFK #Trump #GOP",
+      "author": "laislabonita.bsky.social",
+      "author_display_name": "LaIslaBonita",
+      "created_at": "2025-08-06T05:35:32.924Z",
+      "hashtags": "['#GOP' '#USA' '#RFK' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430165",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 61,
+      "text_cleaned_length": 39,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpj474qh32m",
+      "text": "Click Subscribe. #Japan #BOJ #InterestRates #Economy #Finance",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Japan #BOJ #InterestRates #Economy #Finance",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-06T05:39:39Z",
+      "hashtags": "['#Japan' '#InterestRates' '#Finance' '#Economy' '#BOJ']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.429562",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 61,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpixx6mcs2h",
+      "text": "#epstein #trump #releasethefiles",
+      "text_cleaned": "",
+      "text_preview": "#epstein #trump #releasethefiles",
+      "author": "dhaugeranville1786.bsky.social",
+      "author_display_name": "D\u2019Haugeranville",
+      "created_at": "2025-08-06T05:37:16.831Z",
+      "hashtags": "['#trump' '#epstein' '#releasethefiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:40:03.430129",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:40:10.008000",
+      "text_length": 32,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpiqmp4kq2e",
+      "text": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/R1ihUI0Q",
+      "text_cleaned": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... .ai",
+      "text_preview": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi askin...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-06T05:33:10.778Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:35:03.174999",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:35:10.007000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpisknfm22t",
+      "text": "Hey guys\u2026 sad to say that I caught my little girl, Tanya, had been doing art with a random boy online, and showed me this artwork\u2026 nothing a little ass whooping can\u2019t fix. \ud83d\ude02\ud83d\ude02\ud83e\udd23 #funny #disappointed #single #singlelife #notproud #mentalillnessisntreal #trump #proudchristian #hot #art",
+      "text_cleaned": "Hey guys\u2026 sad to say that I caught my little girl, Tanya, had been doing art with a random boy online, and showed me this artwork\u2026 nothing a little ass whooping can\u2019t fix. \ud83d\ude02\ud83d\ude02\ud83e\udd23",
+      "text_preview": "Hey guys\u2026 sad to say that I caught my little girl, Tanya, had been doing art with a random boy online, and showed me this artwork\u2026 nothing a little ass whooping can\u2019t fix. \ud83d\ude02\ud83d\ude02\ud83e\udd23 #funny #disappointed #si...",
+      "author": "ijerkittobailout.bsky.social",
+      "author_display_name": "Daniel Dozier",
+      "created_at": "2025-08-06T05:34:15.900Z",
+      "hashtags": "['#mentalillnessisntreal' '#trump' '#art' '#single' '#hot' '#notproud'\n '#singlelife' '#funny' '#proudchristian' '#disappointed']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:35:03.174973",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:35:10.007000",
+      "text_length": 282,
+      "text_cleaned_length": 175,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpilsqjmk2m",
+      "text": "#Trump spaziert auf dem Dach des Wei\u00dfen Hauses herum, gestikuliert und ruft JournalistInnen etwas zu. Das sorgt f\u00fcr Schlagzeilen, die nichts zu tun haben mit #Putin oder #Epstein oder #Gaza oder den Auswirkungen seiner #Z\u00f6lle.",
+      "text_cleaned": "spaziert auf dem Dach des Wei\u00dfen Hauses herum, gestikuliert und ruft JournalistInnen etwas zu. Das sorgt f\u00fcr Schlagzeilen, die nichts zu tun haben mit oder oder oder den Auswirkungen seiner .",
+      "text_preview": "#Trump spaziert auf dem Dach des Wei\u00dfen Hauses herum, gestikuliert und ruft JournalistInnen etwas zu. Das sorgt f\u00fcr Schlagzeilen, die nichts zu tun haben mit #Putin oder #Epstein oder #Gaza oder den A...",
+      "author": "oliverdasgupta.bsky.social",
+      "author_display_name": "Oliver Das Gupta",
+      "created_at": "2025-08-06T05:30:29.522Z",
+      "hashtags": "['#Z\u00f6lle' '#Trump' '#Putin' '#Epstein' '#Gaza']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 5,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:35:03.175025",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:35:10.007000",
+      "text_length": 226,
+      "text_cleaned_length": 191,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 5.0
+    },
+    {
+      "post_id": "3lvpir4aups2i",
+      "text": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includes #Trump)\n\nPass it on!",
+      "text_cleaned": "Don\u2019t let this drop from the headlines y\u2019all! Keep posting AND (This includes ) Pass it on!",
+      "text_preview": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includ...",
+      "author": "betseyrocks.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T05:33:27.267Z",
+      "hashtags": "['#BelieveTheVictims' '#TrumpIsOnTheList' '#Trump' '#TrumpIsARapist'\n '#ExposeProsecuteTheJohns' '#TrumpIsAPedophile' '#ReleaseTheEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:35:03.174987",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:35:10.007000",
+      "text_length": 223,
+      "text_cleaned_length": 91,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpip5w2qc2i",
+      "text": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includes #Trump)\n\nPass it on!",
+      "text_cleaned": "Don\u2019t let this drop from the headlines y\u2019all! Keep posting AND (This includes ) Pass it on!",
+      "text_preview": "#BelieveTheVictims\n\n#TrumpIsARapist\n#TrumpIsAPedophile\n#TrumpIsOnTheList\n\nDon\u2019t let this drop from the headlines y\u2019all! \n\nKeep posting #ReleaseTheEpsteinFiles\nAND\n#ExposeProsecuteTheJohns\n(This includ...",
+      "author": "betseyrocks.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T05:32:21.901Z",
+      "hashtags": "['#BelieveTheVictims' '#TrumpIsOnTheList' '#Trump' '#TrumpIsARapist'\n '#ExposeProsecuteTheJohns' '#TrumpIsAPedophile' '#ReleaseTheEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:35:03.175010",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:35:10.007000",
+      "text_length": 223,
+      "text_cleaned_length": 91,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpim6efz22f",
+      "text": "....their first step was rewarding the convicted child sex abuser by sending her to a posh resort until they pardon and free her.\n\n#trump #epstein",
+      "text_cleaned": "....their first step was rewarding the convicted child sex abuser by sending her to a posh resort until they pardon and free her.",
+      "text_preview": "....their first step was rewarding the convicted child sex abuser by sending her to a posh resort until they pardon and free her.\n\n#trump #epstein",
+      "author": "freedomdream.bsky.social",
+      "author_display_name": "freedom dream - RESISTANCE",
+      "created_at": "2025-08-06T05:30:41.706Z",
+      "hashtags": "['#trump' '#epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:35:03.175017",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:35:10.007000",
+      "text_length": 146,
+      "text_cleaned_length": 129,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpisjvqrc2v",
+      "text": "Trump Demands FBI Action to Return Texas Dams Amid Border Dispute | Quick Smart News #trump\n\nyoutube.com/shorts/0Ffyc...",
+      "text_cleaned": "Trump Demands FBI Action to Return Texas Dams Amid Border Dispute | Quick Smart News youtube.com/shorts/0Ffyc...",
+      "text_preview": "Trump Demands FBI Action to Return Texas Dams Amid Border Dispute | Quick Smart News #trump\n\nyoutube.com/shorts/0Ffyc...",
+      "author": "quicksmartnews.bsky.social",
+      "author_display_name": "Quick Smart News",
+      "created_at": "2025-08-06T05:34:15.137Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T05:35:03.174978",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 05:35:10.007000",
+      "text_length": 120,
+      "text_cleaned_length": 112,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
