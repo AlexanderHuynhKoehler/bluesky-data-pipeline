@@ -1,0 +1,473 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_103325",
+    "post_count": 17,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 10:25:10.006000",
+    "latest_received_at": "2025-08-06 10:30:10.023000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpz5ladx62d",
+      "text": "Former Democratic presidential candidate Julian Castro on Texas redistricting plus Juliet Jeske of Decoding Fox News on Fox ignoring the Epstein Files #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "Former Democratic presidential candidate Julian Castro on Texas redistricting plus Juliet Jeske of Decoding Fox News on Fox ignoring the Epstein Files",
+      "text_preview": "Former Democratic presidential candidate Julian Castro on Texas redistricting plus Juliet Jeske of Decoding Fox News on Fox ignoring the Epstein Files #tRUMP #MAGA #DEMS #Democrat #DemsUnited #Stronge...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:26:45.594Z",
+      "hashtags": "['#TACO' '#Democrat' '#DemsUnited' '#NoKings' '#tRUMP' '#GOP'\n '#donaldtrump' '#liberal' '#DEMS' '#Fascism' '#Resist'\n '#StrongerTogether' '#SaveDemocracy' '#conservative' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:30:03.829574",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:30:10.023000",
+      "text_length": 297,
+      "text_cleaned_length": 150,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpz7p7atc24",
+      "text": "Trump is once again in meltdown mode, unleashing an all-caps rant on Truth Social #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "Trump is once again in meltdown mode, unleashing an all-caps rant on Truth Social",
+      "text_preview": "Trump is once again in meltdown mode, unleashing an all-caps rant on Truth Social #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conserva...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:27:56.853Z",
+      "hashtags": "['#TACO' '#Democrat' '#DemsUnited' '#NoKings' '#tRUMP' '#GOP'\n '#donaldtrump' '#liberal' '#DEMS' '#Fascism' '#Resist'\n '#StrongerTogether' '#SaveDemocracy' '#conservative' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:30:03.829544",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:30:10.023000",
+      "text_length": 228,
+      "text_cleaned_length": 81,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpz4b6buk2q",
+      "text": "It's Long Overdue, We Must Abandon The Cult. Work On Reaching The Ones We Can Save #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "It's Long Overdue, We Must Abandon The Cult. Work On Reaching The Ones We Can Save",
+      "text_preview": "It's Long Overdue, We Must Abandon The Cult. Work On Reaching The Ones We Can Save #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conserv...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:26:01.483Z",
+      "hashtags": "['#TACO' '#Democrat' '#DemsUnited' '#NoKings' '#tRUMP' '#GOP'\n '#donaldtrump' '#liberal' '#DEMS' '#Fascism' '#Resist'\n '#StrongerTogether' '#SaveDemocracy' '#conservative' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:30:03.829583",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:30:10.023000",
+      "text_length": 229,
+      "text_cleaned_length": 82,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpz7udvmy24",
+      "text": "Decyzja uderzy w ponad 20 projekt\u00f3w najwi\u0119kszych koncern\u00f3w farmaceutycznych \u015bwiata, w tym Pfeizera czy Modern\u0119. \nwyborcza.pl/7,75399,3215... \n#wyborcza #USA #szczepienia #zdrowie #Trump",
+      "text_cleaned": "Decyzja uderzy w ponad 20 projekt\u00f3w najwi\u0119kszych koncern\u00f3w farmaceutycznych \u015bwiata, w tym Pfeizera czy Modern\u0119. wyborcza.pl/7,75399,3215...",
+      "text_preview": "Decyzja uderzy w ponad 20 projekt\u00f3w najwi\u0119kszych koncern\u00f3w farmaceutycznych \u015bwiata, w tym Pfeizera czy Modern\u0119. \nwyborcza.pl/7,75399,3215... \n#wyborcza #USA #szczepienia #zdrowie #Trump",
+      "author": "wyborcza.pl",
+      "author_display_name": "Gazeta Wyborcza ",
+      "created_at": "2025-08-06T10:28:00.809Z",
+      "hashtags": "['#szczepienia' '#USA' '#zdrowie' '#wyborcza' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:30:03.829533",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:30:10.023000",
+      "text_length": 185,
+      "text_cleaned_length": 139,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvpz5bkyqq2h",
+      "text": "\n#Moskau   #Putin   #Russland   #Steve Witkoff   #Trump   #Washington",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Moskau   #Putin   #Russland   #Steve Witkoff   #Trump   #Washington",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T10:26:55.837163+00:00",
+      "hashtags": "['#Russland' '#Moskau' '#Steve' '#Washington' '#Trump' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:30:03.829564",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:30:10.023000",
+      "text_length": 69,
+      "text_cleaned_length": 7,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpz5z23u22b",
+      "text": "#Trump s Stiefellecker spuren\u2026..\ud83e\udd2e\n\nwww.tagesschau.de/ausland/amer...",
+      "text_cleaned": "s Stiefellecker spuren\u2026..\ud83e\udd2e",
+      "text_preview": "#Trump s Stiefellecker spuren\u2026..\ud83e\udd2e\n\nwww.tagesschau.de/ausland/amer...",
+      "author": "bmwzorge.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:26:59.976Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:30:03.829557",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:30:10.023000",
+      "text_length": 68,
+      "text_cleaned_length": 26,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpz3du75f2n",
+      "text": "\n#Luiz In\u00e1cio Lula da Silva   #Trump",
+      "text_cleaned": "In\u00e1cio Lula da Silva",
+      "text_preview": "\n#Luiz In\u00e1cio Lula da Silva   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T10:25:51.125281+00:00",
+      "hashtags": "['#Luiz' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:30:03.829590",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:30:10.023000",
+      "text_length": 36,
+      "text_cleaned_length": 20,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpz6r3xh62y",
+      "text": "\n#Trump   #Verhandlungen   #Z\u00f6lle",
+      "text_cleaned": "",
+      "text_preview": "\n#Trump   #Verhandlungen   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T10:27:45.665111+00:00",
+      "hashtags": "['#Verhandlungen' '#Trump' '#Z\u00f6lle']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:30:03.829551",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:30:10.023000",
+      "text_length": 33,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyvtn5ad22",
+      "text": "11 federal judges grilled Trump's DOJ lawyers over his illegal attempt to bypass Congress and impose tariffs through executive order. #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "11 federal judges grilled Trump's DOJ lawyers over his illegal attempt to bypass Congress and impose tariffs through executive order.",
+      "text_preview": "11 federal judges grilled Trump's DOJ lawyers over his illegal attempt to bypass Congress and impose tariffs through executive order. #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDe...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:22:25.965Z",
+      "hashtags": "['#MAGA' '#tRUMP' '#GOP' '#DemsUnited' '#TACO' '#DEMS' '#donaldtrump'\n '#SaveDemocracy' '#Resist' '#StrongerTogether' '#Democrat' '#Fascism'\n '#conservative' '#liberal' '#NoKings']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:25:03.420781",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:25:10.006000",
+      "text_length": 280,
+      "text_cleaned_length": 133,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpytxblcg2b",
+      "text": "Democracy Forward Sues Trump TWICE: Blocking ICE Attacks on Churches & Forcing Access to Detention Centers #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "Democracy Forward Sues Trump TWICE: Blocking ICE Attacks on Churches & Forcing Access to Detention Centers",
+      "text_preview": "Democracy Forward Sues Trump TWICE: Blocking ICE Attacks on Churches & Forcing Access to Detention Centers #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donal...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:21:22.672Z",
+      "hashtags": "['#MAGA' '#tRUMP' '#GOP' '#DemsUnited' '#TACO' '#DEMS' '#donaldtrump'\n '#SaveDemocracy' '#Resist' '#StrongerTogether' '#Democrat' '#Fascism'\n '#conservative' '#liberal' '#NoKings']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:25:03.420807",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:25:10.006000",
+      "text_length": 253,
+      "text_cleaned_length": 106,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyywbhom2d",
+      "text": "\ud83d\udfe2 Importance: 85/100\n#news #Featured #TopStories #World #russia #trump #ukraine\n\nRussian President Vladimir Putin held talks with U.S. President Donald Trump\u2019s special envoy Steve Witkoff in Moscow on...",
+      "text_cleaned": "\ud83d\udfe2 Importance: 85/100 Russian President Vladimir Putin held talks with U.S. President Donald Trump\u2019s special envoy Steve Witkoff in Moscow on...",
+      "text_preview": "\ud83d\udfe2 Importance: 85/100\n#news #Featured #TopStories #World #russia #trump #ukraine\n\nRussian President Vladimir Putin held talks with U.S. President Donald Trump\u2019s special envoy Steve Witkoff in Moscow on...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-06T10:16:15+00:00",
+      "hashtags": "['#Featured' '#news' '#World' '#ukraine' '#TopStories' '#trump' '#russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:25:03.420874",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:25:10.006000",
+      "text_length": 203,
+      "text_cleaned_length": 143,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyurqyr22i",
+      "text": "Trump\u2019s visa rules leave 150,000 students stranded, costing US colleges $7 billion\n\nwww.indiaweekly.biz/new-us-visa-...\n\n#Trump #USA #USVisa #VisaRules #USAVisaRules #NewRules #Visa #Students #internationalstudents",
+      "text_cleaned": "Trump\u2019s visa rules leave 150,000 students stranded, costing US colleges $7 billion",
+      "text_preview": "Trump\u2019s visa rules leave 150,000 students stranded, costing US colleges $7 billion\n\nwww.indiaweekly.biz/new-us-visa-...\n\n#Trump #USA #USVisa #VisaRules #USAVisaRules #NewRules #Visa #Students #interna...",
+      "author": "indiaweekly.bsky.social",
+      "author_display_name": "Indiaweekly",
+      "created_at": "2025-08-06T10:21:50.348Z",
+      "hashtags": "['#USA' '#VisaRules' '#NewRules' '#internationalstudents' '#Visa'\n '#USVisa' '#Students' '#Trump' '#USAVisaRules']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:25:03.420794",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:25:10.006000",
+      "text_length": 214,
+      "text_cleaned_length": 82,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvpyxm3iwn2t",
+      "text": "The Trump/Bondi Distraction-Palooza Ain't Working! #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "The Trump/Bondi Distraction-Palooza Ain't Working!",
+      "text_preview": "The Trump/Bondi Distraction-Palooza Ain't Working! #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:23:25.156Z",
+      "hashtags": "['#MAGA' '#tRUMP' '#GOP' '#DemsUnited' '#TACO' '#DEMS' '#donaldtrump'\n '#SaveDemocracy' '#Resist' '#StrongerTogether' '#Democrat' '#Fascism'\n '#conservative' '#liberal' '#NoKings']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:25:03.420769",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:25:10.006000",
+      "text_length": 197,
+      "text_cleaned_length": 50,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpytpmevc2e",
+      "text": "Ever wonder why trump hates transwomen so much? This could be a clue\n\nwww.thepinknews.com/2025/07/31/j...\n\n#transwomen\n#epstein\n#trump\n#homophobia\n#transphobia",
+      "text_cleaned": "Ever wonder why trump hates transwomen so much? This could be a clue",
+      "text_preview": "Ever wonder why trump hates transwomen so much? This could be a clue\n\nwww.thepinknews.com/2025/07/31/j...\n\n#transwomen\n#epstein\n#trump\n#homophobia\n#transphobia",
+      "author": "renee-maybe.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:21:14.546Z",
+      "hashtags": "['#transphobia' '#transwomen' '#epstein' '#trump' '#homophobia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:25:03.420816",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:25:10.006000",
+      "text_length": 159,
+      "text_cleaned_length": 68,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpyyz7rpv2m",
+      "text": "Click Subscribe. #SouthKorea #StockMarket #Investing #Economy #Finance",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #SouthKorea #StockMarket #Investing #Economy #Finance",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-06T10:24:12Z",
+      "hashtags": "['#Economy' '#Finance' '#StockMarket' '#Investing' '#SouthKorea']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:25:03.420404",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:25:10.006000",
+      "text_length": 70,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyzcbn562o",
+      "text": "Click Subscribe. #Thailand #Inflation #Economy #Finance #Investment",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Thailand #Inflation #Economy #Finance #Investment",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-06T10:24:21Z",
+      "hashtags": "['#Investment' '#Inflation' '#Economy' '#Finance' '#Thailand']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:25:03.420385",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:25:10.006000",
+      "text_length": 67,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpyxx7fjk22",
+      "text": "His voice, tho. \ud83d\ude33 #Trump",
+      "text_cleaned": "His voice, tho. \ud83d\ude33",
+      "text_preview": "His voice, tho. \ud83d\ude33 #Trump",
+      "author": "enrich12.bsky.social",
+      "author_display_name": "enrich12",
+      "created_at": "2025-08-06T10:23:36.725Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:25:03.420756",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:25:10.006000",
+      "text_length": 24,
+      "text_cleaned_length": 17,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
