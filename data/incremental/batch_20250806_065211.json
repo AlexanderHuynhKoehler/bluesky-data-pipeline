@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_065211",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 06:45:10.007000",
+    "latest_received_at": "2025-08-06 06:50:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpmw2zdzp2y",
+      "text": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/R1ihUI0Q",
+      "text_cleaned": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... .ai",
+      "text_preview": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi askin...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-06T06:47:48.538Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:50:03.009377",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:50:10.007000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpms6msoc2y",
+      "text": "The #Trump regime has begun covertly editing the constitution to remove mention of habeas corpus, the banning of foreign bribes to American politicians, etc. Sections 9 and 10 of Article 1 have been completely removed.\n\nLink: constitution.congress.gov/constitution/\n\n#Politics #DonaldTrump",
+      "text_cleaned": "The regime has begun covertly editing the constitution to remove mention of habeas corpus, the banning of foreign bribes to American politicians, etc. Sections 9 and 10 of Article 1 have been completely removed. Link: constitution.congress.gov/constitution/",
+      "text_preview": "The #Trump regime has begun covertly editing the constitution to remove mention of habeas corpus, the banning of foreign bribes to American politicians, etc. Sections 9 and 10 of Article 1 have been c...",
+      "author": "gerowen.bsky.social",
+      "author_display_name": "Marcus",
+      "created_at": "2025-08-06T06:45:38.278Z",
+      "hashtags": "['#Politics' '#DonaldTrump' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:50:03.009399",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:50:10.007000",
+      "text_length": 289,
+      "text_cleaned_length": 257,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 3.0
+    },
+    {
+      "post_id": "3lvpmwqbp4c2s",
+      "text": "Last week G. #Maxwell asked an interview with #DOJ to say #Trump never did anything concerning around her\n\nNow she's been moved to a #less #restricted #prison #camp.\nEverybody knows this is #NOT #TRUTH, but a deal.\n\nabcnews.go.com/US/trump-adm...",
+      "text_cleaned": "Last week G. asked an interview with to say never did anything concerning around her Now she's been moved to a . Everybody knows this is , but a deal. abcnews.go.com/US/trump-adm...",
+      "text_preview": "Last week G. #Maxwell asked an interview with #DOJ to say #Trump never did anything concerning around her\n\nNow she's been moved to a #less #restricted #prison #camp.\nEverybody knows this is #NOT #TRUT...",
+      "author": "rod2ik.bsky.social",
+      "author_display_name": "Rod2ik \ud83c\uddea\ud83c\uddfa \ud83c\udde8\ud83c\uddf5 \ud83c\uddea\ud83c\uddf8 \ud83c\uddfa\ud83c\udde6 \ud83c\udde8\ud83c\udde6 \ud83c\udde9\ud83c\uddf0 \ud83c\uddec\ud83c\uddf1 \u262e\ud83d\udd4a\ufe0f",
+      "created_at": "2025-08-06T06:48:11.005Z",
+      "hashtags": "['#Maxwell' '#Trump' '#restricted' '#less' '#prison' '#camp' '#NOT' '#DOJ'\n '#TRUTH']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:50:03.009361",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:50:10.007000",
+      "text_length": 246,
+      "text_cleaned_length": 181,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpmqmkk7k2o",
+      "text": "Robert F (Fascist) Kennedy welcomes back cholera, diphtheria, tetanus, yellow fever, rubella, mumps, rabies, COVID, TB etc.\n\nWelcome back to the Middle Ages with #Trump 2.0 \n\nMAGA : Making Antigens Gone Again \n\n#health #maga",
+      "text_cleaned": "Robert F (Fascist) Kennedy welcomes back cholera, diphtheria, tetanus, yellow fever, rubella, mumps, rabies, COVID, TB etc. Welcome back to the Middle Ages with 2.0 MAGA : Making Antigens Gone Again",
+      "text_preview": "Robert F (Fascist) Kennedy welcomes back cholera, diphtheria, tetanus, yellow fever, rubella, mumps, rabies, COVID, TB etc.\n\nWelcome back to the Middle Ages with #Trump 2.0 \n\nMAGA : Making Antigens Go...",
+      "author": "brexitrage.bsky.social",
+      "author_display_name": "Peter Cook: Brexorcist in Chief: Reboot Britain",
+      "created_at": "2025-08-06T06:44:45.680Z",
+      "hashtags": "['#health' '#maga' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 4,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:50:03.009408",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:50:10.007000",
+      "text_length": 224,
+      "text_cleaned_length": 198,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvpmyp6bhc2x",
+      "text": "I was this old when I found out Sesame St. took on #Trump in the 90's! \n\ud83d\ude32",
+      "text_cleaned": "I was this old when I found out Sesame St. took on in the 90's! \ud83d\ude32",
+      "text_preview": "I was this old when I found out Sesame St. took on #Trump in the 90's! \n\ud83d\ude32",
+      "author": "quokkafella.nafofellas.com",
+      "author_display_name": "",
+      "created_at": "2025-08-06T06:49:16.953Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:50:03.009351",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:50:10.007000",
+      "text_length": 73,
+      "text_cleaned_length": 65,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpmtxotc22e",
+      "text": "#Trump har meldt ud, at det amerikanske sundhedsministerium (HHS) planl\u00e6gger at annullere 500 millioner dollars i finansiering til mRNA-vacciner, der udvikles til at bek\u00e6mpe vira som influenza og covid-19.\nDet dummere end dumt\nUSA havde overd\u00f8delighed af  COVID-19 sammenlignet med resten af Vesten",
+      "text_cleaned": "har meldt ud, at det amerikanske sundhedsministerium (HHS) planl\u00e6gger at annullere 500 millioner dollars i finansiering til mRNA-vacciner, der udvikles til at bek\u00e6mpe vira som influenza og covid-19. Det dummere end dumt USA havde overd\u00f8delighed af COVID-19 sammenlignet med resten af Vesten",
+      "text_preview": "#Trump har meldt ud, at det amerikanske sundhedsministerium (HHS) planl\u00e6gger at annullere 500 millioner dollars i finansiering til mRNA-vacciner, der udvikles til at bek\u00e6mpe vira som influenza og covi...",
+      "author": "janniehjerpe.bsky.social",
+      "author_display_name": "Jannie Hjerpe",
+      "created_at": "2025-08-06T06:46:38.113Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:50:03.009384",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:50:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 290,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpmz72tj72a",
+      "text": "Ucraina-Russia, Witkoff arrivato a Mosca. Trump: \"Sanzioni? Vedremo\" ... LEGGI TUTTO #Ucraina #Russia #Witkoff #Trump #Sanzioni",
+      "text_cleaned": "Ucraina-Russia, Witkoff arrivato a Mosca. Trump: \"Sanzioni? Vedremo\" ... LEGGI TUTTO",
+      "text_preview": "Ucraina-Russia, Witkoff arrivato a Mosca. Trump: \"Sanzioni? Vedremo\" ... LEGGI TUTTO #Ucraina #Russia #Witkoff #Trump #Sanzioni",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-06T06:49:33Z",
+      "hashtags": "['#Trump' '#Russia' '#Sanzioni' '#Ucraina' '#Witkoff']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:50:03.009342",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:50:10.007000",
+      "text_length": 127,
+      "text_cleaned_length": 84,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpmwmphtk2z",
+      "text": ". . .\n\nHet tuimelt weer over elkaar heen, is amper bij te benen . . .\n\nDank weer voor update.\n\n#trump",
+      "text_cleaned": ". . . Het tuimelt weer over elkaar heen, is amper bij te benen . . . Dank weer voor update.",
+      "text_preview": ". . .\n\nHet tuimelt weer over elkaar heen, is amper bij te benen . . .\n\nDank weer voor update.\n\n#trump",
+      "author": "jeltjevanhouten.bsky.social",
+      "author_display_name": "@jeltjevanhouten.bsky.social",
+      "created_at": "2025-08-06T06:48:07.263Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:50:03.009368",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:50:10.007000",
+      "text_length": 101,
+      "text_cleaned_length": 91,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpmttdvy22q",
+      "text": "Wer fand den \"Deal\" noch mal gut gelungen? (Au\u00dfer #Trump selbst, klar.)\n#EU\n#tariffs",
+      "text_cleaned": "Wer fand den \"Deal\" noch mal gut gelungen? (Au\u00dfer selbst, klar.)",
+      "text_preview": "Wer fand den \"Deal\" noch mal gut gelungen? (Au\u00dfer #Trump selbst, klar.)\n#EU\n#tariffs",
+      "author": "conny-ggg.bsky.social",
+      "author_display_name": "Cornelia \u00d6streich",
+      "created_at": "2025-08-06T06:46:33.561Z",
+      "hashtags": "['#Trump' '#tariffs' '#EU']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:50:03.009392",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:50:10.007000",
+      "text_length": 84,
+      "text_cleaned_length": 64,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpmkviuvk2q",
+      "text": "Dumb #Maga U.S. Homeland Security Is Now Using \u2018South Park\u2019 to Promote #ICE\u2019s Website After Idiot In Chief #Trump Whined About The Show & Falsely Calling Them Irrelevant ... South Park Creators Tell Them To Eat A Bag Of Dicks \ud83d\udc4d variety.com/2025/tv/news...",
+      "text_cleaned": "Dumb U.S. Homeland Security Is Now Using \u2018South Park\u2019 to Promote \u2019s Website After Idiot In Chief Whined About The Show & Falsely Calling Them Irrelevant ... South Park Creators Tell Them To Eat A Bag Of Dicks \ud83d\udc4d variety.com/2025/tv/news...",
+      "text_preview": "Dumb #Maga U.S. Homeland Security Is Now Using \u2018South Park\u2019 to Promote #ICE\u2019s Website After Idiot In Chief #Trump Whined About The Show & Falsely Calling Them Irrelevant ... South Park Creators Tell T...",
+      "author": "zenarchie.bsky.social",
+      "author_display_name": "ZenArchie",
+      "created_at": "2025-08-06T06:41:33.827Z",
+      "hashtags": "['#ICE' '#Trump' '#Maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T06:45:03.233566",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 06:45:10.007000",
+      "text_length": 255,
+      "text_cleaned_length": 238,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
