@@ -1,0 +1,289 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113936",
+    "original_batch": "batch_20250805_063242.json",
+    "enhanced_post_count": 8,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 6,
+      "emotion_coverage": 6,
+      "processing_speed": 104.10521567130513,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvn3e6chxs2v",
+      "text": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/j6M15LZh",
+      "text_cleaned": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkward spot of criticizing an... .ai",
+      "text_preview": "After Trump\u00e2\u0080\u0099s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism President Trump\u00e2\u0080\u0099s decision to fire the head of the Bureau of Labor Statistics forced his allies into the awkwa...",
+      "author": "cosmicmetanft.bsky.social",
+      "author_display_name": "Cosmic Meta NFT",
+      "created_at": "2025-08-05T06:28:12.167Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:30:03.184521",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:30:10.010000",
+      "text_length": 275,
+      "text_cleaned_length": 232,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.7780108666047454,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "disgust",
+      "emotion_confidence": 0.40032023191452026,
+      "ml_processed_at": "2025-08-06 11:39:36.250492",
+      "processing_speed": 104.10521567130513,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn3g7crq22a",
+      "text": "Hundreds of #Israeli ex-security officials call on #Trump to end #Gaza war ... www.france24.com/en/middle-ea...",
+      "text_cleaned": "Hundreds of ex-security officials call on to end war ...",
+      "text_preview": "Hundreds of #Israeli ex-security officials call on #Trump to end #Gaza war ... www.france24.com/en/middle-ea...",
+      "author": "zenarchie.bsky.social",
+      "author_display_name": "ZenArchie",
+      "created_at": "2025-08-05T06:29:23.257Z",
+      "hashtags": "['#Trump' '#Israeli' '#Gaza']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:30:03.184500",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:30:10.010000",
+      "text_length": 111,
+      "text_cleaned_length": 56,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0,
+      "ml_sentiment_score": -0.1757109798491001,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "anger",
+      "emotion_confidence": 0.7355054020881653,
+      "ml_processed_at": "2025-08-06 11:39:36.250492",
+      "processing_speed": 104.10521567130513,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn3eqjxc22k",
+      "text": "#RealHeroes against #Fascism and #Pedophilia, #USA - { #Epstein, #Trump }.",
+      "text_cleaned": "against and , - { , }.",
+      "text_preview": "#RealHeroes against #Fascism and #Pedophilia, #USA - { #Epstein, #Trump }.",
+      "author": "alangnixon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T06:28:34.209Z",
+      "hashtags": "['#Fascism' '#USA' '#Trump' '#Pedophilia' '#RealHeroes' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:30:03.184508",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:30:10.010000",
+      "text_length": 74,
+      "text_cleaned_length": 22,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.2727358527481556,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "anger",
+      "emotion_confidence": 0.8661579489707947,
+      "ml_processed_at": "2025-08-06 11:39:36.250492",
+      "processing_speed": 104.10521567130513,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn3gok7f22u",
+      "text": "#Resist #Trump #Lies",
+      "text_cleaned": "",
+      "text_preview": "#Resist #Trump #Lies",
+      "author": "ronfossen.bsky.social",
+      "author_display_name": "Ron Fossen",
+      "created_at": "2025-08-05T06:29:39.229Z",
+      "hashtags": "['#Trump' '#Resist' '#Lies']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:30:03.184494",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:30:10.010000",
+      "text_length": 20,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": "",
+      "ml_sentiment_label": "",
+      "dominant_emotion": "",
+      "emotion_confidence": "",
+      "ml_processed_at": "2025-08-06 11:39:36.250492",
+      "processing_speed": 104.10521567130513,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn32t4ryk2n",
+      "text": "youtu.be/gO_OE5G-R_E?...\n\nTHIS is the BEST, most WITHERING #Trump takedown I have seen and heard in many a while.\n\n#PalkiSharma is a political assassin with WORDS and TRUTH.\n\nA tactical and SURGICAL strike !\n\n\u2764\ufe0f",
+      "text_cleaned": "youtu.be/gO_OE5G-R_E?... THIS is the BEST, most WITHERING takedown I have seen and heard in many a while. is a political assassin with WORDS and TRUTH. A tactical and SURGICAL strike ! \u2764\ufe0f",
+      "text_preview": "youtu.be/gO_OE5G-R_E?...\n\nTHIS is the BEST, most WITHERING #Trump takedown I have seen and heard in many a while.\n\n#PalkiSharma is a political assassin with WORDS and TRUTH.\n\nA tactical and SURGICAL s...",
+      "author": "opinionbitch.bsky.social",
+      "author_display_name": "Opinionated Bitch \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf5\ud83c\uddf8\ud83c\uddfa\ud83c\uddf3\ud83c\uddea\ud83c\uddfa\ud83c\uddeb\ud83c\uddf7\ud83c\uddf8\ud83c\uddea\ud83c\udde6\ud83c\uddfa\ud83d\udc08\ud83e\udd8b\ud83c\udf08\u262e\ufe0f\u2764\ufe0f",
+      "created_at": "2025-08-05T06:23:01.379Z",
+      "hashtags": "['#Trump' '#PalkiSharma']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:25:03.466664",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:25:10.006000",
+      "text_length": 211,
+      "text_cleaned_length": 187,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.9298130450770259,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.4640868902206421,
+      "ml_processed_at": "2025-08-06 11:39:36.250492",
+      "processing_speed": 104.10521567130513,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn33ja6zn2j",
+      "text": "\n#NASA   #nuclear   #Trump   #Trump administration",
+      "text_cleaned": "administration",
+      "text_preview": "\n#NASA   #nuclear   #Trump   #Trump administration",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T06:23:30.366658+00:00",
+      "hashtags": "['#nuclear' '#Trump' '#NASA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:25:03.466656",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:25:10.006000",
+      "text_length": 50,
+      "text_cleaned_length": 14,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.28318043053150177,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.5565747618675232,
+      "ml_processed_at": "2025-08-06 11:39:36.250492",
+      "processing_speed": 104.10521567130513,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn2xeuhgx25",
+      "text": "\n#Trump   #Trump administration   #Visa",
+      "text_cleaned": "administration",
+      "text_preview": "\n#Trump   #Trump administration   #Visa",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-05T06:21:11.579665+00:00",
+      "hashtags": "['#Trump' '#Visa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:25:03.466677",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:25:10.006000",
+      "text_length": 39,
+      "text_cleaned_length": 14,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.28318043053150177,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.5565747618675232,
+      "ml_processed_at": "2025-08-06 11:39:36.250492",
+      "processing_speed": 104.10521567130513,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvn2xlwqxc2k",
+      "text": "{ #Epstein, #Pedophilia, #Trump }",
+      "text_cleaned": "{ , , }",
+      "text_preview": "{ #Epstein, #Pedophilia, #Trump }",
+      "author": "alangnixon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-05T06:21:13.177Z",
+      "hashtags": "['#Trump' '#Pedophilia' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-05T06:25:03.466671",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-05 06:25:10.006000",
+      "text_length": 33,
+      "text_cleaned_length": 7,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": "",
+      "ml_sentiment_label": "",
+      "dominant_emotion": "",
+      "emotion_confidence": "",
+      "ml_processed_at": "2025-08-06 11:39:36.250492",
+      "processing_speed": 104.10521567130513,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
