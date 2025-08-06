@@ -1,0 +1,255 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113227",
+    "original_batch": "batch_20250804_063152.json",
+    "enhanced_post_count": 7,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 6,
+      "emotion_coverage": 6,
+      "processing_speed": 90.70706154474126,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvkklyewufr2",
+      "text": "The #RN and #USN do not normally* comment on operational details of the movement of their submarines and #Trump should heed the warning \u201cLoose Lips Sink Ships.\u201d\n\nClearly Two Dolls Donny's reaction is half-cocked and personal, and he\u2019s given no thought to the dangerously destabilising ambiguity [\u2026]",
+      "text_cleaned": "The and do not normally* comment on operational details of the movement of their submarines and should heed the warning \u201cLoose Lips Sink Ships.\u201d Clearly Two Dolls Donny's reaction is half-cocked and personal, and he\u2019s given no thought to the dangerously destabilising ambiguity [\u2026]",
+      "text_preview": "The #RN and #USN do not normally* comment on operational details of the movement of their submarines and #Trump should heed the warning \u201cLoose Lips Sink Ships.\u201d\n\nClearly Two Dolls Donny's reaction is ...",
+      "author": "philipcjames.mas.to.ap.brid.gy",
+      "author_display_name": "Philip C James",
+      "created_at": "2025-08-04T06:23:00.000Z",
+      "hashtags": "['#RN' '#Trump' '#USN']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:25:02.987363",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:25:10.007000",
+      "text_length": 298,
+      "text_cleaned_length": 281,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.629071393981576,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "surprise",
+      "emotion_confidence": 0.28632044792175293,
+      "ml_processed_at": "2025-08-06 11:32:27.631321",
+      "processing_speed": 90.70706154474126,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkkhqszrc2b",
+      "text": "\"He wants a relationship based on hard American power, and is not afraid to use it against anybody. That's what's incredibly unsettling.\"\n\n#Trump and his 'allies' with @nixonsimon.bsky.social @heidicuda.bsky.social \n\n@goldbergradio.bsky.social @bylinetimes.bsky.social \n\npodfollow.com/byline-podca...",
+      "text_cleaned": "\"He wants a relationship based on hard American power, and is not afraid to use it against anybody. That's what's incredibly unsettling.\" and his 'allies' with .bsky.social .bsky.social .bsky.social .bsky.social podfollow.com/byline-podca...",
+      "text_preview": "\"He wants a relationship based on hard American power, and is not afraid to use it against anybody. That's what's incredibly unsettling.\"\n\n#Trump and his 'allies' with @nixonsimon.bsky.social @heidicu...",
+      "author": "bylinepodcast.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T06:20:42.082Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@bylinetimes.bsky.social' '@nixonsimon.bsky.social'\n '@goldbergradio.bsky.social' '@heidicuda.bsky.social']",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:25:02.987392",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:25:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 241,
+      "hashtag_count": 1,
+      "mention_count": 4,
+      "total_engagement": 3.5,
+      "ml_sentiment_score": -0.6626374013721943,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "fear",
+      "emotion_confidence": 0.9748450517654419,
+      "ml_processed_at": "2025-08-06 11:32:27.631321",
+      "processing_speed": 90.70706154474126,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkkkid5bs2i",
+      "text": "www.motherjones.com/politics/202...\n\nTrump baselessly claimed the revised jobs numbers were rigged\u2014because of course he did. Experts laughed, noting it\u2019d take an army of bureaucrats ditching decades of protocol to fake a stat just to annoy him. Nixon looks subtle by comparison.\n\n#trump #maga",
+      "text_cleaned": "Trump baselessly claimed the revised jobs numbers were rigged\u2014because of course he did. Experts laughed, noting it\u2019d take an army of bureaucrats ditching decades of protocol to fake a stat just to annoy him. Nixon looks subtle by comparison.",
+      "text_preview": "www.motherjones.com/politics/202...\n\nTrump baselessly claimed the revised jobs numbers were rigged\u2014because of course he did. Experts laughed, noting it\u2019d take an army of bureaucrats ditching decades o...",
+      "author": "moxymcmxlvii.bsky.social",
+      "author_display_name": "GW",
+      "created_at": "2025-08-04T06:22:13.834Z",
+      "hashtags": "['#maga' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:25:02.987373",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:25:10.007000",
+      "text_length": 292,
+      "text_cleaned_length": 241,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.8137047477066517,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "disgust",
+      "emotion_confidence": 0.397188663482666,
+      "ml_processed_at": "2025-08-06 11:32:27.631321",
+      "processing_speed": 90.70706154474126,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkknbzrae2f",
+      "text": "Trump said he currently \u2018loves\u2019 Sydney Sweeney After the Republican registered in the American Eagle announcement star-news.press/wp\n\n,Trump said he currently 'loves' Sydney Sweeney After the Republican registered in the American Eagle announcement star-news.press/wp, 2025-08-04 03:43:00 #Trump\u2026",
+      "text_cleaned": "Trump said he currently \u2018loves\u2019 Sydney Sweeney After the Republican registered in the American Eagle announcement star-news.press/wp ,Trump said he currently 'loves' Sydney Sweeney After the Republican registered in the American Eagle announcement star-news.press/wp, 2025-08-04 03:43:00 \u2026",
+      "text_preview": "Trump said he currently \u2018loves\u2019 Sydney Sweeney After the Republican registered in the American Eagle announcement star-news.press/wp\n\n,Trump said he currently 'loves' Sydney Sweeney After the Republic...",
+      "author": "star-news.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T06:23:46Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:25:02.987345",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:25:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 289,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.7965361052192748,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "joy",
+      "emotion_confidence": 0.8238749504089355,
+      "ml_processed_at": "2025-08-06 11:32:27.631321",
+      "processing_speed": 90.70706154474126,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkkme5yuz2k",
+      "text": "\n#Klimaschutz   #New York   #Regierung   #Treibhausgase   #Trump   #Trump-Regierung",
+      "text_cleaned": "York -Regierung",
+      "text_preview": "\n#Klimaschutz   #New York   #Regierung   #Treibhausgase   #Trump   #Trump-Regierung",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T06:23:23.508945+00:00",
+      "hashtags": "['#Treibhausgase' '#Trump' '#Klimaschutz' '#Regierung' '#New']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:25:02.987354",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:25:10.007000",
+      "text_length": 83,
+      "text_cleaned_length": 15,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.018931244686245918,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7686648368835449,
+      "ml_processed_at": "2025-08-06 11:32:27.631321",
+      "processing_speed": 90.70706154474126,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkkn36l7o2t",
+      "text": "\n#EU   #Indien   #liveblog   #Proteste   #Trump   #Ukrainekrieg   #Z\u00f6lle",
+      "text_cleaned": "",
+      "text_preview": "\n#EU   #Indien   #liveblog   #Proteste   #Trump   #Ukrainekrieg   #Z\u00f6lle",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-04T06:23:47.636774+00:00",
+      "hashtags": "['#Trump' '#Indien' '#Ukrainekrieg' '#Proteste' '#EU' '#liveblog' '#Z\u00f6lle']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:25:02.987337",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:25:10.007000",
+      "text_length": 72,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": "",
+      "ml_sentiment_label": "",
+      "dominant_emotion": "",
+      "emotion_confidence": "",
+      "ml_processed_at": "2025-08-06 11:32:27.631321",
+      "processing_speed": 90.70706154474126,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkkja5zb224",
+      "text": "#Trump mugshot 2023 \ud83e\udd23",
+      "text_cleaned": "mugshot 2023 \ud83e\udd23",
+      "text_preview": "#Trump mugshot 2023 \ud83e\udd23",
+      "author": "shannondrake.bsky.social",
+      "author_display_name": "Shannon Drake \ud83c\udf12\ud83c\udf15\ud83c\udf18",
+      "created_at": "2025-08-04T06:21:31.717Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T06:25:02.987382",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 06:25:10.007000",
+      "text_length": 21,
+      "text_cleaned_length": 14,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.5,
+      "ml_sentiment_score": 0.03711064159870148,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.5375221967697144,
+      "ml_processed_at": "2025-08-06 11:32:27.631321",
+      "processing_speed": 90.70706154474126,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
