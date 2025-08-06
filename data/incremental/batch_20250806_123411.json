@@ -1,0 +1,311 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_123411",
+    "post_count": 11,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 12:25:10.007000",
+    "latest_received_at": "2025-08-06 12:30:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvq7wh3bl22q",
+      "text": "@arimelber.bsky.social thank you for this story!\nwonder where the PEDO #Epstein #Trump files are today?\n\nwww.yahoo.com/news/videos/...",
+      "text_cleaned": ".bsky.social thank you for this story! wonder where the PEDO files are today?",
+      "text_preview": "@arimelber.bsky.social thank you for this story!\nwonder where the PEDO #Epstein #Trump files are today?\n\nwww.yahoo.com/news/videos/...",
+      "author": "dogma2015k8s.bsky.social",
+      "author_display_name": "Kaz",
+      "created_at": "2025-08-06T12:28:02.451Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "['@arimelber.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:30:03.883180",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:30:10.007000",
+      "text_length": 134,
+      "text_cleaned_length": 77,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq7utmhdc2y",
+      "text": "#Trump and #maga\nExcuse bingo\nTake your pick\nConsequences the same\nNone\nFucking #snowflakes \n\nCartoon: The New Yorker",
+      "text_cleaned": "and Excuse bingo Take your pick Consequences the same None Fucking Cartoon: The New Yorker",
+      "text_preview": "#Trump and #maga\nExcuse bingo\nTake your pick\nConsequences the same\nNone\nFucking #snowflakes \n\nCartoon: The New Yorker",
+      "author": "scottbarger.bsky.social",
+      "author_display_name": "Scott Barger",
+      "created_at": "2025-08-06T12:27:08.480Z",
+      "hashtags": "['#snowflakes' '#maga' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:30:03.883192",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:30:10.007000",
+      "text_length": 117,
+      "text_cleaned_length": 90,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq7rk27qz2f",
+      "text": "I\u2019ve spent my life fighting bullies. I still believe there\u2019s hope for America | Robert Reich\n#Trump",
+      "text_cleaned": "I\u2019ve spent my life fighting bullies. I still believe there\u2019s hope for America | Robert Reich",
+      "text_preview": "I\u2019ve spent my life fighting bullies. I still believe there\u2019s hope for America | Robert Reich\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T12:25:17.266Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:30:03.883201",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:30:10.007000",
+      "text_length": 99,
+      "text_cleaned_length": 92,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvq7rcifjs2r",
+      "text": "\" #Trump 's envoy #Witkoff meets #Putin as ceasefire deadline looms\" - #Russia #Ukraine \nwww.bbc.com/news/article...",
+      "text_cleaned": "\" 's envoy meets as ceasefire deadline looms\" -",
+      "text_preview": "\" #Trump 's envoy #Witkoff meets #Putin as ceasefire deadline looms\" - #Russia #Ukraine \nwww.bbc.com/news/article...",
+      "author": "kostianv.bsky.social",
+      "author_display_name": "Ville Kostian",
+      "created_at": "2025-08-06T12:25:09.867Z",
+      "hashtags": "['#Trump' '#Russia' '#Witkoff' '#Ukraine' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:30:03.883218",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:30:10.007000",
+      "text_length": 116,
+      "text_cleaned_length": 47,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq7rikr4d2i",
+      "text": "Live updates: Trump envoy meets with Putin, as sanctions deadline looms\n#Trump",
+      "text_cleaned": "Live updates: Trump envoy meets with Putin, as sanctions deadline looms",
+      "text_preview": "Live updates: Trump envoy meets with Putin, as sanctions deadline looms\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T12:25:15.848Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:30:03.883209",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:30:10.007000",
+      "text_length": 78,
+      "text_cleaned_length": 71,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvq7i77bsn2j",
+      "text": "There were about 750 members in the audience, the congressman said. #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "There were about 750 members in the audience, the congressman said.",
+      "text_preview": "There were about 750 members in the audience, the congressman said. #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings ...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T12:20:04.405Z",
+      "hashtags": "['#StrongerTogether' '#DemsUnited' '#MAGA' '#tRUMP' '#DEMS' '#Fascism'\n '#GOP' '#NoKings' '#liberal' '#SaveDemocracy' '#conservative'\n '#donaldtrump' '#Resist' '#TACO' '#Democrat']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:25:03.574853",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:25:10.007000",
+      "text_length": 214,
+      "text_cleaned_length": 67,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq7pdmioc24",
+      "text": "Good...Get her out of Washington.  She's a kissass...\nThank you dear leader. Should I kiss your #MAGA ass a little more before I go?\n#tRUMP #CORRUPTION #AUTHORITARIAN #LIES",
+      "text_cleaned": "Good...Get her out of Washington. She's a kissass... Thank you dear leader. Should I kiss your ass a little more before I go?",
+      "text_preview": "Good...Get her out of Washington.  She's a kissass...\nThank you dear leader. Should I kiss your #MAGA ass a little more before I go?\n#tRUMP #CORRUPTION #AUTHORITARIAN #LIES",
+      "author": "snagglepussdan.bsky.social",
+      "author_display_name": "Dan Smith",
+      "created_at": "2025-08-06T12:24:03.942Z",
+      "hashtags": "['#LIES' '#MAGA' '#AUTHORITARIAN' '#CORRUPTION' '#tRUMP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:25:03.574816",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:25:10.007000",
+      "text_length": 172,
+      "text_cleaned_length": 125,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq7iigqak2x",
+      "text": "#Trump has made #tariffs the foundation of his economic policy and he does NOT know how tariffs work. \n\nI feel like this doesn't get enough attention.",
+      "text_cleaned": "has made the foundation of his economic policy and he does NOT know how tariffs work. I feel like this doesn't get enough attention.",
+      "text_preview": "#Trump has made #tariffs the foundation of his economic policy and he does NOT know how tariffs work. \n\nI feel like this doesn't get enough attention.",
+      "author": "kemek.bsky.social",
+      "author_display_name": "Benjamin O. Anderson",
+      "created_at": "2025-08-06T12:20:14.101Z",
+      "hashtags": "['#tariffs' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:25:03.574841",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:25:10.007000",
+      "text_length": 150,
+      "text_cleaned_length": 132,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq7j7ibgj2t",
+      "text": "Trump sets the record straight on Scott Besson: \u201cHe\u2019s doing a really good job and he wants to stay where he is.\u201d \n\n#Trump #ScottBesson #USPolitics",
+      "text_cleaned": "Trump sets the record straight on Scott Besson: \u201cHe\u2019s doing a really good job and he wants to stay where he is.\u201d",
+      "text_preview": "Trump sets the record straight on Scott Besson: \u201cHe\u2019s doing a really good job and he wants to stay where he is.\u201d \n\n#Trump #ScottBesson #USPolitics",
+      "author": "meaww.com",
+      "author_display_name": "MEAWW News",
+      "created_at": "2025-08-06T12:20:38.106Z",
+      "hashtags": "['#ScottBesson' '#USPolitics' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:25:03.574833",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:25:10.007000",
+      "text_length": 146,
+      "text_cleaned_length": 112,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvq7nd7jcf2q",
+      "text": "\n#JD Vance   #Trump   #Vance",
+      "text_cleaned": "Vance",
+      "text_preview": "\n#JD Vance   #Trump   #Vance",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T12:23:16.799436+00:00",
+      "hashtags": "['#JD' '#Vance' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:25:03.574824",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:25:10.007000",
+      "text_length": 28,
+      "text_cleaned_length": 5,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq7q5ak5p2a",
+      "text": "\n#JD Vance   #Trump   #Vance",
+      "text_cleaned": "Vance",
+      "text_preview": "\n#JD Vance   #Trump   #Vance",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T12:24:51.196394+00:00",
+      "hashtags": "['#JD' '#Vance' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:25:03.574808",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:25:10.007000",
+      "text_length": 28,
+      "text_cleaned_length": 5,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
