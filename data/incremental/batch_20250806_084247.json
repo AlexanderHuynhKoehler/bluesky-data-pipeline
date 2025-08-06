@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_084247",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 08:35:10.008000",
+    "latest_received_at": "2025-08-06 08:40:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpsz3vpls2t",
+      "text": "Arrest of politicians. The seizing of seats. At what point does anyone cry \"political coup\"?\n\nTrump threatens fleeing Texas Democrats with FBI as Greg Abbott calls for \u2018consequences\u2019\n\n#USA #uspoli #Trump #Texas #Republicans \n\nWhen did Texas become Russia?\n\nwww.theguardian.com/us-news/live...",
+      "text_cleaned": "Arrest of politicians. The seizing of seats. At what point does anyone cry \"political coup\"? Trump threatens fleeing Texas Democrats with FBI as Greg Abbott calls for \u2018consequences\u2019 When did Texas become Russia?",
+      "text_preview": "Arrest of politicians. The seizing of seats. At what point does anyone cry \"political coup\"?\n\nTrump threatens fleeing Texas Democrats with FBI as Greg Abbott calls for \u2018consequences\u2019\n\n#USA #uspoli #Tr...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-06T08:36:52.755Z",
+      "hashtags": "['#Republicans' '#uspoli' '#Trump' '#USA' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:40:03.181189",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:40:10.007000",
+      "text_length": 292,
+      "text_cleaned_length": 211,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 5.0
+    },
+    {
+      "post_id": "3lvpszrucyk2d",
+      "text": "\ud83c\uddfa\ud83c\uddf8 #CRIMES \n\u00ab\u00a0\u00c9liminer des satellites d\u2019observation terrestre serait catastrophique et nuirait gravement \u00e0 notre capacit\u00e9 \u00e0 anticiper les catastrophes climatiques.\u202f\nZoe Lofgren\u00a0\u00bb \nrepr\u00e9sentante au Congr\u00e8s\n#folie #Trump #Nasa",
+      "text_cleaned": "\ud83c\uddfa\ud83c\uddf8 \u00ab \u00c9liminer des satellites d\u2019observation terrestre serait catastrophique et nuirait gravement \u00e0 notre capacit\u00e9 \u00e0 anticiper les catastrophes climatiques. Zoe Lofgren \u00bb repr\u00e9sentante au Congr\u00e8s",
+      "text_preview": "\ud83c\uddfa\ud83c\uddf8 #CRIMES \n\u00ab\u00a0\u00c9liminer des satellites d\u2019observation terrestre serait catastrophique et nuirait gravement \u00e0 notre capacit\u00e9 \u00e0 anticiper les catastrophes climatiques.\u202f\nZoe Lofgren\u00a0\u00bb \nrepr\u00e9sentante au Con...",
+      "author": "martdemat.bsky.social",
+      "author_display_name": "Mar\ud83c\udf31Dema\ud83c\udf31",
+      "created_at": "2025-08-06T08:37:15.778Z",
+      "hashtags": "['#folie' '#Nasa' '#CRIMES' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:40:03.181180",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:40:10.007000",
+      "text_length": 224,
+      "text_cleaned_length": 193,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvpsyfk46k26",
+      "text": "\ud83d\ude31 Soldi spariti e bancomat KO: #IntesaSanpaolo in tilt ieri mattina! Scopri cosa \u00e8 successo davvero su ORA ULTIMA: www.oraultima.com/problemi-int...\n\n#OraUltima #6agosto #saelanews #buongiorno #italia #news #economia #finanza #economy #finance #money",
+      "text_cleaned": "\ud83d\ude31 Soldi spariti e bancomat KO: in tilt ieri mattina! Scopri cosa \u00e8 successo davvero su ORA ULTIMA:",
+      "text_preview": "\ud83d\ude31 Soldi spariti e bancomat KO: #IntesaSanpaolo in tilt ieri mattina! Scopri cosa \u00e8 successo davvero su ORA ULTIMA: www.oraultima.com/problemi-int...\n\n#OraUltima #6agosto #saelanews #buongiorno #italia...",
+      "author": "oraultima.bsky.social",
+      "author_display_name": "ORA ULTIMA",
+      "created_at": "2025-08-06T08:36:29.307Z",
+      "hashtags": "['#saelanews' '#news' '#OraUltima' '#6agosto' '#buongiorno' '#economy'\n '#italia' '#economia' '#finance' '#money' '#IntesaSanpaolo' '#finanza']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:40:03.180851",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:40:10.007000",
+      "text_length": 250,
+      "text_cleaned_length": 98,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpt5zxvh62f",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-06T08:39:38.186Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:40:03.181166",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:40:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpt46yejs2p",
+      "text": "medium.com/p/62fdec8a5b85\n\"Please Excuse Donald Trump from work today, he needs to screw some teenies \u2014 Epstein\u2019s Mother\"\n#epstein #epsteinfiles #quotes #trump",
+      "text_cleaned": "medium.com/p/62fdec8a5b85 \"Please Excuse Donald Trump from work today, he needs to screw some teenies \u2014 Epstein\u2019s Mother\"",
+      "text_preview": "medium.com/p/62fdec8a5b85\n\"Please Excuse Donald Trump from work today, he needs to screw some teenies \u2014 Epstein\u2019s Mother\"\n#epstein #epsteinfiles #quotes #trump",
+      "author": "illuminati-ganga.bsky.social",
+      "author_display_name": "ILLUMINATI GANGA",
+      "created_at": "2025-08-06T08:38:36.644Z",
+      "hashtags": "['#quotes' '#epstein' '#epsteinfiles' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:40:03.181172",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:40:10.007000",
+      "text_length": 159,
+      "text_cleaned_length": 121,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpt6imrsk23",
+      "text": "#janslagter van Omroep #Max vind ik maar een kleine #trump #eus #matthijs",
+      "text_cleaned": "van Omroep vind ik maar een kleine",
+      "text_preview": "#janslagter van Omroep #Max vind ik maar een kleine #trump #eus #matthijs",
+      "author": "agnestrooster.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T08:39:53.866Z",
+      "hashtags": "['#Max' '#eus' '#matthijs' '#janslagter' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:40:03.181152",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:40:10.007000",
+      "text_length": 73,
+      "text_cleaned_length": 34,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpt662rfk2t",
+      "text": "EA on ANewz: #Trump #Disinformation Campaign to Bury His #Russia Links and #Epstein Scandal\n\n#TrumpRussia #Obama #Clinton #EpsteinFiles\n\neaworldview.com/2025/08/russ...",
+      "text_cleaned": "EA on ANewz: Campaign to Bury His Links and Scandal eaworldview.com/2025/08/russ...",
+      "text_preview": "EA on ANewz: #Trump #Disinformation Campaign to Bury His #Russia Links and #Epstein Scandal\n\n#TrumpRussia #Obama #Clinton #EpsteinFiles\n\neaworldview.com/2025/08/russ...",
+      "author": "scottlucas.bsky.social",
+      "author_display_name": "Scott Lucas",
+      "created_at": "2025-08-06T08:39:42.789Z",
+      "hashtags": "['#Epstein' '#Russia' '#Trump' '#TrumpRussia' '#Disinformation' '#Obama'\n '#Clinton' '#EpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:40:03.181159",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:40:10.007000",
+      "text_length": 168,
+      "text_cleaned_length": 83,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsxxugfd25",
+      "text": "\n#Delhi   #India   #New Delhi   #Tariffs   #Trump",
+      "text_cleaned": "Delhi",
+      "text_preview": "\n#Delhi   #India   #New Delhi   #Tariffs   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T08:36:35.549563+00:00",
+      "hashtags": "['#Delhi' '#India' '#New' '#Trump' '#Tariffs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:40:03.181196",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:40:10.007000",
+      "text_length": 49,
+      "text_cleaned_length": 5,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsxtkpfs2o",
+      "text": "\n#attack   #crime   #DOGE   #Trump   #Washington",
+      "text_cleaned": "",
+      "text_preview": "\n#attack   #crime   #DOGE   #Trump   #Washington",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T08:36:31.031283+00:00",
+      "hashtags": "['#attack' '#Trump' '#crime' '#DOGE' '#Washington']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:40:03.181203",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:40:10.007000",
+      "text_length": 48,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsscelsp2a",
+      "text": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/PqWSA4RD",
+      "text_cleaned": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progress so far on ending the... .ai",
+      "text_preview": "Trump Sends His Envoy to Russia With Sanctions Deadline Looming The envoy, Steve Witkoff, is making his fifth visit this year. He has managed to secure some prisoner exchanges but made no clear progre...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-06T08:33:04.473Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:35:03.311676",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:35:10.008000",
+      "text_length": 273,
+      "text_cleaned_length": 230,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpst56x2n2f",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-06T08:33:32.465Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:35:03.311661",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:35:10.008000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsofr5lz2p",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #OC\n4. #QuestPit\n5. #R4Today\n6. #AI\n7. #digitalart\n8. #Hiroshima\n9. #FFXIV\n10. #Trump\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #OC\n4. #QuestPit\n5. #R4Today\n6. #AI\n7. #digitalart\n8. #Hiroshima\n9. #FFXIV\n10. #Trump\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-06T08:30:24Z",
+      "hashtags": "['#art' '#Hiroshima' '#R4Today' '#bb27' '#QuestPit' '#AI' '#OC'\n '#digitalart' '#FFXIV' '#Trump']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:35:03.311706",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:35:10.008000",
+      "text_length": 171,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpssxk6e22t",
+      "text": "\"Yeah, I moved on them like a bitch, they'll let you do ANYTHING to them\" #Trump #Epstein #Pedophile #Maxwell",
+      "text_cleaned": "\"Yeah, I moved on them like a bitch, they'll let you do ANYTHING to them\"",
+      "text_preview": "\"Yeah, I moved on them like a bitch, they'll let you do ANYTHING to them\" #Trump #Epstein #Pedophile #Maxwell",
+      "author": "daybyday4ever.bsky.social",
+      "author_display_name": "Dan",
+      "created_at": "2025-08-06T08:33:26.851Z",
+      "hashtags": "['#Pedophile' '#Trump' '#Maxwell' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:35:03.311669",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:35:10.008000",
+      "text_length": 109,
+      "text_cleaned_length": 73,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvpsraznta2a",
+      "text": "\n#Donald Tusk   #Polen   #Staatsoberhaupt   #Trump   #Tusk",
+      "text_cleaned": "Tusk",
+      "text_preview": "\n#Donald Tusk   #Polen   #Staatsoberhaupt   #Trump   #Tusk",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T08:32:50.256060+00:00",
+      "hashtags": "['#Staatsoberhaupt' '#Polen' '#Tusk' '#Trump' '#Donald']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:35:03.311684",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:35:10.008000",
+      "text_length": 58,
+      "text_cleaned_length": 4,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsqrhrxx2s",
+      "text": "Click Subscribe. #India #CentralBank #InterestRates #Economy #Finance",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #India #CentralBank #InterestRates #Economy #Finance",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-06T08:32:13Z",
+      "hashtags": "['#CentralBank' '#Economy' '#India' '#InterestRates' '#Finance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:35:03.311363",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:35:10.008000",
+      "text_length": 69,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsn5l66x2s",
+      "text": "Click Subscribe. #Turkey #Economy #Disinflation #Finance #Investing",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Turkey #Economy #Disinflation #Finance #Investing",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-06T08:30:11Z",
+      "hashtags": "['#Investing' '#Economy' '#Disinflation' '#Turkey' '#Finance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:35:03.311392",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:35:10.008000",
+      "text_length": 67,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsowo2qq24",
+      "text": "Click Subscribe. #Japan #BOJ #interestrates #economy #finance",
+      "text_cleaned": "Click Subscribe.",
+      "text_preview": "Click Subscribe. #Japan #BOJ #interestrates #economy #finance",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-06T08:31:11Z",
+      "hashtags": "['#finance' '#economy' '#BOJ' '#interestrates' '#Japan']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:35:03.311381",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:35:10.008000",
+      "text_length": 61,
+      "text_cleaned_length": 16,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpsnve7gu2t",
+      "text": "\n#Maga   #Regierung   #Trump   #Vance",
+      "text_cleaned": "",
+      "text_preview": "\n#Maga   #Regierung   #Trump   #Vance",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T08:30:57.360155+00:00",
+      "hashtags": "['#Trump' '#Vance' '#Maga' '#Regierung']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T08:35:03.311695",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 08:35:10.008000",
+      "text_length": 37,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
