@@ -1,0 +1,311 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_132432",
+    "post_count": 11,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 13:15:10.007000",
+    "latest_received_at": "2025-08-06 13:20:10.009000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvqcrbxaak2k",
+      "text": "How #America has changed. In 1872, President Ulysses S. Grant was arrested for speeding. He was taken to the local police station and booked (released after posting a $20 bond). #Trump daily commits more heinous crimes and the police and the courts turn a blind eye. Disgraceful. #UnitedStates",
+      "text_cleaned": "How has changed. In 1872, President Ulysses S. Grant was arrested for speeding. He was taken to the local police station and booked (released after posting a $20 bond). daily commits more heinous crimes and the police and the courts turn a blind eye. Disgraceful.",
+      "text_preview": "How #America has changed. In 1872, President Ulysses S. Grant was arrested for speeding. He was taken to the local police station and booked (released after posting a $20 bond). #Trump daily commits m...",
+      "author": "linzi-the-artist.bsky.social",
+      "author_display_name": "Lindsay Brambles\ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-06T13:18:50.530Z",
+      "hashtags": "['#Trump' '#UnitedStates' '#America']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:20:03.952368",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:20:10.009000",
+      "text_length": 293,
+      "text_cleaned_length": 263,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqckrd4v72v",
+      "text": "#FoxNews Trump threatens to federalize DC after DOGE employee attack #shorts #foxnews #news #doge #trump\u00a0#us\n\nTrump threatens to federalize DC after DOGE employee attack #shorts #foxnews #news #doge #trump #us President Donald Trump and former DOGE head Elon Musk both condemned the attack on a\u2026",
+      "text_cleaned": "Trump threatens to federalize DC after DOGE employee attack Trump threatens to federalize DC after DOGE employee attack President Donald Trump and former DOGE head Elon Musk both condemned the attack on a\u2026",
+      "text_preview": "#FoxNews Trump threatens to federalize DC after DOGE employee attack #shorts #foxnews #news #doge #trump\u00a0#us\n\nTrump threatens to federalize DC after DOGE employee attack #shorts #foxnews #news #doge #...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-06T13:15:10Z",
+      "hashtags": "['#news' '#us' '#doge' '#shorts' '#trump' '#FoxNews' '#foxnews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:20:03.952404",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:20:10.009000",
+      "text_length": 295,
+      "text_cleaned_length": 205,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcnbqn2223",
+      "text": "According to Putin\u2019s aide Yuri Ushakov, during the meeting \u201cRussia sent signals regarding the Ukraine issue and received corresponding signals from President Trump.\u201d\n\n#USA #Trump #Witkoff #Ukraine\ufe0f #UkraineRussiaWar #Russia #Putin",
+      "text_cleaned": "According to Putin\u2019s aide Yuri Ushakov, during the meeting \u201cRussia sent signals regarding the Ukraine issue and received corresponding signals from President Trump.\u201d \ufe0f",
+      "text_preview": "According to Putin\u2019s aide Yuri Ushakov, during the meeting \u201cRussia sent signals regarding the Ukraine issue and received corresponding signals from President Trump.\u201d\n\n#USA #Trump #Witkoff #Ukraine\ufe0f #U...",
+      "author": "ulfh3dnar.bsky.social",
+      "author_display_name": "Ulfh3dnar",
+      "created_at": "2025-08-06T13:16:36.096Z",
+      "hashtags": "['#Trump' '#Ukraine' '#USA' '#Witkoff' '#UkraineRussiaWar' '#Putin'\n '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:20:03.952385",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:20:10.009000",
+      "text_length": 230,
+      "text_cleaned_length": 167,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqcpffoc22v",
+      "text": "No investigation into Jeffrey #Epstein is complete without the testimony of his one-time best friend Donald #Trump.\nIt's time to tell us what you know Trumpy.",
+      "text_cleaned": "No investigation into Jeffrey is complete without the testimony of his one-time best friend Donald . It's time to tell us what you know Trumpy.",
+      "text_preview": "No investigation into Jeffrey #Epstein is complete without the testimony of his one-time best friend Donald #Trump.\nIt's time to tell us what you know Trumpy.",
+      "author": "sky-bloo.bsky.social",
+      "author_display_name": "Sky Bloo \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f",
+      "created_at": "2025-08-06T13:17:47.040Z",
+      "hashtags": "['#Trump' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:20:03.952374",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:20:10.009000",
+      "text_length": 158,
+      "text_cleaned_length": 143,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcsxehkk2u",
+      "text": "I expect nothing, honestly, #Russia will fool #Trump again",
+      "text_cleaned": "I expect nothing, honestly, will fool again",
+      "text_preview": "I expect nothing, honestly, #Russia will fool #Trump again",
+      "author": "tilmane.bsky.social",
+      "author_display_name": "Tilman",
+      "created_at": "2025-08-06T13:19:46.538Z",
+      "hashtags": "['#Trump' '#Russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:20:03.952357",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:20:10.009000",
+      "text_length": 58,
+      "text_cleaned_length": 43,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcl2ivuk2h",
+      "text": "Remove #pedo47 #releasethefiles #epstein #trump",
+      "text_cleaned": "Remove",
+      "text_preview": "Remove #pedo47 #releasethefiles #epstein #trump",
+      "author": "dhaugeranville1786.bsky.social",
+      "author_display_name": "D\u2019Haugeranville",
+      "created_at": "2025-08-06T13:15:21.394Z",
+      "hashtags": "['#epstein' '#trump' '#releasethefiles' '#pedo47']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:20:03.952393",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:20:10.009000",
+      "text_length": 47,
+      "text_cleaned_length": 6,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcelwbtc2j",
+      "text": "\"Putin will stop killing people.\" Trump reveals his new plan\n\nIf energy prices drop enough, Putin will stop killing people\u2026 If you drop energy prices another $10 a barrel, he will have no choice because his economy will be in terrible shape.\n#Trump #Putin \nnews.online.ua/en/putin-wil...",
+      "text_cleaned": "\"Putin will stop killing people.\" Trump reveals his new plan If energy prices drop enough, Putin will stop killing people\u2026 If you drop energy prices another $10 a barrel, he will have no choice because his economy will be in terrible shape. news.online.ua/en/putin-wil...",
+      "text_preview": "\"Putin will stop killing people.\" Trump reveals his new plan\n\nIf energy prices drop enough, Putin will stop killing people\u2026 If you drop energy prices another $10 a barrel, he will have no choice becau...",
+      "author": "blue24world.bsky.social",
+      "author_display_name": "Ukraine Support \ud83c\uddfa\ud83c\udde6 \ud83c\uddea\ud83c\uddfa",
+      "created_at": "2025-08-06T13:11:44.768Z",
+      "hashtags": "['#Putin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:15:04.184858",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:15:10.007000",
+      "text_length": 287,
+      "text_cleaned_length": 271,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvqcf2dbrs2d",
+      "text": "#WTF Mittelalter First: Nicht nur einen Schritt zur\u00fcck \u2013 gleich mehrere:\nImpfschwurbel-Minister Robert F. Lebertran-Kennedy will die Gelder f\u00fcr die Entwicklung von mRNA-Impfstoffen (u.a. gegen Grippe, Covid19, Vogelgrippe) streichen \u2013 500 Mio. US-Dollar! #USA #Trump\nwww.tagesschau.de/ausland/amer...",
+      "text_cleaned": "Mittelalter First: Nicht nur einen Schritt zur\u00fcck \u2013 gleich mehrere: Impfschwurbel-Minister Robert F. Lebertran-Kennedy will die Gelder f\u00fcr die Entwicklung von mRNA-Impfstoffen (u.a. gegen Grippe, Covid19, Vogelgrippe) streichen \u2013 500 Mio. US-Dollar!",
+      "text_preview": "#WTF Mittelalter First: Nicht nur einen Schritt zur\u00fcck \u2013 gleich mehrere:\nImpfschwurbel-Minister Robert F. Lebertran-Kennedy will die Gelder f\u00fcr die Entwicklung von mRNA-Impfstoffen (u.a. gegen Grippe,...",
+      "author": "der-waeller.bsky.social",
+      "author_display_name": "Der W\u00e4ller",
+      "created_at": "2025-08-06T13:11:59.881Z",
+      "hashtags": "['#WTF' '#USA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:15:04.184851",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:15:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 249,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvqcfihz3k2z",
+      "text": "Archive searches suggest the White House has scrubbed Sections 9 and 10 pertaining to Habeas Corpus and judicial review of unlawful detention from the official congressional website on the Constitution.\n\n#Trump #GOP #Constitution #HabeasCorpus\n\nwww.alternet.org/white-house-...",
+      "text_cleaned": "Archive searches suggest the White House has scrubbed Sections 9 and 10 pertaining to Habeas Corpus and judicial review of unlawful detention from the official congressional website on the Constitution.",
+      "text_preview": "Archive searches suggest the White House has scrubbed Sections 9 and 10 pertaining to Habeas Corpus and judicial review of unlawful detention from the official congressional website on the Constitutio...",
+      "author": "spacemonkey3000.bsky.social",
+      "author_display_name": "Space Monkey 3000",
+      "created_at": "2025-08-06T13:12:14.718Z",
+      "hashtags": "['#HabeasCorpus' '#Constitution' '#GOP' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:15:04.184842",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:15:10.007000",
+      "text_length": 277,
+      "text_cleaned_length": 202,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcj2lmv52i",
+      "text": "A PhRMA spokesperson wouldn't comment on Trump's latest remarks, but the group has said tariffs on medicines would be \"counterproductive.\" #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "A PhRMA spokesperson wouldn't comment on Trump's latest remarks, but the group has said tariffs on medicines would be \"counterproductive.\"",
+      "text_preview": "A PhRMA spokesperson wouldn't comment on Trump's latest remarks, but the group has said tariffs on medicines would be \"counterproductive.\" #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #S...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T13:14:14.387Z",
+      "hashtags": "['#conservative' '#Democrat' '#NoKings' '#TACO' '#StrongerTogether'\n '#SaveDemocracy' '#Fascism' '#DEMS' '#DemsUnited' '#tRUMP' '#MAGA' '#GOP'\n '#donaldtrump' '#Resist' '#liberal']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:15:04.184835",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:15:10.007000",
+      "text_length": 285,
+      "text_cleaned_length": 138,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcdzfypc2f",
+      "text": "Leia no InfoMoney.\n\nFoto: Canva\n\n#Economia #Tarifas #Brasil #EUA #Trump",
+      "text_cleaned": "Leia no InfoMoney. Foto: Canva",
+      "text_preview": "Leia no InfoMoney.\n\nFoto: Canva\n\n#Economia #Tarifas #Brasil #EUA #Trump",
+      "author": "infomoneyoficial.bsky.social",
+      "author_display_name": "InfoMoney \u2705",
+      "created_at": "2025-08-06T13:10:58.140Z",
+      "hashtags": "['#Tarifas' '#Brasil' '#Economia' '#Trump' '#EUA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:15:04.184865",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:15:10.007000",
+      "text_length": 71,
+      "text_cleaned_length": 30,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
