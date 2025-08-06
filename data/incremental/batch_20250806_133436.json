@@ -1,0 +1,716 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_133436",
+    "post_count": 26,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 13:25:10.009000",
+    "latest_received_at": "2025-08-06 13:30:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvqddbowtk2k",
+      "text": "But in today's #UnitedStates how else can one achieve the #American dream, but to rob from the poor, the disadvantaged, the innocent, and the helpless? The quickest way to make billionaires is to impoverish everyone else, and it is easy to do that when you lack a moral compass. #Trump",
+      "text_cleaned": "But in today's how else can one achieve the dream, but to rob from the poor, the disadvantaged, the innocent, and the helpless? The quickest way to make billionaires is to impoverish everyone else, and it is easy to do that when you lack a moral compass.",
+      "text_preview": "But in today's #UnitedStates how else can one achieve the #American dream, but to rob from the poor, the disadvantaged, the innocent, and the helpless? The quickest way to make billionaires is to impo...",
+      "author": "linzi-the-artist.bsky.social",
+      "author_display_name": "Lindsay Brambles\ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-06T13:28:54.238Z",
+      "hashtags": "['#Trump' '#American' '#UnitedStates']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012443",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 285,
+      "text_cleaned_length": 254,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqddonbms2i",
+      "text": "The fight over Republican efforts to redraw congressional maps ahead of the 2026 midterm elections has escalated sharply. Gerrymandering is an old-fashioned corrupt practice that some refuse to partake in.\n\n#Texas #Trump #FBI #Gerrymandering #DemocratsSaveTexas #TrumpRegime #News",
+      "text_cleaned": "The fight over Republican efforts to redraw congressional maps ahead of the 2026 midterm elections has escalated sharply. Gerrymandering is an old-fashioned corrupt practice that some refuse to partake in.",
+      "text_preview": "The fight over Republican efforts to redraw congressional maps ahead of the 2026 midterm elections has escalated sharply. Gerrymandering is an old-fashioned corrupt practice that some refuse to partak...",
+      "author": "forwardpressnews.substack.com",
+      "author_display_name": "Forward Press News",
+      "created_at": "2025-08-06T13:29:07.815Z",
+      "hashtags": "['#FBI' '#DemocratsSaveTexas' '#Gerrymandering' '#Texas' '#Trump'\n '#TrumpRegime' '#News']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012427",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 280,
+      "text_cleaned_length": 205,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqd4vbn532r",
+      "text": "#Trump crowned himself \u201cChairman\u201d of the 2028 Olympics Task Force. From medals he didn\u2019t earn to talk of troops at the Games\u2014critics warn: this isn\u2019t about safety, it\u2019s about control.\n\n#Olympics #Authoritarianism #Trump #LA2028 #Resist #News #DemocracyMatters",
+      "text_cleaned": "crowned himself \u201cChairman\u201d of the 2028 Olympics Task Force. From medals he didn\u2019t earn to talk of troops at the Games\u2014critics warn: this isn\u2019t about safety, it\u2019s about control.",
+      "text_preview": "#Trump crowned himself \u201cChairman\u201d of the 2028 Olympics Task Force. From medals he didn\u2019t earn to talk of troops at the Games\u2014critics warn: this isn\u2019t about safety, it\u2019s about control.\n\n#Olympics #Auth...",
+      "author": "citizenofeurope.com",
+      "author_display_name": "Citizen \ud83d\udc99 Of \ud83d\udc99 Europe Official",
+      "created_at": "2025-08-06T13:25:18Z",
+      "hashtags": "['#Olympics' '#DemocracyMatters' '#LA2028' '#Trump' '#Authoritarianism'\n '#Resist' '#News']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012499",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 259,
+      "text_cleaned_length": 176,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdbitga22i",
+      "text": " \u201cA majority of #Americans disapprove of #Biden performance and felt they were worse off,\u201d #Torres said; #VicePresident #KamalaHarris, the #Democratic nominee, \u201cwas not responsible for the #inflation, but objectively, that was a near-insurmountable disadvantage.\u201d",
+      "text_cleaned": "\u201cA majority of disapprove of performance and felt they were worse off,\u201d said; , the nominee, \u201cwas not responsible for the , but objectively, that was a near-insurmountable disadvantage.\u201d",
+      "text_preview": " \u201cA majority of #Americans disapprove of #Biden performance and felt they were worse off,\u201d #Torres said; #VicePresident #KamalaHarris, the #Democratic nominee, \u201cwas not responsible for the #inflation,...",
+      "author": "usaneeds3rdparty.bsky.social",
+      "author_display_name": "Independent Moderate",
+      "created_at": "2025-08-06T13:27:54.616Z",
+      "hashtags": "['#Biden' '#VicePresident' '#inflation' '#Americans' '#Torres'\n '#Democratic' '#KamalaHarris']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012629",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 263,
+      "text_cleaned_length": 186,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqddl3ptk2u",
+      "text": "Normal #people #politicians are complicit in dangerous catastrophic #climate change and they will soon find out what it really means for their lives! www.bbc.com/news/article... #science #extinction of certain ecosystems #biodiversity and for instance #idiot #Trump #Paris #wildfires",
+      "text_cleaned": "Normal are complicit in dangerous catastrophic change and they will soon find out what it really means for their lives! of certain ecosystems and for instance",
+      "text_preview": "Normal #people #politicians are complicit in dangerous catastrophic #climate change and they will soon find out what it really means for their lives! www.bbc.com/news/article... #science #extinction o...",
+      "author": "pi-qui.bsky.social",
+      "author_display_name": "Pi-Qui Djinn Djinni",
+      "created_at": "2025-08-06T13:29:04.094Z",
+      "hashtags": "['#science' '#extinction' '#idiot' '#politicians' '#Trump' '#Paris'\n '#climate' '#wildfires' '#people' '#biodiversity']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012436",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 283,
+      "text_cleaned_length": 158,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdaa22qk27",
+      "text": "That old values of the past shouldn\u2019t continue into our future. That change is needed for a better world where an #equilibrium of sorts can be achieved. It\u2019s sad that people r letting #Trump the #stupid #bully win over equality.",
+      "text_cleaned": "That old values of the past shouldn\u2019t continue into our future. That change is needed for a better world where an of sorts can be achieved. It\u2019s sad that people r letting the win over equality.",
+      "text_preview": "That old values of the past shouldn\u2019t continue into our future. That change is needed for a better world where an #equilibrium of sorts can be achieved. It\u2019s sad that people r letting #Trump the #stup...",
+      "author": "silverywildebeest.bsky.social",
+      "author_display_name": "Silvery Wildebeest",
+      "created_at": "2025-08-06T13:27:11.842Z",
+      "hashtags": "['#Trump' '#stupid' '#equilibrium' '#bully']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012472",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 228,
+      "text_cleaned_length": 193,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqde4afhc26",
+      "text": "Bis zu 4000 Menschen will die Regierung von #Trump mitten in Floridas Everglades internieren. Dort kommt es regelm\u00e4\u00dfig zu #Extremwetter. Die Unterbringung in der Anlage w\u00fcrden einige Insassen wohl nicht \u00fcberstehen",
+      "text_cleaned": "Bis zu 4000 Menschen will die Regierung von mitten in Floridas Everglades internieren. Dort kommt es regelm\u00e4\u00dfig zu . Die Unterbringung in der Anlage w\u00fcrden einige Insassen wohl nicht \u00fcberstehen",
+      "text_preview": "Bis zu 4000 Menschen will die Regierung von #Trump mitten in Floridas Everglades internieren. Dort kommt es regelm\u00e4\u00dfig zu #Extremwetter. Die Unterbringung in der Anlage w\u00fcrden einige Insassen wohl nic...",
+      "author": "oliverdasgupta.bsky.social",
+      "author_display_name": "Oliver Das Gupta",
+      "created_at": "2025-08-06T13:29:22.074Z",
+      "hashtags": "['#Trump' '#Extremwetter']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012419",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 213,
+      "text_cleaned_length": 193,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdcbtpm22s",
+      "text": "What does genocide look like? Exactly like this! #Israel #GHF #Famine #Netanyahu #warcriminal #zionazis #Palestine #Gaza #OccupiedWestBank #genocide #jewishterrorists #crimesgainsthumanity #USA #Trump #unfit \nwww.theguardian.com/world/video/...",
+      "text_cleaned": "What does genocide look like? Exactly like this!",
+      "text_preview": "What does genocide look like? Exactly like this! #Israel #GHF #Famine #Netanyahu #warcriminal #zionazis #Palestine #Gaza #OccupiedWestBank #genocide #jewishterrorists #crimesgainsthumanity #USA #Trump...",
+      "author": "maximgrosky.bsky.social",
+      "author_display_name": "Max G",
+      "created_at": "2025-08-06T13:28:20.840Z",
+      "hashtags": "['#GHF' '#genocide' '#unfit' '#Palestine' '#Gaza' '#crimesgainsthumanity'\n '#Israel' '#jewishterrorists' '#USA' '#Trump' '#zionazis' '#Netanyahu'\n '#warcriminal' '#Famine' '#OccupiedWestBank']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012457",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 244,
+      "text_cleaned_length": 48,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqd7yuj2226",
+      "text": "The Grifter-in-Chief has spent a full third of his presidency lounging at his own properties, funneling millions in taxpayer dollars straight into his own pockets.\n\n#Trump",
+      "text_cleaned": "The Grifter-in-Chief has spent a full third of his presidency lounging at his own properties, funneling millions in taxpayer dollars straight into his own pockets.",
+      "text_preview": "The Grifter-in-Chief has spent a full third of his presidency lounging at his own properties, funneling millions in taxpayer dollars straight into his own pockets.\n\n#Trump",
+      "author": "bluewaveonly.bsky.social",
+      "author_display_name": "BlueWaveOnly",
+      "created_at": "2025-08-06T13:27:04.321Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012478",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 171,
+      "text_cleaned_length": 163,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqdax2n2k2w",
+      "text": "#Trump # Song #KashPatel \nwww.instagram.com/reel/DJrUvKs...",
+      "text_cleaned": "# Song",
+      "text_preview": "#Trump # Song #KashPatel \nwww.instagram.com/reel/DJrUvKs...",
+      "author": "nb01.bsky.social",
+      "author_display_name": "Susan Garren Photography",
+      "created_at": "2025-08-06T13:27:35.978Z",
+      "hashtags": "['#Trump' '#KashPatel']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012464",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 59,
+      "text_cleaned_length": 6,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqd67lwhk2p",
+      "text": "Worse than #Trump\n...Delicious \ud83d\ude02",
+      "text_cleaned": "Worse than ...Delicious \ud83d\ude02",
+      "text_preview": "Worse than #Trump\n...Delicious \ud83d\ude02",
+      "author": "duncanpoundcake.bsky.social",
+      "author_display_name": "Duncan Poundcake",
+      "created_at": "2025-08-06T13:26:04.270Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:30:04.012488",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:30:10.007000",
+      "text_length": 32,
+      "text_cleaned_length": 25,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcvuzhg5l2",
+      "text": "Trump threatens federal takeover of DC if capital \u2018doesn\u2019t get its act together\u2019 after DOGE staffer nicknamed \u2018Big Balls\u2019 left bloodied after DC carjacking attempt by two 15 year old juveniles\n#AureFreePress #News #press #headline #GOP #Politics #uspolitics #uspol #Breaking #BreakingNews #Trump",
+      "text_cleaned": "Trump threatens federal takeover of DC if capital \u2018doesn\u2019t get its act together\u2019 after DOGE staffer nicknamed \u2018Big Balls\u2019 left bloodied after DC carjacking attempt by two 15 year old juveniles",
+      "text_preview": "Trump threatens federal takeover of DC if capital \u2018doesn\u2019t get its act together\u2019 after DOGE staffer nicknamed \u2018Big Balls\u2019 left bloodied after DC carjacking attempt by two 15 year old juveniles\n#AureFr...",
+      "author": "free-press.mstdn.social.ap.brid.gy",
+      "author_display_name": "Aure Free Press :verified:",
+      "created_at": "2025-08-06T13:21:18.000Z",
+      "hashtags": "['#headline' '#uspol' '#Breaking' '#Politics' '#GOP' '#Trump'\n '#BreakingNews' '#News' '#press' '#uspolitics' '#AureFreePress']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 5,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518621",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 295,
+      "text_cleaned_length": 192,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 7.5
+    },
+    {
+      "post_id": "3lvqcutkjds2d",
+      "text": "@adammockler.com interviews #Texas #democrats that refuse to go along with the mid-cycle #gerrymanderinng attempt by #republicans to try to keep #trump & his grossly unpopular & often ILLEGAL #regime\n\n#abbott #racism #fascism #authoritarianism #vote #votersrights #usa #fdt\n\nyoutu.be/alNSxJCrzjc?...",
+      "text_cleaned": ".com interviews that refuse to go along with the mid-cycle attempt by to try to keep & his grossly unpopular & often ILLEGAL youtu.be/alNSxJCrzjc?...",
+      "text_preview": "@adammockler.com interviews #Texas #democrats that refuse to go along with the mid-cycle #gerrymanderinng attempt by #republicans to try to keep #trump & his grossly unpopular & often ILLEGAL #regime\n...",
+      "author": "mai-bee.bsky.social",
+      "author_display_name": "Mai Bee",
+      "created_at": "2025-08-06T13:20:49.648Z",
+      "hashtags": "['#usa' '#racism' '#fascism' '#Texas' '#authoritarianism' '#fdt'\n '#republicans' '#democrats' '#gerrymanderinng' '#trump' '#vote'\n '#votersrights' '#abbott' '#regime']",
+      "mentions": "['@adammockler.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518631",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 299,
+      "text_cleaned_length": 149,
+      "hashtag_count": 14,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcyrnrbk2z",
+      "text": "\ud83c\udde8\ud83c\udde6 Yay, let's dump #Trump and his minions and build new alliances with countries that have #Stable, #Sane #Leadership.\n#AmericaIsBroke\n#AmericaIsBroken\nand #Putin can't help you anymore #PedoPresident.\n\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "text_cleaned": "\ud83c\udde8\ud83c\udde6 Yay, let's dump and his minions and build new alliances with countries that have , . and can't help you anymore . \ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "text_preview": "\ud83c\udde8\ud83c\udde6 Yay, let's dump #Trump and his minions and build new alliances with countries that have #Stable, #Sane #Leadership.\n#AmericaIsBroke\n#AmericaIsBroken\nand #Putin can't help you anymore #PedoPresident...",
+      "author": "kathleenwester.bsky.social",
+      "author_display_name": "Kathleen Westergaard \ud83c\udde8\ud83c\udde6 MSW, RSW",
+      "created_at": "2025-08-06T13:23:01.879Z",
+      "hashtags": "['#Sane' '#PedoPresident' '#Trump' '#Putin' '#Leadership'\n '#AmericaIsBroke' '#AmericaIsBroken' '#Stable']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518564",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 216,
+      "text_cleaned_length": 131,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcxp2vj762",
+      "text": "\"Pentagon slashes staff of R&D repository by nearly 80%.\"\nhttps://www.defenseone.com/policy/2025/08/defense-tech-office-cuts-staff-down-40/407209/\n\n\"The Pentagon will lay off nearly 80 percent of the staff of its Defense Technical Information Center [#DTIC], its repository of [\u2026]",
+      "text_cleaned": "\"Pentagon slashes staff of R&D repository by nearly 80%.\" \"The Pentagon will lay off nearly 80 percent of the staff of its Defense Technical Information Center [], its repository of [\u2026]",
+      "text_preview": "\"Pentagon slashes staff of R&D repository by nearly 80%.\"\nhttps://www.defenseone.com/policy/2025/08/defense-tech-office-cuts-staff-down-40/407209/\n\n\"The Pentagon will lay off nearly 80 percent of the ...",
+      "author": "petersuber.fediscience.org.ap.brid.gy",
+      "author_display_name": "petersuber",
+      "created_at": "2025-08-06T13:22:16.000Z",
+      "hashtags": "['#DTIC']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518578",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 280,
+      "text_cleaned_length": 185,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcuqtlf62o",
+      "text": "\u00daLTIMA HORA | Putin y Witkoff terminan su reuni\u00f3n tras 3 horas ante el ultim\u00e1tum de Trump\n\nhttps://youtu.be/ZO2RbnLuhn0\n\n#ultimahora #trump #rusia #witkoff #ucrania #putin #relacionesinternacionales #noticiasinternacionales #breakingnews #geopolitica #negociostv",
+      "text_cleaned": "\u00daLTIMA HORA | Putin y Witkoff terminan su reuni\u00f3n tras 3 horas ante el ultim\u00e1tum de Trump",
+      "text_preview": "\u00daLTIMA HORA | Putin y Witkoff terminan su reuni\u00f3n tras 3 horas ante el ultim\u00e1tum de Trump\n\nhttps://youtu.be/ZO2RbnLuhn0\n\n#ultimahora #trump #rusia #witkoff #ucrania #putin #relacionesinternacionales #...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-06T13:20:46.649481Z",
+      "hashtags": "['#noticiasinternacionales' '#ucrania' '#relacionesinternacionales'\n '#ultimahora' '#witkoff' '#negociostv' '#geopolitica' '#trump' '#rusia'\n '#putin' '#breakingnews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518642",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 262,
+      "text_cleaned_length": 89,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqcwwzfdc2z",
+      "text": "San Diego Diocese assembles volunteers to accompany immigrants in court. \"We want to make a difference because each of us has value and dignity.\"\n#ICE #Trump #Catholic #immigration\n www.ncronline.org/news/san-die...",
+      "text_cleaned": "San Diego Diocese assembles volunteers to accompany immigrants in court. \"We want to make a difference because each of us has value and dignity.\"",
+      "text_preview": "San Diego Diocese assembles volunteers to accompany immigrants in court. \"We want to make a difference because each of us has value and dignity.\"\n#ICE #Trump #Catholic #immigration\n www.ncronline.org/...",
+      "author": "joeferullo.bsky.social",
+      "author_display_name": "Joe Ferullo",
+      "created_at": "2025-08-06T13:22:00.393Z",
+      "hashtags": "['#Catholic' '#immigration' '#ICE' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518594",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 215,
+      "text_cleaned_length": 145,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqd2xcgyw2m",
+      "text": "Today, #Trump has 1 thing on his public schedule, per WH:\n\u2022 Making an announcement at 4:30p Eastern\n\nNo WH press sec presser.\n\nWH hasn't provided info re: what the announcement will be.",
+      "text_cleaned": "Today, has 1 thing on his public schedule, per WH: \u2022 Making an announcement at 4:30p Eastern No WH press sec presser. WH hasn't provided info re: what the announcement will be.",
+      "text_preview": "Today, #Trump has 1 thing on his public schedule, per WH:\n\u2022 Making an announcement at 4:30p Eastern\n\nNo WH press sec presser.\n\nWH hasn't provided info re: what the announcement will be.",
+      "author": "devonheinen.bsky.social",
+      "author_display_name": "Devon Heinen",
+      "created_at": "2025-08-06T13:24:14.768Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518546",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 185,
+      "text_cleaned_length": 176,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvqcw2j6vk2a",
+      "text": "\ud83d\udd25 Satsuma Tech lands $217.6M round, fully settled in 1,097.29 BTC.\n\nUK firm sees major backing from ParaFi and Kraken.\n\n#Bitcoin #Crypto #Web3 #Blockchain #trump",
+      "text_cleaned": "\ud83d\udd25 Satsuma Tech lands $217.6M round, fully settled in 1,097.29 BTC. UK firm sees major backing from ParaFi and Kraken.",
+      "text_preview": "\ud83d\udd25 Satsuma Tech lands $217.6M round, fully settled in 1,097.29 BTC.\n\nUK firm sees major backing from ParaFi and Kraken.\n\n#Bitcoin #Crypto #Web3 #Blockchain #trump",
+      "author": "coinpedianews.bsky.social",
+      "author_display_name": "Coinpedia Fintech News",
+      "created_at": "2025-08-06T13:21:30.499Z",
+      "hashtags": "['#Blockchain' '#Web3' '#Bitcoin' '#trump' '#Crypto']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518609",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 161,
+      "text_cleaned_length": 117,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcuml6uc2f",
+      "text": "When #conservatives become convinced they cannot win democratically they will not abandon #conservatism, they will abandon #democracy. #republicans #trump #GOP www.kansascity.com/news/politic...",
+      "text_cleaned": "When become convinced they cannot win democratically they will not abandon , they will abandon .",
+      "text_preview": "When #conservatives become convinced they cannot win democratically they will not abandon #conservatism, they will abandon #democracy. #republicans #trump #GOP www.kansascity.com/news/politic...",
+      "author": "unclejessie25.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T13:20:42.334Z",
+      "hashtags": "['#GOP' '#republicans' '#conservatives' '#democracy' '#trump'\n '#conservatism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518650",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 194,
+      "text_cleaned_length": 96,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqctnosef27",
+      "text": "Read the full story at bit.ly/4mnKICS\n\n#donaldtrump #trump #president #politics #political #politicalnews #news #rawstory #rawstorynews #unfilterednews #independentnews #usnews #usa #america ",
+      "text_cleaned": "Read the full story at bit.ly/4mnKICS",
+      "text_preview": "Read the full story at bit.ly/4mnKICS\n\n#donaldtrump #trump #president #politics #political #politicalnews #news #rawstory #rawstorynews #unfilterednews #independentnews #usnews #usa #america ",
+      "author": "rawstory.com",
+      "author_display_name": "Raw Story",
+      "created_at": "2025-08-06T13:20:09Z",
+      "hashtags": "['#usa' '#political' '#news' '#president' '#rawstory' '#usnews' '#america'\n '#politicalnews' '#donaldtrump' '#rawstorynews' '#independentnews'\n '#unfilterednews' '#trump' '#politics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518669",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 191,
+      "text_cleaned_length": 37,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvqd3rtz6k2c",
+      "text": "Florida rules are different. \njimorear.substack.com/p/the-florid...\n\n#epstein #epsteinfiles #maxwell #trump #politics #donaldtrump #capone",
+      "text_cleaned": "Florida rules are different. jimorear.substack.com/p/the-florid...",
+      "text_preview": "Florida rules are different. \njimorear.substack.com/p/the-florid...\n\n#epstein #epsteinfiles #maxwell #trump #politics #donaldtrump #capone",
+      "author": "jimorear.bsky.social",
+      "author_display_name": "Jim O\u2019Rear",
+      "created_at": "2025-08-06T13:24:42.746Z",
+      "hashtags": "['#epstein' '#epsteinfiles' '#donaldtrump' '#maxwell' '#capone' '#trump'\n '#politics']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518540",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 138,
+      "text_cleaned_length": 66,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqd2m74k22i",
+      "text": "#Trump\nnypost.com/2025/08/05/u...",
+      "text_cleaned": "nypost.com/2025/08/05/u...",
+      "text_preview": "#Trump\nnypost.com/2025/08/05/u...",
+      "author": "exxitter.bsky.social",
+      "author_display_name": "Not ANotSee",
+      "created_at": "2025-08-06T13:24:03.263Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518552",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 33,
+      "text_cleaned_length": 26,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lvqcxdixhk2g",
+      "text": "#Trump Falsely accuses and fires the commissioner of the bureau of labor and statistics because he didn\u2019t like her honestly reporting the facts about jobs and blatantly #lies about polling numbers. Can we please #Impeach & fire this #POTUS?!?! #FDJT #TrumpLies #TrumpCorruption",
+      "text_cleaned": "Falsely accuses and fires the commissioner of the bureau of labor and statistics because he didn\u2019t like her honestly reporting the facts about jobs and blatantly about polling numbers. Can we please & fire this ?!?!",
+      "text_preview": "#Trump Falsely accuses and fires the commissioner of the bureau of labor and statistics because he didn\u2019t like her honestly reporting the facts about jobs and blatantly #lies about polling numbers. Ca...",
+      "author": "wrecked4real.bsky.social",
+      "author_display_name": "For The People",
+      "created_at": "2025-08-06T13:22:13.486Z",
+      "hashtags": "['#TrumpCorruption' '#POTUS' '#Trump' '#FDJT' '#TrumpLies' '#Impeach'\n '#lies']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518587",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 277,
+      "text_cleaned_length": 215,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvqcy6soh22u",
+      "text": "It may not be nice to say, but...\n\n#Trump #MAGA",
+      "text_cleaned": "It may not be nice to say, but...",
+      "text_preview": "It may not be nice to say, but...\n\n#Trump #MAGA",
+      "author": "nihtnews.bsky.social",
+      "author_display_name": "Nothing Important Happened Today",
+      "created_at": "2025-08-06T13:22:42.116Z",
+      "hashtags": "['#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518570",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 47,
+      "text_cleaned_length": 33,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvqctrkd6s2d",
+      "text": "Alabama Daily News:Alabama News Beacon #Trump #Putin #Ukraine",
+      "text_cleaned": "Alabama Daily News:Alabama News Beacon",
+      "text_preview": "Alabama Daily News:Alabama News Beacon #Trump #Putin #Ukraine",
+      "author": "xstreamfm.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T13:20:13Z",
+      "hashtags": "['#Trump' '#Ukraine' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T13:25:04.518659",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 13:25:10.009000",
+      "text_length": 61,
+      "text_cleaned_length": 38,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
