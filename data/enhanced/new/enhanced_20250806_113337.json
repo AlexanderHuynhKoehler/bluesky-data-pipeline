@@ -1,0 +1,289 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113337",
+    "original_batch": "batch_20250804_085307.json",
+    "enhanced_post_count": 8,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 7,
+      "emotion_coverage": 7,
+      "processing_speed": 88.91824602408414,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvkslgpz772a",
+      "text": "#ANINews LIVE: Israeli FM Gideon Saar holds news conference in Jerusalem |Gaza |Hamas | USA | Trump\u00a0|Hostage\n\nLIVE: Israeli FM Gideon Saar holds news conference in Jerusalem |Gaza |Hamas | USA | Trump |Hostage JERUSALEM - Israeli FM Gideon Saar holds news conference in Jerusalem. #isreal #trump\u2026",
+      "text_cleaned": "LIVE: Israeli FM Gideon Saar holds news conference in Jerusalem |Gaza |Hamas | USA | Trump |Hostage LIVE: Israeli FM Gideon Saar holds news conference in Jerusalem |Gaza |Hamas | USA | Trump |Hostage JERUSALEM - Israeli FM Gideon Saar holds news conference in Jerusalem. \u2026",
+      "text_preview": "#ANINews LIVE: Israeli FM Gideon Saar holds news conference in Jerusalem |Gaza |Hamas | USA | Trump\u00a0|Hostage\n\nLIVE: Israeli FM Gideon Saar holds news conference in Jerusalem |Gaza |Hamas | USA | Trump...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-04T08:45:54Z",
+      "hashtags": "['#isreal' '#trump' '#ANINews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:50:03.092118",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:50:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 272,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.0035271042957901954,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.42892828583717346,
+      "ml_processed_at": "2025-08-06 11:33:37.086111",
+      "processing_speed": 88.91824602408414,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvksknbtsk2x",
+      "text": "#TrumpRegime is now revolutionising #CriminalJustice.\n\nQuestion: If #Trump can help #Maxwell, why is the #DOJ cutting funds to assist victims of sexual crimes?\n\nIs the Trump regime helping convicted criminals and silencing the victims?\n\nwww.youtube.com/live/2-wjCI_...",
+      "text_cleaned": "is now revolutionising . Question: If can help , why is the cutting funds to assist victims of sexual crimes? Is the Trump regime helping convicted criminals and silencing the victims?",
+      "text_preview": "#TrumpRegime is now revolutionising #CriminalJustice.\n\nQuestion: If #Trump can help #Maxwell, why is the #DOJ cutting funds to assist victims of sexual crimes?\n\nIs the Trump regime helping convicted c...",
+      "author": "missdemocracy2024.bsky.social",
+      "author_display_name": "I live on a blue planet and sing to ward off evil!",
+      "created_at": "2025-08-04T08:45:28.968Z",
+      "hashtags": "['#TrumpRegime' '#Maxwell' '#DOJ' '#CriminalJustice' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:50:03.092125",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:50:10.007000",
+      "text_length": 268,
+      "text_cleaned_length": 184,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 4.0,
+      "ml_sentiment_score": -0.6079392805695534,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "anger",
+      "emotion_confidence": 0.731062114238739,
+      "ml_processed_at": "2025-08-06 11:33:37.086111",
+      "processing_speed": 88.91824602408414,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvksmwkpws2n",
+      "text": "And that cunt #KKK #racist #fascist #pedophile #Trump wants the #Nobel prize? he is a #warcriminal and should be on the electric chair! www.msnbc.com/opinion/msnb...",
+      "text_cleaned": "And that cunt wants the prize? he is a and should be on the electric chair!",
+      "text_preview": "And that cunt #KKK #racist #fascist #pedophile #Trump wants the #Nobel prize? he is a #warcriminal and should be on the electric chair! www.msnbc.com/opinion/msnb...",
+      "author": "pi-qui.bsky.social",
+      "author_display_name": "Pi-Qui Djinn Djinni",
+      "created_at": "2025-08-04T08:46:45.807Z",
+      "hashtags": "['#Nobel' '#racist' '#fascist' '#warcriminal' '#pedophile' '#KKK' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:50:03.092101",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:50:10.007000",
+      "text_length": 165,
+      "text_cleaned_length": 75,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.9479277790524065,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "anger",
+      "emotion_confidence": 0.6774625182151794,
+      "ml_processed_at": "2025-08-06 11:33:37.086111",
+      "processing_speed": 88.91824602408414,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkslutyfs2w",
+      "text": "www.tiktok.com/t/ZP8kxY77x/\n\u2018Willful Blindness\u2019..\n#Trump #GOP #grifter",
+      "text_cleaned": "\u2018Willful Blindness\u2019..",
+      "text_preview": "www.tiktok.com/t/ZP8kxY77x/\n\u2018Willful Blindness\u2019..\n#Trump #GOP #grifter",
+      "author": "juanwild.bsky.social",
+      "author_display_name": "JuanWild",
+      "created_at": "2025-08-04T08:46:10.459Z",
+      "hashtags": "['#GOP' '#grifter' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:50:03.092108",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:50:10.007000",
+      "text_length": 70,
+      "text_cleaned_length": 21,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.30535436049103737,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.5230299830436707,
+      "ml_processed_at": "2025-08-06 11:33:37.086111",
+      "processing_speed": 88.91824602408414,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkse4ecy42l",
+      "text": "Des astronautes bloqu\u00e9s dans l\u2019espace \u00e0 cause de Donald Trump\u00a0? La NASA pourrait bien \"\u00e9tendre\" la mission des astronautes actuellement dans l'espace. Simplement pour faire des \u00e9conomies.\n\nInterest | Match | Feed",
+      "text_cleaned": "Des astronautes bloqu\u00e9s dans l\u2019espace \u00e0 cause de Donald Trump ? La NASA pourrait bien \"\u00e9tendre\" la mission des astronautes actuellement dans l'espace. Simplement pour faire des \u00e9conomies. Interest | Match | Feed",
+      "text_preview": "Des astronautes bloqu\u00e9s dans l\u2019espace \u00e0 cause de Donald Trump\u00a0? La NASA pourrait bien \"\u00e9tendre\" la mission des astronautes actuellement dans l'espace. Simplement pour faire des \u00e9conomies.\n\nInterest | ...",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-04T08:41:49Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:45:03.100630",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:45:10.008000",
+      "text_length": 212,
+      "text_cleaned_length": 211,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.030356245860457418,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.6648715138435364,
+      "ml_processed_at": "2025-08-06 11:33:37.086111",
+      "processing_speed": 88.91824602408414,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvksfmnni224",
+      "text": "Als we in een depressie belanden zullen de #pensioenen wel flink omlaag gaan. Proficiat met uw nieuwe #pensioenstelsel. #Trump\nreportersonline.nl/trumps-talen...",
+      "text_cleaned": "Als we in een depressie belanden zullen de wel flink omlaag gaan. Proficiat met uw nieuwe . reportersonline.nl/trumps-talen...",
+      "text_preview": "Als we in een depressie belanden zullen de #pensioenen wel flink omlaag gaan. Proficiat met uw nieuwe #pensioenstelsel. #Trump\nreportersonline.nl/trumps-talen...",
+      "author": "flipswitch.bsky.social",
+      "author_display_name": "Flip Switch \ud83c\udf49\ud83d\udfe5",
+      "created_at": "2025-08-04T08:42:40.537Z",
+      "hashtags": "['#Trump' '#pensioenen' '#pensioenstelsel']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:45:03.100623",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:45:10.008000",
+      "text_length": 161,
+      "text_cleaned_length": 126,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.045170463621616364,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "sadness",
+      "emotion_confidence": 0.6889150142669678,
+      "ml_processed_at": "2025-08-06 11:33:37.086111",
+      "processing_speed": 88.91824602408414,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvksho5cft26",
+      "text": "What\u2019s Behind Trump\u2019s New (Old) Physical-Fitness Test?\n#Trump",
+      "text_cleaned": "What\u2019s Behind Trump\u2019s New (Old) Physical-Fitness Test?",
+      "text_preview": "What\u2019s Behind Trump\u2019s New (Old) Physical-Fitness Test?\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T08:43:48.722Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:45:03.100616",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:45:10.008000",
+      "text_length": 61,
+      "text_cleaned_length": 54,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.04139240384101867,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8588548302650452,
+      "ml_processed_at": "2025-08-06 11:33:37.086111",
+      "processing_speed": 88.91824602408414,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkscfiffz24",
+      "text": "\n#Kreml   #Russland   #Steve Witkoff   #Trump   #Ukraine",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Kreml   #Russland   #Steve Witkoff   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-04T08:40:59.163468+00:00",
+      "hashtags": "['#Steve' '#Kreml' '#Ukraine' '#Russland' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T08:45:03.100638",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 08:45:10.008000",
+      "text_length": 56,
+      "text_cleaned_length": 7,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": "",
+      "ml_sentiment_label": "",
+      "dominant_emotion": "",
+      "emotion_confidence": "",
+      "ml_processed_at": "2025-08-06 11:33:37.086111",
+      "processing_speed": 88.91824602408414,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
