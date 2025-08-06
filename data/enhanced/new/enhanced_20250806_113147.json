@@ -1,0 +1,255 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113147",
+    "original_batch": "batch_20250804_050205.json",
+    "enhanced_post_count": 7,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 7,
+      "emotion_coverage": 7,
+      "processing_speed": 81.60600620205648,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvkfvcmpqs25",
+      "text": "Bloodyfuckinghell!!!!!!!!!! \ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\n\nThey're trying to re-write history now. These #fascist bastards need to be stopped!\n\nIt should be a warning to us in the #UK of what life will be like under #Reform, but the knucle-dragging morons are too stupid to see it.\n\n#Trump #Farage #FarRight",
+      "text_cleaned": "Bloodyfuckinghell!!!!!!!!!! \ud83d\ude2e\ud83d\ude2e\ud83d\ude2e They're trying to re-write history now. These bastards need to be stopped! It should be a warning to us in the of what life will be like under , but the knucle-dragging morons are too stupid to see it.",
+      "text_preview": "Bloodyfuckinghell!!!!!!!!!! \ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\n\nThey're trying to re-write history now. These #fascist bastards need to be stopped!\n\nIt should be a warning to us in the #UK of what life will be like under #Reform, b...",
+      "author": "kevbro1969.bsky.social",
+      "author_display_name": "Kevin \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f\ud83c\uddea\ud83c\uddfa\ud83d\udc9a #BackZack",
+      "created_at": "2025-08-04T04:58:48.248Z",
+      "hashtags": "['#UK' '#Reform' '#Trump' '#Farage' '#FarRight' '#fascist']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:00:03.782796",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:00:10.007000",
+      "text_length": 281,
+      "text_cleaned_length": 233,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.9428053703159094,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "anger",
+      "emotion_confidence": 0.9290974140167236,
+      "ml_processed_at": "2025-08-06 11:31:47.208900",
+      "processing_speed": 81.60600620205648,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkfsmibp22f",
+      "text": "Die Nachricht ist, dass #Trump jemanden entl\u00e4\u00dft, der Zahlen publiziert, die ihm nicht gefallen. Alle zuk\u00fcnftigen Wirtschaftszahlen k\u00f5nnen demnach tats\u00e4chlich gelogen und manipuliert sein.\nDie #USA unter @Trump ist eine autokratische Bananenrepublik.",
+      "text_cleaned": "Die Nachricht ist, dass jemanden entl\u00e4\u00dft, der Zahlen publiziert, die ihm nicht gefallen. Alle zuk\u00fcnftigen Wirtschaftszahlen k\u00f5nnen demnach tats\u00e4chlich gelogen und manipuliert sein. Die unter ist eine autokratische Bananenrepublik.",
+      "text_preview": "Die Nachricht ist, dass #Trump jemanden entl\u00e4\u00dft, der Zahlen publiziert, die ihm nicht gefallen. Alle zuk\u00fcnftigen Wirtschaftszahlen k\u00f5nnen demnach tats\u00e4chlich gelogen und manipuliert sein.\nDie #USA unt...",
+      "author": "kampfmittelfrei.bsky.social",
+      "author_display_name": "Dieter Guldin",
+      "created_at": "2025-08-04T04:57:17.923Z",
+      "hashtags": "['#USA' '#Trump']",
+      "mentions": "['@Trump']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:00:03.782803",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:00:10.007000",
+      "text_length": 249,
+      "text_cleaned_length": 230,
+      "hashtag_count": 2,
+      "mention_count": 1,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": 0.06767360121011734,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "disgust",
+      "emotion_confidence": 0.3758963346481323,
+      "ml_processed_at": "2025-08-06 11:31:47.208900",
+      "processing_speed": 81.60600620205648,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkfqjwyy22n",
+      "text": "100% emboldened by #Trump. These #white teen males know full-well that, in #MAGA 's America, aka the #4thReich, they will face zero consequences.\n\nIf anything, Trump will likely recruit them.",
+      "text_cleaned": "100% emboldened by . These teen males know full-well that, in 's America, aka the , they will face zero consequences. If anything, Trump will likely recruit them.",
+      "text_preview": "100% emboldened by #Trump. These #white teen males know full-well that, in #MAGA 's America, aka the #4thReich, they will face zero consequences.\n\nIf anything, Trump will likely recruit them.",
+      "author": "jungle-jim78.bsky.social",
+      "author_display_name": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08Jamez Re!nert\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "created_at": "2025-08-04T04:56:08.153Z",
+      "hashtags": "['#4thReich' '#white' '#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:00:03.782812",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:00:10.007000",
+      "text_length": 191,
+      "text_cleaned_length": 162,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.5,
+      "ml_sentiment_score": -0.6386011615395546,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7618725895881653,
+      "ml_processed_at": "2025-08-06 11:31:47.208900",
+      "processing_speed": 81.60600620205648,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkfrxbzls2j",
+      "text": "The Trump Sales Tax - #tariffs - are directly responsible for America's pathetic #jobsreport & lagging #economy \n\nyoutu.be/71kLKplXiqM?...",
+      "text_cleaned": "The Trump Sales Tax - - are directly responsible for America's pathetic & lagging youtu.be/71kLKplXiqM?...",
+      "text_preview": "The Trump Sales Tax - #tariffs - are directly responsible for America's pathetic #jobsreport & lagging #economy \n\nyoutu.be/71kLKplXiqM?...",
+      "author": "spiggitzfan.bsky.social",
+      "author_display_name": "Spiggi",
+      "created_at": "2025-08-04T04:56:55.699Z",
+      "hashtags": "['#economy' '#tariffs' '#jobsreport']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T05:00:03.782438",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 05:00:10.007000",
+      "text_length": 138,
+      "text_cleaned_length": 106,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.9015667550265789,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "sadness",
+      "emotion_confidence": 0.6758789420127869,
+      "ml_processed_at": "2025-08-06 11:31:47.208900",
+      "processing_speed": 81.60600620205648,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkfmnkoh22y",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmeta.bsky.social",
+      "author_display_name": "Cosmic Meta Digital",
+      "created_at": "2025-08-04T04:53:57.411Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:55:03.423148",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:55:10.007000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.0012844461947679518,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "sadness",
+      "emotion_confidence": 0.6493421196937561,
+      "ml_processed_at": "2025-08-06 11:31:47.208900",
+      "processing_speed": 81.60600620205648,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkfnvpadc2g",
+      "text": "El cambio en la pol\u00edtica brasile\u00f1a: la lucha contra Trump y la ultraderecha se intensifica killbait.com/es/el-cambio... #pol\u00edtica #brasil #trump #ultraderecha",
+      "text_cleaned": "El cambio en la pol\u00edtica brasile\u00f1a: la lucha contra Trump y la ultraderecha se intensifica killbait.com/es/el-cambio...",
+      "text_preview": "El cambio en la pol\u00edtica brasile\u00f1a: la lucha contra Trump y la ultraderecha se intensifica killbait.com/es/el-cambio... #pol\u00edtica #brasil #trump #ultraderecha",
+      "author": "mariapombo1999.bsky.social",
+      "author_display_name": "Mar\u00eda Pombo",
+      "created_at": "2025-08-04T04:54:39.817Z",
+      "hashtags": "['#ultraderecha' '#trump' '#pol\u00edtica' '#brasil']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:55:03.423139",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:55:10.007000",
+      "text_length": 158,
+      "text_cleaned_length": 119,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.22547674924135208,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.4163038432598114,
+      "ml_processed_at": "2025-08-06 11:31:47.208900",
+      "processing_speed": 81.60600620205648,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkfjloq7c2i",
+      "text": "open.substack.com/pub/meidasto...\n\n#Trump #Epstein\n\n#MeidasMighty #MapleMeidas \n\n@meidastouch.com\n@meiselasb.bsky.social",
+      "text_cleaned": "open.substack.com/pub/meidasto... .com .bsky.social",
+      "text_preview": "open.substack.com/pub/meidasto...\n\n#Trump #Epstein\n\n#MeidasMighty #MapleMeidas \n\n@meidastouch.com\n@meiselasb.bsky.social",
+      "author": "shannondrake.bsky.social",
+      "author_display_name": "Shannon Drake \ud83c\udf12\ud83c\udf15\ud83c\udf18",
+      "created_at": "2025-08-04T04:52:15.083Z",
+      "hashtags": "['#MapleMeidas' '#Epstein' '#Trump' '#MeidasMighty']",
+      "mentions": "['@meiselasb.bsky.social' '@meidastouch.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:55:03.423158",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:55:10.007000",
+      "text_length": 120,
+      "text_cleaned_length": 51,
+      "hashtag_count": 4,
+      "mention_count": 2,
+      "total_engagement": 1.5,
+      "ml_sentiment_score": 0.010148004814982414,
+      "ml_sentiment_label": "positive",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.7486200332641602,
+      "ml_processed_at": "2025-08-06 11:31:47.208900",
+      "processing_speed": 81.60600620205648,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
