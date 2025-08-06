@@ -1,0 +1,365 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_072221",
+    "post_count": 13,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 07:15:10.012000",
+    "latest_received_at": "2025-08-06 07:20:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpolwgowc2j",
+      "text": "Sefcovic rassicura la Ue: \u201cAccordo quasi chiuso\u201d. Ma la farmaceutica trema: #Trump minaccia super dazi futuri - la Repubblica",
+      "text_cleaned": "Sefcovic rassicura la Ue: \u201cAccordo quasi chiuso\u201d. Ma la farmaceutica trema: minaccia super dazi futuri - la Repubblica",
+      "text_preview": "Sefcovic rassicura la Ue: \u201cAccordo quasi chiuso\u201d. Ma la farmaceutica trema: #Trump minaccia super dazi futuri - la Repubblica",
+      "author": "mastrobradipo.bsky.social",
+      "author_display_name": "Tonia Mastrobuoni",
+      "created_at": "2025-08-06T07:17:55.845Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:20:03.455381",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:20:10.008000",
+      "text_length": 125,
+      "text_cleaned_length": 118,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpoowgaxk2m",
+      "text": "Der #Trump macht's vor der #Zucki macht's nach.\nErpresser,gemeine Erpresser!\nwww.srf.ch/sendungen/ka...",
+      "text_cleaned": "Der macht's vor der macht's nach. Erpresser,gemeine Erpresser!",
+      "text_preview": "Der #Trump macht's vor der #Zucki macht's nach.\nErpresser,gemeine Erpresser!\nwww.srf.ch/sendungen/ka...",
+      "author": "tiomarkbrasil.bsky.social",
+      "author_display_name": "Tio Mark",
+      "created_at": "2025-08-06T07:19:36.494Z",
+      "hashtags": "['#Trump' '#Zucki']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:20:03.455367",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:20:10.008000",
+      "text_length": 103,
+      "text_cleaned_length": 62,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpoh3nqrs23",
+      "text": "L\u2019usuraio #Trump minaccia marcia indietro sui #dazi #UE",
+      "text_cleaned": "L\u2019usuraio minaccia marcia indietro sui",
+      "text_preview": "L\u2019usuraio #Trump minaccia marcia indietro sui #dazi #UE",
+      "author": "mariogoffredo.bsky.social",
+      "author_display_name": "Mario Goffredo",
+      "created_at": "2025-08-06T07:15:13.539Z",
+      "hashtags": "['#UE' '#dazi' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:20:03.455407",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:20:10.008000",
+      "text_length": 55,
+      "text_cleaned_length": 38,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpooycgs62k",
+      "text": "\n#Putin   #Sanctions   #Trump   #Ukraine   #Ukraine War",
+      "text_cleaned": "War",
+      "text_preview": "\n#Putin   #Sanctions   #Trump   #Ukraine   #Ukraine War",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T07:19:59.083519+00:00",
+      "hashtags": "['#Sanctions' '#Putin' '#Trump' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:20:03.455355",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:20:10.008000",
+      "text_length": 55,
+      "text_cleaned_length": 3,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpohkof4n2h",
+      "text": "\n#Ceasefire   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Ceasefire   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T07:15:49.910462+00:00",
+      "hashtags": "['#Ceasefire' '#Trump' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:20:03.455393",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:20:10.008000",
+      "text_length": 31,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpofmk2os25",
+      "text": "Republican government official and a family of a Child Molester is making it easier to rape children in his state.\nNever would I have imagined that this would be the hill that Republicans would die on. Just how many Republicans are chi-mo's or are perfectly fine with adults who rape children.\n#trump",
+      "text_cleaned": "Republican government official and a family of a Child Molester is making it easier to rape children in his state. Never would I have imagined that this would be the hill that Republicans would die on. Just how many Republicans are chi-mo's or are perfectly fine with adults who rape children.",
+      "text_preview": "Republican government official and a family of a Child Molester is making it easier to rape children in his state.\nNever would I have imagined that this would be the hill that Republicans would die on...",
+      "author": "risse67.bsky.social",
+      "author_display_name": "Riss\u00e9 (risay)",
+      "created_at": "2025-08-06T07:14:24.144Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:15:03.151140",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:15:10.012000",
+      "text_length": 300,
+      "text_cleaned_length": 293,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpocp3gdu2f",
+      "text": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/R1ihUI0Q",
+      "text_cleaned": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... .ai",
+      "text_preview": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi askin...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-06T07:12:45.968Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:15:03.151184",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:15:10.012000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpo67b5332j",
+      "text": "\ud83d\udcf1\ud83d\udcb8 Problemas para Apple: los nuevos aranceles de EE. UU. a India podr\u00edan costarle m\u00e1s de 2.000 millones de d\u00f3lares solo en dos trimestres.\nEl iPhone 17 podr\u00eda subir 50\u202f$ en EE. UU. por culpa de la guerra comercial.\n#Apple #iPhone17 #Trump #India #Tarifas",
+      "text_cleaned": "\ud83d\udcf1\ud83d\udcb8 Problemas para Apple: los nuevos aranceles de EE. UU. a India podr\u00edan costarle m\u00e1s de 2.000 millones de d\u00f3lares solo en dos trimestres. El iPhone 17 podr\u00eda subir 50 $ en EE. UU. por culpa de la guerra comercial.",
+      "text_preview": "\ud83d\udcf1\ud83d\udcb8 Problemas para Apple: los nuevos aranceles de EE. UU. a India podr\u00edan costarle m\u00e1s de 2.000 millones de d\u00f3lares solo en dos trimestres.\nEl iPhone 17 podr\u00eda subir 50\u202f$ en EE. UU. por culpa de la gue...",
+      "author": "applex4.bsky.social",
+      "author_display_name": "AppleX4",
+      "created_at": "2025-08-06T07:10:15.000Z",
+      "hashtags": "['#Trump' '#iPhone17' '#Apple' '#India' '#Tarifas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:15:03.151212",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:15:10.012000",
+      "text_length": 254,
+      "text_cleaned_length": 214,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpoeayprk2e",
+      "text": "#trump\n' I alone can fix it'\n'I will end the war on day 1'\n\n'Putin likes me'\n'Putin is a smart guy'\n\n Apr 2025 trump  said 'Volodymyr Zelenskyy is ready to give up Crimea'\n Feb 2025 trump suggested Ukraine was responsible for Russia's invasion\n\nwww.bbc.com/news/article...",
+      "text_cleaned": "' I alone can fix it' 'I will end the war on day 1' 'Putin likes me' 'Putin is a smart guy' Apr 2025 trump said 'Volodymyr Zelenskyy is ready to give up Crimea' Feb 2025 trump suggested Ukraine was responsible for Russia's invasion",
+      "text_preview": "#trump\n' I alone can fix it'\n'I will end the war on day 1'\n\n'Putin likes me'\n'Putin is a smart guy'\n\n Apr 2025 trump  said 'Volodymyr Zelenskyy is ready to give up Crimea'\n Feb 2025 trump suggested Uk...",
+      "author": "kinlika.bsky.social",
+      "author_display_name": "Kinlika",
+      "created_at": "2025-08-06T07:13:38.486Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:15:03.151148",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:15:10.012000",
+      "text_length": 272,
+      "text_cleaned_length": 231,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpod5vmr52n",
+      "text": "\n#Arab   #assault   #Benjamin Netanyahu   #ceasefire   #civilians   #disarmament   #Gaza   #Hamas   #Hezbollah   #Iran   #Israel   #killed   #Lebanon   #Middle East   #Military   #missiles   #Negotiations   #occupation   #offensive   #refugee   #Trump   #UN Security Council   #war   #Washington",
+      "text_cleaned": "Netanyahu East Security Council",
+      "text_preview": "\n#Arab   #assault   #Benjamin Netanyahu   #ceasefire   #civilians   #disarmament   #Gaza   #Hamas   #Hezbollah   #Iran   #Israel   #killed   #Lebanon   #Middle East   #Military   #missiles   #Negotiat...",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T07:13:22.310006+00:00",
+      "hashtags": "['#occupation' '#Iran' '#assault' '#Negotiations' '#Gaza' '#missiles'\n '#refugee' '#Lebanon' '#disarmament' '#ceasefire' '#killed' '#Israel'\n '#Washington' '#Hamas' '#Arab' '#Hezbollah' '#Benjamin' '#offensive'\n '#Military' '#Trump' '#war' '#UN' '#civilians' '#Middle']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:15:03.151164",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:15:10.012000",
+      "text_length": 295,
+      "text_cleaned_length": 31,
+      "hashtag_count": 24,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpocy553225",
+      "text": "\n#Europe   #Kremlin   #Moscow   #Putin   #Russia   #Steve Witkoff   #Trump   #Ukraine   #Vladimir Putin   #war   #Zelenskyy",
+      "text_cleaned": "Witkoff Putin",
+      "text_preview": "\n#Europe   #Kremlin   #Moscow   #Putin   #Russia   #Steve Witkoff   #Trump   #Ukraine   #Vladimir Putin   #war   #Zelenskyy",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T07:13:16.250359+00:00",
+      "hashtags": "['#Trump' '#war' '#Ukraine' '#Zelenskyy' '#Russia' '#Putin' '#Steve'\n '#Moscow' '#Kremlin' '#Europe' '#Vladimir']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:15:03.151175",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:15:10.012000",
+      "text_length": 123,
+      "text_cleaned_length": 13,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpob4k3au2g",
+      "text": "\n#AI   #artificial intelligence   #Li   #Meta   #Trump   #war",
+      "text_cleaned": "intelligence",
+      "text_preview": "\n#AI   #artificial intelligence   #Li   #Meta   #Trump   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T07:12:13.769730+00:00",
+      "hashtags": "['#AI' '#Trump' '#war' '#artificial' '#Li' '#Meta']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:15:03.151193",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:15:10.012000",
+      "text_length": 61,
+      "text_cleaned_length": 12,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpoafnhbk2h",
+      "text": "#DiddlerOnTheRoof #Trump",
+      "text_cleaned": "",
+      "text_preview": "#DiddlerOnTheRoof #Trump",
+      "author": "colinmacneil.bsky.social",
+      "author_display_name": "Colin \ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-06T07:11:29.141Z",
+      "hashtags": "['#Trump' '#DiddlerOnTheRoof']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T07:15:03.151199",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 07:15:10.012000",
+      "text_length": 24,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    }
+  ]
+}
