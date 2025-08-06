@@ -1,0 +1,500 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_095310",
+    "post_count": 18,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 09:45:10.007000",
+    "latest_received_at": "2025-08-06 09:50:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpwt26wez2t",
+      "text": "\ud83c\uddfa\ud83c\uddf8 #USA : vigilance orange pour l\u2019#Activit\u00e9\n\ud83c\udf10Les effets n\u00e9gatifs de la politique commerciale et migratoire de l\u2019administration #Trump sur l\u2019activit\u00e9 \u00e9conomique am\u00e9ricaine commencent \u00e0 se faire sentir :\n\u2728Pour en savoir plus, lisez le dernier #EcoFlash d'Anis Bensaidani\n\ud83d\udc49 bnpp.lk/b8xPrb",
+      "text_cleaned": "\ud83c\uddfa\ud83c\uddf8 : vigilance orange pour l\u2019 \ud83c\udf10Les effets n\u00e9gatifs de la politique commerciale et migratoire de l\u2019administration sur l\u2019activit\u00e9 \u00e9conomique am\u00e9ricaine commencent \u00e0 se faire sentir : \u2728Pour en savoir plus, lisez le dernier d'Anis Bensaidani \ud83d\udc49 bnpp.lk/b8xPrb",
+      "text_preview": "\ud83c\uddfa\ud83c\uddf8 #USA : vigilance orange pour l\u2019#Activit\u00e9\n\ud83c\udf10Les effets n\u00e9gatifs de la politique commerciale et migratoire de l\u2019administration #Trump sur l\u2019activit\u00e9 \u00e9conomique am\u00e9ricaine commencent \u00e0 se faire sentir ...",
+      "author": "ecoresearchbybnpp.bsky.social",
+      "author_display_name": "Economic Research by BNP Paribas",
+      "created_at": "2025-08-06T09:45:04.389Z",
+      "hashtags": "['#USA' '#Trump' '#EcoFlash' '#Activit\u00e9']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:50:03.251208",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:50:10.007000",
+      "text_length": 285,
+      "text_cleaned_length": 254,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpwzcqgdc25",
+      "text": "Putin & Whitkoff meeting has started in the Kremlin.\nOf course, the meeting will not lead to any consequences for #Russia or bring peace to #Ukraine. However, Russia wants the US to stop Ukraine's attacks on the #Russian oil industry.\n\n#Putin #Whitkoff #Trump #RussiaUkraineWar",
+      "text_cleaned": "Putin & Whitkoff meeting has started in the Kremlin. Of course, the meeting will not lead to any consequences for or bring peace to . However, Russia wants the US to stop Ukraine's attacks on the oil industry.",
+      "text_preview": "Putin & Whitkoff meeting has started in the Kremlin.\nOf course, the meeting will not lead to any consequences for #Russia or bring peace to #Ukraine. However, Russia wants the US to stop Ukraine's att...",
+      "author": "kungahuset.bsky.social",
+      "author_display_name": "Kungahuset",
+      "created_at": "2025-08-06T09:48:34.883Z",
+      "hashtags": "['#Ukraine' '#Russia' '#RussiaUkraineWar' '#Putin' '#Whitkoff' '#Trump'\n '#Russian']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:50:03.251080",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:50:10.007000",
+      "text_length": 277,
+      "text_cleaned_length": 209,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpwzpul6q2t",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "cosmicmeta.bsky.social",
+      "author_display_name": "Cosmic Meta Digital",
+      "created_at": "2025-08-06T09:48:48.337Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:50:03.251068",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:50:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpwu2b4ts22",
+      "text": "#Trump fait diversion en attaquant les Clinton, c'est abjects mais \u00e7a peut fonctionner vu l'image de Bill et les souvenirs de l' \"Hillarygate\" et des mensonges sur les pizzerias p\u00e9dophiles",
+      "text_cleaned": "fait diversion en attaquant les Clinton, c'est abjects mais \u00e7a peut fonctionner vu l'image de Bill et les souvenirs de l' \"Hillarygate\" et des mensonges sur les pizzerias p\u00e9dophiles",
+      "text_preview": "#Trump fait diversion en attaquant les Clinton, c'est abjects mais \u00e7a peut fonctionner vu l'image de Bill et les souvenirs de l' \"Hillarygate\" et des mensonges sur les pizzerias p\u00e9dophiles",
+      "author": "mcvulcain.bsky.social",
+      "author_display_name": "MC Vulcain",
+      "created_at": "2025-08-06T09:45:38.226Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:50:03.251193",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:50:10.007000",
+      "text_length": 188,
+      "text_cleaned_length": 181,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpwyfqc522a",
+      "text": "O ja, als we de #co2 niet meer meten dan is het er ook niet meer, alles opgelost  \ud83d\ude09\n\n#klimaatverandering #klimaatwetenschap #kopinhetzand #trump\n\nwww.vrt.be/vrtnws/nl/20...",
+      "text_cleaned": "O ja, als we de niet meer meten dan is het er ook niet meer, alles opgelost \ud83d\ude09",
+      "text_preview": "O ja, als we de #co2 niet meer meten dan is het er ook niet meer, alles opgelost  \ud83d\ude09\n\n#klimaatverandering #klimaatwetenschap #kopinhetzand #trump\n\nwww.vrt.be/vrtnws/nl/20...",
+      "author": "klimaatcom.bsky.social",
+      "author_display_name": "Klimaatcommunicatie",
+      "created_at": "2025-08-06T09:48:04.470Z",
+      "hashtags": "['#klimaatwetenschap' '#co2' '#trump' '#kopinhetzand'\n '#klimaatverandering']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:50:03.251166",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:50:10.007000",
+      "text_length": 172,
+      "text_cleaned_length": 77,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvpww2h2gk24",
+      "text": "On a related topic, why would Duffy want to build a nuclear reactor on the Moon when it's made of green cheese?\n#Maxwell #Trump #Blanche",
+      "text_cleaned": "On a related topic, why would Duffy want to build a nuclear reactor on the Moon when it's made of green cheese?",
+      "text_preview": "On a related topic, why would Duffy want to build a nuclear reactor on the Moon when it's made of green cheese?\n#Maxwell #Trump #Blanche",
+      "author": "brianshaver-canada.bsky.social",
+      "author_display_name": "Brian Shaver",
+      "created_at": "2025-08-06T09:46:45.530Z",
+      "hashtags": "['#Trump' '#Maxwell' '#Blanche']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:50:03.251183",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:50:10.007000",
+      "text_length": 136,
+      "text_cleaned_length": 111,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpwyrvtxc2h",
+      "text": "President Donald Trump's special envoy, Steve Witkoff, met with Putin in the Kremlin.\n\n#USA #Trump #Witkoff #Ukraine\ufe0f #UkraineRussiaWar #Russia #Putin",
+      "text_cleaned": "President Donald Trump's special envoy, Steve Witkoff, met with Putin in the Kremlin. \ufe0f",
+      "text_preview": "President Donald Trump's special envoy, Steve Witkoff, met with Putin in the Kremlin.\n\n#USA #Trump #Witkoff #Ukraine\ufe0f #UkraineRussiaWar #Russia #Putin",
+      "author": "ulfh3dnar.bsky.social",
+      "author_display_name": "Ulfh3dnar",
+      "created_at": "2025-08-06T09:48:17.241Z",
+      "hashtags": "['#Witkoff' '#USA' '#UkraineRussiaWar' '#Ukraine' '#Russia' '#Putin'\n '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:50:03.251109",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:50:10.007000",
+      "text_length": 150,
+      "text_cleaned_length": 87,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpwyvxeic26",
+      "text": "#Dazi, a rischio 24 milioni l'anno dal #pecorino romano esportato negli Usa #export #Sardegna #Trump\n\nwww.itenovas.com/in-ternazion...",
+      "text_cleaned": ", a rischio 24 milioni l'anno dal romano esportato negli Usa",
+      "text_preview": "#Dazi, a rischio 24 milioni l'anno dal #pecorino romano esportato negli Usa #export #Sardegna #Trump\n\nwww.itenovas.com/in-ternazion...",
+      "author": "sardegnagiudicale.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T09:48:21.486Z",
+      "hashtags": "['#Dazi' '#pecorino' '#Sardegna' '#export' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:50:03.251090",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:50:10.007000",
+      "text_length": 134,
+      "text_cleaned_length": 60,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpwweijzk2t",
+      "text": "\n#Krieg   #Moskau   #Putin   #Russland   #Sanktionen   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Krieg   #Moskau   #Putin   #Russland   #Sanktionen   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T09:47:16.562924+00:00",
+      "hashtags": "['#Ukraine' '#Moskau' '#Krieg' '#Putin' '#Sanktionen' '#Trump' '#Russland']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:50:03.251175",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:50:10.007000",
+      "text_length": 72,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpwr5djl22m",
+      "text": "\u82f1\u56fd\u72ec\u7acb\u62a5\uff1a\u201c\u4f5c\u4e3a\u4e00\u540d\u9000\u4f11\u7684BOP\u5458\u5de5\uff0c\u8fd9\u8ba9\u6211\u611f\u5230\u6076\u5fc3\uff0c\u201dMaxwell\u7684\u4e00\u4e2a\u4eba\u5199\u9053\uff0c\u5979\u9884\u8ba1\u5c06\u7ee7\u7eed\u56e0\u4e0e\u7231\u6cfc\u65af\u5766\u4e00\u8d77\u5408\u8b00\u6027\u8650\u5f85\u672a\u6210\u5e74\u4eba\u800c\u670d\u521120\u5e74\u3002\n\n\u201c\u4ece\u4ec0\u4e48\u65f6\u5019\u5f00\u59cb\uff0c\u8425\u5730\u5141\u8bb8\u6027\u72af\u7f6a\u8005\u8fdb\u5165\uff1f\u201d\u53e6\u4e00\u4e2a\u4eba\u5199\u9053\u3002\u201c\u6211\u4e0d\u5728\u4e4e\u5979\u544a\u5bc6\u4e86\u8c01\uff0c\u5979\u662f\u4e2a\u8be5\u6b7b\u7684\u4eba\u53e3\u8d29\u5b50\u3002\u201d\n\n\u8be5\u8bbe\u65bd\u662f\u4e00\u4e2a\u5168\u5973\u6027\u76d1\u72f1\uff0c\u8bbe\u6709\u6700\u5c11\u7684\u56f4\u680f\u3001\u4e00\u4e2a\u8fd0\u52a8\u573a\u548c\u4e00\u4e2a\u56da\u72af\u8bad\u7ec3\u670d\u52a1\u6027\u52a8\u7269\u7684\u9879\u76ee\uff0c\u9664\u975e\u8054\u90a6\u5b98\u5458\u7b7e\u7f72\u8c41\u514d\u4e66\uff0c\u5426\u5219\u901a\u5e38\u4e0d\u4f1a\u5173\u62bc\u6027\u72af\u7f6a\u8005\u3002\n\n#\u7231\u6cfc\u65af\u5766 #Epstein #\u5ddd\u666e #Trump #\u63a9\u76d6\u8bc1\u636e #CoverUp",
+      "text_cleaned": "\u82f1\u56fd\u72ec\u7acb\u62a5\uff1a\u201c\u4f5c\u4e3a\u4e00\u540d\u9000\u4f11\u7684BOP\u5458\u5de5\uff0c\u8fd9\u8ba9\u6211\u611f\u5230\u6076\u5fc3\uff0c\u201dMaxwell\u7684\u4e00\u4e2a\u4eba\u5199\u9053\uff0c\u5979\u9884\u8ba1\u5c06\u7ee7\u7eed\u56e0\u4e0e\u7231\u6cfc\u65af\u5766\u4e00\u8d77\u5408\u8b00\u6027\u8650\u5f85\u672a\u6210\u5e74\u4eba\u800c\u670d\u521120\u5e74\u3002 \u201c\u4ece\u4ec0\u4e48\u65f6\u5019\u5f00\u59cb\uff0c\u8425\u5730\u5141\u8bb8\u6027\u72af\u7f6a\u8005\u8fdb\u5165\uff1f\u201d\u53e6\u4e00\u4e2a\u4eba\u5199\u9053\u3002\u201c\u6211\u4e0d\u5728\u4e4e\u5979\u544a\u5bc6\u4e86\u8c01\uff0c\u5979\u662f\u4e2a\u8be5\u6b7b\u7684\u4eba\u53e3\u8d29\u5b50\u3002\u201d \u8be5\u8bbe\u65bd\u662f\u4e00\u4e2a\u5168\u5973\u6027\u76d1\u72f1\uff0c\u8bbe\u6709\u6700\u5c11\u7684\u56f4\u680f\u3001\u4e00\u4e2a\u8fd0\u52a8\u573a\u548c\u4e00\u4e2a\u56da\u72af\u8bad\u7ec3\u670d\u52a1\u6027\u52a8\u7269\u7684\u9879\u76ee\uff0c\u9664\u975e\u8054\u90a6\u5b98\u5458\u7b7e\u7f72\u8c41\u514d\u4e66\uff0c\u5426\u5219\u901a\u5e38\u4e0d\u4f1a\u5173\u62bc\u6027\u72af\u7f6a\u8005\u3002",
+      "text_preview": "\u82f1\u56fd\u72ec\u7acb\u62a5\uff1a\u201c\u4f5c\u4e3a\u4e00\u540d\u9000\u4f11\u7684BOP\u5458\u5de5\uff0c\u8fd9\u8ba9\u6211\u611f\u5230\u6076\u5fc3\uff0c\u201dMaxwell\u7684\u4e00\u4e2a\u4eba\u5199\u9053\uff0c\u5979\u9884\u8ba1\u5c06\u7ee7\u7eed\u56e0\u4e0e\u7231\u6cfc\u65af\u5766\u4e00\u8d77\u5408\u8b00\u6027\u8650\u5f85\u672a\u6210\u5e74\u4eba\u800c\u670d\u521120\u5e74\u3002\n\n\u201c\u4ece\u4ec0\u4e48\u65f6\u5019\u5f00\u59cb\uff0c\u8425\u5730\u5141\u8bb8\u6027\u72af\u7f6a\u8005\u8fdb\u5165\uff1f\u201d\u53e6\u4e00\u4e2a\u4eba\u5199\u9053\u3002\u201c\u6211\u4e0d\u5728\u4e4e\u5979\u544a\u5bc6\u4e86\u8c01\uff0c\u5979\u662f\u4e2a\u8be5\u6b7b\u7684\u4eba\u53e3\u8d29\u5b50\u3002\u201d\n\n\u8be5\u8bbe\u65bd\u662f\u4e00\u4e2a\u5168\u5973\u6027\u76d1\u72f1\uff0c\u8bbe\u6709\u6700\u5c11\u7684\u56f4\u680f\u3001\u4e00\u4e2a\u8fd0\u52a8\u573a\u548c\u4e00\u4e2a\u56da\u72af\u8bad\u7ec3\u670d\u52a1\u6027\u52a8\u7269\u7684\u9879\u76ee\uff0c\u9664\u975e\u8054\u90a6\u5b98\u5458\u7b7e\u7f72\u8c41\u514d\u4e66\uff0c\u5426\u5219\u901a\u5e38\u4e0d\u4f1a\u5173\u62bc\u6027\u72af\u7f6a\u8005\u3002\n\n#\u7231\u6cfc\u65af...",
+      "author": "sittingtight.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T09:44:00.789Z",
+      "hashtags": "['#\u5ddd\u666e' '#\u7231\u6cfc\u65af\u5766' '#Trump' '#\u63a9\u76d6\u8bc1\u636e' '#CoverUp' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:45:02.890692",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:45:10.007000",
+      "text_length": 236,
+      "text_cleaned_length": 192,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpwjvekg22y",
+      "text": "Nunca hagas negocios con una estafador porque nunca dejar\u00e1 de intentar estafarte.\n\n\u00bfY qu\u00e9 dice #vox del en\u00e9simo  giro arancelario de su \u00eddolo Zanahorio #Trump? Ellos que llegaron a celebrar el 'acuerdo' ruina de la UE con EEUU...",
+      "text_cleaned": "Nunca hagas negocios con una estafador porque nunca dejar\u00e1 de intentar estafarte. \u00bfY qu\u00e9 dice del en\u00e9simo giro arancelario de su \u00eddolo Zanahorio ? Ellos que llegaron a celebrar el 'acuerdo' ruina de la UE con EEUU...",
+      "text_preview": "Nunca hagas negocios con una estafador porque nunca dejar\u00e1 de intentar estafarte.\n\n\u00bfY qu\u00e9 dice #vox del en\u00e9simo  giro arancelario de su \u00eddolo Zanahorio #Trump? Ellos que llegaron a celebrar el 'acuerd...",
+      "author": "skakeofanzine.bsky.social",
+      "author_display_name": "@SkakeoFanzine",
+      "created_at": "2025-08-06T09:39:57.511Z",
+      "hashtags": "['#Trump' '#vox']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:45:02.890778",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:45:10.007000",
+      "text_length": 229,
+      "text_cleaned_length": 216,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpwq56ds325",
+      "text": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213NkdG",
+      "text_cleaned": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. .ai",
+      "text_preview": "Trump Surveys White House on Morning Roof Stroll White House reporters looked up from the driveway to see a familiar figure in a most unfamiliar location.. @cosmicmeta.ai #Trump\n\nhttps://u2m.io/Y213Nk...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-06T09:43:26.746Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:45:02.890716",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:45:10.007000",
+      "text_length": 202,
+      "text_cleaned_length": 159,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpwk5ooc52b",
+      "text": "An additional 72,000 people \u2013 mainly women and children \u2013 were turned away from emergency shelters last year. Where do they go? #business #the #economy",
+      "text_cleaned": "An additional 72,000 people \u2013 mainly women and children \u2013 were turned away from emergency shelters last year. Where do they go?",
+      "text_preview": "An additional 72,000 people \u2013 mainly women and children \u2013 were turned away from emergency shelters last year. Where do they go? #business #the #economy",
+      "author": "aussienews.bsky.social",
+      "author_display_name": "Aussie News",
+      "created_at": "2025-08-06T09:40:05Z",
+      "hashtags": "['#economy' '#business' '#the']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:45:02.890171",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:45:10.007000",
+      "text_length": 151,
+      "text_cleaned_length": 127,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpwk6lyjc2s",
+      "text": "Wonder how much money MAGA idiots have lost buying Trump\u2019s shit over the years?\n\n#Trump #MAGA #TrumpMedia",
+      "text_cleaned": "Wonder how much money MAGA idiots have lost buying Trump\u2019s shit over the years?",
+      "text_preview": "Wonder how much money MAGA idiots have lost buying Trump\u2019s shit over the years?\n\n#Trump #MAGA #TrumpMedia",
+      "author": "brianscant.bsky.social",
+      "author_display_name": "Brian \ud83d\udcce",
+      "created_at": "2025-08-06T09:40:07.228Z",
+      "hashtags": "['#TrumpMedia' '#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 4,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:45:02.890760",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:45:10.007000",
+      "text_length": 105,
+      "text_cleaned_length": 79,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvpwr5smmv2e",
+      "text": "\n#Ceasefire   #Kyiv   #Putin   #Sanctions   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Ceasefire   #Kyiv   #Putin   #Sanctions   #Trump",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T09:44:21.787595+00:00",
+      "hashtags": "['#Kyiv' '#Ceasefire' '#Trump' '#Sanctions' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:45:02.890674",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:45:10.007000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpwnkf5ks2t",
+      "text": "#JDVance, amerikanischer #Medwedew!\n#Trump\nwww.n-tv.de/politik/Trum...",
+      "text_cleaned": ", amerikanischer !",
+      "text_preview": "#JDVance, amerikanischer #Medwedew!\n#Trump\nwww.n-tv.de/politik/Trum...",
+      "author": "mofhst.bsky.social",
+      "author_display_name": "mof",
+      "created_at": "2025-08-06T09:42:00.252Z",
+      "hashtags": "['#Trump' '#Medwedew' '#JDVance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:45:02.890733",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:45:10.007000",
+      "text_length": 70,
+      "text_cleaned_length": 18,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpwqo65ds27",
+      "text": "Just 2 Giant Apes on a Roof\n#Trump",
+      "text_cleaned": "Just 2 Giant Apes on a Roof",
+      "text_preview": "Just 2 Giant Apes on a Roof\n#Trump",
+      "author": "foxamandil.bsky.social",
+      "author_display_name": "Fox \ud83e\udd18",
+      "created_at": "2025-08-06T09:43:44.872Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:45:02.890704",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:45:10.007000",
+      "text_length": 34,
+      "text_cleaned_length": 27,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpwlvgc7k2w",
+      "text": "#epstein #justice #usa #trump #democracy",
+      "text_cleaned": "",
+      "text_preview": "#epstein #justice #usa #trump #democracy",
+      "author": "vitamin-jay.bsky.social",
+      "author_display_name": "Vitamin Jay",
+      "created_at": "2025-08-06T09:41:04.719Z",
+      "hashtags": "['#usa' '#democracy' '#justice' '#epstein' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T09:45:02.890746",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 09:45:10.007000",
+      "text_length": 40,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
