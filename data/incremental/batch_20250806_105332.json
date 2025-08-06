@@ -1,0 +1,689 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_105332",
+    "post_count": 25,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 10:45:10.013000",
+    "latest_received_at": "2025-08-06 10:50:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvq26mfftf2l",
+      "text": "#ANINews \u201cBig smile, handshake & conversation\u2026\u201d Trump\u2019s Envoy Witkoff meets Putin at Kremlin,\u00a0Russia\n\n\u201cBig smile, handshake & conversation\u2026\u201d Trump\u2019s Envoy Witkoff meets Putin at Kremlin, Russia \u201cBig smile, handshake & conversation\u2026\u201d Trump\u2019s Envoy Witkoff meets Putin at Kremlin, Russia #Trump #Putin\u2026",
+      "text_cleaned": "\u201cBig smile, handshake & conversation\u2026\u201d Trump\u2019s Envoy Witkoff meets Putin at Kremlin, Russia \u201cBig smile, handshake & conversation\u2026\u201d Trump\u2019s Envoy Witkoff meets Putin at Kremlin, Russia \u201cBig smile, handshake & conversation\u2026\u201d Trump\u2019s Envoy Witkoff meets Putin at Kremlin, Russia \u2026",
+      "text_preview": "#ANINews \u201cBig smile, handshake & conversation\u2026\u201d Trump\u2019s Envoy Witkoff meets Putin at Kremlin,\u00a0Russia\n\n\u201cBig smile, handshake & conversation\u2026\u201d Trump\u2019s Envoy Witkoff meets Putin at Kremlin, Russia \u201cBig s...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-06T10:45:12Z",
+      "hashtags": "['#Trump' '#ANINews' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:50:03.827141",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:50:10.007000",
+      "text_length": 300,
+      "text_cleaned_length": 277,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq2fzn7v223",
+      "text": "Finally some good news for #Canada and its #economy:\n\n\"Only 2 advanced economies out of 34 it tracked had surpassed their prefinancial crisis net investment trends as of last year. Just 6 countries are above their pre-Covid-19 investment trends, including Canada, Italy and Aus.\"",
+      "text_cleaned": "Finally some good news for and its : \"Only 2 advanced economies out of 34 it tracked had surpassed their prefinancial crisis net investment trends as of last year. Just 6 countries are above their pre-Covid-19 investment trends, including Canada, Italy and Aus.\"",
+      "text_preview": "Finally some good news for #Canada and its #economy:\n\n\"Only 2 advanced economies out of 34 it tracked had surpassed their prefinancial crisis net investment trends as of last year. Just 6 countries ar...",
+      "author": "mister914.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:49:22.780Z",
+      "hashtags": "['#economy' '#Canada']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:50:03.826829",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:50:10.007000",
+      "text_length": 279,
+      "text_cleaned_length": 262,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq2gkiyev2z",
+      "text": "In other news bears don't shit in the woods, the Pope isn't a Catholic, and  RFK jr doesn't have an IQ of 3\n@RFKJr_Official #Trump #MAGA #mrna #vaccines #covid\nAll the news RFK jr needs to read @ thebeginnersguides.net",
+      "text_cleaned": "In other news bears don't shit in the woods, the Pope isn't a Catholic, and RFK jr doesn't have an IQ of 3 All the news RFK jr needs to read @ thebeginnersguides.net",
+      "text_preview": "In other news bears don't shit in the woods, the Pope isn't a Catholic, and  RFK jr doesn't have an IQ of 3\n@RFKJr_Official #Trump #MAGA #mrna #vaccines #covid\nAll the news RFK jr needs to read @ theb...",
+      "author": "thebeginners.bsky.social",
+      "author_display_name": "The Beginners' Guides",
+      "created_at": "2025-08-06T10:49:40.284Z",
+      "hashtags": "['#covid' '#Trump' '#vaccines' '#mrna' '#MAGA']",
+      "mentions": "['@RFKJr_Official']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:50:03.827096",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:50:10.007000",
+      "text_length": 218,
+      "text_cleaned_length": 165,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq2esal2s2f",
+      "text": "\ud83c\udfc0 #DECIPHERINGTRUMP \ud83c\udfc0\n\n#Trump makes #bigballs gesture on roof of #WhiteHouse 935 days or 02:06:23 from the #testicular attack upon my balls and the probable execution of #LisaMariePresley. \n\nwww.msn.com/en-in/news/w...",
+      "text_cleaned": "\ud83c\udfc0 \ud83c\udfc0 makes gesture on roof of 935 days or 02:06:23 from the attack upon my balls and the probable execution of .",
+      "text_preview": "\ud83c\udfc0 #DECIPHERINGTRUMP \ud83c\udfc0\n\n#Trump makes #bigballs gesture on roof of #WhiteHouse 935 days or 02:06:23 from the #testicular attack upon my balls and the probable execution of #LisaMariePresley. \n\nwww.msn.c...",
+      "author": "sonofnone.bsky.social",
+      "author_display_name": "Son of None",
+      "created_at": "2025-08-06T10:48:41.465Z",
+      "hashtags": "['#LisaMariePresley' '#testicular' '#bigballs' '#Trump'\n '#DECIPHERINGTRUMP' '#WhiteHouse']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:50:03.827117",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:50:10.007000",
+      "text_length": 218,
+      "text_cleaned_length": 111,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq2fbwfns2m",
+      "text": "The car pictured behind President Trump is a stock image of a Russian/Soviet made VAZ 2101, better known as the Lada 1200.\n#trump #russia #lada",
+      "text_cleaned": "The car pictured behind President Trump is a stock image of a Russian/Soviet made VAZ 2101, better known as the Lada 1200.",
+      "text_preview": "The car pictured behind President Trump is a stock image of a Russian/Soviet made VAZ 2101, better known as the Lada 1200.\n#trump #russia #lada",
+      "author": "curiousrussia.bsky.social",
+      "author_display_name": "unusual Russia \ud83d\udef8 \ud83e\ude86 \ud83c\uddf7\ud83c\uddfa",
+      "created_at": "2025-08-06T10:48:57.905Z",
+      "hashtags": "['#trump' '#lada' '#russia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:50:03.827109",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:50:10.007000",
+      "text_length": 143,
+      "text_cleaned_length": 122,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq2bzw5qs2l",
+      "text": "Americans will end up paying more so companies can recoup their #tariff costs.\n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN #tariffs",
+      "text_cleaned": "Americans will end up paying more so companies can recoup their costs.",
+      "text_preview": "Americans will end up paying more so companies can recoup their #tariff costs.\n#tRUMP #CORRUPTION #LIES #AUTHORITARIAN #tariffs",
+      "author": "snagglepussdan.bsky.social",
+      "author_display_name": "Dan Smith",
+      "created_at": "2025-08-06T10:47:08.856Z",
+      "hashtags": "['#tRUMP' '#LIES' '#AUTHORITARIAN' '#CORRUPTION' '#tariff' '#tariffs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:50:03.827133",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:50:10.007000",
+      "text_length": 127,
+      "text_cleaned_length": 70,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq2cbzvbk2x",
+      "text": " #Eipstein\n\n\u2757 MrJokerAntiall \u2757 \n\n\ud83d\udcab\ud83e\ude81\ud83c\udfad\ud83e\udd80\ud83c\udf3e\u270c\ufe0f\ud83d\udc3e\ud83c\udccf\n\n#EpsteinFiles \n#EpsteinCase\n#Trump",
+      "text_cleaned": "\u2757 MrJokerAntiall \u2757 \ud83d\udcab\ud83e\ude81\ud83c\udfad\ud83e\udd80\ud83c\udf3e\u270c\ufe0f\ud83d\udc3e\ud83c\udccf",
+      "text_preview": " #Eipstein\n\n\u2757 MrJokerAntiall \u2757 \n\n\ud83d\udcab\ud83e\ude81\ud83c\udfad\ud83e\udd80\ud83c\udf3e\u270c\ufe0f\ud83d\udc3e\ud83c\udccf\n\n#EpsteinFiles \n#EpsteinCase\n#Trump",
+      "author": "mrjokerantiall.bsky.social",
+      "author_display_name": "MrjokerAntiall",
+      "created_at": "2025-08-06T10:47:17.346Z",
+      "hashtags": "['#Trump' '#EpsteinCase' '#Eipstein' '#EpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:50:03.827126",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:50:10.007000",
+      "text_length": 78,
+      "text_cleaned_length": 28,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq2fvtjuu2t",
+      "text": "\n#Putin   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Putin   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T10:49:39.247025+00:00",
+      "hashtags": "['#Trump' '#Putin' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:50:03.827102",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:50:10.007000",
+      "text_length": 27,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq24czjl22f",
+      "text": "L'Unione Europea \u00e8 un colosso. Allora perch\u00e9 si comporta come un topolino impaurito davanti a #Trump?\n\nCon il suo disastroso accordo commerciale, l\u2019Europa si \u00e8 prostrata davanti a un mafioso.\n\nAbbiamo bisogno di un* leader che sappia dirgli dove pu\u00f2 ficcarselo...",
+      "text_cleaned": "L'Unione Europea \u00e8 un colosso. Allora perch\u00e9 si comporta come un topolino impaurito davanti a ? Con il suo disastroso accordo commerciale, l\u2019Europa si \u00e8 prostrata davanti a un mafioso. Abbiamo bisogno di un* leader che sappia dirgli dove pu\u00f2 ficcarselo...",
+      "text_preview": "L'Unione Europea \u00e8 un colosso. Allora perch\u00e9 si comporta come un topolino impaurito davanti a #Trump?\n\nCon il suo disastroso accordo commerciale, l\u2019Europa si \u00e8 prostrata davanti a un mafioso.\n\nAbbiamo...",
+      "author": "goodbyepopulism.bsky.social",
+      "author_display_name": "\ud83d\udc26\ud835\udd3e\ud835\udd60\ud835\udd60\ud835\udd55\ud835\udd53\ud835\udd6a\ud835\udd56 \ud83c\udd7f\ud83c\udd7e\ud83c\udd7f\ud835\udd66\ud835\udd5d\ud835\udd5a\ud835\udd64\ud835\udd5e\ud835\udd60",
+      "created_at": "2025-08-06T10:43:57.076Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415634",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 263,
+      "text_cleaned_length": 255,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpzxexoyc2q",
+      "text": "From The Wall Street Journal:\n\n\u201cThe U.S. government has collected about $127 billion in tariff revenue so far this year from importers, about $72 billion more than it had at this point last year, according to the Penn Wharton Budget Model.\u201d\n\n#economy #markets #trade #tariffs",
+      "text_cleaned": "From The Wall Street Journal: \u201cThe U.S. government has collected about $127 billion in tariff revenue so far this year from importers, about $72 billion more than it had at this point last year, according to the Penn Wharton Budget Model.\u201d",
+      "text_preview": "From The Wall Street Journal:\n\n\u201cThe U.S. government has collected about $127 billion in tariff revenue so far this year from importers, about $72 billion more than it had at this point last year, acco...",
+      "author": "elerianm.bsky.social",
+      "author_display_name": "Mohamed A. El-Erian",
+      "created_at": "2025-08-06T10:41:11.337Z",
+      "hashtags": "['#markets' '#trade' '#tariffs' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415261",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 275,
+      "text_cleaned_length": 239,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 5.0
+    },
+    {
+      "post_id": "3lvq23ccwec2s",
+      "text": "First rule of advertising \n\nDO NOT BELIEVE YOUR OWN ADVERTISING\n\n1 #Trump actually believes his own propaganda\n\nor\n\n2 He knows what he\u2019s doing and sabotaging America so we become a Russian puppet state.\n\nor\n\n3 he\u2019s diverting attention from #Epstein.\n\nI vote 3,2\n\nYou?",
+      "text_cleaned": "First rule of advertising DO NOT BELIEVE YOUR OWN ADVERTISING 1 actually believes his own propaganda or 2 He knows what he\u2019s doing and sabotaging America so we become a Russian puppet state. or 3 he\u2019s diverting attention from . I vote 3,2 You?",
+      "text_preview": "First rule of advertising \n\nDO NOT BELIEVE YOUR OWN ADVERTISING\n\n1 #Trump actually believes his own propaganda\n\nor\n\n2 He knows what he\u2019s doing and sabotaging America so we become a Russian puppet stat...",
+      "author": "luditetechy.bsky.social",
+      "author_display_name": "BT",
+      "created_at": "2025-08-06T10:43:22.779Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415642",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 267,
+      "text_cleaned_length": 243,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpzvz6e7k2h",
+      "text": "#ScottJenningss on @cnn.com  cannot even stick up for #Trump. He has to make stupid faces and comments because he can't make any constructive comments.  Dems are not fleeing we are fighting back.\n#Resist",
+      "text_cleaned": "on .com cannot even stick up for . He has to make stupid faces and comments because he can't make any constructive comments. Dems are not fleeing we are fighting back.",
+      "text_preview": "#ScottJenningss on @cnn.com  cannot even stick up for #Trump. He has to make stupid faces and comments because he can't make any constructive comments.  Dems are not fleeing we are fighting back.\n#Res...",
+      "author": "rubies222.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:40:25.422Z",
+      "hashtags": "['#Resist' '#Trump' '#ScottJenningss']",
+      "mentions": "['@cnn.com']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415680",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 203,
+      "text_cleaned_length": 167,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpzvr5pip2a",
+      "text": "Judge to consider halting operations at 'Alligator Alcatraz' over environmental concerns #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #conservative #NoKings #TACO #Fascism",
+      "text_cleaned": "Judge to consider halting operations at 'Alligator Alcatraz' over environmental concerns",
+      "text_preview": "Judge to consider halting operations at 'Alligator Alcatraz' over environmental concerns #tRUMP #MAGA #DEMS #Democrat #DemsUnited #StrongerTogether #SaveDemocracy #Resist #GOP #donaldtrump #liberal #c...",
+      "author": "clawofdragon.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T10:40:17.096Z",
+      "hashtags": "['#tRUMP' '#MAGA' '#SaveDemocracy' '#Fascism' '#GOP' '#donaldtrump'\n '#StrongerTogether' '#conservative' '#NoKings' '#DemsUnited' '#Resist'\n '#TACO' '#Democrat' '#DEMS' '#liberal']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415691",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 235,
+      "text_cleaned_length": 88,
+      "hashtag_count": 15,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpzztvo2227",
+      "text": "As #Trump envoy #Witkoff meets #Putin in #Kremlin, #Zelensky posts about #Russia strike on gas facility in #Odesa region\n\n\"This was a deliberate blow to our preparations for the heating season, absolutely cynical, like every Russian blow to the energy sector\"\n\n#Ukraine #UkraineWar",
+      "text_cleaned": "As envoy meets in , posts about strike on gas facility in region \"This was a deliberate blow to our preparations for the heating season, absolutely cynical, like every Russian blow to the energy sector\"",
+      "text_preview": "As #Trump envoy #Witkoff meets #Putin in #Kremlin, #Zelensky posts about #Russia strike on gas facility in #Odesa region\n\n\"This was a deliberate blow to our preparations for the heating season, absolu...",
+      "author": "scottlucas.bsky.social",
+      "author_display_name": "Scott Lucas",
+      "created_at": "2025-08-06T10:42:34.100Z",
+      "hashtags": "['#Witkoff' '#Putin' '#Russia' '#Kremlin' '#Trump' '#Odesa' '#UkraineWar'\n '#Ukraine' '#Zelensky']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415665",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 281,
+      "text_cleaned_length": 202,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpzvpl4tm2w",
+      "text": "\n#deportation   #government   #Opposition   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#deportation   #government   #Opposition   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T10:40:35.879027+00:00",
+      "hashtags": "['#government' '#Trump' '#Opposition' '#deportation']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415673",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq24gtpq22l",
+      "text": "Santa Clause is real\nAnd most importantly #tRUMP isn't in the #Epstein #Files\n#CORRUPTION #LIES #AUTHORITARIAN",
+      "text_cleaned": "Santa Clause is real And most importantly isn't in the",
+      "text_preview": "Santa Clause is real\nAnd most importantly #tRUMP isn't in the #Epstein #Files\n#CORRUPTION #LIES #AUTHORITARIAN",
+      "author": "snagglepussdan.bsky.social",
+      "author_display_name": "Dan Smith",
+      "created_at": "2025-08-06T10:44:01.080Z",
+      "hashtags": "['#tRUMP' '#Files' '#AUTHORITARIAN' '#Epstein' '#LIES' '#CORRUPTION']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415627",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 110,
+      "text_cleaned_length": 54,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpzvkg2rx2y",
+      "text": "Trump dives into the turbulent waters of pay for college athletes\n#Trump",
+      "text_cleaned": "Trump dives into the turbulent waters of pay for college athletes",
+      "text_preview": "Trump dives into the turbulent waters of pay for college athletes\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T10:40:09.606Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415708",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 72,
+      "text_cleaned_length": 65,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpzvjpttd26",
+      "text": "Pentagon seeks to slash red tape for mass drone production\n#Trump",
+      "text_cleaned": "Pentagon seeks to slash red tape for mass drone production",
+      "text_preview": "Pentagon seeks to slash red tape for mass drone production\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T10:40:07.575Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415723",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 65,
+      "text_cleaned_length": 58,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq22jhzip2v",
+      "text": "\n#Europe   #Novo Nordisk   #obesity   #Tariffs   #Trump",
+      "text_cleaned": "Nordisk",
+      "text_preview": "\n#Europe   #Novo Nordisk   #obesity   #Tariffs   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T10:43:17.238053+00:00",
+      "hashtags": "['#Novo' '#Tariffs' '#obesity' '#Europe' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415648",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 55,
+      "text_cleaned_length": 7,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq253asaq2v",
+      "text": "\n#government   #Li   #politics   #Target   #Trump   #war",
+      "text_cleaned": "",
+      "text_preview": "\n#government   #Li   #politics   #Target   #Trump   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T10:44:43.004697+00:00",
+      "hashtags": "['#government' '#war' '#politics' '#Li' '#Target' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415606",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 56,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpzvl6x2j27",
+      "text": "How Trump Lost the War on Climate\u2014to China\n#Trump",
+      "text_cleaned": "How Trump Lost the War on Climate\u2014to China",
+      "text_preview": "How Trump Lost the War on Climate\u2014to China\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T10:40:10.699Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415702",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 49,
+      "text_cleaned_length": 42,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lvq243hcxo2q",
+      "text": "\n#immigration   #migrants   #Panama   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#immigration   #migrants   #Panama   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T10:44:09.663989+00:00",
+      "hashtags": "['#Panama' '#Trump' '#immigration' '#migrants']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415619",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 44,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq254u4qk2a",
+      "text": "\"I moved on her like a bitch\"- #Trump #slime #MAGA #RED",
+      "text_cleaned": "\"I moved on her like a bitch\"-",
+      "text_preview": "\"I moved on her like a bitch\"- #Trump #slime #MAGA #RED",
+      "author": "daybyday4ever.bsky.social",
+      "author_display_name": "Dan",
+      "created_at": "2025-08-06T10:44:24.158Z",
+      "hashtags": "['#MAGA' '#RED' '#slime' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415612",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 55,
+      "text_cleaned_length": 30,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lvq22a63fm2w",
+      "text": "\n#Li   #Tariffs   #Trump   #war",
+      "text_cleaned": "",
+      "text_preview": "\n#Li   #Tariffs   #Trump   #war",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-06T10:43:07.494446+00:00",
+      "hashtags": "['#Tariffs' '#war' '#Li' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415655",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 31,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpzvm755v2j",
+      "text": "The cult leader's hold weakens\n#Trump",
+      "text_cleaned": "The cult leader's hold weakens",
+      "text_preview": "The cult leader's hold weakens\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-06T10:40:11.726Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T10:45:03.415697",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 10:45:10.013000",
+      "text_length": 37,
+      "text_cleaned_length": 30,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    }
+  ]
+}
