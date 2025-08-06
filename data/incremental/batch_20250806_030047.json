@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_030047",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 02:55:10.007000",
+    "latest_received_at": "2025-08-06 03:00:10.071000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvp7w3lu4k2r",
+      "text": "Some rough napkin math:\n\nUS GDP: ~$30 trillion.\n2025 growth: ~$600 billion.\nTrump's increase: ~$3 billion.\nHe has pocketed ~0.5% of the country's growth.\n(Trump comprises ~0.00000000029% of the population)\nHOW do people think he cares about Americans?\n\n#trump #economics #taxtherich",
+      "text_cleaned": "Some rough napkin math: US GDP: ~$30 trillion. 2025 growth: ~$600 billion. Trump's increase: ~$3 billion. He has pocketed ~0.5% of the country's growth. (Trump comprises ~0.00000000029% of the population) HOW do people think he cares about Americans?",
+      "text_preview": "Some rough napkin math:\n\nUS GDP: ~$30 trillion.\n2025 growth: ~$600 billion.\nTrump's increase: ~$3 billion.\nHe has pocketed ~0.5% of the country's growth.\n(Trump comprises ~0.00000000029% of the popula...",
+      "author": "the-zeb.bsky.social",
+      "author_display_name": "Zeb",
+      "created_at": "2025-08-06T02:55:10.675Z",
+      "hashtags": "['#taxtherich' '#economics' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:00:03.999911",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:00:10.071000",
+      "text_length": 282,
+      "text_cleaned_length": 250,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpa43wcis2q",
+      "text": "Tourism is down in Orlando, Miami, Palm Springs, Las Vegas, NYC, International tourists just have so many other options than America for their holidays and they can\u2019t stand #Trump and his ICE Gestapo",
+      "text_cleaned": "Tourism is down in Orlando, Miami, Palm Springs, Las Vegas, NYC, International tourists just have so many other options than America for their holidays and they can\u2019t stand and his ICE Gestapo",
+      "text_preview": "Tourism is down in Orlando, Miami, Palm Springs, Las Vegas, NYC, International tourists just have so many other options than America for their holidays and they can\u2019t stand #Trump and his ICE Gestapo",
+      "author": "happybeachvibes.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:58:32.343Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:00:03.999904",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:00:10.071000",
+      "text_length": 199,
+      "text_cleaned_length": 192,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpa62aa622z",
+      "text": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "text_cleaned": "",
+      "text_preview": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "author": "antimaggotzone.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:59:37.668Z",
+      "hashtags": "['#EpsteinCoverUp' '#Epstein' '#Trump' '#EpsteinFiles'\n '#EpsteinTrumpFiles' '#ReleaseTheEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:00:03.999897",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:00:10.071000",
+      "text_length": 90,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvp7taauxk2g",
+      "text": "#EEUU\ud83d\udd34#Autoritario\n\n#Trump despidi\u00f3 el viernes pasado a la directora de la Oficina de Estad\u00edsticas Laborales, horas despu\u00e9s de que dicha #agencia publicara un #informe con datos de #empleo peores de lo esperado. \n\n\ud83d\udc4d\ud83d\udc99\u21a9\ufe0f",
+      "text_cleaned": "\ud83d\udd34 despidi\u00f3 el viernes pasado a la directora de la Oficina de Estad\u00edsticas Laborales, horas despu\u00e9s de que dicha publicara un con datos de peores de lo esperado. \ud83d\udc4d\ud83d\udc99\u21a9\ufe0f",
+      "text_preview": "#EEUU\ud83d\udd34#Autoritario\n\n#Trump despidi\u00f3 el viernes pasado a la directora de la Oficina de Estad\u00edsticas Laborales, horas despu\u00e9s de que dicha #agencia publicara un #informe con datos de #empleo peores de l...",
+      "author": "antisanamediaonlin.bsky.social",
+      "author_display_name": "Antisana Media Online",
+      "created_at": "2025-08-06T02:53:34.867Z",
+      "hashtags": "['#agencia' '#Autoritario' '#EEUU' '#Trump' '#informe' '#empleo']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:55:03.750203",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:55:10.007000",
+      "text_length": 218,
+      "text_cleaned_length": 165,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp7u2bemc2r",
+      "text": "As the U.S. economy cools, Trump points to 'phenomenal numbers' that don't exist www.msnbc.com/rachel-maddo... via @msnbc \n#USNews #NowReading #Politics #TrumpNews of lies and Corruption #Trump #DonaldTrump #DonTheCon #USEconomy #TrumpEconomy #LoserTrump #ElizabethWarren #BLS",
+      "text_cleaned": "As the U.S. economy cools, Trump points to 'phenomenal numbers' that don't exist via of lies and Corruption",
+      "text_preview": "As the U.S. economy cools, Trump points to 'phenomenal numbers' that don't exist www.msnbc.com/rachel-maddo... via @msnbc \n#USNews #NowReading #Politics #TrumpNews of lies and Corruption #Trump #Donal...",
+      "author": "neptune78.bsky.social",
+      "author_display_name": "Neptune InIowa",
+      "created_at": "2025-08-06T02:54:02.174Z",
+      "hashtags": "['#TrumpNews' '#USNews' '#NowReading' '#LoserTrump' '#Politics' '#BLS'\n '#ElizabethWarren' '#DonaldTrump' '#USEconomy' '#Trump' '#TrumpEconomy'\n '#DonTheCon']",
+      "mentions": "['@msnbc']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:55:03.750193",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:55:10.007000",
+      "text_length": 276,
+      "text_cleaned_length": 107,
+      "hashtag_count": 12,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp7n5emg22v",
+      "text": "'Of the 57 massacres before the State of Israel's declaration, 37 occurred in 1948.' #Israel #GHF #Netanyahu #warcriminal #zionazis #Palestine #Gaza #OccupiedWestBank #genocide #jewishterrorists #crimesgainsthumanity #USA #Trump #unfit \nwww.pal48.ps/en/nkbh/6/th...",
+      "text_cleaned": "'Of the 57 massacres before the State of Israel's declaration, 37 occurred in 1948.'",
+      "text_preview": "'Of the 57 massacres before the State of Israel's declaration, 37 occurred in 1948.' #Israel #GHF #Netanyahu #warcriminal #zionazis #Palestine #Gaza #OccupiedWestBank #genocide #jewishterrorists #crim...",
+      "author": "maximgrosky.bsky.social",
+      "author_display_name": "Max G",
+      "created_at": "2025-08-06T02:50:10.545Z",
+      "hashtags": "['#Netanyahu' '#jewishterrorists' '#unfit' '#genocide' '#Gaza'\n '#OccupiedWestBank' '#Trump' '#warcriminal' '#zionazis' '#USA' '#GHF'\n '#Israel' '#Palestine' '#crimesgainsthumanity']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:55:03.750247",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:55:10.007000",
+      "text_length": 265,
+      "text_cleaned_length": 84,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp7sluymc2m",
+      "text": "Danny Haiphong with Scott Ritter & Larry Johnson on nuclear escalations. \n\n#Trump #Russia #Putin \n\nwww.youtube.com/live/EYcUHzl...",
+      "text_cleaned": "Danny Haiphong with Scott Ritter & Larry Johnson on nuclear escalations.",
+      "text_preview": "Danny Haiphong with Scott Ritter & Larry Johnson on nuclear escalations. \n\n#Trump #Russia #Putin \n\nwww.youtube.com/live/EYcUHzl...",
+      "author": "basil45.bsky.social",
+      "author_display_name": "Basil",
+      "created_at": "2025-08-06T02:53:13.533Z",
+      "hashtags": "['#Russia' '#Trump' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:55:03.750210",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:55:10.007000",
+      "text_length": 130,
+      "text_cleaned_length": 72,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp7npk6rc2z",
+      "text": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "text_cleaned": "",
+      "text_preview": "#Trump\n#Epstein \n#EpsteinFiles \n#EpsteinCoverUp\n#EpsteinTrumpFiles\n#ReleaseTheEpsteinFiles",
+      "author": "antimaggotzone.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T02:50:29.586Z",
+      "hashtags": "['#EpsteinFiles' '#ReleaseTheEpsteinFiles' '#Epstein' '#Trump'\n '#EpsteinCoverUp' '#EpsteinTrumpFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 5,
+        "reposts": 3,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:55:03.750236",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:55:10.007000",
+      "text_length": 90,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 11.5
+    },
+    {
+      "post_id": "3lvp7qz2ocfr2",
+      "text": "South Park wins again.\n#trump #SouthPark #ice",
+      "text_cleaned": "South Park wins again.",
+      "text_preview": "South Park wins again.\n#trump #SouthPark #ice",
+      "author": "kurtsh.mastodon.social.ap.brid.gy",
+      "author_display_name": "kurtsh",
+      "created_at": "2025-08-06T02:52:05.000Z",
+      "hashtags": "['#ice' '#trump' '#SouthPark']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:55:03.750225",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:55:10.007000",
+      "text_length": 45,
+      "text_cleaned_length": 22,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvp7qojhm22o",
+      "text": "South Park wins again.\n#trump #SouthPark #ice",
+      "text_cleaned": "South Park wins again.",
+      "text_preview": "South Park wins again.\n#trump #SouthPark #ice",
+      "author": "kurtsh.bsky.social",
+      "author_display_name": "kurtsh",
+      "created_at": "2025-08-06T02:52:09.029560Z",
+      "hashtags": "['#ice' '#trump' '#SouthPark']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T02:55:03.750217",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 02:55:10.007000",
+      "text_length": 45,
+      "text_cleaned_length": 22,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
