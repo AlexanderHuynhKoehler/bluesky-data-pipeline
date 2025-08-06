@@ -1,0 +1,446 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_120359",
+    "post_count": 16,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 11:55:10.008000",
+    "latest_received_at": "2025-08-06 12:00:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvq63722m22w",
+      "text": "\ud83d\udcfb\ud83c\uddfa\ud83c\uddf8 Les d\u00e9mocrates ont-ils raison de s\u2019opposer au #gerrymandering au #Texas ? \nPeuvent-ils emp\u00eacher l\u2019adoption d\u2019une nouvelle carte \u00e9lectorale voulue par le #GOP et #Trump ?\nR\u00e9ponses dans ma chronique #EtatsUnis hier au 15-18 avec @hugolavoie.bsky.social \n\nici.radio-canada.ca/ohdio/premie...",
+      "text_cleaned": "\ud83d\udcfb\ud83c\uddfa\ud83c\uddf8 Les d\u00e9mocrates ont-ils raison de s\u2019opposer au au ? Peuvent-ils emp\u00eacher l\u2019adoption d\u2019une nouvelle carte \u00e9lectorale voulue par le et ? R\u00e9ponses dans ma chronique hier au 15-18 avec .bsky.social ici.radio-canada.ca/ohdio/premie...",
+      "text_preview": "\ud83d\udcfb\ud83c\uddfa\ud83c\uddf8 Les d\u00e9mocrates ont-ils raison de s\u2019opposer au #gerrymandering au #Texas ? \nPeuvent-ils emp\u00eacher l\u2019adoption d\u2019une nouvelle carte \u00e9lectorale voulue par le #GOP et #Trump ?\nR\u00e9ponses dans ma chronique...",
+      "author": "jtourreille.bsky.social",
+      "author_display_name": "Julien Tourreille, Ph.D.",
+      "created_at": "2025-08-06T11:54:54.311Z",
+      "hashtags": "['#EtatsUnis' '#Texas' '#Trump' '#GOP' '#gerrymandering']",
+      "mentions": "['@hugolavoie.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:00:04.473329",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:00:10.007000",
+      "text_length": 292,
+      "text_cleaned_length": 232,
+      "hashtag_count": 5,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvq62hykyk2g",
+      "text": "Wenn #Journalisten und das #demokratische Establishment ihren Job gemacht h\u00e4tten, w\u00e4re Donald #Trump wom\u00f6glich nicht noch einmal Pr\u00e4sident geworden. Dies zu lesen, stimmt mich sehr traurig bis w\u00fctend, da ich deutliche Parallelen zu Deutschland sehe. www.sueddeutsche.de/kultur/trump...",
+      "text_cleaned": "Wenn und das Establishment ihren Job gemacht h\u00e4tten, w\u00e4re Donald wom\u00f6glich nicht noch einmal Pr\u00e4sident geworden. Dies zu lesen, stimmt mich sehr traurig bis w\u00fctend, da ich deutliche Parallelen zu Deutschland sehe.",
+      "text_preview": "Wenn #Journalisten und das #demokratische Establishment ihren Job gemacht h\u00e4tten, w\u00e4re Donald #Trump wom\u00f6glich nicht noch einmal Pr\u00e4sident geworden. Dies zu lesen, stimmt mich sehr traurig bis w\u00fctend,...",
+      "author": "alterskompetenz.bsky.social",
+      "author_display_name": "Alterskompetenz.info",
+      "created_at": "2025-08-06T11:54:30.147Z",
+      "hashtags": "['#Journalisten' '#Trump' '#demokratische']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:00:04.473349",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:00:10.007000",
+      "text_length": 285,
+      "text_cleaned_length": 213,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6a3o6cc2f",
+      "text": "** #TRUMP #SCALPTEAM6 **\n\nOn 7 November 2015 #Trump was on #SNL in a skit called Scalp Team 6.  I'm attempting to determine the scalp path based upon the signs.  They end at La Petite Pause.  Paws?  Looks like a robot arm, stapes piston or??? \n\nJeeze, Y myself? \ud83d\ude16\n\n#decipheringtrump",
+      "text_cleaned": "** ** On 7 November 2015 was on in a skit called Scalp Team 6. I'm attempting to determine the scalp path based upon the signs. They end at La Petite Pause. Paws? Looks like a robot arm, stapes piston or??? Jeeze, Y myself? \ud83d\ude16",
+      "text_preview": "** #TRUMP #SCALPTEAM6 **\n\nOn 7 November 2015 #Trump was on #SNL in a skit called Scalp Team 6.  I'm attempting to determine the scalp path based upon the signs.  They end at La Petite Pause.  Paws?  L...",
+      "author": "sonofnone.bsky.social",
+      "author_display_name": "Son of None",
+      "created_at": "2025-08-06T11:57:38.493Z",
+      "hashtags": "['#TRUMP' '#SNL' '#decipheringtrump' '#SCALPTEAM6' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:00:04.473281",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:00:10.007000",
+      "text_length": 282,
+      "text_cleaned_length": 225,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq64heebr2q",
+      "text": "\n#Artillery   #Conflict   #Defense   #Invasion   #Kremlin   #M777   #Military   #Missile Strikes   #NATO   #Peace Talks   #Pentagon   #Putin   #Russian economy   #Sanctions   #State Department   #Steve Witkoff   #Trump   #Ukraine   #Ukraine War   #War Economy",
+      "text_cleaned": "Strikes Talks economy Department Witkoff War Economy",
+      "text_preview": "\n#Artillery   #Conflict   #Defense   #Invasion   #Kremlin   #M777   #Military   #Missile Strikes   #NATO   #Peace Talks   #Pentagon   #Putin   #Russian economy   #Sanctions   #State Department   #Stev...",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T11:55:56.999482+00:00",
+      "hashtags": "['#Ukraine' '#Military' '#State' '#Conflict' '#Steve' '#War' '#Defense'\n '#Trump' '#Kremlin' '#Peace' '#Russian' '#Putin' '#M777' '#Sanctions'\n '#Pentagon' '#NATO' '#Invasion' '#Artillery' '#Missile']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:00:04.473298",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:00:10.007000",
+      "text_length": 259,
+      "text_cleaned_length": 52,
+      "hashtag_count": 19,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6aa5fck2u",
+      "text": "Federal agencies stepped up arrests in #D.C. at Trump\u2019s order. Now #Trump threatens takeover of city after #DOGE worker was attacked.  \nVia WA Post",
+      "text_cleaned": "Federal agencies stepped up arrests in .C. at Trump\u2019s order. Now threatens takeover of city after worker was attacked. Via WA Post",
+      "text_preview": "Federal agencies stepped up arrests in #D.C. at Trump\u2019s order. Now #Trump threatens takeover of city after #DOGE worker was attacked.  \nVia WA Post",
+      "author": "velmaelrod.bsky.social",
+      "author_display_name": "Hannah of Bluesky (Justafan18twitter)",
+      "created_at": "2025-08-06T11:57:43.243Z",
+      "hashtags": "['#Trump' '#D' '#DOGE']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:00:04.473271",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:00:10.007000",
+      "text_length": 147,
+      "text_cleaned_length": 130,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq64l37es2r",
+      "text": "#Trump #Epstein #Maxwell #TrumpPedoFiles #ReleaseEpsteinFiles #TrumpEpsteinCoverUp",
+      "text_cleaned": "",
+      "text_preview": "#Trump #Epstein #Maxwell #TrumpPedoFiles #ReleaseEpsteinFiles #TrumpEpsteinCoverUp",
+      "author": "jeforse.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T11:55:40.487Z",
+      "hashtags": "['#Maxwell' '#TrumpPedoFiles' '#Epstein' '#TrumpEpsteinCoverUp' '#Trump'\n '#ReleaseEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:00:04.473307",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:00:10.007000",
+      "text_length": 82,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6b3ejfc2y",
+      "text": "\n#Conflict   #Poland   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Conflict   #Poland   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T11:58:32.193570+00:00",
+      "hashtags": "['#Poland' '#Ukraine' '#Conflict' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:00:04.473263",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:00:10.007000",
+      "text_length": 40,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq6372szc2f",
+      "text": "#Trump #Epstein #maxwell #coverup",
+      "text_cleaned": "",
+      "text_preview": "#Trump #Epstein #maxwell #coverup",
+      "author": "pi-qui.bsky.social",
+      "author_display_name": "Pi-Qui Djinn Djinni",
+      "created_at": "2025-08-06T11:54:54.335Z",
+      "hashtags": "['#Trump' '#Epstein' '#coverup' '#maxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T12:00:04.473315",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 12:00:10.007000",
+      "text_length": 33,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq5warwjz2d",
+      "text": "\ud83d\udd34 Importance: 72/100\n#news #Featured #Sport #games #trump #women\n\nDonald Trump has threatened to make every female athlete take a one-time sex test at the 2028 Olympics. The event is due to be staged in Los Angeles for the...",
+      "text_cleaned": "\ud83d\udd34 Importance: 72/100 Donald Trump has threatened to make every female athlete take a one-time sex test at the 2028 Olympics. The event is due to be staged in Los Angeles for the...",
+      "text_preview": "\ud83d\udd34 Importance: 72/100\n#news #Featured #Sport #games #trump #women\n\nDonald Trump has threatened to make every female athlete take a one-time sex test at the 2028 Olympics. The event is due to be staged ...",
+      "author": "newsflash.one",
+      "author_display_name": "News Flash",
+      "created_at": "2025-08-06T11:44:10+00:00",
+      "hashtags": "['#news' '#games' '#trump' '#Sport' '#women' '#Featured']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:55:03.725501",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:55:10.008000",
+      "text_length": 225,
+      "text_cleaned_length": 180,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq5y2ijo225",
+      "text": "The meeting between Putin and President Donald Trump\u2019s special envoy, Steve Witkoff, has concluded.\n\nThe talks lasted approximately three hours.\n\n#USA #Trump #Witkoff #Ukraine\ufe0f #UkraineRussiaWar #Russia #Putin",
+      "text_cleaned": "The meeting between Putin and President Donald Trump\u2019s special envoy, Steve Witkoff, has concluded. The talks lasted approximately three hours. \ufe0f",
+      "text_preview": "The meeting between Putin and President Donald Trump\u2019s special envoy, Steve Witkoff, has concluded.\n\nThe talks lasted approximately three hours.\n\n#USA #Trump #Witkoff #Ukraine\ufe0f #UkraineRussiaWar #Russ...",
+      "author": "ulfh3dnar.bsky.social",
+      "author_display_name": "Ulfh3dnar",
+      "created_at": "2025-08-06T11:53:08.880Z",
+      "hashtags": "['#Putin' '#UkraineRussiaWar' '#Ukraine' '#USA' '#Russia' '#Witkoff'\n '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:55:03.725379",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:55:10.008000",
+      "text_length": 209,
+      "text_cleaned_length": 145,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq5v6nmr62e",
+      "text": "\u00daLTIMA HORA | Trump amenaza con federalizar Washington D. C. y cita la anarqu\u00eda\n\nhttps://youtu.be/WhsFBspiYW4\n\n#ultimahora #trump #washington #dc #truthsocial #negociostv #noticias #actualidad #breakingnews #noticiaseconomicas #news #ultimahora #endirecto",
+      "text_cleaned": "\u00daLTIMA HORA | Trump amenaza con federalizar Washington D. C. y cita la anarqu\u00eda",
+      "text_preview": "\u00daLTIMA HORA | Trump amenaza con federalizar Washington D. C. y cita la anarqu\u00eda\n\nhttps://youtu.be/WhsFBspiYW4\n\n#ultimahora #trump #washington #dc #truthsocial #negociostv #noticias #actualidad #breaki...",
+      "author": "negociostv.bsky.social",
+      "author_display_name": "Negocios TV",
+      "created_at": "2025-08-06T11:51:32.422163Z",
+      "hashtags": "['#news' '#trump' '#noticias' '#breakingnews' '#endirecto' '#negociostv'\n '#dc' '#noticiaseconomicas' '#ultimahora' '#washington' '#truthsocial'\n '#actualidad']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:55:03.725406",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:55:10.008000",
+      "text_length": 255,
+      "text_cleaned_length": 79,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq5wcgmfc2y",
+      "text": "Right? Get your priorities straight. Follow #crimsonbay now and forget the #epsteinfiles\nwww.kickstarter.com/projects/red...\n\n#epstein #trump is a #pedo #familyguy #brian #griffin #woof #cartoons #meme #fox",
+      "text_cleaned": "Right? Get your priorities straight. Follow now and forget the is a",
+      "text_preview": "Right? Get your priorities straight. Follow #crimsonbay now and forget the #epsteinfiles\nwww.kickstarter.com/projects/red...\n\n#epstein #trump is a #pedo #familyguy #brian #griffin #woof #cartoons #mem...",
+      "author": "brunocatarino.bsky.social",
+      "author_display_name": "Bruno Catarino - CRIMSON BAY: August 13th on KICKSTARTER",
+      "created_at": "2025-08-06T11:52:10.059Z",
+      "hashtags": "['#trump' '#crimsonbay' '#griffin' '#cartoons' '#epstein' '#woof' '#brian'\n '#epsteinfiles' '#familyguy' '#pedo' '#fox' '#meme']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:55:03.725396",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:55:10.008000",
+      "text_length": 206,
+      "text_cleaned_length": 67,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq5zybmbc2r",
+      "text": "I'm just awed that #Republicans have any time left to devote to #Biden when they're so busy molesting children. \ud83e\udd14",
+      "text_cleaned": "I'm just awed that have any time left to devote to when they're so busy molesting children. \ud83e\udd14",
+      "text_preview": "I'm just awed that #Republicans have any time left to devote to #Biden when they're so busy molesting children. \ud83e\udd14",
+      "author": "flufffighter.bsky.social",
+      "author_display_name": "Regnad Kcin",
+      "created_at": "2025-08-06T11:54:13.666Z",
+      "hashtags": "['#Biden' '#Republicans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:55:03.725557",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:55:10.008000",
+      "text_length": 113,
+      "text_cleaned_length": 93,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq5wumc5k2h",
+      "text": "\n#Putin   #Steve Witkoff   #Trump   #Ukraine",
+      "text_cleaned": "Witkoff",
+      "text_preview": "\n#Putin   #Steve Witkoff   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T11:52:49.568954+00:00",
+      "hashtags": "['#Ukraine' '#Putin' '#Steve' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:55:03.725385",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:55:10.008000",
+      "text_length": 44,
+      "text_cleaned_length": 7,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq5z4yvaw2e",
+      "text": "\n#Casualties   #Conflict   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Casualties   #Conflict   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-06T11:54:05.464297+00:00",
+      "hashtags": "['#Conflict' '#Ukraine' '#Trump' '#Casualties']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:55:03.725370",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:55:10.008000",
+      "text_length": 44,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvq62ms43c25",
+      "text": "EPSTEIN \n#meme #trump #resist #epstein #pedophile #NoKings",
+      "text_cleaned": "EPSTEIN",
+      "text_preview": "EPSTEIN \n#meme #trump #resist #epstein #pedophile #NoKings",
+      "author": "diveden.bsky.social",
+      "author_display_name": "Diveden",
+      "created_at": "2025-08-06T11:54:35.170Z",
+      "hashtags": "['#trump' '#epstein' '#pedophile' '#NoKings' '#resist' '#meme']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T11:55:03.725364",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 11:55:10.008000",
+      "text_length": 58,
+      "text_cleaned_length": 7,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
