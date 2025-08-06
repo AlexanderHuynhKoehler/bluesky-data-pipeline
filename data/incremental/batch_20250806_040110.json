@@ -1,0 +1,419 @@
+{
+  "batch_info": {
+    "timestamp": "20250806_040110",
+    "post_count": 15,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-06 03:55:10.007000",
+    "latest_received_at": "2025-08-06 04:00:10.007000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lvpdiyoj4s2x",
+      "text": "\u7f8e\u570b #PPI \u771f\u6c92\u6709\u53cd\u6620\u6210\u672c\u4e0a\u6f32\u55ce\uff1f\n\n\u7b54\u6848\u662f\uff1a\u6709\u7684\u3002\n\n\u7f8e\u570b\u5225\u4ee5\u70ba\u5c07PPI\u7dad\u6301\u5728\u7279\u5b9a\u5340\u9593\u5167\u5c31\u6c92\u4e8b\u3002\u5ddd\u666e\u57f7\u653f\u671f\u9593\uff0cPPI\u53ef\u662f\u76f4\u63a5\u8e8d\u5347\uff0c\u6210\u70ba\u65b0\u8da8\u52e2\u958b\u59cb\uff0c\u4e26\u4e14\u4ee5\u5e73\u5747\u6bcf\u67080.311\u7684\u901f\u5ea6\u4e0a\u5347\u4e2d\u3002\n\n#\u7d93\u6fdf #\u8ca1\u7d93 #\u7f8e\u570b #\u6578\u64da\u5206\u6790 #AI #MathAI #\u6848\u4f8b #trump #\u5931\u696d #unemployment #economy #economywatch",
+      "text_cleaned": "\u7f8e\u570b \u771f\u6c92\u6709\u53cd\u6620\u6210\u672c\u4e0a\u6f32\u55ce\uff1f \u7b54\u6848\u662f\uff1a\u6709\u7684\u3002 \u7f8e\u570b\u5225\u4ee5\u70ba\u5c07PPI\u7dad\u6301\u5728\u7279\u5b9a\u5340\u9593\u5167\u5c31\u6c92\u4e8b\u3002\u5ddd\u666e\u57f7\u653f\u671f\u9593\uff0cPPI\u53ef\u662f\u76f4\u63a5\u8e8d\u5347\uff0c\u6210\u70ba\u65b0\u8da8\u52e2\u958b\u59cb\uff0c\u4e26\u4e14\u4ee5\u5e73\u5747\u6bcf\u67080.311\u7684\u901f\u5ea6\u4e0a\u5347\u4e2d\u3002",
+      "text_preview": "\u7f8e\u570b #PPI \u771f\u6c92\u6709\u53cd\u6620\u6210\u672c\u4e0a\u6f32\u55ce\uff1f\n\n\u7b54\u6848\u662f\uff1a\u6709\u7684\u3002\n\n\u7f8e\u570b\u5225\u4ee5\u70ba\u5c07PPI\u7dad\u6301\u5728\u7279\u5b9a\u5340\u9593\u5167\u5c31\u6c92\u4e8b\u3002\u5ddd\u666e\u57f7\u653f\u671f\u9593\uff0cPPI\u53ef\u662f\u76f4\u63a5\u8e8d\u5347\uff0c\u6210\u70ba\u65b0\u8da8\u52e2\u958b\u59cb\uff0c\u4e26\u4e14\u4ee5\u5e73\u5747\u6bcf\u67080.311\u7684\u901f\u5ea6\u4e0a\u5347\u4e2d\u3002\n\n#\u7d93\u6fdf #\u8ca1\u7d93 #\u7f8e\u570b #\u6578\u64da\u5206\u6790 #AI #MathAI #\u6848\u4f8b #trump #\u5931\u696d #unemployment #economy #economywatch",
+      "author": "keylee.bsky.social",
+      "author_display_name": "\u6211\u7684\u6578\u64da\u5206\u6790\u751f\u6d3b",
+      "created_at": "2025-08-06T03:59:26.327Z",
+      "hashtags": "['#\u5931\u696d' '#unemployment' '#\u6578\u64da\u5206\u6790' '#economy' '#\u7d93\u6fdf' '#\u6848\u4f8b' '#PPI' '#\u8ca1\u7d93' '#AI'\n '#trump' '#economywatch' '#MathAI' '#\u7f8e\u570b']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:00:04.097308",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:00:10.007000",
+      "text_length": 178,
+      "text_cleaned_length": 88,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpdhmz7b225",
+      "text": "\ud83c\udde8\ud83c\udde6 Don't worry.  The #mRNA folks will contribute to the \ud83c\udf0e and discover how amazing it is to live in countries that don't pander to #Billionaires while denying basic health and social services to the majority of their people.\nEverybody wants great scientists except for #Trump and #MAGA.\n\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "text_cleaned": "\ud83c\udde8\ud83c\udde6 Don't worry. The folks will contribute to the \ud83c\udf0e and discover how amazing it is to live in countries that don't pander to while denying basic health and social services to the majority of their people. Everybody wants great scientists except for and . \ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "text_preview": "\ud83c\udde8\ud83c\udde6 Don't worry.  The #mRNA folks will contribute to the \ud83c\udf0e and discover how amazing it is to live in countries that don't pander to #Billionaires while denying basic health and social services to the m...",
+      "author": "kathleenwester.bsky.social",
+      "author_display_name": "Kathleen Westergaard \ud83c\udde8\ud83c\udde6 MSW, RSW",
+      "created_at": "2025-08-06T03:58:40.588Z",
+      "hashtags": "['#mRNA' '#Trump' '#Billionaires' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:00:04.097569",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:00:10.007000",
+      "text_length": 301,
+      "text_cleaned_length": 268,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpddrwxt22h",
+      "text": "It gives me great satisfaction that the #fascist fat bastard will be going straight to #hell (if it exists) when he is dead. Either way we all win when the day comes and the worms (if they have the stomach for it) start to eat #Trump",
+      "text_cleaned": "It gives me great satisfaction that the fat bastard will be going straight to (if it exists) when he is dead. Either way we all win when the day comes and the worms (if they have the stomach for it) start to eat",
+      "text_preview": "It gives me great satisfaction that the #fascist fat bastard will be going straight to #hell (if it exists) when he is dead. Either way we all win when the day comes and the worms (if they have the st...",
+      "author": "nerdynamite.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-06T03:56:31.541Z",
+      "hashtags": "['#hell' '#fascist' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:00:04.097587",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:00:10.007000",
+      "text_length": 233,
+      "text_cleaned_length": 211,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpdd6wj4k2g",
+      "text": "Donald J Trump rapes children. \nHe wasn't shot\nHe didn't win\nHe isn't sane \n#trump #Epstein #CouchFucker\nwww.redbubble.com/i/hat/He-was...",
+      "text_cleaned": "Donald J Trump rapes children. He wasn't shot He didn't win He isn't sane",
+      "text_preview": "Donald J Trump rapes children. \nHe wasn't shot\nHe didn't win\nHe isn't sane \n#trump #Epstein #CouchFucker\nwww.redbubble.com/i/hat/He-was...",
+      "author": "aaronfrizzle.bsky.social",
+      "author_display_name": "A-Aron",
+      "created_at": "2025-08-06T03:56:11.603Z",
+      "hashtags": "['#Epstein' '#trump' '#CouchFucker']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:00:04.097593",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:00:10.007000",
+      "text_length": 138,
+      "text_cleaned_length": 73,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpdi65pyk2d",
+      "text": "#Trump Has a very very AND I Do Mean very Low IQ... He got his nerves who in the hell he think he is. #TrumpIsUnfitForOffice",
+      "text_cleaned": "Has a very very AND I Do Mean very Low IQ... He got his nerves who in the hell he think he is.",
+      "text_preview": "#Trump Has a very very AND I Do Mean very Low IQ... He got his nerves who in the hell he think he is. #TrumpIsUnfitForOffice",
+      "author": "victoria58.bsky.social",
+      "author_display_name": "Victoria",
+      "created_at": "2025-08-06T03:58:58.563Z",
+      "hashtags": "['#TrumpIsUnfitForOffice' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:00:04.097549",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:00:10.007000",
+      "text_length": 124,
+      "text_cleaned_length": 94,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpdhfugqv2y",
+      "text": "\n#Krieg   #liveblog   #Regierung   #Russland   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Krieg   #liveblog   #Regierung   #Russland   #Trump   #Ukraine",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T03:58:53.849195+00:00",
+      "hashtags": "['#Russland' '#Trump' '#Regierung' '#Ukraine' '#Krieg' '#liveblog']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:00:04.097557",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:00:10.007000",
+      "text_length": 64,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpdgpp6pq2a",
+      "text": "\n#Trump   #Welthandel",
+      "text_cleaned": "",
+      "text_preview": "\n#Trump   #Welthandel",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T03:58:30.622952+00:00",
+      "hashtags": "['#Welthandel' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:00:04.097575",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:00:10.007000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpdftcfib2u",
+      "text": "\n#Trump   #Welthandel",
+      "text_cleaned": "",
+      "text_preview": "\n#Trump   #Welthandel",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-06T03:58:00.826684+00:00",
+      "hashtags": "['#Welthandel' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T04:00:04.097581",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 04:00:10.007000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpd3uvdsc25",
+      "text": "\ud83c\udde8\ud83c\udde6 All #mRNA scientists will be offered jobs in countries that still believe in science.  Then they'll sell the cures back to #America for a reasonable price. Of course, since #Trump and his cronies \"hold all the cards,\" they may not be included, for the good of humanity and women everywhere\n\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "text_cleaned": "\ud83c\udde8\ud83c\udde6 All scientists will be offered jobs in countries that still believe in science. Then they'll sell the cures back to for a reasonable price. Of course, since and his cronies \"hold all the cards,\" they may not be included, for the good of humanity and women everywhere \ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "text_preview": "\ud83c\udde8\ud83c\udde6 All #mRNA scientists will be offered jobs in countries that still believe in science.  Then they'll sell the cures back to #America for a reasonable price. Of course, since #Trump and his cronies \"...",
+      "author": "kathleenwester.bsky.social",
+      "author_display_name": "Kathleen Westergaard \ud83c\udde8\ud83c\udde6 MSW, RSW",
+      "created_at": "2025-08-06T03:52:06.197Z",
+      "hashtags": "['#mRNA' '#Trump' '#America']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:55:03.396050",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:55:10.007000",
+      "text_length": 307,
+      "text_cleaned_length": 284,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpd7gmc3k2u",
+      "text": "One of Trump\u2019s tells is his talk of the \u201cRussia #hoax.\u201d When that phrase passes his lips, it\u2019s a sign that he's is agitated about something.\nrelated to #Epstein have dominated headlines, #Trump has been talking often about \u201cthe #Russia Russia Russia hoax &many other hoaxes too,\u201d Via The Atlantic",
+      "text_cleaned": "One of Trump\u2019s tells is his talk of the \u201cRussia .\u201d When that phrase passes his lips, it\u2019s a sign that he's is agitated about something. related to have dominated headlines, has been talking often about \u201cthe Russia Russia hoax &many other hoaxes too,\u201d Via The Atlantic",
+      "text_preview": "One of Trump\u2019s tells is his talk of the \u201cRussia #hoax.\u201d When that phrase passes his lips, it\u2019s a sign that he's is agitated about something.\nrelated to #Epstein have dominated headlines, #Trump has be...",
+      "author": "velmaelrod.bsky.social",
+      "author_display_name": "Hannah of Bluesky (Justafan18twitter)",
+      "created_at": "2025-08-06T03:54:05.439Z",
+      "hashtags": "['#Russia' '#Epstein' '#Trump' '#hoax']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:55:03.395999",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:55:10.007000",
+      "text_length": 296,
+      "text_cleaned_length": 267,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpcyduofs2a",
+      "text": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/R1ihUI0Q",
+      "text_cleaned": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi asking for a grand jury inquiry in... .ai",
+      "text_preview": "Officials Move to Open Inquiry on Trump\u2019s \u2018Russia Hoax\u2019 Grievance Such an investigation would have to overcome a number of legal and practical hurdles, but an order by Attorney General Pam Bondi askin...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-06T03:50:07.511Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:55:03.396114",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:55:10.007000",
+      "text_length": 279,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpd4szmak2e",
+      "text": "\u2014> #TheTonightShow \u2981 #JimmyFallon <\u2014\n\n#Trump Wants to Put Nukes on the Moon\n\nTakes a Worrying Walk on the #WhiteHouse Roof\n\n#FallonTonight #Comedy #Humour #Humor #MAGA\n#Pol #Politics #GeoPolitics #WorldNews #News #TDS\n#AusPol #CdnPoli #EUpol #NZpol #UKpol #USpol\nyoutu.be/YypE9PhZh8A",
+      "text_cleaned": "\u2014> \u2981 <\u2014 Wants to Put Nukes on the Moon Takes a Worrying Walk on the Roof youtu.be/YypE9PhZh8A",
+      "text_preview": "\u2014> #TheTonightShow \u2981 #JimmyFallon <\u2014\n\n#Trump Wants to Put Nukes on the Moon\n\nTakes a Worrying Walk on the #WhiteHouse Roof\n\n#FallonTonight #Comedy #Humour #Humor #MAGA\n#Pol #Politics #GeoPolitics #Wor...",
+      "author": "b7bird.bsky.social",
+      "author_display_name": "\ud83e\udd8b\ud83e\udd8b",
+      "created_at": "2025-08-06T03:52:37.793Z",
+      "hashtags": "['#Comedy' '#CdnPoli' '#WhiteHouse' '#Politics' '#TDS' '#TheTonightShow'\n '#WorldNews' '#NZpol' '#USpol' '#Trump' '#AusPol' '#Humor' '#MAGA'\n '#EUpol' '#FallonTonight' '#Pol' '#News' '#Humour' '#GeoPolitics'\n '#JimmyFallon' '#UKpol']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 4,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:55:03.396033",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:55:10.007000",
+      "text_length": 283,
+      "text_cleaned_length": 93,
+      "hashtag_count": 21,
+      "mention_count": 0,
+      "total_engagement": 7.0
+    },
+    {
+      "post_id": "3lvpd6rrdcs2a",
+      "text": "#Internacionales Gobierno Trump publica lista de jurisdicciones santuario de migrantes que tiene en la mira       #Trump #ICE #SantuarioDeMigrantes #Inmigrantes #EstadosUnidos \n\ud83d\udc47 enter504.com/trump-y-la-n...",
+      "text_cleaned": "Gobierno Trump publica lista de jurisdicciones santuario de migrantes que tiene en la mira \ud83d\udc47 enter504.com/trump-y-la-n...",
+      "text_preview": "#Internacionales Gobierno Trump publica lista de jurisdicciones santuario de migrantes que tiene en la mira       #Trump #ICE #SantuarioDeMigrantes #Inmigrantes #EstadosUnidos \n\ud83d\udc47 enter504.com/trump-y-...",
+      "author": "enter504.bsky.social",
+      "author_display_name": "Enter504 Peri\u00f3dico Digital",
+      "created_at": "2025-08-06T03:53:43.584Z",
+      "hashtags": "['#ICE' '#SantuarioDeMigrantes' '#Trump' '#EstadosUnidos' '#Inmigrantes'\n '#Internacionales']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:55:03.396016",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:55:10.007000",
+      "text_length": 207,
+      "text_cleaned_length": 121,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvpczda5q22j",
+      "text": "Let\u2019s do it! Release the files! #EpsteinFiles #TrumpEpsteinFiles #Trump #PedoFiles #Maxwell #CoverUp #Cheater #Collusion #Emoluments #MAGA",
+      "text_cleaned": "Let\u2019s do it! Release the files!",
+      "text_preview": "Let\u2019s do it! Release the files! #EpsteinFiles #TrumpEpsteinFiles #Trump #PedoFiles #Maxwell #CoverUp #Cheater #Collusion #Emoluments #MAGA",
+      "author": "nursepageywagey.bsky.social",
+      "author_display_name": "Page",
+      "created_at": "2025-08-06T03:50:40.567Z",
+      "hashtags": "['#Collusion' '#Maxwell' '#CoverUp' '#Trump' '#MAGA' '#Cheater'\n '#EpsteinFiles' '#PedoFiles' '#Emoluments' '#TrumpEpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:55:03.396089",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:55:10.007000",
+      "text_length": 138,
+      "text_cleaned_length": 31,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvpd25bxek2o",
+      "text": "A trip down the \"it was rigged\" memory lane...  #trump #rigged",
+      "text_cleaned": "A trip down the \"it was rigged\" memory lane...",
+      "text_preview": "A trip down the \"it was rigged\" memory lane...  #trump #rigged",
+      "author": "jmenard99.bsky.social",
+      "author_display_name": "Joey M",
+      "created_at": "2025-08-06T03:51:07.879Z",
+      "hashtags": "['#trump' '#rigged']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-06T03:55:03.396067",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-06 03:55:10.007000",
+      "text_length": 62,
+      "text_cleaned_length": 46,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 4.0
+    }
+  ]
+}
