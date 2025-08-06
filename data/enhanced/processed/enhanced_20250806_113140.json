@@ -1,0 +1,221 @@
+{
+  "enhancement_info": {
+    "timestamp": "20250806_113140",
+    "original_batch": "batch_20250804_045111.json",
+    "enhanced_post_count": 6,
+    "ml_processing_complete": true,
+    "college_cluster_processing": {
+      "sentiment_coverage": 6,
+      "emotion_coverage": 6,
+      "processing_speed": 74.8624402660112,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    "databricks_status": "waiting_for_import"
+  },
+  "enhanced_posts": [
+    {
+      "post_id": "3lvkfb2eici2s",
+      "text": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/VEzYaEiv",
+      "text_cleaned": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... .ai",
+      "text_preview": "Trump Pleads Not Guilty to 34 Felony Counts: The Legal, Political, and Historical Implications Setting the Stage: An Unprecedented Moment in U.S. History Donald Trump\u2019s plea of not guilty.... @cosmicm...",
+      "author": "cosmicmeta.bsky.social",
+      "author_display_name": "Cosmic Meta Digital",
+      "created_at": "2025-08-04T04:47:28.188Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:50:03.590808",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:50:10.008000",
+      "text_length": 238,
+      "text_cleaned_length": 195,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.0012844115495681762,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "sadness",
+      "emotion_confidence": 0.64934241771698,
+      "ml_processed_at": "2025-08-06 11:31:40.081907",
+      "processing_speed": 74.8624402660112,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkfcaovgs2w",
+      "text": "Trump Has Now Spent One Third Of His Presidency Visiting His Own Properties At Taxpayers Expense!\n\n#USA #America #USTaxpayers\n\n#Trump #Republicans #TrumpIsUnfitForOffice #TrumpIsEnrichingHimself #TrumpIsAWannabeDictator #RepublicansAreDestroyingAmerica \n\nyoutube.com/watch?v=_3Gv...",
+      "text_cleaned": "Trump Has Now Spent One Third Of His Presidency Visiting His Own Properties At Taxpayers Expense! youtube.com/watch?v=_3Gv...",
+      "text_preview": "Trump Has Now Spent One Third Of His Presidency Visiting His Own Properties At Taxpayers Expense!\n\n#USA #America #USTaxpayers\n\n#Trump #Republicans #TrumpIsUnfitForOffice #TrumpIsEnrichingHimself #Trum...",
+      "author": "matteroffactfinder.bsky.social",
+      "author_display_name": "Cheryl Hardy \ud83c\uddec\ud83c\udde7",
+      "created_at": "2025-08-04T04:48:08.687Z",
+      "hashtags": "['#TrumpIsAWannabeDictator' '#USA' '#TrumpIsUnfitForOffice'\n '#TrumpIsEnrichingHimself' '#Trump' '#Republicans' '#USTaxpayers'\n '#RepublicansAreDestroyingAmerica' '#America']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:50:03.590797",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:50:10.008000",
+      "text_length": 282,
+      "text_cleaned_length": 125,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.1725255846977234,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "surprise",
+      "emotion_confidence": 0.5854264497756958,
+      "ml_processed_at": "2025-08-06 11:31:40.081907",
+      "processing_speed": 74.8624402660112,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkff4fer22k",
+      "text": "\ud83c\udde8\ud83c\udde6 Everyone needs to share this.\nThese folks are paying a huge price to stand up against #Trump taking complete control of #America.\n\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "text_cleaned": "\ud83c\udde8\ud83c\udde6 Everyone needs to share this. These folks are paying a huge price to stand up against taking complete control of . \ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "text_preview": "\ud83c\udde8\ud83c\udde6 Everyone needs to share this.\nThese folks are paying a huge price to stand up against #Trump taking complete control of #America.\n\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "author": "kathleenwester.bsky.social",
+      "author_display_name": "Kathleen Westergaard \ud83c\udde8\ud83c\udde6 MSW, RSW",
+      "created_at": "2025-08-04T04:49:44.845Z",
+      "hashtags": "['#Trump' '#America']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:50:03.590781",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:50:10.008000",
+      "text_length": 147,
+      "text_cleaned_length": 132,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.4821663834154606,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.6926793456077576,
+      "ml_processed_at": "2025-08-06 11:31:40.081907",
+      "processing_speed": 74.8624402660112,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkfcx3c3e2b",
+      "text": "Trump HUMILIATES himself with INSANE announcement\n#Trump",
+      "text_cleaned": "Trump HUMILIATES himself with INSANE announcement",
+      "text_preview": "Trump HUMILIATES himself with INSANE announcement\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-04T04:48:30.488Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:50:03.590788",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:50:10.008000",
+      "text_length": 56,
+      "text_cleaned_length": 49,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.833126712590456,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "disgust",
+      "emotion_confidence": 0.3934503197669983,
+      "ml_processed_at": "2025-08-06 11:31:40.081907",
+      "processing_speed": 74.8624402660112,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkezorcg22f",
+      "text": "Isn\u2019t it wild that to read posts from our own presidents\u2014essentially public service announcements\u2014I have to scroll past MyPillow ads, sketchy dental gimmicks, and digital snake oil? If this isn\u2019t a race to the bottom, I honestly don\u2019t know what is.\n\n#trump #truthsocial",
+      "text_cleaned": "Isn\u2019t it wild that to read posts from our own presidents\u2014essentially public service announcements\u2014I have to scroll past MyPillow ads, sketchy dental gimmicks, and digital snake oil? If this isn\u2019t a race to the bottom, I honestly don\u2019t know what is.",
+      "text_preview": "Isn\u2019t it wild that to read posts from our own presidents\u2014essentially public service announcements\u2014I have to scroll past MyPillow ads, sketchy dental gimmicks, and digital snake oil? If this isn\u2019t a ra...",
+      "author": "sethben.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-04T04:43:21.455Z",
+      "hashtags": "['#truthsocial' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:45:03.358517",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:45:10.007000",
+      "text_length": 269,
+      "text_cleaned_length": 248,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.824061986990273,
+      "ml_sentiment_label": "negative",
+      "dominant_emotion": "surprise",
+      "emotion_confidence": 0.6492845416069031,
+      "ml_processed_at": "2025-08-06 11:31:40.081907",
+      "processing_speed": 74.8624402660112,
+      "processed_by": "continuous_sentiment_fixed"
+    },
+    {
+      "post_id": "3lvkexws42k2z",
+      "text": "What's your guess less or more than 6 months until we see this?\n#trump #TangerineTyrant",
+      "text_cleaned": "What's your guess less or more than 6 months until we see this?",
+      "text_preview": "What's your guess less or more than 6 months until we see this?\n#trump #TangerineTyrant",
+      "author": "wilfredbrimly.bsky.social",
+      "author_display_name": "Big Dill - Ask me about MS!",
+      "created_at": "2025-08-04T04:42:22.724Z",
+      "hashtags": "['#TangerineTyrant' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-04T04:45:03.358523",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-04 04:45:10.007000",
+      "text_length": 87,
+      "text_cleaned_length": 63,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0,
+      "ml_sentiment_score": -0.007670493051409721,
+      "ml_sentiment_label": "neutral",
+      "dominant_emotion": "neutral",
+      "emotion_confidence": 0.8886555433273315,
+      "ml_processed_at": "2025-08-06 11:31:40.081907",
+      "processing_speed": 74.8624402660112,
+      "processed_by": "continuous_sentiment_fixed"
+    }
+  ]
+}
