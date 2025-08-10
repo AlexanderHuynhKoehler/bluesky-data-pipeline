@@ -1,0 +1,1040 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_144054",
+    "post_count": 38,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 14:35:10.011000",
+    "latest_received_at": "2025-08-10 14:40:10.012000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2j3ii7mkf2",
+      "text": "4/7.\nThe attack on Lip Bu Tan comes as #Trump\u2019s policy toward China and its tech sector shifts constantly. It\u2019s easier to smear a man than examine his record. Tan, 65, is a longtime American citizen admired in Silicon Valley for his soft-spoken, authoritative dignity. I\u2019ve known him for nearly [\u2026]",
+      "text_cleaned": "4/7. The attack on Lip Bu Tan comes as \u2019s policy toward China and its tech sector shifts constantly. It\u2019s easier to smear a man than examine his record. Tan, 65, is a longtime American citizen admired in Silicon Valley for his soft-spoken, authoritative dignity. I\u2019ve known him for nearly [\u2026]",
+      "text_preview": "4/7.\nThe attack on Lip Bu Tan comes as #Trump\u2019s policy toward China and its tech sector shifts constantly. It\u2019s easier to smear a man than examine his record. Tan, 65, is a longtime American citizen a...",
+      "author": "raymondpert.mastodon.cloud.ap.brid.gy",
+      "author_display_name": "R. Scott Pert",
+      "created_at": "2025-08-10T14:37:56.000Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023883",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 298,
+      "text_cleaned_length": 292,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2j2sj7pc2o",
+      "text": "In this video we see the district that Boujee ghetto rat Jasmine Crockett is in charge of. Clearly she is taking care of her peeps.\nyoutube.com/shorts/IRS_u...\n#DemocratsHateAmerica #trump #musk #doge #whitehouse #politics #republican #eatabagofdicks",
+      "text_cleaned": "In this video we see the district that Boujee ghetto rat Jasmine Crockett is in charge of. Clearly she is taking care of her peeps. youtube.com/shorts/IRS_u...",
+      "text_preview": "In this video we see the district that Boujee ghetto rat Jasmine Crockett is in charge of. Clearly she is taking care of her peeps.\nyoutube.com/shorts/IRS_u...\n#DemocratsHateAmerica #trump #musk #doge...",
+      "author": "pragmaticinc.bsky.social",
+      "author_display_name": "Pragmatic INC.",
+      "created_at": "2025-08-10T14:38:09.722Z",
+      "hashtags": "['#musk' '#republican' '#trump' '#eatabagofdicks' '#DemocratsHateAmerica'\n '#politics' '#doge' '#whitehouse']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023854",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 250,
+      "text_cleaned_length": 159,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2iznektw2x",
+      "text": "trump talks to putin in Alaska \n\u201c VLADIMIR,\nI JUST WANT TO SAY HOW MUCH I RESPECT YOU!\u201d\n#usa #us #uspol #USPolitics #trump #donaldtrump #gop #maga  #farright #democracy #humanrights #civilrights #fascist #fascism #fascists #nazi #trumpslump #justice #...\n\n\n\ud83d\udc49 Vote 'em Out!\n",
+      "text_cleaned": "trump talks to putin in Alaska \u201c VLADIMIR, I JUST WANT TO SAY HOW MUCH I RESPECT YOU!\u201d #... \ud83d\udc49 Vote 'em Out!",
+      "text_preview": "trump talks to putin in Alaska \n\u201c VLADIMIR,\nI JUST WANT TO SAY HOW MUCH I RESPECT YOU!\u201d\n#usa #us #uspol #USPolitics #trump #donaldtrump #gop #maga  #farright #democracy #humanrights #civilrights #fasc...",
+      "author": "cubanx.bsky.social",
+      "author_display_name": "CubanX",
+      "created_at": "2025-08-10T14:37:30.712647+00:00",
+      "hashtags": "['#civilrights' '#fascists' '#trumpslump' '#nazi' '#usa' '#fascist'\n '#fascism' '#trump' '#uspol' '#donaldtrump' '#democracy' '#gop'\n '#justice' '#humanrights' '#maga' '#farright' '#USPolitics' '#us']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023898",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 273,
+      "text_cleaned_length": 107,
+      "hashtag_count": 18,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2ivgpa5s2q",
+      "text": "**\n\nTrump\u2019s mass deportation campaign may lay waste to the Bill of Rights\n\n#resist #resistance #TheResistance #Fascist #project2025 #Trump #CivilWar #BirthRight #MarkoftheBeast #ImpeachTrump #MAGA #NoCryptoCurrency #BanChristianNationalists #BanTicToc \n\nwww.msnbc.com/opinion/msnb...",
+      "text_cleaned": "** Trump\u2019s mass deportation campaign may lay waste to the Bill of Rights",
+      "text_preview": "**\n\nTrump\u2019s mass deportation campaign may lay waste to the Bill of Rights\n\n#resist #resistance #TheResistance #Fascist #project2025 #Trump #CivilWar #BirthRight #MarkoftheBeast #ImpeachTrump #MAGA #No...",
+      "author": "truthsayer1947.bsky.social",
+      "author_display_name": "exposing_lies",
+      "created_at": "2025-08-10T14:35:09.563Z",
+      "hashtags": "['#resist' '#TheResistance' '#resistance' '#MAGA' '#NoCryptoCurrency'\n '#Fascist' '#CivilWar' '#MarkoftheBeast' '#BanTicToc'\n '#BanChristianNationalists' '#ImpeachTrump' '#BirthRight' '#project2025'\n '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023965",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 283,
+      "text_cleaned_length": 72,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2ixsw62k2k",
+      "text": "#heykids #goodmorning #goodafternoon #goodeven\u0131ng #happy #Trump #maga #today #fyf #fyp #viral #trending #news #breakingnews #viralnews #foryoupage #feed #discover #reels #shorts  #haveaday #standtogether #westand #bestrong #wegotthis",
+      "text_cleaned": "",
+      "text_preview": "#heykids #goodmorning #goodafternoon #goodeven\u0131ng #happy #Trump #maga #today #fyf #fyp #viral #trending #news #breakingnews #viralnews #foryoupage #feed #discover #reels #shorts  #haveaday #standtoget...",
+      "author": "nov2874.bsky.social",
+      "author_display_name": "chillicotheohio740",
+      "created_at": "2025-08-10T14:36:29.483Z",
+      "hashtags": "['#heykids' '#westand' '#Trump' '#goodeven\u0131ng' '#feed' '#shorts' '#reels'\n '#wegotthis' '#haveaday' '#viralnews' '#fyf' '#standtogether' '#fyp'\n '#viral' '#bestrong' '#goodafternoon' '#today' '#maga' '#breakingnews'\n '#trending' '#discover' '#happy' '#foryoupage' '#goodmorning' '#news']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023912",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 233,
+      "text_cleaned_length": 0,
+      "hashtag_count": 25,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2j2hv4vc2l",
+      "text": "Because the #USA is such nice #social place to be youtu.be/v99W179HRPo?... #Capitalism destroys #care #compassion #health #Wallstreet #Trump #homeless The #American #nightmare",
+      "text_cleaned": "Because the is such nice place to be youtu.be/v99W179HRPo?... destroys The",
+      "text_preview": "Because the #USA is such nice #social place to be youtu.be/v99W179HRPo?... #Capitalism destroys #care #compassion #health #Wallstreet #Trump #homeless The #American #nightmare",
+      "author": "pi-qui.bsky.social",
+      "author_display_name": "Pi-Qui Djinn Djinni",
+      "created_at": "2025-08-10T14:37:58.577Z",
+      "hashtags": "['#Wallstreet' '#American' '#compassion' '#health' '#social' '#care'\n '#Capitalism' '#nightmare' '#USA' '#Trump' '#homeless']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023874",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 175,
+      "text_cleaned_length": 74,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2j3ouvplw2",
+      "text": "Behold! The greatest piece of political art ever created. :)\n#trump #putin #alaska #meeting #orange #chamberlain #nafo",
+      "text_cleaned": "Behold! The greatest piece of political art ever created. :)",
+      "text_preview": "Behold! The greatest piece of political art ever created. :)\n#trump #putin #alaska #meeting #orange #chamberlain #nafo",
+      "author": "gimulnautti.mastodon.green.ap.brid.gy",
+      "author_display_name": "Toni Aittoniemi",
+      "created_at": "2025-08-10T14:38:04.000Z",
+      "hashtags": "['#putin' '#meeting' '#alaska' '#chamberlain' '#trump' '#orange' '#nafo']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023866",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 118,
+      "text_cleaned_length": 60,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2j3wttsk2i",
+      "text": "#Trump: #MAGA :: #Hitler: #Nazi  The dictator's and the cult's favorite analogy.  Does this tell you anything, #America?",
+      "text_cleaned": ": :: : The dictator's and the cult's favorite analogy. Does this tell you anything, ?",
+      "text_preview": "#Trump: #MAGA :: #Hitler: #Nazi  The dictator's and the cult's favorite analogy.  Does this tell you anything, #America?",
+      "author": "flufffighter.bsky.social",
+      "author_display_name": "Regnad Kcin",
+      "created_at": "2025-08-10T14:38:47.819Z",
+      "hashtags": "['#Nazi' '#MAGA' '#Hitler' '#America' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023845",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 120,
+      "text_cleaned_length": 85,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2ivvtt2a2v",
+      "text": "\n#Alaska   #Lee   #Putin   #Trump   #Vladimir Putin   #Volodymyr Zelenskyy   #White House   #Zelenskyy",
+      "text_cleaned": "Putin Zelenskyy House",
+      "text_preview": "\n#Alaska   #Lee   #Putin   #Trump   #Vladimir Putin   #Volodymyr Zelenskyy   #White House   #Zelenskyy",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T14:35:41.451375+00:00",
+      "hashtags": "['#Alaska' '#Putin' '#Lee' '#White' '#Volodymyr' '#Vladimir' '#Trump'\n '#Zelenskyy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023930",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 102,
+      "text_cleaned_length": 21,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2ivb7bxk2w",
+      "text": "\n#agreement   #ceasefire   #Russia   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#agreement   #ceasefire   #Russia   #Trump   #Ukraine",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T14:35:19.812931+00:00",
+      "hashtags": "['#Ukraine' '#Russia' '#agreement' '#Trump' '#ceasefire']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023954",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 54,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2iw7ikmy2v",
+      "text": "\n#investigations   #Justice   #Trump   #White House",
+      "text_cleaned": "House",
+      "text_preview": "\n#investigations   #Justice   #Trump   #White House",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T14:35:51.572942+00:00",
+      "hashtags": "['#White' '#Justice' '#Trump' '#investigations']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023920",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 51,
+      "text_cleaned_length": 5,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2iwb5l622j",
+      "text": "birdschirps.ca/2025/08/10/t...\n#Trump #Putin #Ukraine #Alaska",
+      "text_cleaned": "birdschirps.ca/2025/08/10/t...",
+      "text_preview": "birdschirps.ca/2025/08/10/t...\n#Trump #Putin #Ukraine #Alaska",
+      "author": "richardbird.bsky.social",
+      "author_display_name": "richardbird",
+      "created_at": "2025-08-10T14:35:37.296Z",
+      "hashtags": "['#Alaska' '#Putin' '#Ukraine' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023940",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 61,
+      "text_cleaned_length": 30,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2ivq5v552j",
+      "text": "\n#Alaska   #Putin   #Trump   #Zelenskyy",
+      "text_cleaned": "",
+      "text_preview": "\n#Alaska   #Putin   #Trump   #Zelenskyy",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T14:35:35.488080+00:00",
+      "hashtags": "['#Alaska' '#Putin' '#Trump' '#Zelenskyy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:40:03.023947",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:40:10.012000",
+      "text_length": 39,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2ioackwsw2",
+      "text": "1/7.\nIntel must not bow to #Trump\u2019s attack on its CEO. Lip-Bu Tan is better equipped to transform this company\u2019s fortunes than anyone else.\n\n> The latest character Trump is attempting to assassinate is #LipBuTan, recently appointed chief executive of #Intel. Firing from his perch on #TruthSocial [\u2026]",
+      "text_cleaned": "1/7. Intel must not bow to \u2019s attack on its CEO. Lip-Bu Tan is better equipped to transform this company\u2019s fortunes than anyone else. > The latest character Trump is attempting to assassinate is , recently appointed chief executive of . Firing from his perch on [\u2026]",
+      "text_preview": "1/7.\nIntel must not bow to #Trump\u2019s attack on its CEO. Lip-Bu Tan is better equipped to transform this company\u2019s fortunes than anyone else.\n\n> The latest character Trump is attempting to assassinate i...",
+      "author": "raymondpert.mastodon.cloud.ap.brid.gy",
+      "author_display_name": "R. Scott Pert",
+      "created_at": "2025-08-10T14:30:49.000Z",
+      "hashtags": "['#LipBuTan' '#TruthSocial' '#Trump' '#Intel']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308868",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 300,
+      "text_cleaned_length": 265,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2iufikcc27",
+      "text": "So Trump is using military funds to buy his lavish plane and will keep this plane after he is no longer President. What!? In Mexico Manuel L\u00f3pez Obrador sold the presidential plane to give that money back to the people. That\u2019s an example to follow Mr. President Trump. #politics #amlo #trump #plane",
+      "text_cleaned": "So Trump is using military funds to buy his lavish plane and will keep this plane after he is no longer President. What!? In Mexico Manuel L\u00f3pez Obrador sold the presidential plane to give that money back to the people. That\u2019s an example to follow Mr. President Trump.",
+      "text_preview": "So Trump is using military funds to buy his lavish plane and will keep this plane after he is no longer President. What!? In Mexico Manuel L\u00f3pez Obrador sold the presidential plane to give that money ...",
+      "author": "maddowshowisbae.bsky.social",
+      "author_display_name": "Please donate to MetoWe and UNICEF",
+      "created_at": "2025-08-10T14:34:34.741Z",
+      "hashtags": "['#politics' '#amlo' '#plane' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308699",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 298,
+      "text_cleaned_length": 268,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2iosfjpt26",
+      "text": "The owner of #trumpburger left my partner and I wondering if he secretly was grifting right wing nuts, making a quick buck off racial grievances. However, that's all speculation. He himself wasn't very confrontational, never exhibited strong opinions, and is very diplomatic with his language. #trump",
+      "text_cleaned": "The owner of left my partner and I wondering if he secretly was grifting right wing nuts, making a quick buck off racial grievances. However, that's all speculation. He himself wasn't very confrontational, never exhibited strong opinions, and is very diplomatic with his language.",
+      "text_preview": "The owner of #trumpburger left my partner and I wondering if he secretly was grifting right wing nuts, making a quick buck off racial grievances. However, that's all speculation. He himself wasn't ver...",
+      "author": "omensign.bsky.social",
+      "author_display_name": "Chad Brown",
+      "created_at": "2025-08-10T14:31:26.945Z",
+      "hashtags": "['#trumpburger' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308819",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 300,
+      "text_cleaned_length": 280,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2iosfkp326",
+      "text": "I associate aggressive ignorance to #trump supporters in general, a kind of personality trait that they exude that this #trumpburger owner never exhibited directly. The one restaurant we visited ( we wouldn't visit trump burger ) often had fox news playing 24/7 but only if the 'bosses' were present",
+      "text_cleaned": "I associate aggressive ignorance to supporters in general, a kind of personality trait that they exude that this owner never exhibited directly. The one restaurant we visited ( we wouldn't visit trump burger ) often had fox news playing 24/7 but only if the 'bosses' were present",
+      "text_preview": "I associate aggressive ignorance to #trump supporters in general, a kind of personality trait that they exude that this #trumpburger owner never exhibited directly. The one restaurant we visited ( we ...",
+      "author": "omensign.bsky.social",
+      "author_display_name": "Chad Brown",
+      "created_at": "2025-08-10T14:31:26.946Z",
+      "hashtags": "['#trumpburger' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308812",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 299,
+      "text_cleaned_length": 279,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2iosfiqk26",
+      "text": "My partner and I debated, after learning he owned #trumpburger, whether or not to keep going to the other restaurants he owned in the area. Sometimes it's hard to understand, but in this rural area there are 3 restaurants within 15 miles. We eventually decided to minimize outings to them. #trump",
+      "text_cleaned": "My partner and I debated, after learning he owned , whether or not to keep going to the other restaurants he owned in the area. Sometimes it's hard to understand, but in this rural area there are 3 restaurants within 15 miles. We eventually decided to minimize outings to them.",
+      "text_preview": "My partner and I debated, after learning he owned #trumpburger, whether or not to keep going to the other restaurants he owned in the area. Sometimes it's hard to understand, but in this rural area th...",
+      "author": "omensign.bsky.social",
+      "author_display_name": "Chad Brown",
+      "created_at": "2025-08-10T14:31:26.943Z",
+      "hashtags": "['#trumpburger' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308835",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 296,
+      "text_cleaned_length": 277,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2iosfjps26",
+      "text": "I briefly joined a local #VFD in the community only to find myself surrounded by deeply racist rednecks, to give you an idea of what the area is like. #trumpburger is generally representative of the mindset of people here and they go hand in hand sadly. Decaying/new #Trump signs are everywhere.",
+      "text_cleaned": "I briefly joined a local in the community only to find myself surrounded by deeply racist rednecks, to give you an idea of what the area is like. is generally representative of the mindset of people here and they go hand in hand sadly. Decaying/new signs are everywhere.",
+      "text_preview": "I briefly joined a local #VFD in the community only to find myself surrounded by deeply racist rednecks, to give you an idea of what the area is like. #trumpburger is generally representative of the m...",
+      "author": "omensign.bsky.social",
+      "author_display_name": "Chad Brown",
+      "created_at": "2025-08-10T14:31:26.944Z",
+      "hashtags": "['#Trump' '#VFD' '#trumpburger']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308827",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 295,
+      "text_cleaned_length": 270,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2iosfhrc26",
+      "text": "I'm guilty of taking joy in watching #trump supporters suffer after voting advocating for Trump. The #trumpburger guy is, on the surface, a polite individual who is easy to get along with. We moved to a rural area and learned that he owned multiple restaurants including trump burger",
+      "text_cleaned": "I'm guilty of taking joy in watching supporters suffer after voting advocating for Trump. The guy is, on the surface, a polite individual who is easy to get along with. We moved to a rural area and learned that he owned multiple restaurants including trump burger",
+      "text_preview": "I'm guilty of taking joy in watching #trump supporters suffer after voting advocating for Trump. The #trumpburger guy is, on the surface, a polite individual who is easy to get along with. We moved to...",
+      "author": "omensign.bsky.social",
+      "author_display_name": "Chad Brown",
+      "created_at": "2025-08-10T14:31:26.942Z",
+      "hashtags": "['#trumpburger' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308841",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 283,
+      "text_cleaned_length": 263,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2iqhdhrk2d",
+      "text": "We should really STOP saying #Trump and, instead, #MAGA all the time because these snakes aren't going away even if the head is cut off. \nThey have been emboldened and will NOT go away quietly unless they, too, are removed.\n#antifascism",
+      "text_cleaned": "We should really STOP saying and, instead, all the time because these snakes aren't going away even if the head is cut off. They have been emboldened and will NOT go away quietly unless they, too, are removed.",
+      "text_preview": "We should really STOP saying #Trump and, instead, #MAGA all the time because these snakes aren't going away even if the head is cut off. \nThey have been emboldened and will NOT go away quietly unless ...",
+      "author": "mtnman5411.bsky.social",
+      "author_display_name": "MTNMan5411 \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-10T14:32:22.433Z",
+      "hashtags": "['#antifascism' '#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308766",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 236,
+      "text_cleaned_length": 209,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2iry4uqs2z",
+      "text": "Sean Duffy is doing his a great job at NASA, but it might not be enough As able as he is, the situation cries out for a permanent NASA administrator, someone with the respect of both President Trump and the Congress.\n\nInterest | Match | Feed",
+      "text_cleaned": "Sean Duffy is doing his a great job at NASA, but it might not be enough As able as he is, the situation cries out for a permanent NASA administrator, someone with the respect of both President Trump and the Congress. Interest | Match | Feed",
+      "text_preview": "Sean Duffy is doing his a great job at NASA, but it might not be enough As able as he is, the situation cries out for a permanent NASA administrator, someone with the respect of both President Trump a...",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-10T14:33:13Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308742",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 241,
+      "text_cleaned_length": 240,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2irxy5s72c",
+      "text": "Sean Duffy is doing his a great job at NASA, but it might not be enough As able as he is, the situation cries out for a permanent NASA administrator, someone with the respect of both President Trump and the Congress.\n\nInterest | Match | Feed",
+      "text_cleaned": "Sean Duffy is doing his a great job at NASA, but it might not be enough As able as he is, the situation cries out for a permanent NASA administrator, someone with the respect of both President Trump and the Congress. Interest | Match | Feed",
+      "text_preview": "Sean Duffy is doing his a great job at NASA, but it might not be enough As able as he is, the situation cries out for a permanent NASA administrator, someone with the respect of both President Trump a...",
+      "author": "bluesky.awakari.com",
+      "author_display_name": "Awakari",
+      "created_at": "2025-08-10T14:33:13Z",
+      "hashtags": "[]",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308747",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 241,
+      "text_cleaned_length": 240,
+      "hashtag_count": 0,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2iosfkp626",
+      "text": "#trumpburger #trump many of the locals that live here get most of their food from two gas stations and a single dollar general; there's a distinct separation in the community between the #hispanic population and #caucasians. Median household is 37k",
+      "text_cleaned": "many of the locals that live here get most of their food from two gas stations and a single dollar general; there's a distinct separation in the community between the population and . Median household is 37k",
+      "text_preview": "#trumpburger #trump many of the locals that live here get most of their food from two gas stations and a single dollar general; there's a distinct separation in the community between the #hispanic pop...",
+      "author": "omensign.bsky.social",
+      "author_display_name": "Chad Brown",
+      "created_at": "2025-08-10T14:31:26.949Z",
+      "hashtags": "['#caucasians' '#hispanic' '#trumpburger' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308793",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 248,
+      "text_cleaned_length": 207,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2it3q5yv22",
+      "text": "2/7.\n> While presidents have sometimes expressed outrage about corporate behavior, #Trump\u2019s assault has no modern precedent. The source of his ire (and that of Tom cotton, Republican chair of the Senate Intelligence Committee), is Tan\u2019s business dealings with China as both venture capitalist and [\u2026]",
+      "text_cleaned": "2/7. > While presidents have sometimes expressed outrage about corporate behavior, \u2019s assault has no modern precedent. The source of his ire (and that of Tom cotton, Republican chair of the Senate Intelligence Committee), is Tan\u2019s business dealings with China as both venture capitalist and [\u2026]",
+      "text_preview": "2/7.\n> While presidents have sometimes expressed outrage about corporate behavior, #Trump\u2019s assault has no modern precedent. The source of his ire (and that of Tom cotton, Republican chair of the Sena...",
+      "author": "raymondpert.mastodon.cloud.ap.brid.gy",
+      "author_display_name": "R. Scott Pert",
+      "created_at": "2025-08-10T14:33:38.000Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308729",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 300,
+      "text_cleaned_length": 294,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2iosfduc26",
+      "text": "I know the guy who owns #TrumpBurger, who is currently facing deportation. I often see/hear about Trump supporters who occupy a space where you have to question why they support #Trump, but it's weirder to know a person directly and see the greek tragedy like hubris filled consequences of it.",
+      "text_cleaned": "I know the guy who owns , who is currently facing deportation. I often see/hear about Trump supporters who occupy a space where you have to question why they support , but it's weirder to know a person directly and see the greek tragedy like hubris filled consequences of it.",
+      "text_preview": "I know the guy who owns #TrumpBurger, who is currently facing deportation. I often see/hear about Trump supporters who occupy a space where you have to question why they support #Trump, but it's weird...",
+      "author": "omensign.bsky.social",
+      "author_display_name": "Chad Brown",
+      "created_at": "2025-08-10T14:31:26.941Z",
+      "hashtags": "['#Trump' '#TrumpBurger']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308847",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 293,
+      "text_cleaned_length": 275,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2iosfkp526",
+      "text": "The owner of #trumpburger other restaurants in the area are the ONLY sources of employment for some people. We often see the same group of young people move from one failed restaurant after another, in 3-6 month boom/bust cycles. You get to know them all by name and see their struggle #trump",
+      "text_cleaned": "The owner of other restaurants in the area are the ONLY sources of employment for some people. We often see the same group of young people move from one failed restaurant after another, in 3-6 month boom/bust cycles. You get to know them all by name and see their struggle",
+      "text_preview": "The owner of #trumpburger other restaurants in the area are the ONLY sources of employment for some people. We often see the same group of young people move from one failed restaurant after another, i...",
+      "author": "omensign.bsky.social",
+      "author_display_name": "Chad Brown",
+      "created_at": "2025-08-10T14:31:26.948Z",
+      "hashtags": "['#trumpburger' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308800",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 292,
+      "text_cleaned_length": 272,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2iosfkp426",
+      "text": "If the owner of #trumpburger is deported, that likely means two of the other restaurants in the area he owns will also go out of business, I'm curious what the future brings. I do not wish Roland harm, I worry about his well being, but when you make your bed with the enemy what do you expect? #trump",
+      "text_cleaned": "If the owner of is deported, that likely means two of the other restaurants in the area he owns will also go out of business, I'm curious what the future brings. I do not wish Roland harm, I worry about his well being, but when you make your bed with the enemy what do you expect?",
+      "text_preview": "If the owner of #trumpburger is deported, that likely means two of the other restaurants in the area he owns will also go out of business, I'm curious what the future brings. I do not wish Roland harm...",
+      "author": "omensign.bsky.social",
+      "author_display_name": "Chad Brown",
+      "created_at": "2025-08-10T14:31:26.947Z",
+      "hashtags": "['#trumpburger' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308806",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 300,
+      "text_cleaned_length": 280,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2isnumc227",
+      "text": "We\u2019re so \u201cgreat\u201d even Canadian Girl Scouts won\u2019t come here!\nWith an #Epstein ally in the White House, they wouldn\u2019t be safe anyway!\n#TrumpsAmerica\n#Trump\n\nglobalnews.ca/news/1132221...",
+      "text_cleaned": "We\u2019re so \u201cgreat\u201d even Canadian Girl Scouts won\u2019t come here! With an ally in the White House, they wouldn\u2019t be safe anyway! globalnews.ca/news/1132221...",
+      "text_preview": "We\u2019re so \u201cgreat\u201d even Canadian Girl Scouts won\u2019t come here!\nWith an #Epstein ally in the White House, they wouldn\u2019t be safe anyway!\n#TrumpsAmerica\n#Trump\n\nglobalnews.ca/news/1132221...",
+      "author": "hmandia.bsky.social",
+      "author_display_name": "Holly M",
+      "created_at": "2025-08-10T14:33:36.349Z",
+      "hashtags": "['#Trump' '#TrumpsAmerica' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308736",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 184,
+      "text_cleaned_length": 152,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2itl5bwc2o",
+      "text": "Anyone who supports Trump while calling themselves a \"fiscal conservative\" needs to be asked if they know what those words mean.\n\n#News #Trump #Economy #BuffettIndicator",
+      "text_cleaned": "Anyone who supports Trump while calling themselves a \"fiscal conservative\" needs to be asked if they know what those words mean.",
+      "text_preview": "Anyone who supports Trump while calling themselves a \"fiscal conservative\" needs to be asked if they know what those words mean.\n\n#News #Trump #Economy #BuffettIndicator",
+      "author": "titaniumteddybear.bsky.social",
+      "author_display_name": "TitaniumTeddyBear",
+      "created_at": "2025-08-10T14:34:07.109Z",
+      "hashtags": "['#Economy' '#News' '#Trump' '#BuffettIndicator']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308450",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 169,
+      "text_cleaned_length": 128,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2iqjjymc25",
+      "text": "former WWE CEO - Linda #McMahon, #Trump \u2019s head of Education #DOE pick, was sued for allegedly enabling sexual abuse of children www.cnn.com/2024/11/21/b...",
+      "text_cleaned": "former WWE CEO - Linda , \u2019s head of Education pick, was sued for allegedly enabling sexual abuse of children",
+      "text_preview": "former WWE CEO - Linda #McMahon, #Trump \u2019s head of Education #DOE pick, was sued for allegedly enabling sexual abuse of children www.cnn.com/2024/11/21/b...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T14:32:24.766Z",
+      "hashtags": "['#Trump' '#DOE' '#McMahon']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308759",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 156,
+      "text_cleaned_length": 108,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2iq3g5ms25",
+      "text": "former WWE CEO - Linda #McMahon, #Trump \u2019s head of Education #DOE pick, was sued for allegedly enabling sexual abuse of children www.cnn.com/2024/11/21/b...",
+      "text_cleaned": "former WWE CEO - Linda , \u2019s head of Education pick, was sued for allegedly enabling sexual abuse of children",
+      "text_preview": "former WWE CEO - Linda #McMahon, #Trump \u2019s head of Education #DOE pick, was sued for allegedly enabling sexual abuse of children www.cnn.com/2024/11/21/b...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T14:32:09.959Z",
+      "hashtags": "['#Trump' '#DOE' '#McMahon']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308774",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 156,
+      "text_cleaned_length": 108,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2iu3uppk2b",
+      "text": "This nation has had \u201cmusic festivals\u201d almost daily\u2026 why aren\u2019t you seeing them though??? #musicfestival #lamusicfest2025 #LAmusicfestival #LAmusicfestival2025 #Resist #MAGA #Trump #peaceful Credit @allie4tn via @voteinorout  @voteinorout.bsky.social",
+      "text_cleaned": "This nation has had \u201cmusic festivals\u201d almost daily\u2026 why aren\u2019t you seeing them though??? Credit via .bsky.social",
+      "text_preview": "This nation has had \u201cmusic festivals\u201d almost daily\u2026 why aren\u2019t you seeing them though??? #musicfestival #lamusicfest2025 #LAmusicfestival #LAmusicfestival2025 #Resist #MAGA #Trump #peaceful Credit @al...",
+      "author": "canarycoal777.bsky.social",
+      "author_display_name": "Canary Coal Mine 777 \ud83d\udc25\u270a\u270c\ufe0f\ud83c\uddfa\ud83c\uddf8",
+      "created_at": "2025-08-10T14:34:24.649Z",
+      "hashtags": "['#Trump' '#musicfestival' '#lamusicfest2025' '#LAmusicfestival2025'\n '#peaceful' '#Resist' '#LAmusicfestival' '#MAGA']",
+      "mentions": "['@voteinorout' '@allie4tn' '@voteinorout.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308710",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 249,
+      "text_cleaned_length": 112,
+      "hashtag_count": 8,
+      "mention_count": 3,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2ipjkl3n2y",
+      "text": "Trump suggests \"MAGA\" stock listing for mortgage giants Fannie, Freddie\n#Trump",
+      "text_cleaned": "Trump suggests \"MAGA\" stock listing for mortgage giants Fannie, Freddie",
+      "text_preview": "Trump suggests \"MAGA\" stock listing for mortgage giants Fannie, Freddie\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T14:31:50.657Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308787",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 78,
+      "text_cleaned_length": 71,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2inrnxb22p",
+      "text": "Wouldn't disabled Texas Governor #GregAbbott fall under the category of #SuckersAndLosers according to #Trump?",
+      "text_cleaned": "Wouldn't disabled Texas Governor fall under the category of according to ?",
+      "text_preview": "Wouldn't disabled Texas Governor #GregAbbott fall under the category of #SuckersAndLosers according to #Trump?",
+      "author": "herdleader1.bsky.social",
+      "author_display_name": "Herd Leader \ud83d\udc99\ud83e\udd8b\ud83c\udf0a\ud83d\udc15\ud83d\udc0e\ud83d\udc08\ud83e\udd85\ud83c\udf3b",
+      "created_at": "2025-08-10T14:30:52.605Z",
+      "hashtags": "['#GregAbbott' '#SuckersAndLosers' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308853",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 110,
+      "text_cleaned_length": 74,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2ippoz3g2d",
+      "text": "NVIDIA \u00e9vite la perte de 8 milliards de dollars et peut remercier Donald Trump #Nvidia #Trump\nwww.buzzarena.com/?p=4532761",
+      "text_cleaned": "NVIDIA \u00e9vite la perte de 8 milliards de dollars et peut remercier Donald Trump",
+      "text_preview": "NVIDIA \u00e9vite la perte de 8 milliards de dollars et peut remercier Donald Trump #Nvidia #Trump\nwww.buzzarena.com/?p=4532761",
+      "author": "buzzarena.bsky.social",
+      "author_display_name": "BuzzArena",
+      "created_at": "2025-08-10T14:31:56Z",
+      "hashtags": "['#Nvidia' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308780",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 122,
+      "text_cleaned_length": 78,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2in7yx3m2b",
+      "text": "\n#Alaska   #Friedrich Merz   #Merz   #Putin   #Trump   #Ukraine",
+      "text_cleaned": "Merz",
+      "text_preview": "\n#Alaska   #Friedrich Merz   #Merz   #Putin   #Trump   #Ukraine",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T14:30:50.121135+00:00",
+      "hashtags": "['#Friedrich' '#Trump' '#Alaska' '#Merz' '#Ukraine' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308861",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 63,
+      "text_cleaned_length": 4,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2irdywl32v",
+      "text": "Zelensky Stands Strong Against Trump and Putin\n#Trump",
+      "text_cleaned": "Zelensky Stands Strong Against Trump and Putin",
+      "text_preview": "Zelensky Stands Strong Against Trump and Putin\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T14:32:52.222Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 5,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:35:03.308753",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:35:10.011000",
+      "text_length": 53,
+      "text_cleaned_length": 46,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 8.0
+    }
+  ]
+}
