@@ -1,0 +1,554 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_190227",
+    "post_count": 20,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 18:55:10.014000",
+    "latest_received_at": "2025-08-10 19:00:10.010000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2xkhrzt22j",
+      "text": "Jesus, did \"conservatives\" just wake from a coma?\n\n#trump 's approval rating has suddenly dropped among conservative adults.  According to polls by The Economist/YouGov, the president's net approval rating has declined by 15 percentage points from July to August. \n\nDump #trump. Cancel the #gop.",
+      "text_cleaned": "Jesus, did \"conservatives\" just wake from a coma? 's approval rating has suddenly dropped among conservative adults. According to polls by The Economist/YouGov, the president's net approval rating has declined by 15 percentage points from July to August. Dump . Cancel the .",
+      "text_preview": "Jesus, did \"conservatives\" just wake from a coma?\n\n#trump 's approval rating has suddenly dropped among conservative adults.  According to polls by The Economist/YouGov, the president's net approval r...",
+      "author": "mjhinton.bsky.social",
+      "author_display_name": "mjh",
+      "created_at": "2025-08-10T18:57:27.732Z",
+      "hashtags": "['#trump' '#gop']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.550280",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 295,
+      "text_cleaned_length": 274,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xiubnrk2u",
+      "text": "Get Mad, #America!\n\nWhere's the Condemnation of the [WHITE] #MAGA Shooter from #SEXOFFENDER #CONVICT #Trump?\n\nWhere are the, \"Thoughts And Prayers For the Brave [BLACK] Police Officer Rose\"?\n\nWho In The World Are Trump and MAGA Trying To Kid?\n\nFor The Sake and Safety Of America,\n#VOTE U.S. BACK!",
+      "text_cleaned": "Get Mad, ! Where's the Condemnation of the [WHITE] Shooter from ? Where are the, \"Thoughts And Prayers For the Brave [BLACK] Police Officer Rose\"? Who In The World Are Trump and MAGA Trying To Kid? For The Sake and Safety Of America, U.S. BACK!",
+      "text_preview": "Get Mad, #America!\n\nWhere's the Condemnation of the [WHITE] #MAGA Shooter from #SEXOFFENDER #CONVICT #Trump?\n\nWhere are the, \"Thoughts And Prayers For the Brave [BLACK] Police Officer Rose\"?\n\nWho In T...",
+      "author": "mepafford.org",
+      "author_display_name": "Mike Pafford",
+      "created_at": "2025-08-10T18:56:33.717Z",
+      "hashtags": "['#VOTE' '#MAGA' '#SEXOFFENDER' '#CONVICT' '#Trump' '#America']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.550307",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 296,
+      "text_cleaned_length": 244,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xickbej42",
+      "text": "Of the 11 recessions in the modern era, 10 have begun under Republican presidents.\n\nThe U.S. Economy Performs Better Under Democratic Presidents\nhttps://www.jec.senate.gov/public/index.cfm/democrats/2024/10/the-u-s-economy-performs-better-under-democratic-presidents\n\n#Economy #Recession [\u2026]",
+      "text_cleaned": "Of the 11 recessions in the modern era, 10 have begun under Republican presidents. The U.S. Economy Performs Better Under Democratic Presidents [\u2026]",
+      "text_preview": "Of the 11 recessions in the modern era, 10 have begun under Republican presidents.\n\nThe U.S. Economy Performs Better Under Democratic Presidents\nhttps://www.jec.senate.gov/public/index.cfm/democrats/2...",
+      "author": "democracymattersalot.mstdn.social.ap.brid.gy",
+      "author_display_name": "Democracy Matters :verified:",
+      "created_at": "2025-08-10T18:56:11.000Z",
+      "hashtags": "['#Economy' '#Recession']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.549880",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 291,
+      "text_cleaned_length": 147,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lw2xij5jc22e",
+      "text": "Of the 11 recessions in the modern era, 10 have begun under Republican presidents.\n\nThe U.S. Economy Performs Better Under Democratic Presidents\nwww.jec.senate.gov/public/index...\n\n#Economy #Recession #TrumpDidThis #RepublicansDidThis #GOPKakistocracy #Project2025 #NoRepublicansEverAgain #USPol",
+      "text_cleaned": "Of the 11 recessions in the modern era, 10 have begun under Republican presidents. The U.S. Economy Performs Better Under Democratic Presidents",
+      "text_preview": "Of the 11 recessions in the modern era, 10 have begun under Republican presidents.\n\nThe U.S. Economy Performs Better Under Democratic Presidents\nwww.jec.senate.gov/public/index...\n\n#Economy #Recession...",
+      "author": "democracymatters.bsky.social",
+      "author_display_name": "Democracy Matters!",
+      "created_at": "2025-08-10T18:56:22.048Z",
+      "hashtags": "['#GOPKakistocracy' '#USPol' '#Recession' '#TrumpDidThis' '#Economy'\n '#RepublicansDidThis' '#Project2025' '#NoRepublicansEverAgain']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.549853",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 295,
+      "text_cleaned_length": 143,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 5.5
+    },
+    {
+      "post_id": "3lw2xnbvxr22j",
+      "text": "India loses trade momentum as Trump hikes tariffs to 50% on key exports. Pakistan\u2019s deal-making earns it favor in Washington. Power, not friendship, rules the game. \n#Trump #TradeWar #IndiaUS\nstratheia.com/the-price-of...",
+      "text_cleaned": "India loses trade momentum as Trump hikes tariffs to 50% on key exports. Pakistan\u2019s deal-making earns it favor in Washington. Power, not friendship, rules the game. stratheia.com/the-price-of...",
+      "text_preview": "India loses trade momentum as Trump hikes tariffs to 50% on key exports. Pakistan\u2019s deal-making earns it favor in Washington. Power, not friendship, rules the game. \n#Trump #TradeWar #IndiaUS\nstrathei...",
+      "author": "stratheia.bsky.social",
+      "author_display_name": "Stratheia ",
+      "created_at": "2025-08-10T18:59:00.579Z",
+      "hashtags": "['#Trump' '#IndiaUS' '#TradeWar']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.550190",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 221,
+      "text_cleaned_length": 194,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xlowkus26",
+      "text": "Such a childish and weak man;\n\n#Trump moves #Obama, #Bush portraits to hidden stairwell\n\n#baby #MAGA #Insecure #WhiteHouse #PresidentPedo #TrumpEpsteinCoverup \n\nwww.msn.com/en-us/news/p...",
+      "text_cleaned": "Such a childish and weak man; moves , portraits to hidden stairwell",
+      "text_preview": "Such a childish and weak man;\n\n#Trump moves #Obama, #Bush portraits to hidden stairwell\n\n#baby #MAGA #Insecure #WhiteHouse #PresidentPedo #TrumpEpsteinCoverup \n\nwww.msn.com/en-us/news/p...",
+      "author": "rjmrim.bsky.social",
+      "author_display_name": "\ud83e\ude96 \ud83c\uddfa\ud83c\uddf8 \ud83c\udf0e \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-10T18:58:08.773Z",
+      "hashtags": "['#Bush' '#MAGA' '#baby' '#PresidentPedo' '#TrumpEpsteinCoverup'\n '#WhiteHouse' '#Insecure' '#Trump' '#Obama']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.550269",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 188,
+      "text_cleaned_length": 67,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xh4dhnc23",
+      "text": "Michael Wolf's Recorded Interviews With #JeffreyEpstein: Trump's Deviant Sexual Proclivities\n#Epstein #Trump #MichaelWolf \nbit.ly/4ked0Py",
+      "text_cleaned": "Michael Wolf's Recorded Interviews With : Trump's Deviant Sexual Proclivities bit.ly/4ked0Py",
+      "text_preview": "Michael Wolf's Recorded Interviews With #JeffreyEpstein: Trump's Deviant Sexual Proclivities\n#Epstein #Trump #MichaelWolf \nbit.ly/4ked0Py",
+      "author": "tplusr.bsky.social",
+      "author_display_name": "T+R",
+      "created_at": "2025-08-10T18:55:35.058Z",
+      "hashtags": "['#JeffreyEpstein' '#Trump' '#Epstein' '#MichaelWolf']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.550326",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 137,
+      "text_cleaned_length": 92,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xiyduwr2y",
+      "text": "\n#JD Vance   #Krieg   #Merz   #Putin   #Selenskyj   #Trump   #Ukraine   #Ukraine-Krieg   #Vance",
+      "text_cleaned": "Vance -Krieg",
+      "text_preview": "\n#JD Vance   #Krieg   #Merz   #Putin   #Selenskyj   #Trump   #Ukraine   #Ukraine-Krieg   #Vance",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T18:56:53.794553+00:00",
+      "hashtags": "['#Vance' '#Ukraine' '#JD' '#Putin' '#Selenskyj' '#Trump' '#Krieg' '#Merz']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.550293",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 95,
+      "text_cleaned_length": 12,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xojseok2e",
+      "text": "\"History repeating.\"\n\n#Putin\n#Trump\n#Ukraine\n#Faschismus",
+      "text_cleaned": "\"History repeating.\"",
+      "text_preview": "\"History repeating.\"\n\n#Putin\n#Trump\n#Ukraine\n#Faschismus",
+      "author": "klimahoelle.bsky.social",
+      "author_display_name": "\ud83d\udea6- Tierchen \u00a6\u00a6 #SystemChangeNotClimateChange",
+      "created_at": "2025-08-10T18:59:44.044Z",
+      "hashtags": "['#Faschismus' '#Trump' '#Putin' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.550179",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 56,
+      "text_cleaned_length": 20,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xhsj7kk2k",
+      "text": "#Trump #Epstien #Pedophiles",
+      "text_cleaned": "",
+      "text_preview": "#Trump #Epstien #Pedophiles",
+      "author": "aikarumba.bsky.social",
+      "author_display_name": "Aika Rumba",
+      "created_at": "2025-08-10T18:55:58.300Z",
+      "hashtags": "['#Pedophiles' '#Trump' '#Epstien']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:00:03.550316",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:00:10.010000",
+      "text_length": 27,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2xfmstic2e",
+      "text": "It's just weird that media & others pretend that convicted felon #Trump is not simply Putin's partner. Also the whole \"weaponization\" bullshit is treated as if it's a real thing. Trump now helps with that narrative by \"going after\" his political opponents- which is mob boss behavior.\nUSA is a joke.",
+      "text_cleaned": "It's just weird that media & others pretend that convicted felon is not simply Putin's partner. Also the whole \"weaponization\" bullshit is treated as if it's a real thing. Trump now helps with that narrative by \"going after\" his political opponents- which is mob boss behavior. USA is a joke.",
+      "text_preview": "It's just weird that media & others pretend that convicted felon #Trump is not simply Putin's partner. Also the whole \"weaponization\" bullshit is treated as if it's a real thing. Trump now helps with ...",
+      "author": "ginsengity.bsky.social",
+      "author_display_name": "Molten Irony (Wade)",
+      "created_at": "2025-08-10T18:54:45.230Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355594",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 299,
+      "text_cleaned_length": 292,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2x5u4qck2j",
+      "text": "\"Geplantes Treffen von #Trump und #Putin: Damit holt der US-Pr\u00e4sident Putin aus der internationalen Isolation, statt ihn zu sanktionieren.\" \nNachdem Sanktionen drei Jahre lang nichts Wesentliches gebracht haben, ist ein Strategiewechsel \u00fcberf\u00e4llig.\ntaz.de/Geplantes-Tr...",
+      "text_cleaned": "\"Geplantes Treffen von und : Damit holt der US-Pr\u00e4sident Putin aus der internationalen Isolation, statt ihn zu sanktionieren.\" Nachdem Sanktionen drei Jahre lang nichts Wesentliches gebracht haben, ist ein Strategiewechsel \u00fcberf\u00e4llig. taz.de/Geplantes-Tr...",
+      "text_preview": "\"Geplantes Treffen von #Trump und #Putin: Damit holt der US-Pr\u00e4sident Putin aus der internationalen Isolation, statt ihn zu sanktionieren.\" \nNachdem Sanktionen drei Jahre lang nichts Wesentliches gebr...",
+      "author": "histox.bsky.social",
+      "author_display_name": "Ralf Obernd\u00f6rfer",
+      "created_at": "2025-08-10T18:50:24.458Z",
+      "hashtags": "['#Trump' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355653",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 271,
+      "text_cleaned_length": 257,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xb7v7uk2u",
+      "text": "Get Mad, #America!\n\nWhere's the Condemnation of the [WHITE] #MAGA Shooter from #SEXOFFENDER #CONVICT #Trump?\n\nWhere are the, \"Thoughts And Prayers For the Brave [BLACK] Police Officer Rose\"?\n\nWho In The World Are Trump and MAGA Trying To Kid?\n\nFor The Sake and Safety Of America,\n#VOTE U.S. BACK!",
+      "text_cleaned": "Get Mad, ! Where's the Condemnation of the [WHITE] Shooter from ? Where are the, \"Thoughts And Prayers For the Brave [BLACK] Police Officer Rose\"? Who In The World Are Trump and MAGA Trying To Kid? For The Sake and Safety Of America, U.S. BACK!",
+      "text_preview": "Get Mad, #America!\n\nWhere's the Condemnation of the [WHITE] #MAGA Shooter from #SEXOFFENDER #CONVICT #Trump?\n\nWhere are the, \"Thoughts And Prayers For the Brave [BLACK] Police Officer Rose\"?\n\nWho In T...",
+      "author": "mepafford.org",
+      "author_display_name": "Mike Pafford",
+      "created_at": "2025-08-10T18:52:17.456Z",
+      "hashtags": "['#VOTE' '#CONVICT' '#Trump' '#America' '#SEXOFFENDER' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355623",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 296,
+      "text_cleaned_length": 244,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xeslttc2k",
+      "text": "\ud83d\udea8 #TRUMP IN FULL PANIC MODE \ud83d\ude31 #JudgeChutkan, the one he HATES, now controls the EXPLOSIVE #Epstein files case \ud83d\udcc2 linked to his presidency \ud83d\udc40\nShe\u2019s fearless \ud83d\udca5 and ready to drop BOMBS Trump can\u2019t stop! The show is on.\ud83d\udd25 #Trump #EpsteinFiles #BreakingNews",
+      "text_cleaned": "\ud83d\udea8 IN FULL PANIC MODE \ud83d\ude31 , the one he HATES, now controls the EXPLOSIVE files case \ud83d\udcc2 linked to his presidency \ud83d\udc40 She\u2019s fearless \ud83d\udca5 and ready to drop BOMBS Trump can\u2019t stop! The show is on.\ud83d\udd25",
+      "text_preview": "\ud83d\udea8 #TRUMP IN FULL PANIC MODE \ud83d\ude31 #JudgeChutkan, the one he HATES, now controls the EXPLOSIVE #Epstein files case \ud83d\udcc2 linked to his presidency \ud83d\udc40\nShe\u2019s fearless \ud83d\udca5 and ready to drop BOMBS Trump can\u2019t stop! Th...",
+      "author": "johnperez419.bsky.social",
+      "author_display_name": "Democracy Defender",
+      "created_at": "2025-08-10T18:54:17.737Z",
+      "hashtags": "['#Epstein' '#JudgeChutkan' '#BreakingNews' '#TRUMP' '#Trump'\n '#EpsteinFiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355614",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 249,
+      "text_cleaned_length": 185,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2x4sazls2c",
+      "text": "#Trump - \"The Homeless have to move out, IMMEDIATELY... The Criminals, you don\u2019t have to move out. We\u2019re going to put you in jail where you belong. It\u2019s all going to happen very fast, just like the Border.\ntruthsocial.com/@realDonaldT...",
+      "text_cleaned": "- \"The Homeless have to move out, IMMEDIATELY... The Criminals, you don\u2019t have to move out. We\u2019re going to put you in jail where you belong. It\u2019s all going to happen very fast, just like the Border. truthsocial.com/...",
+      "text_preview": "#Trump - \"The Homeless have to move out, IMMEDIATELY... The Criminals, you don\u2019t have to move out. We\u2019re going to put you in jail where you belong. It\u2019s all going to happen very fast, just like the Bo...",
+      "author": "progressivenews.de",
+      "author_display_name": "Progressive News ",
+      "created_at": "2025-08-10T18:49:48.945Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@realDonaldT...']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355678",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 237,
+      "text_cleaned_length": 218,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2x4vnq4c2o",
+      "text": "I passed a #homeless man in a #Trump hat. What happens when a symbol of hatred hold out a cup. My thoughts on #Medium\n@washingtonpost.com @nytimes.com @slate.com @huffpost.com \nmedium.com/counterarts/...",
+      "text_cleaned": "I passed a man in a hat. What happens when a symbol of hatred hold out a cup. My thoughts on .com .com .com .com medium.com/counterarts/...",
+      "text_preview": "I passed a #homeless man in a #Trump hat. What happens when a symbol of hatred hold out a cup. My thoughts on #Medium\n@washingtonpost.com @nytimes.com @slate.com @huffpost.com \nmedium.com/counterarts/...",
+      "author": "jthepisodes.bsky.social",
+      "author_display_name": "JTHEpisodes",
+      "created_at": "2025-08-10T18:49:52.509Z",
+      "hashtags": "['#homeless' '#Trump' '#Medium']",
+      "mentions": "['@nytimes.com' '@washingtonpost.com' '@slate.com' '@huffpost.com']",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355670",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 203,
+      "text_cleaned_length": 139,
+      "hashtag_count": 3,
+      "mention_count": 4,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2x7bmo5k26",
+      "text": "#Trump promised lower #grocery prices \u2018on Day One.\u2019 Here\u2019s what happened \n\n#costoflivingcrisis #family #paycheck #America #MAGA #TrumpTariffs\n\nwww.msn.com/en-us/money/...",
+      "text_cleaned": "promised lower prices \u2018on Day One.\u2019 Here\u2019s what happened",
+      "text_preview": "#Trump promised lower #grocery prices \u2018on Day One.\u2019 Here\u2019s what happened \n\n#costoflivingcrisis #family #paycheck #America #MAGA #TrumpTariffs\n\nwww.msn.com/en-us/money/...",
+      "author": "rjmrim.bsky.social",
+      "author_display_name": "\ud83e\ude96 \ud83c\uddfa\ud83c\uddf8 \ud83c\udf0e \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-10T18:51:12.163Z",
+      "hashtags": "['#family' '#paycheck' '#grocery' '#Trump' '#TrumpTariffs'\n '#costoflivingcrisis' '#America' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355645",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 170,
+      "text_cleaned_length": 56,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2x5no2zk2u",
+      "text": "Yes.\nThe World Laughed At #Trump Then - And The World Continues To Laugh At Trump Now.\n\nwww.mediaite.com/media/tv/lea...",
+      "text_cleaned": "Yes. The World Laughed At Then - And The World Continues To Laugh At Trump Now.",
+      "text_preview": "Yes.\nThe World Laughed At #Trump Then - And The World Continues To Laugh At Trump Now.\n\nwww.mediaite.com/media/tv/lea...",
+      "author": "mepafford.org",
+      "author_display_name": "Mike Pafford",
+      "created_at": "2025-08-10T18:50:17.664Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355660",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 120,
+      "text_cleaned_length": 79,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xf373h223",
+      "text": "Michael Wolff's Recorded Interviews With #JeffreyEpstein: Trump's Intelligence\n#Epstein #Trump\n\nbit.ly/3YPVpoK",
+      "text_cleaned": "Michael Wolff's Recorded Interviews With : Trump's Intelligence bit.ly/3YPVpoK",
+      "text_preview": "Michael Wolff's Recorded Interviews With #JeffreyEpstein: Trump's Intelligence\n#Epstein #Trump\n\nbit.ly/3YPVpoK",
+      "author": "tplusr.bsky.social",
+      "author_display_name": "T+R",
+      "created_at": "2025-08-10T18:54:26.756Z",
+      "hashtags": "['#Trump' '#Epstein' '#JeffreyEpstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355602",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 110,
+      "text_cleaned_length": 78,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2x7eyo7c2h",
+      "text": "#Epstein\n#Trump\n#SaveTheChildren",
+      "text_cleaned": "",
+      "text_preview": "#Epstein\n#Trump\n#SaveTheChildren",
+      "author": "hereweare12.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T18:51:15.706Z",
+      "hashtags": "['#Trump' '#Epstein' '#SaveTheChildren']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:55:03.355631",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:55:10.014000",
+      "text_length": 32,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
