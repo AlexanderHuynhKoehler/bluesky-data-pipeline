@@ -1,0 +1,365 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_163135",
+    "post_count": 13,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 16:25:10.008000",
+    "latest_received_at": "2025-08-10 16:30:10.011000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2papcznk2a",
+      "text": "\u201cYou were given the choice between war and dishonor. You chose dishonor and you will have war.\u201d \u2014 Winston Churchill to Neville Chamberlin, after Chamberlin gave Hitler the Sudetenland in 1938. I hope someone tells #Trump this history when he meets with #Putin to \u201cdiscuss\u201d #Ukraine this week.",
+      "text_cleaned": "\u201cYou were given the choice between war and dishonor. You chose dishonor and you will have war.\u201d \u2014 Winston Churchill to Neville Chamberlin, after Chamberlin gave Hitler the Sudetenland in 1938. I hope someone tells this history when he meets with to \u201cdiscuss\u201d this week.",
+      "text_preview": "\u201cYou were given the choice between war and dishonor. You chose dishonor and you will have war.\u201d \u2014 Winston Churchill to Neville Chamberlin, after Chamberlin gave Hitler the Sudetenland in 1938. I hope ...",
+      "author": "chrisbohjalian.bsky.social",
+      "author_display_name": "Chris Bohjalian",
+      "created_at": "2025-08-10T16:28:50.151Z",
+      "hashtags": "['#Ukraine' '#Trump' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:30:03.133395",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:30:10.011000",
+      "text_length": 292,
+      "text_cleaned_length": 269,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2pbx3ke22z",
+      "text": "\u201cFor #Trump to announce a summit\u2026 on the day he had said would be the deadline for announcing action to punish Russian aggression is an extraordinary move. It\u2019s an unambiguous signal of alignment with Russia.\u201d #TrumpIsARussianAsset #Krasnov apple.news/A0I7KW_EvQ0u...",
+      "text_cleaned": "\u201cFor to announce a summit\u2026 on the day he had said would be the deadline for announcing action to punish Russian aggression is an extraordinary move. It\u2019s an unambiguous signal of alignment with Russia.\u201d apple.news/A0I7KW_EvQ0u...",
+      "text_preview": "\u201cFor #Trump to announce a summit\u2026 on the day he had said would be the deadline for announcing action to punish Russian aggression is an extraordinary move. It\u2019s an unambiguous signal of alignment with...",
+      "author": "keithwilson.eu",
+      "author_display_name": "Dr Keith Wilson \ud83d\udcad",
+      "created_at": "2025-08-10T16:29:31.848Z",
+      "hashtags": "['#TrumpIsARussianAsset' '#Krasnov' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:30:03.133386",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:30:10.011000",
+      "text_length": 267,
+      "text_cleaned_length": 229,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2pcbmarc2i",
+      "text": "Kennedy Center Honors 2025 nominee list announcement delayed. Willing artists exit stage left. Dem donors are already gone. Ribbons to lose their rainbow colors for a richer gold and black. Trump's Midas touch ruins everything he touches. #arts #trump #awards\nwww.cbsnews.com/news/kennedy...",
+      "text_cleaned": "Kennedy Center Honors 2025 nominee list announcement delayed. Willing artists exit stage left. Dem donors are already gone. Ribbons to lose their rainbow colors for a richer gold and black. Trump's Midas touch ruins everything he touches.",
+      "text_preview": "Kennedy Center Honors 2025 nominee list announcement delayed. Willing artists exit stage left. Dem donors are already gone. Ribbons to lose their rainbow colors for a richer gold and black. Trump's Mi...",
+      "author": "patsbluesky.bsky.social",
+      "author_display_name": "Pat Noble",
+      "created_at": "2025-08-10T16:29:42.881Z",
+      "hashtags": "['#arts' '#trump' '#awards']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:30:03.133376",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:30:10.011000",
+      "text_length": 291,
+      "text_cleaned_length": 238,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2p7t62ls2c",
+      "text": "#Trump, #MAGA == Shit \ud83d\udca9",
+      "text_cleaned": ", == Shit \ud83d\udca9",
+      "text_preview": "#Trump, #MAGA == Shit \ud83d\udca9",
+      "author": "steveohm.bsky.social",
+      "author_display_name": "SteveOh! \u274c\ud83d\udc51\u2026Liberty & Justice 4 All \ud83c\uddfa\ud83c\uddf8 (TL;DR)",
+      "created_at": "2025-08-10T16:28:20.627Z",
+      "hashtags": "['#Trump' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:30:03.133414",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:30:10.011000",
+      "text_length": 23,
+      "text_cleaned_length": 11,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2p36aiyk22",
+      "text": "\u00c8 ACCADUTO IERI: QuiEuropa Magazine \u2013 9/8/2025 ... LEGGI TUTTO #QuiEuropa #Dazi #Chip #Trump #BCE",
+      "text_cleaned": "\u00c8 ACCADUTO IERI: QuiEuropa Magazine \u2013 9/8/2025 ... LEGGI TUTTO",
+      "text_preview": "\u00c8 ACCADUTO IERI: QuiEuropa Magazine \u2013 9/8/2025 ... LEGGI TUTTO #QuiEuropa #Dazi #Chip #Trump #BCE",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-10T16:25:44Z",
+      "hashtags": "['#Dazi' '#QuiEuropa' '#Trump' '#BCE' '#Chip']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:30:03.133434",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:30:10.011000",
+      "text_length": 97,
+      "text_cleaned_length": 62,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2p6ptsms2u",
+      "text": "Oh For Fuck Sake!!!!  \ud83d\udd95 #Trump \ud83d\udd95 #JDVance  ... \u2764\ufe0f #Obama\u2764\ufe0f",
+      "text_cleaned": "Oh For Fuck Sake!!!! \ud83d\udd95 \ud83d\udd95 ... \u2764\ufe0f \u2764\ufe0f",
+      "text_preview": "Oh For Fuck Sake!!!!  \ud83d\udd95 #Trump \ud83d\udd95 #JDVance  ... \u2764\ufe0f #Obama\u2764\ufe0f",
+      "author": "kimbee666.bsky.social",
+      "author_display_name": "Kimbee\ud83c\udf78666",
+      "created_at": "2025-08-10T16:27:43.590Z",
+      "hashtags": "['#JDVance' '#Obama' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:30:03.133423",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:30:10.011000",
+      "text_length": 58,
+      "text_cleaned_length": 34,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2p7veegf2l",
+      "text": "#groyper #conservative #americafirst #historymemes #gangweed #maga #trump ",
+      "text_cleaned": "",
+      "text_preview": "#groyper #conservative #americafirst #historymemes #gangweed #maga #trump ",
+      "author": "alice-hall.bsky.social",
+      "author_display_name": "Alice Hall",
+      "created_at": "2025-08-10T16:28:22.700240Z",
+      "hashtags": "['#groyper' '#historymemes' '#maga' '#conservative' '#americafirst'\n '#gangweed' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:30:03.133405",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:30:10.011000",
+      "text_length": 74,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2owsjs2c2d",
+      "text": "Ever consider that the Walton family has probably never bought anything at a Wal-Mart? \n#Bezos probably never buys a thing on Amazon. \n#Musk probably doesn't even drive...much less a #Tesla.\nBut we fund their abilities to finance #TRUMP #MAGA #fascism with every single purchase. \n#antifascism",
+      "text_cleaned": "Ever consider that the Walton family has probably never bought anything at a Wal-Mart? probably never buys a thing on Amazon. probably doesn't even drive...much less a . But we fund their abilities to finance with every single purchase.",
+      "text_preview": "Ever consider that the Walton family has probably never bought anything at a Wal-Mart? \n#Bezos probably never buys a thing on Amazon. \n#Musk probably doesn't even drive...much less a #Tesla.\nBut we fu...",
+      "author": "mtnman5411.bsky.social",
+      "author_display_name": "MTNMan5411 \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-10T16:23:17.967Z",
+      "hashtags": "['#Tesla' '#Musk' '#Bezos' '#fascism' '#MAGA' '#TRUMP' '#antifascism']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:25:03.338094",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:25:10.008000",
+      "text_length": 293,
+      "text_cleaned_length": 236,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2oupc6ic2e",
+      "text": "#trump 47% of your supporters do not care that you fucked little kids. What ever Putin has on you can't be worse than that. So have some balls and stand up to Putin.",
+      "text_cleaned": "47% of your supporters do not care that you fucked little kids. What ever Putin has on you can't be worse than that. So have some balls and stand up to Putin.",
+      "text_preview": "#trump 47% of your supporters do not care that you fucked little kids. What ever Putin has on you can't be worse than that. So have some balls and stand up to Putin.",
+      "author": "patricelouise.bsky.social",
+      "author_display_name": "Patrice",
+      "created_at": "2025-08-10T16:22:07.470Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:25:03.338110",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:25:10.008000",
+      "text_length": 165,
+      "text_cleaned_length": 158,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2ovrpjnk2z",
+      "text": "Pete Hegseth supports the removal of women\u2019s right to vote #news #politics #petehegseth #trump",
+      "text_cleaned": "Pete Hegseth supports the removal of women\u2019s right to vote",
+      "text_preview": "Pete Hegseth supports the removal of women\u2019s right to vote #news #politics #petehegseth #trump",
+      "author": "nardnews.bsky.social",
+      "author_display_name": "Nard News Now",
+      "created_at": "2025-08-10T16:22:43.558Z",
+      "hashtags": "['#news' '#trump' '#politics' '#petehegseth']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:25:03.338103",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:25:10.008000",
+      "text_length": 94,
+      "text_cleaned_length": 58,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2oshyaga2z",
+      "text": "\n#NATO   #Russland   #Trump   #Ukraine   #Waffenlieferungen",
+      "text_cleaned": "",
+      "text_preview": "\n#NATO   #Russland   #Trump   #Ukraine   #Waffenlieferungen",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-10T16:21:08.630000+00:00",
+      "hashtags": "['#Waffenlieferungen' '#NATO' '#Trump' '#Ukraine' '#Russland']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:25:03.338119",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:25:10.008000",
+      "text_length": 59,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2orhqgcy2h",
+      "text": "\n#Kremlin   #Kyiv   #Putin   #Trump   #Ukraine   #Zelenskyy",
+      "text_cleaned": "",
+      "text_preview": "\n#Kremlin   #Kyiv   #Putin   #Trump   #Ukraine   #Zelenskyy",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-10T16:20:34.814621+00:00",
+      "hashtags": "['#Kyiv' '#Putin' '#Trump' '#Zelenskyy' '#Ukraine' '#Kremlin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:25:03.338128",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:25:10.008000",
+      "text_length": 59,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2oxisctc22",
+      "text": "Just more lies by taco #Trump.",
+      "text_cleaned": "Just more lies by taco .",
+      "text_preview": "Just more lies by taco #Trump.",
+      "author": "dwblack14.bsky.social",
+      "author_display_name": "DWBlack14 Geo/Engr.",
+      "created_at": "2025-08-10T16:23:41.322Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:25:03.338083",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:25:10.008000",
+      "text_length": 30,
+      "text_cleaned_length": 24,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
