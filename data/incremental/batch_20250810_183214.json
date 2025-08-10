@@ -1,0 +1,392 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_183214",
+    "post_count": 14,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 18:25:10.009000",
+    "latest_received_at": "2025-08-10 18:30:10.009000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2vuj4vac2o",
+      "text": "Another typical creep'em on the side pose, with Miss USA Erin Brady in Las Vegas in 2013. \n#Epstein #ReleasetheEpsteinFiles #Epsteingate #Fucktrump #Distractions #Ivanka #MAGA #Trump #DonaldTrump #predators #accountability #sheshed #hypocrisy #angrets",
+      "text_cleaned": "Another typical creep'em on the side pose, with Miss USA Erin Brady in Las Vegas in 2013.",
+      "text_preview": "Another typical creep'em on the side pose, with Miss USA Erin Brady in Las Vegas in 2013. \n#Epstein #ReleasetheEpsteinFiles #Epsteingate #Fucktrump #Distractions #Ivanka #MAGA #Trump #DonaldTrump #pre...",
+      "author": "walkingthefloor.bsky.social",
+      "author_display_name": "Extra large tie",
+      "created_at": "2025-08-10T18:27:17.197Z",
+      "hashtags": "['#Epsteingate' '#Ivanka' '#MAGA' '#predators' '#angrets' '#Distractions'\n '#DonaldTrump' '#Epstein' '#Trump' '#accountability'\n '#ReleasetheEpsteinFiles' '#sheshed' '#hypocrisy' '#Fucktrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:30:03.498147",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:30:10.009000",
+      "text_length": 251,
+      "text_cleaned_length": 89,
+      "hashtag_count": 14,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2vxh4t5c2j",
+      "text": "Not sure why #Trump is whining about crime in #WashingtonDC when the number of criminals was declining until just this January...",
+      "text_cleaned": "Not sure why is whining about crime in when the number of criminals was declining until just this January...",
+      "text_preview": "Not sure why #Trump is whining about crime in #WashingtonDC when the number of criminals was declining until just this January...",
+      "author": "ejacobson.bsky.social",
+      "author_display_name": "Eric Jacobson",
+      "created_at": "2025-08-10T18:28:55.750Z",
+      "hashtags": "['#Trump' '#WashingtonDC']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:30:03.498122",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:30:10.009000",
+      "text_length": 129,
+      "text_cleaned_length": 108,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2vw464642n",
+      "text": "\n#ICE   #Trump   #Washington",
+      "text_cleaned": "",
+      "text_preview": "\n#ICE   #Trump   #Washington",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T18:28:26.555074+00:00",
+      "hashtags": "['#Washington' '#Trump' '#ICE']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:30:03.498129",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:30:10.009000",
+      "text_length": 28,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2vub3bo62w",
+      "text": "\n#rights   #threats   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#rights   #threats   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T18:27:24.538888+00:00",
+      "hashtags": "['#rights' '#Trump' '#threats']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:30:03.498137",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:30:10.009000",
+      "text_length": 28,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2vkla7ts2f",
+      "text": "The 178th day after #Trump failed to end Russia's invasion of #Ukraine. Trump is a servant of #Russia.\n#TrumpRussia",
+      "text_cleaned": "The 178th day after failed to end Russia's invasion of . Trump is a servant of .",
+      "text_preview": "The 178th day after #Trump failed to end Russia's invasion of #Ukraine. Trump is a servant of #Russia.\n#TrumpRussia",
+      "author": "puc2.bsky.social",
+      "author_display_name": "Puc \ud83c\uddea\ud83c\uddfa \ud83c\uddec\ud83c\udde7 \ud83c\uddee\ud83c\uddf1 \ud83c\uddfa\ud83c\udde6 \ud83c\uddf9\ud83c\uddfc \ud83c\uddfd\ud83c\uddf0 \ud83c\uddf2\ud83c\udde9 \ud83c\uddec\ud83c\uddea",
+      "created_at": "2025-08-10T18:21:43.859Z",
+      "hashtags": "['#Trump' '#Russia' '#TrumpRussia' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205920",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 115,
+      "text_cleaned_length": 80,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2vmdwfw22u",
+      "text": "\n#Europa   #Krieg   #Moskau   #Putin   #Russland   #Sanktionen   #Selenskyj   #Trump   #Ukraine   #Verfassung   #Wolodymyr Selenskyj",
+      "text_cleaned": "Selenskyj",
+      "text_preview": "\n#Europa   #Krieg   #Moskau   #Putin   #Russland   #Sanktionen   #Selenskyj   #Trump   #Ukraine   #Verfassung   #Wolodymyr Selenskyj",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T18:22:58.989163+00:00",
+      "hashtags": "['#Trump' '#Ukraine' '#Selenskyj' '#Wolodymyr' '#Moskau' '#Verfassung'\n '#Russland' '#Krieg' '#Sanktionen' '#Europa' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205896",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 132,
+      "text_cleaned_length": 9,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2vipbr7s2m",
+      "text": "Everyone in the #DNC and state Democratic Party organizations should read this #Substack article. #Algorithms #Politics  #Trump",
+      "text_cleaned": "Everyone in the and state Democratic Party organizations should read this article.",
+      "text_preview": "Everyone in the #DNC and state Democratic Party organizations should read this #Substack article. #Algorithms #Politics  #Trump",
+      "author": "randolph0.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T18:20:40.996Z",
+      "hashtags": "['#Trump' '#Algorithms' '#Substack' '#Politics' '#DNC']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205928",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 127,
+      "text_cleaned_length": 82,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2vm6o5rc23",
+      "text": "#Russia delegation arrives in #Alaska for #Putin - #Trump summit.",
+      "text_cleaned": "delegation arrives in for - summit.",
+      "text_preview": "#Russia delegation arrives in #Alaska for #Putin - #Trump summit.",
+      "author": "grumpyskipper.bsky.social",
+      "author_display_name": "Fella \ua46d",
+      "created_at": "2025-08-10T18:22:37.794Z",
+      "hashtags": "['#Trump' '#Russia' '#Putin' '#Alaska']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205905",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 65,
+      "text_cleaned_length": 35,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2vpgkx2i2w",
+      "text": "\n#Alaska   #Arctic   #politics   #Putin   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Alaska   #Arctic   #politics   #Putin   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T18:24:42.514736+00:00",
+      "hashtags": "['#Trump' '#politics' '#Arctic' '#Alaska' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205866",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 48,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2vkeer7p2n",
+      "text": "\n#Alaska   #Putin   #Tisch   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Alaska   #Putin   #Tisch   #Trump   #Ukraine",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T18:21:52.503538+00:00",
+      "hashtags": "['#Tisch' '#Ukraine' '#Trump' '#Alaska' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205914",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 46,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2volmhpk2o",
+      "text": "www.youtube.com/post/Ugkxs07...\n#JakeBroe\n#Russia #PutinsBitch #tRump",
+      "text_cleaned": "",
+      "text_preview": "www.youtube.com/post/Ugkxs07...\n#JakeBroe\n#Russia #PutinsBitch #tRump",
+      "author": "woohzal.bsky.social",
+      "author_display_name": "Charmaine",
+      "created_at": "2025-08-10T18:23:58.478Z",
+      "hashtags": "['#tRump' '#JakeBroe' '#Russia' '#PutinsBitch']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205881",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 69,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2vpaxola2g",
+      "text": "\n#Trump   #Washington",
+      "text_cleaned": "",
+      "text_preview": "\n#Trump   #Washington",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T18:24:36.499832+00:00",
+      "hashtags": "['#Washington' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205873",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2vo44xbc2a",
+      "text": "\ud83c\udf7d\ufe0f\ud83e\udd88 #Trump Shark Chum",
+      "text_cleaned": "\ud83c\udf7d\ufe0f\ud83e\udd88 Shark Chum",
+      "text_preview": "\ud83c\udf7d\ufe0f\ud83e\udd88 #Trump Shark Chum",
+      "author": "kimbee666.bsky.social",
+      "author_display_name": "Kimbee\ud83c\udf78666",
+      "created_at": "2025-08-10T18:23:42.242Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205887",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 21,
+      "text_cleaned_length": 14,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2vikp5ss2m",
+      "text": "Hey! I got it! #Trump #DC",
+      "text_cleaned": "Hey! I got it!",
+      "text_preview": "Hey! I got it! #Trump #DC",
+      "author": "olbermann.bsky.social",
+      "author_display_name": "Keith Olbermann",
+      "created_at": "2025-08-10T18:20:36.179Z",
+      "hashtags": "['#Trump' '#DC']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 18,
+        "reposts": 2,
+        "replies": 2
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:25:03.205936",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:25:10.009000",
+      "text_length": 25,
+      "text_cleaned_length": 14,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 25.0
+    }
+  ]
+}
