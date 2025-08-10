@@ -1,0 +1,338 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_205309",
+    "post_count": 12,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 20:45:10.008000",
+    "latest_received_at": "2025-08-10 20:50:10.008000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw35kxpohs2o",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to impeach & convict racist wannabe dictator #Trump & his Admin & convict #ICE, his Minions\n\nIn 11/26, we MUST VOTE OUT #GOP\n\nTYVM @shabs14.bsky.social\n\n#BlueCrew\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel to impeach & convict racist wannabe dictator & his Admin & convict , his Minions In 11/26, we MUST VOTE OUT TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to impeach & convict racist wannabe dictator #Trump & his Admin & convict #ICE, his Minions\n\n...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-10T20:45:06.828Z",
+      "hashtags": "['#BlueCrew' '#GOP' '#Trump' '#TRUTHSOCIAL' '#Change' '#Congress' '#ICE']",
+      "mentions": "['@shabs14.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:50:03.786616",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:50:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 202,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35obp3uc2f",
+      "text": "Such a disappointment for $trumpf: \nNobody forgot \n#Epstein\n#Maxwell\n#trump\n#Epstein\n#Maxwell\n#trump. \nNot even when he tries to give away #Alaska to the #ruZZians. \nStill:\n#Epstein\n#Maxwell\n#trump",
+      "text_cleaned": "Such a disappointment for $trumpf: Nobody forgot . Not even when he tries to give away to the . Still:",
+      "text_preview": "Such a disappointment for $trumpf: \nNobody forgot \n#Epstein\n#Maxwell\n#trump\n#Epstein\n#Maxwell\n#trump. \nNot even when he tries to give away #Alaska to the #ruZZians. \nStill:\n#Epstein\n#Maxwell\n#trump",
+      "author": "ideetje9.bsky.social",
+      "author_display_name": "Inge",
+      "created_at": "2025-08-10T20:46:58.013Z",
+      "hashtags": "['#Alaska' '#trump' '#Epstein' '#ruZZians' '#Maxwell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:50:03.786604",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:50:10.008000",
+      "text_length": 197,
+      "text_cleaned_length": 102,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35reejx22m",
+      "text": "#trump #MAGA #economy",
+      "text_cleaned": "",
+      "text_preview": "#trump #MAGA #economy",
+      "author": "75338.bsky.social",
+      "author_display_name": "75338",
+      "created_at": "2025-08-10T20:48:41.468Z",
+      "hashtags": "['#trump' '#economy' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:50:03.786301",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:50:10.008000",
+      "text_length": 21,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35crmdws2f",
+      "text": "@vonderleyen.ec.europa.eu @europarl.europa.eu @ec.europa.eu #Trump is a notorious liar, a criminal, a whoremanger, most likely a paedophile but the EU gives in and in and in. Is this what Europe has been fighting for decades? To give up on everything for the first bunch of idiots who come along?",
+      "text_cleaned": ".ec.europa.eu .europa.eu .europa.eu is a notorious liar, a criminal, a whoremanger, most likely a paedophile but the EU gives in and in and in. Is this what Europe has been fighting for decades? To give up on everything for the first bunch of idiots who come along?",
+      "text_preview": "@vonderleyen.ec.europa.eu @europarl.europa.eu @ec.europa.eu #Trump is a notorious liar, a criminal, a whoremanger, most likely a paedophile but the EU gives in and in and in. Is this what Europe has b...",
+      "author": "kampfmittelfrei.bsky.social",
+      "author_display_name": "Dieter Guldin",
+      "created_at": "2025-08-10T20:40:32.046Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@ec.europa.eu' '@vonderleyen.ec.europa.eu' '@europarl.europa.eu']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:45:03.381567",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:45:10.008000",
+      "text_length": 296,
+      "text_cleaned_length": 265,
+      "hashtag_count": 1,
+      "mention_count": 3,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw35drc6d22x",
+      "text": "The #GOP embraces alternative facts as a platform. When the economy goes from a Biden along post Covid so so, to a #Recession and then full on #Trump #Depression remember who was blowing smoke up your ass. They will piss on your head and tell you it's raining as they all go under their tax shelter.",
+      "text_cleaned": "The embraces alternative facts as a platform. When the economy goes from a Biden along post Covid so so, to a and then full on remember who was blowing smoke up your ass. They will piss on your head and tell you it's raining as they all go under their tax shelter.",
+      "text_preview": "The #GOP embraces alternative facts as a platform. When the economy goes from a Biden along post Covid so so, to a #Recession and then full on #Trump #Depression remember who was blowing smoke up your...",
+      "author": "underbrush.bsky.social",
+      "author_display_name": "F. Shoemaker",
+      "created_at": "2025-08-10T20:41:05.268Z",
+      "hashtags": "['#Recession' '#Depression' '#GOP' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:45:03.381551",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:45:10.008000",
+      "text_length": 299,
+      "text_cleaned_length": 264,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35jugnks26",
+      "text": "Damit wird auch f\u00fcr alle anderen L\u00e4ndern klar: auf die #USA kann man sich nicht mehr verlassen. Somit wird Taiwan als n\u00e4chstes geopfert, wenn sie nicht genug Waffen kaufen und Geschenke machen. Israel wird auch nur unterst\u00fctzt, wenn #Trump in #Gaza Hotels bauen kann. USA = Mafia Staat",
+      "text_cleaned": "Damit wird auch f\u00fcr alle anderen L\u00e4ndern klar: auf die kann man sich nicht mehr verlassen. Somit wird Taiwan als n\u00e4chstes geopfert, wenn sie nicht genug Waffen kaufen und Geschenke machen. Israel wird auch nur unterst\u00fctzt, wenn in Hotels bauen kann. USA = Mafia Staat",
+      "text_preview": "Damit wird auch f\u00fcr alle anderen L\u00e4ndern klar: auf die #USA kann man sich nicht mehr verlassen. Somit wird Taiwan als n\u00e4chstes geopfert, wenn sie nicht genug Waffen kaufen und Geschenke machen. Israel...",
+      "author": "klatschase.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T20:44:29.888Z",
+      "hashtags": "['#Gaza' '#USA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:45:03.381502",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:45:10.008000",
+      "text_length": 285,
+      "text_cleaned_length": 267,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35j5qm6227",
+      "text": "Any know a bookie that will take my bet that Trumps press conference tomorrow will involve troops on the ground in DC? #Trump",
+      "text_cleaned": "Any know a bookie that will take my bet that Trumps press conference tomorrow will involve troops on the ground in DC?",
+      "text_preview": "Any know a bookie that will take my bet that Trumps press conference tomorrow will involve troops on the ground in DC? #Trump",
+      "author": "graemel.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T20:44:06.096Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:45:03.381508",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:45:10.008000",
+      "text_length": 125,
+      "text_cleaned_length": 118,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35gtvywq2l",
+      "text": "China's watching closely, Lindsey Graham says ahead of Trump's peace talks with Putin\n#Trump",
+      "text_cleaned": "China's watching closely, Lindsey Graham says ahead of Trump's peace talks with Putin",
+      "text_preview": "China's watching closely, Lindsey Graham says ahead of Trump's peace talks with Putin\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T20:42:48.114Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:45:03.381517",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:45:10.008000",
+      "text_length": 92,
+      "text_cleaned_length": 85,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35dcqzkk2s",
+      "text": "We are seeing this in real time, from DOD to HHS. #gopfascists #trump",
+      "text_cleaned": "We are seeing this in real time, from DOD to HHS.",
+      "text_preview": "We are seeing this in real time, from DOD to HHS. #gopfascists #trump",
+      "author": "lvcorgs.bsky.social",
+      "author_display_name": "\ud83d\udc99ErzieBlue \ud83c\udf0a\ud83d\udc36\ud83d\udd2c\ud83c\udfa8\ud83c\udf77\ud83c\uddf5\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6\ud83c\udde8\ud83c\udde6",
+      "created_at": "2025-08-10T20:40:50.026Z",
+      "hashtags": "['#gopfascists' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:45:03.381558",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:45:10.008000",
+      "text_length": 69,
+      "text_cleaned_length": 49,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35fjlnpzt2",
+      "text": "#trump #taco #obama #georgewbush #georgehbush\n\nWhat an insecure and little man Trump is .",
+      "text_cleaned": "What an insecure and little man Trump is .",
+      "text_preview": "#trump #taco #obama #georgewbush #georgehbush\n\nWhat an insecure and little man Trump is .",
+      "author": "tuckfrump.mastodon.social.ap.brid.gy",
+      "author_display_name": "The One",
+      "created_at": "2025-08-10T20:41:39.000Z",
+      "hashtags": "['#trump' '#georgewbush' '#georgehbush' '#obama' '#taco']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:45:03.381533",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:45:10.008000",
+      "text_length": 89,
+      "text_cleaned_length": 42,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35fnw2ik2f",
+      "text": "No fuck you\n\nUSA \ud83c\uddfa\ud83c\uddf8 USA \ud83c\uddfa\ud83c\uddf8 USA \ud83c\uddfa\ud83c\uddf8 \n\n#Trump #MAGA",
+      "text_cleaned": "No fuck you USA \ud83c\uddfa\ud83c\uddf8 USA \ud83c\uddfa\ud83c\uddf8 USA \ud83c\uddfa\ud83c\uddf8",
+      "text_preview": "No fuck you\n\nUSA \ud83c\uddfa\ud83c\uddf8 USA \ud83c\uddfa\ud83c\uddf8 USA \ud83c\uddfa\ud83c\uddf8 \n\n#Trump #MAGA",
+      "author": "cashtheprophet.bsky.social",
+      "author_display_name": "Cash The Prophet",
+      "created_at": "2025-08-10T20:42:08.834Z",
+      "hashtags": "['#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:45:03.381525",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:45:10.008000",
+      "text_length": 48,
+      "text_cleaned_length": 32,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw35e24oec2f",
+      "text": "#InjectionProtocolNodes #William #IPN1 #IPN0 #Trump #InjectionProtocolNode007",
+      "text_cleaned": "",
+      "text_preview": "#InjectionProtocolNodes #William #IPN1 #IPN0 #Trump #InjectionProtocolNode007",
+      "author": "wamedtrust.bsky.social",
+      "author_display_name": "William Ramsey",
+      "created_at": "2025-08-10T20:41:14.526Z",
+      "hashtags": "['#IPN0' '#Trump' '#InjectionProtocolNodes' '#William' '#IPN1'\n '#InjectionProtocolNode007']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:45:03.381542",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:45:10.008000",
+      "text_length": 77,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
