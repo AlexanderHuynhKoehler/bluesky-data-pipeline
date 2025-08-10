@@ -1,0 +1,1362 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_140222",
+    "post_count": 50,
+    "batch_size_requested": 50,
+    "batch_size_actual": 50,
+    "export_method": "simple_batch_oldest_first",
+    "posts_remaining_estimate": 11194
+  },
+  "posts": [
+    {
+      "post_id": "3lvi5uxmbqs2i",
+      "text": "Ali Abbasi \u00e7arp\u0131c\u0131 filmlere imza atan, yeni nesil, \u0130ran'l\u0131, ba\u015far\u0131l\u0131 ve \u00f6zg\u00fcn bir sinemac\u0131,, onun g\u00f6z\u00fcnden ABD ba\u015fkan\u0131 Trump'\u0131n biyografisini izlemek hem keyifli, hem de tedirgin ediciydi, \n\nd\u00fcnyan\u0131n nas\u0131l bir manyak'la y\u00f6netildi\u011fini merak ediyorsan\u0131z izleyin \u015fu filmi derim.\n\n#aliabbasi #trump",
+      "text_cleaned": "Ali Abbasi \u00e7arp\u0131c\u0131 filmlere imza atan, yeni nesil, \u0130ran'l\u0131, ba\u015far\u0131l\u0131 ve \u00f6zg\u00fcn bir sinemac\u0131,, onun g\u00f6z\u00fcnden ABD ba\u015fkan\u0131 Trump'\u0131n biyografisini izlemek hem keyifli, hem de tedirgin ediciydi, d\u00fcnyan\u0131n nas\u0131l bir manyak'la y\u00f6netildi\u011fini merak ediyorsan\u0131z izleyin \u015fu filmi derim.",
+      "text_preview": "Ali Abbasi \u00e7arp\u0131c\u0131 filmlere imza atan, yeni nesil, \u0130ran'l\u0131, ba\u015far\u0131l\u0131 ve \u00f6zg\u00fcn bir sinemac\u0131,, onun g\u00f6z\u00fcnden ABD ba\u015fkan\u0131 Trump'\u0131n biyografisini izlemek hem keyifli, hem de tedirgin ediciydi, \n\nd\u00fcnyan\u0131n ...",
+      "author": "depresifsinan.bsky.social",
+      "author_display_name": "F Y Sinano\u011flu",
+      "created_at": "2025-08-03T07:30:07.275Z",
+      "hashtags": "['#trump' '#aliabbasi']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:35:03.148226",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 294,
+      "text_cleaned_length": 273,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi4ro7cz22c",
+      "text": "Der Zollkrimi \u2013 das #Protokoll\nWas beim Telefonat zwischen #Trump und Keller-Sutter #KKS wirklich geschah\nwww.blick.ch/politik/der-...",
+      "text_cleaned": "Der Zollkrimi \u2013 das Was beim Telefonat zwischen und Keller-Sutter wirklich geschah",
+      "text_preview": "Der Zollkrimi \u2013 das #Protokoll\nWas beim Telefonat zwischen #Trump und Keller-Sutter #KKS wirklich geschah\nwww.blick.ch/politik/der-...",
+      "author": "mb81089900.bsky.social",
+      "author_display_name": "mb ",
+      "created_at": "2025-08-03T07:10:23.020Z",
+      "hashtags": "['#KKS' '#Trump' '#Protokoll']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:20:03.690687",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 134,
+      "text_cleaned_length": 82,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi7uhv5j225",
+      "text": "\ud83d\udca5 #DecretoFlussi 2026-2028: il tuo futuro \u00e8 a rischio con questi numeri da capogiro? \ud83d\ude31 Impatti immediati sul mercato del lavoro \ud83d\udea8 Scopri come su ORA ULTIMA: www.oraultima.com/decreto-flus...\n\n#OraUltima #3agosto #saelanews #buongiorno #italia #news #economia #finanza #economy #finance #money",
+      "text_cleaned": "\ud83d\udca5 2026-2028: il tuo futuro \u00e8 a rischio con questi numeri da capogiro? \ud83d\ude31 Impatti immediati sul mercato del lavoro \ud83d\udea8 Scopri come su ORA ULTIMA:",
+      "text_preview": "\ud83d\udca5 #DecretoFlussi 2026-2028: il tuo futuro \u00e8 a rischio con questi numeri da capogiro? \ud83d\ude31 Impatti immediati sul mercato del lavoro \ud83d\udea8 Scopri come su ORA ULTIMA: www.oraultima.com/decreto-flus...\n\n#OraUlti...",
+      "author": "oraultima.bsky.social",
+      "author_display_name": "ORA ULTIMA",
+      "created_at": "2025-08-03T08:05:38.285Z",
+      "hashtags": "['#news' '#finanza' '#economy' '#3agosto' '#DecretoFlussi' '#italia'\n '#buongiorno' '#finance' '#money' '#OraUltima' '#saelanews' '#economia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T08:15:03.004904",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 292,
+      "text_cleaned_length": 141,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi5vdgn2h2p",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #OC\n4. #MarchForHumanity\n5. #auspol\n6. #Trump\n7. #TOSSatNight\n8. #Gaza\n9. #digitalart\n10. #FreePalestine\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #art\n3. #OC\n4. #MarchForHumanity\n5. #auspol\n6. #Trump\n7. #TOSSatNight\n8. #Gaza\n9. #digitalart\n10. #FreePalestine\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-03T07:30:19Z",
+      "hashtags": "['#digitalart' '#Gaza' '#OC' '#bb27' '#TOSSatNight' '#auspol'\n '#MarchForHumanity' '#FreePalestine' '#Trump' '#art']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:35:03.148219",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 190,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvh2voj6ps26",
+      "text": "Biden's Dementia led to Trump winning Selection 2024, plus The 1%ers economy and The Great Genocide. A Financial Pirate with a Broken Rudder #Biden",
+      "text_cleaned": "Biden's Dementia led to Trump winning Selection 2024, plus The 1%ers economy and The Great Genocide. A Financial Pirate with a Broken Rudder",
+      "text_preview": "Biden's Dementia led to Trump winning Selection 2024, plus The 1%ers economy and The Great Genocide. A Financial Pirate with a Broken Rudder #Biden",
+      "author": "bargdaffy.bsky.social",
+      "author_display_name": "Bargdaffy",
+      "created_at": "2025-08-02T21:04:10.338Z",
+      "hashtags": "['#Biden']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033551",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 147,
+      "text_cleaned_length": 140,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhdu5dkts2a",
+      "text": "Biden's DOJ? In 2020??? I feel like I'm taking crazy pills. \n\n#DOJ #BIDEN #EPSTEIN #PEDOTRUMP",
+      "text_cleaned": "Biden's DOJ? In 2020??? I feel like I'm taking crazy pills.",
+      "text_preview": "Biden's DOJ? In 2020??? I feel like I'm taking crazy pills. \n\n#DOJ #BIDEN #EPSTEIN #PEDOTRUMP",
+      "author": "pieholepete.bsky.social",
+      "author_display_name": "Pak Chewy Unf",
+      "created_at": "2025-08-02T23:44:22.450Z",
+      "hashtags": "['#PEDOTRUMP' '#DOJ' '#BIDEN' '#EPSTEIN']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 2
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033522",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 93,
+      "text_cleaned_length": 59,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 6.5
+    },
+    {
+      "post_id": "3lvi4hbavm222",
+      "text": "Bravo #Australia, Bravo #Sydney for raising a large middle finger to #Netanyahu and #Trump genocide in #Gaza and the #Westbank. #Palestine #auspol #Israel #Gaza #UK #US",
+      "text_cleaned": "Bravo , Bravo for raising a large middle finger to and genocide in and the .",
+      "text_preview": "Bravo #Australia, Bravo #Sydney for raising a large middle finger to #Netanyahu and #Trump genocide in #Gaza and the #Westbank. #Palestine #auspol #Israel #Gaza #UK #US",
+      "author": "parahandie.bsky.social",
+      "author_display_name": "Kevin MacKenzie",
+      "created_at": "2025-08-03T07:04:33.895Z",
+      "hashtags": "['#Netanyahu' '#Israel' '#Australia' '#auspol' '#UK' '#Palestine'\n '#Westbank' '#Sydney' '#US' '#Gaza' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:05:03.536311",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 168,
+      "text_cleaned_length": 76,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi2kn674k2g",
+      "text": "Sembra incredibile eppure siamo a questo punto.\n#Usa #Ice #Trump",
+      "text_cleaned": "Sembra incredibile eppure siamo a questo punto.",
+      "text_preview": "Sembra incredibile eppure siamo a questo punto.\n#Usa #Ice #Trump",
+      "author": "mytuscany.bsky.social",
+      "author_display_name": "Stella",
+      "created_at": "2025-08-03T06:30:39.569Z",
+      "hashtags": "['#Ice' '#Trump' '#Usa']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:45:03.611011",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 64,
+      "text_cleaned_length": 47,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvia66fb6j2q",
+      "text": "\n#Sonderermittler   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Sonderermittler   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-03T08:11:11.811280+00:00",
+      "hashtags": "['#Trump' '#Sonderermittler']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T08:15:03.005231",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 26,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi6engn3z25",
+      "text": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/vFD68aqI",
+      "text_cleaned": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... .ai",
+      "text_preview": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-03T07:38:53.203Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:40:03.227045",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 280,
+      "text_cleaned_length": 237,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhwicb6nci2",
+      "text": "#Trump \ud83d\udd25 Fyrer du sandheden for smiger, f\u00e5r du falskhed der bliver din undergang. Kong Lear valgte ogs\u00e5 de smigrende d\u00f8tre over den, der talte sandt.\n\n#KongLear\nhttps://nyheder.tv2.dk/udland/2025-08-02-trump-fyrer-statistikchef-efter-tal-der-fik-ham-til-at-se-dum-ud",
+      "text_cleaned": "\ud83d\udd25 Fyrer du sandheden for smiger, f\u00e5r du falskhed der bliver din undergang. Kong Lear valgte ogs\u00e5 de smigrende d\u00f8tre over den, der talte sandt.",
+      "text_preview": "#Trump \ud83d\udd25 Fyrer du sandheden for smiger, f\u00e5r du falskhed der bliver din undergang. Kong Lear valgte ogs\u00e5 de smigrende d\u00f8tre over den, der talte sandt.\n\n#KongLear\nhttps://nyheder.tv2.dk/udland/2025-08-0...",
+      "author": "ricoroswallpedersen.mastodon.nu.ap.brid.gy",
+      "author_display_name": "Rico_Roswall",
+      "created_at": "2025-08-03T05:17:37.000Z",
+      "hashtags": "['#Trump' '#KongLear']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T05:20:04.303632",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 266,
+      "text_cleaned_length": 142,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvh6yfxzvs2i",
+      "text": "A Bellwether's Warning: What Robert Half's Financials Signal About the Broader Job Market\n#RobertHalf #RHI #StockMarket #JobsReport #Economy #Finance #Staffing #Protiviti #FactRage #FactRageNews\n                \ntglm.us/eR36P",
+      "text_cleaned": "A Bellwether's Warning: What Robert Half's Financials Signal About the Broader Job Market tglm.us/eR36P",
+      "text_preview": "A Bellwether's Warning: What Robert Half's Financials Signal About the Broader Job Market\n#RobertHalf #RHI #StockMarket #JobsReport #Economy #Finance #Staffing #Protiviti #FactRage #FactRageNews\n     ...",
+      "author": "factrage.bsky.social",
+      "author_display_name": "FactRage",
+      "created_at": "2025-08-02T22:17:17.020Z",
+      "hashtags": "['#RHI' '#RobertHalf' '#Protiviti' '#StockMarket' '#Finance' '#JobsReport'\n '#Staffing' '#FactRageNews' '#FactRage' '#Economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033282",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 225,
+      "text_cleaned_length": 103,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhydgdiqs2w",
+      "text": "The poor ignorant POTUS does it again. Can't he do anything right? LOL #Trump #Japan",
+      "text_cleaned": "The poor ignorant POTUS does it again. Can't he do anything right? LOL",
+      "text_preview": "The poor ignorant POTUS does it again. Can't he do anything right? LOL #Trump #Japan",
+      "author": "josephscientist.bsky.social",
+      "author_display_name": "joseph ravick",
+      "created_at": "2025-08-03T05:50:50.032Z",
+      "hashtags": "['#Trump' '#Japan']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:15:03.577579",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 84,
+      "text_cleaned_length": 70,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi54sc3t22a",
+      "text": "This is what #Trump #Starmer #Macron #Mertz #Carney #vonderleyen  and others have helped #Netanyahu  do to #Gaza.\nThe #PalestineState must be recognised, without any conditions, and all the above must pay reparation to return #Gaza and #Palestine to its former glory, and without illegal settlements.",
+      "text_cleaned": "This is what and others have helped do to . The must be recognised, without any conditions, and all the above must pay reparation to return and to its former glory, and without illegal settlements.",
+      "text_preview": "This is what #Trump #Starmer #Macron #Mertz #Carney #vonderleyen  and others have helped #Netanyahu  do to #Gaza.\nThe #PalestineState must be recognised, without any conditions, and all the above must...",
+      "author": "lynnerosie.bsky.social",
+      "author_display_name": "Lynne Gray",
+      "created_at": "2025-08-03T07:16:36.401Z",
+      "hashtags": "['#vonderleyen' '#Netanyahu' '#PalestineState' '#Carney' '#Starmer'\n '#Palestine' '#Macron' '#Trump' '#Gaza' '#Mertz']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 3,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:35:03.148338",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 300,
+      "text_cleaned_length": 197,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lvi27ppmds2a",
+      "text": "#JackSmith has prosecuted war criminals at The Hague, convicted members of Congress from both parties, & brought charges against a sitting governor & #Trump.\nDespite threats & political pressure, he has never backed down or dropped a case.\n\n#Republicans have no one of his caliber to challenge him.",
+      "text_cleaned": "has prosecuted war criminals at The Hague, convicted members of Congress from both parties, & brought charges against a sitting governor & . Despite threats & political pressure, he has never backed down or dropped a case. have no one of his caliber to challenge him.",
+      "text_preview": "#JackSmith has prosecuted war criminals at The Hague, convicted members of Congress from both parties, & brought charges against a sitting governor & #Trump.\nDespite threats & political pressure, he h...",
+      "author": "aprivateguy.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-03T06:24:33.139Z",
+      "hashtags": "['#Republicans' '#JackSmith' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:45:03.611116",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 298,
+      "text_cleaned_length": 267,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi3hwv3oo2q",
+      "text": "\n#Handelsbeziehungen   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Handelsbeziehungen   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-03T06:47:10.844208+00:00",
+      "hashtags": "['#Handelsbeziehungen' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:55:03.898928",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 29,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi7hnemek2v",
+      "text": "#KarlToldYouSo! The whole #Trump -Regime is the most successful #KGB Operation of all Time.\nAnd the biggest heist on a Nations Wealth since the \"Sacco di Roma\" or the looting of Constantinople in the 4.Crusade.\nen.m.wikipedia.org/wiki/Sack_of...",
+      "text_cleaned": "! The whole -Regime is the most successful Operation of all Time. And the biggest heist on a Nations Wealth since the \"Sacco di Roma\" or the looting of Constantinople in the 4.Crusade. en.m.wikipedia.org/wiki/Sack_of...",
+      "text_preview": "#KarlToldYouSo! The whole #Trump -Regime is the most successful #KGB Operation of all Time.\nAnd the biggest heist on a Nations Wealth since the \"Sacco di Roma\" or the looting of Constantinople in the ...",
+      "author": "karlmelnyk.bsky.social",
+      "author_display_name": "Karl Melnyk",
+      "created_at": "2025-08-03T07:58:27.819Z",
+      "hashtags": "['#KGB' '#KarlToldYouSo' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T08:05:03.640044",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 245,
+      "text_cleaned_length": 219,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhhcjkg5k2i",
+      "text": "#Harris\n#biden\n#genocide\nAnd continued by\n#trump",
+      "text_cleaned": "And continued by",
+      "text_preview": "#Harris\n#biden\n#genocide\nAnd continued by\n#trump",
+      "author": "eddy-comrade25.bsky.social",
+      "author_display_name": "N99mani",
+      "created_at": "2025-08-03T00:46:06.246Z",
+      "hashtags": "['#biden' '#genocide' '#trump' '#Harris']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033515",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 48,
+      "text_cleaned_length": 16,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhtpv6iv22j",
+      "text": "After 60,000 #Palestinian martyrs, the US ambassador to Israel: If Israel is committing genocide in Gaza, it has failed. No country, including America, is taking the steps Israel is taking to try to reduce the number of civilian casualties. #iran #elonmusk #trump #BBNaijaS10",
+      "text_cleaned": "After 60,000 martyrs, the US ambassador to Israel: If Israel is committing genocide in Gaza, it has failed. No country, including America, is taking the steps Israel is taking to try to reduce the number of civilian casualties.",
+      "text_preview": "After 60,000 #Palestinian martyrs, the US ambassador to Israel: If Israel is committing genocide in Gaza, it has failed. No country, including America, is taking the steps Israel is taking to try to r...",
+      "author": "bahraintoday.bsky.social",
+      "author_display_name": "Bahrain Today | \u0628\u062d\u0631\u064a\u0646 \u0627\u0644\u064a\u0648\u0645 \ud83c\udde7\ud83c\udded",
+      "created_at": "2025-08-03T04:28:19.539Z",
+      "hashtags": "['#trump' '#iran' '#elonmusk' '#Palestinian' '#BBNaijaS10']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:40:04.202075",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 275,
+      "text_cleaned_length": 227,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvhwsmyu2s2w",
+      "text": "At this point the only real question is, is the President of the United States of America a pedophile protecting himself,  or an elite billionaire protecting elite pedophiles?\n#Epstein #EpsteinFiles #trump #TrumpsteinFiles #PedoPrez #PresidentChomo\n#LolitaExpress\n#GrandOldPedophiles",
+      "text_cleaned": "At this point the only real question is, is the President of the United States of America a pedophile protecting himself, or an elite billionaire protecting elite pedophiles?",
+      "text_preview": "At this point the only real question is, is the President of the United States of America a pedophile protecting himself,  or an elite billionaire protecting elite pedophiles?\n#Epstein #EpsteinFiles #...",
+      "author": "jstrevelin.bsky.social",
+      "author_display_name": "JstReveln",
+      "created_at": "2025-08-03T05:23:32.863Z",
+      "hashtags": "['#EpsteinFiles' '#GrandOldPedophiles' '#trump' '#Epstein'\n '#PresidentChomo' '#LolitaExpress' '#TrumpsteinFiles' '#PedoPrez']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T05:40:03.192153",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 283,
+      "text_cleaned_length": 174,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvgtw2xy7k2d",
+      "text": "#Americans Didn\u2019t Embrace #Trump, They Rejected #Biden #Harris admin. Nov 6, 2024 \u00b7 #DonaldTrump victory over #KamalaHarris does not reflect some deep vein of support for his gross #behavior. It is a #rejection of a party whose record and #rhetoric #alienated the #public deeply.\n#DemocraticParty",
+      "text_cleaned": "Didn\u2019t Embrace , They Rejected admin. Nov 6, 2024 \u00b7 victory over does not reflect some deep vein of support for his gross . It is a of a party whose record and the deeply.",
+      "text_preview": "#Americans Didn\u2019t Embrace #Trump, They Rejected #Biden #Harris admin. Nov 6, 2024 \u00b7 #DonaldTrump victory over #KamalaHarris does not reflect some deep vein of support for his gross #behavior. It is a ...",
+      "author": "usaneeds3rdparty.bsky.social",
+      "author_display_name": "Independent Moderate",
+      "created_at": "2025-08-02T18:59:07.214Z",
+      "hashtags": "['#Americans' '#rejection' '#DemocraticParty' '#behavior' '#rhetoric'\n '#Trump' '#KamalaHarris' '#alienated' '#Biden' '#DonaldTrump' '#public'\n '#Harris']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033586",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 296,
+      "text_cleaned_length": 171,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhtcidyk72j",
+      "text": "\n#liveblog   #Putin   #Trump   #Zollpolitik",
+      "text_cleaned": "",
+      "text_preview": "\n#liveblog   #Putin   #Trump   #Zollpolitik",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-03T04:20:58.007698+00:00",
+      "hashtags": "['#Trump' '#liveblog' '#Putin' '#Zollpolitik']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:40:04.202169",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 43,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhubwj3fs2p",
+      "text": "Pumpkin Spice Palpatine is whining again. #trump #taco #asshat",
+      "text_cleaned": "Pumpkin Spice Palpatine is whining again.",
+      "text_preview": "Pumpkin Spice Palpatine is whining again. #trump #taco #asshat",
+      "author": "bkcoulter.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-03T04:38:24.924Z",
+      "hashtags": "['#trump' '#asshat' '#taco']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:40:04.201940",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 62,
+      "text_cleaned_length": 41,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvi36rv5cb2j",
+      "text": "Special Counsel Jack Smith, who investigated Trump, is now under investigation for alleged \u201cillegal political actions.\u201d \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\u2696\ufe0f #Trump #JackSmith #Investigation #US #KokchaNews",
+      "text_cleaned": "Special Counsel Jack Smith, who investigated Trump, is now under investigation for alleged \u201cillegal political actions.\u201d \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\u2696\ufe0f",
+      "text_preview": "Special Counsel Jack Smith, who investigated Trump, is now under investigation for alleged \u201cillegal political actions.\u201d \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\u2696\ufe0f #Trump #JackSmith #Investigation #US #KokchaNews",
+      "author": "kokchapress.bsky.social",
+      "author_display_name": "Kokchapress",
+      "created_at": "2025-08-03T06:41:53Z",
+      "hashtags": "['#Investigation' '#JackSmith' '#Trump' '#KokchaNews' '#US']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:45:03.610881",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 176,
+      "text_cleaned_length": 127,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhwuknvr225",
+      "text": "competition\u2019s prices go up 15% from tariffs, and you\u2019re now under priced in the market, you will raise prices. \n\nPlus, if your employees are now having to pay more for everything, they are going to want/need raises. That will raise your costs, and you will raise your prices. \n\nThese #Trump people\n2/",
+      "text_cleaned": "competition\u2019s prices go up 15% from tariffs, and you\u2019re now under priced in the market, you will raise prices. Plus, if your employees are now having to pay more for everything, they are going to want/need raises. That will raise your costs, and you will raise your prices. These people 2/",
+      "text_preview": "competition\u2019s prices go up 15% from tariffs, and you\u2019re now under priced in the market, you will raise prices. \n\nPlus, if your employees are now having to pay more for everything, they are going to wa...",
+      "author": "thetd.bsky.social",
+      "author_display_name": "IMPEACH & REMOVE",
+      "created_at": "2025-08-03T05:24:37.264Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T05:40:03.192144",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 300,
+      "text_cleaned_length": 289,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvi2w4rivk2j",
+      "text": "Now you know\nyou shouldn\u2019t speak\ud83e\udd2b\nof libraries - \n\n#Trump hates libraries\ud83d\udcda\n\nIf you don\u2019t be careful, he\u2019ll sling that old sharpie\u270d\ufe0f\n\n-not auto pen\ud83d\ude44\n\n-put it in his old tired hand &\n\nsign an EO\ud83d\ude2c\nTo ban libraries\ud83e\udd28\n\nBcuz the less educated the better!\ud83d\ude21\n\nBTW, I\u2019m glad you found your movie\ud83d\ude09",
+      "text_cleaned": "Now you know you shouldn\u2019t speak\ud83e\udd2b of libraries - hates libraries\ud83d\udcda If you don\u2019t be careful, he\u2019ll sling that old sharpie\u270d\ufe0f -not auto pen\ud83d\ude44 -put it in his old tired hand & sign an EO\ud83d\ude2c To ban libraries\ud83e\udd28 Bcuz the less educated the better!\ud83d\ude21 BTW, I\u2019m glad you found your movie\ud83d\ude09",
+      "text_preview": "Now you know\nyou shouldn\u2019t speak\ud83e\udd2b\nof libraries - \n\n#Trump hates libraries\ud83d\udcda\n\nIf you don\u2019t be careful, he\u2019ll sling that old sharpie\u270d\ufe0f\n\n-not auto pen\ud83d\ude44\n\n-put it in his old tired hand &\n\nsign an EO\ud83d\ude2c\nTo ban...",
+      "author": "no-dm.bsky.social",
+      "author_display_name": "No DM",
+      "created_at": "2025-08-03T06:37:05.030Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:45:03.610950",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 285,
+      "text_cleaned_length": 270,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi2d3w6422t",
+      "text": "La industria de la deportaci\u00f3n es un negocio de 45.000 $ \n\n-Con el Proyecto 2025 y las pol\u00edticas de #Trump, el sufrimiento humano se monetiza con dinero p\u00fablico.\n\n-Empresas privadas como GEO Group disparan sus beneficios con m\u00e1s arrestos y menos derechos. \nglobalextremism.org/post/the-depor\u2026",
+      "text_cleaned": "La industria de la deportaci\u00f3n es un negocio de 45.000 $ -Con el Proyecto 2025 y las pol\u00edticas de , el sufrimiento humano se monetiza con dinero p\u00fablico. -Empresas privadas como GEO Group disparan sus beneficios con m\u00e1s arrestos y menos derechos. globalextremism.org/post/the-depor\u2026",
+      "text_preview": "La industria de la deportaci\u00f3n es un negocio de 45.000 $ \n\n-Con el Proyecto 2025 y las pol\u00edticas de #Trump, el sufrimiento humano se monetiza con dinero p\u00fablico.\n\n-Empresas privadas como GEO Group dis...",
+      "author": "annalopez.bsky.social",
+      "author_display_name": "Anna L\u00f3pez",
+      "created_at": "2025-08-03T06:26:26.585Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:45:03.611092",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 292,
+      "text_cleaned_length": 282,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvghonstks2p",
+      "text": "It goes without saying, but if Biden fired the Commissioner of the BLS and moved a Hannibal Lecter-level monster to a dormitory-style prison, it would be the end of him and his government. #biden #trump #maxweell #bls #usa",
+      "text_cleaned": "It goes without saying, but if Biden fired the Commissioner of the BLS and moved a Hannibal Lecter-level monster to a dormitory-style prison, it would be the end of him and his government.",
+      "text_preview": "It goes without saying, but if Biden fired the Commissioner of the BLS and moved a Hannibal Lecter-level monster to a dormitory-style prison, it would be the end of him and his government. #biden #tru...",
+      "author": "mister-sterling.bsky.social",
+      "author_display_name": "Brendan MacWade",
+      "created_at": "2025-08-02T15:20:13.631Z",
+      "hashtags": "['#usa' '#trump' '#biden' '#bls' '#maxweell']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033683",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 222,
+      "text_cleaned_length": 188,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 5.5
+    },
+    {
+      "post_id": "3lvgpyhuipvq2",
+      "text": "TikTok can shape America\u2019s next generation and Beijing knows it Young Americans are being asked to unwittingly face off against an algorithm that is likely a tool of Chinese intelligence services.\n\n#National #Security #Opinion #Beijing #ByteDance #Donald #Trump [\u2026] \n\n[Original post on thehill.com]",
+      "text_cleaned": "TikTok can shape America\u2019s next generation and Beijing knows it Young Americans are being asked to unwittingly face off against an algorithm that is likely a tool of Chinese intelligence services. [\u2026] [Original post on thehill.com]",
+      "text_preview": "TikTok can shape America\u2019s next generation and Beijing knows it Young Americans are being asked to unwittingly face off against an algorithm that is likely a tool of Chinese intelligence services.\n\n#N...",
+      "author": "tiktok.activitypub.awakari.com.ap.brid.gy",
+      "author_display_name": "TikTok",
+      "created_at": "2025-08-02T17:00:00.000Z",
+      "hashtags": "['#Beijing' '#Trump' '#Donald' '#Security' '#ByteDance' '#National'\n '#Opinion']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033667",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 298,
+      "text_cleaned_length": 231,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi6tt6rkm26",
+      "text": "8/3/25 It's almost 2AM but I feel the need to tweet about Charlamagne tha God because he sucks so bad and pisses me off! Charlamagne tha Dumb, amiright?!! (1:49am) https://www.reddit.com/r/trumptweets/comments/1mgck30/8325_its_almost_2am_but_i_feel_the_need_to_tweet/\n#truthsocial #trump",
+      "text_cleaned": "8/3/25 It's almost 2AM but I feel the need to tweet about Charlamagne tha God because he sucks so bad and pisses me off! Charlamagne tha Dumb, amiright?!! (1:49am)",
+      "text_preview": "8/3/25 It's almost 2AM but I feel the need to tweet about Charlamagne tha God because he sucks so bad and pisses me off! Charlamagne tha Dumb, amiright?!! (1:49am) https://www.reddit.com/r/trumptweets...",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-03T07:47:22.321Z",
+      "hashtags": "['#trump' '#truthsocial']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:55:03.439578",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 287,
+      "text_cleaned_length": 163,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi47oyj6e2v",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #Art\n3. #oc\n4. #marchforhumanity\n5. #digitalart\n6. #Trump\n7. #TOSSatNight\n8. #auspol\n9. #caturday\n10. #frightclub\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #bb27\n2. #Art\n3. #oc\n4. #marchforhumanity\n5. #digitalart\n6. #Trump\n7. #TOSSatNight\n8. #auspol\n9. #caturday\n10. #frightclub\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-03T07:00:19Z",
+      "hashtags": "['#Trump' '#digitalart' '#frightclub' '#caturday' '#Art' '#auspol'\n '#marchforhumanity' '#bb27' '#TOSSatNight' '#oc']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:05:03.536383",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 191,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvia55jylm2j",
+      "text": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/vFD68aqI",
+      "text_cleaned": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... .ai",
+      "text_preview": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-03T08:10:29.249Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T08:15:03.005244",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 280,
+      "text_cleaned_length": 237,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvh2avpfy22c",
+      "text": "#Biden: \u201cThere are moments so stark that they divide all that came before and everything that followed. Moments that force us to confront hard truths about ourselves, our institutions and democracy itself. We are in my view at such a moment in American history.\u201d\n\nShort vid w/ link to full speech:",
+      "text_cleaned": ": \u201cThere are moments so stark that they divide all that came before and everything that followed. Moments that force us to confront hard truths about ourselves, our institutions and democracy itself. We are in my view at such a moment in American history.\u201d Short vid w/ link to full speech:",
+      "text_preview": "#Biden: \u201cThere are moments so stark that they divide all that came before and everything that followed. Moments that force us to confront hard truths about ourselves, our institutions and democracy it...",
+      "author": "americanabroad.bsky.social",
+      "author_display_name": "Clairemont",
+      "created_at": "2025-08-02T20:52:33.237Z",
+      "hashtags": "['#Biden']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033557",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 297,
+      "text_cleaned_length": 290,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvhzsy5jth2t",
+      "text": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/vFD68aqI",
+      "text_cleaned": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... .ai",
+      "text_preview": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he...",
+      "author": "cosmicmeta.io",
+      "author_display_name": "Cosmic Meta IO",
+      "created_at": "2025-08-03T06:17:25.600Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:20:03.660736",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 280,
+      "text_cleaned_length": 237,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi7howly22f",
+      "text": "Trump fired BLS chief Erika McEntarfer, claiming she faked job numbers to hurt him\u2014without evidence. Experts say revisions were routine, not rigged. Critics see it as another attack on independent institutions. #BLS #Trump #JobsReport #FactCheck\n\nwww.aljazeera.com/economy/2025...",
+      "text_cleaned": "Trump fired BLS chief Erika McEntarfer, claiming she faked job numbers to hurt him\u2014without evidence. Experts say revisions were routine, not rigged. Critics see it as another attack on independent institutions.",
+      "text_preview": "Trump fired BLS chief Erika McEntarfer, claiming she faked job numbers to hurt him\u2014without evidence. Experts say revisions were routine, not rigged. Critics see it as another attack on independent ins...",
+      "author": "ian-papa.bsky.social",
+      "author_display_name": "Ian Chai",
+      "created_at": "2025-08-03T07:58:29.465Z",
+      "hashtags": "['#BLS' '#FactCheck' '#JobsReport' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T08:05:03.640034",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 280,
+      "text_cleaned_length": 210,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvi52jzaeq2x",
+      "text": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/vFD68aqI",
+      "text_cleaned": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... .ai",
+      "text_preview": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he...",
+      "author": "cosmicmeta.ai",
+      "author_display_name": "Cosmic Meta AI",
+      "created_at": "2025-08-03T07:15:20.305Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:35:03.148364",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 280,
+      "text_cleaned_length": 237,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhvaxyohk2d",
+      "text": "When you do numbers with crayons:\n\nCan\u2019t even call #Trump a President for he can\u2019t even run a cafe. \n\nFire everyone who knows what they are doing.  Take credit where no credit is warranted.  \n\n#America you have a Pedophile/Felon/sexual predator & a thief in the WH.\n\nyoutu.be/zaJjkmux_4E?...",
+      "text_cleaned": "When you do numbers with crayons: Can\u2019t even call a President for he can\u2019t even run a cafe. Fire everyone who knows what they are doing. Take credit where no credit is warranted. you have a Pedophile/Felon/sexual predator & a thief in the WH. youtu.be/zaJjkmux_4E?...",
+      "text_preview": "When you do numbers with crayons:\n\nCan\u2019t even call #Trump a President for he can\u2019t even run a cafe. \n\nFire everyone who knows what they are doing.  Take credit where no credit is warranted.  \n\n#Americ...",
+      "author": "sheri89.bsky.social",
+      "author_display_name": "Sheri-Anne",
+      "created_at": "2025-08-03T04:55:46.670Z",
+      "hashtags": "['#Trump' '#America']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T05:10:03.461865",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 291,
+      "text_cleaned_length": 267,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvi342bbw22f",
+      "text": "#trump #gop #republicans #epstein #guiffre",
+      "text_cleaned": "",
+      "text_preview": "#trump #gop #republicans #epstein #guiffre",
+      "author": "hrfg.bsky.social",
+      "author_display_name": "Concerned human",
+      "created_at": "2025-08-03T06:40:23.728Z",
+      "hashtags": "['#epstein' '#guiffre' '#gop' '#republicans' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:45:03.610923",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 42,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi5ayaulc2i",
+      "text": "1/12 \ud83c\uddfa\ud83c\uddf8 SCIENTISTS SLAM TRUMP CLIMATE REPORT AS A 'FARCE' \ud83c\uddfa\ud83c\uddf8 \n\nA new Trump administration report attempting to justify rolling back environmental regulations is \"chock-full of climate misinformation.\"\n\nThe scientific community is furious. \n#ClimateScience #Trump",
+      "text_cleaned": "1/12 \ud83c\uddfa\ud83c\uddf8 SCIENTISTS SLAM TRUMP CLIMATE REPORT AS A 'FARCE' \ud83c\uddfa\ud83c\uddf8 A new Trump administration report attempting to justify rolling back environmental regulations is \"chock-full of climate misinformation.\" The scientific community is furious.",
+      "text_preview": "1/12 \ud83c\uddfa\ud83c\uddf8 SCIENTISTS SLAM TRUMP CLIMATE REPORT AS A 'FARCE' \ud83c\uddfa\ud83c\uddf8 \n\nA new Trump administration report attempting to justify rolling back environmental regulations is \"chock-full of climate misinformation.\"...",
+      "author": "electricbluesfan.bsky.social",
+      "author_display_name": "RichardJR",
+      "created_at": "2025-08-03T07:18:56.873Z",
+      "hashtags": "['#ClimateScience' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 2,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T07:35:03.148328",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 262,
+      "text_cleaned_length": 235,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 6.0
+    },
+    {
+      "post_id": "3lvhl4lkdec23",
+      "text": "@economist.com #economy\n@cnbc.com @bloomberg.com @madmoneyoncnbc.bsky.social @financialtimes.com #Fox @wsj.com @barrons.com @foxnews.com.web.brid.gy",
+      "text_cleaned": ".com .com .com .bsky.social .com .com .com .com.web.brid.gy",
+      "text_preview": "@economist.com #economy\n@cnbc.com @bloomberg.com @madmoneyoncnbc.bsky.social @financialtimes.com #Fox @wsj.com @barrons.com @foxnews.com.web.brid.gy",
+      "author": "jeaucitizen.bsky.social",
+      "author_display_name": "Jeau Citizen",
+      "created_at": "2025-08-03T01:54:21.969Z",
+      "hashtags": "['#Fox' '#economy']",
+      "mentions": "['@barrons.com' '@economist.com' '@bloomberg.com' '@financialtimes.com'\n '@foxnews.com.web.brid.gy' '@madmoneyoncnbc.bsky.social' '@wsj.com'\n '@cnbc.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033143",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 148,
+      "text_cleaned_length": 59,
+      "hashtag_count": 2,
+      "mention_count": 8,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvh7cfua6s25",
+      "text": "Until Trump Fired Her, She Was an Economist With Bipartisan Support Erika McEntarfer led the agency that produced key data on jobs and inflation. Then July\u00e2\u0080\u0099s report showed a weakening economy, and President Trump accused her of... @cosmicmeta.ai #Economy\n\nhttps://u2m.io/YHvcrmAp",
+      "text_cleaned": "Until Trump Fired Her, She Was an Economist With Bipartisan Support Erika McEntarfer led the agency that produced key data on jobs and inflation. Then July\u00e2\u0080\u0099s report showed a weakening economy, and President Trump accused her of... .ai",
+      "text_preview": "Until Trump Fired Her, She Was an Economist With Bipartisan Support Erika McEntarfer led the agency that produced key data on jobs and inflation. Then July\u00e2\u0080\u0099s report showed a weakening economy, and P...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-02T22:22:52.271Z",
+      "hashtags": "['#Economy']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033265",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 281,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvh3c3yaic26",
+      "text": "Biden's Dementia led to Trump winning Selection 2024, plus The 1%ers economy and The Great Genocide. A Financial Pirate with a Broken Rudder. \"We are going to have a Ceasefire by Monday\", For two Million Folks in Gaza Monday never came. #Biden",
+      "text_cleaned": "Biden's Dementia led to Trump winning Selection 2024, plus The 1%ers economy and The Great Genocide. A Financial Pirate with a Broken Rudder. \"We are going to have a Ceasefire by Monday\", For two Million Folks in Gaza Monday never came.",
+      "text_preview": "Biden's Dementia led to Trump winning Selection 2024, plus The 1%ers economy and The Great Genocide. A Financial Pirate with a Broken Rudder. \"We are going to have a Ceasefire by Monday\", For two Mill...",
+      "author": "bargdaffy.bsky.social",
+      "author_display_name": "Bargdaffy",
+      "created_at": "2025-08-02T21:11:07.089Z",
+      "hashtags": "['#Biden']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033545",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 243,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lvhv5aev7c2w",
+      "text": "#Democrats\u2019 #electoral #coalition finally fractured, costing them the #popularvote for only the second time since 1988. #Trump victory underlined the parlous state of modern #American #liberalism. Post-election, the #DemocraticParty #policy #agenda has become an arena of contestation between",
+      "text_cleaned": "\u2019 finally fractured, costing them the for only the second time since 1988. victory underlined the parlous state of modern . Post-election, the has become an arena of contestation between",
+      "text_preview": "#Democrats\u2019 #electoral #coalition finally fractured, costing them the #popularvote for only the second time since 1988. #Trump victory underlined the parlous state of modern #American #liberalism. Pos...",
+      "author": "usaneeds3rdparty.bsky.social",
+      "author_display_name": "Independent Moderate",
+      "created_at": "2025-08-03T04:53:41.242Z",
+      "hashtags": "['#DemocraticParty' '#electoral' '#Democrats' '#Trump' '#liberalism'\n '#American' '#policy' '#agenda' '#popularvote' '#coalition']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033293",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 292,
+      "text_cleaned_length": 186,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lvhuni5m422e",
+      "text": "It's the Turd's weekend 'distraction' designed to dominate the Sunday political debate TV shows.\n\nThat's fine, but let's keep talking about Epstein, Trump and the raping of children shall we?\n\nEpstein, Jeffrey Epstein, Jeff Epstein\n\n#Epstein #Trump #Pedophiles #Distraction #JackSmith",
+      "text_cleaned": "It's the Turd's weekend 'distraction' designed to dominate the Sunday political debate TV shows. That's fine, but let's keep talking about Epstein, Trump and the raping of children shall we? Epstein, Jeffrey Epstein, Jeff Epstein",
+      "text_preview": "It's the Turd's weekend 'distraction' designed to dominate the Sunday political debate TV shows.\n\nThat's fine, but let's keep talking about Epstein, Trump and the raping of children shall we?\n\nEpstein...",
+      "author": "mista-blue-sky.bsky.social",
+      "author_display_name": "Mister-Blue-Sky \ud83c\udf0e\ud83d\udcf8\ud83d\ude3a\ud83c\udfbc\ud83c\udf3c\ud83e\udd8b\ud83e\udd89",
+      "created_at": "2025-08-03T04:44:52.520Z",
+      "hashtags": "['#JackSmith' '#Trump' '#Distraction' '#Pedophiles' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033417",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 284,
+      "text_cleaned_length": 229,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lvhxqhfdxk2w",
+      "text": "#Epstein #EpsteinFiles #trump #TrumpsteinFiles #PedoPrez #PresidentChomo\n#LolitaExpress\n#GrandOldPedophiles",
+      "text_cleaned": "",
+      "text_preview": "#Epstein #EpsteinFiles #trump #TrumpsteinFiles #PedoPrez #PresidentChomo\n#LolitaExpress\n#GrandOldPedophiles",
+      "author": "jstrevelin.bsky.social",
+      "author_display_name": "JstReveln",
+      "created_at": "2025-08-03T05:40:13.613Z",
+      "hashtags": "['#PedoPrez' '#trump' '#PresidentChomo' '#TrumpsteinFiles' '#Epstein'\n '#EpsteinFiles' '#LolitaExpress' '#GrandOldPedophiles']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T05:50:03.800724",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 107,
+      "text_cleaned_length": 0,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvi7o5hh5h2y",
+      "text": "Until Trump Fired Her, She Was an Economist With Bipartisan Support Erika McEntarfer led the agency that produced key data on jobs and inflation. Then July\u00e2\u0080\u0099s report showed a weakening economy, and President Trump accused her of... @cosmicmeta.ai #Economy\n\nhttps://u2m.io/YHvcrmAp",
+      "text_cleaned": "Until Trump Fired Her, She Was an Economist With Bipartisan Support Erika McEntarfer led the agency that produced key data on jobs and inflation. Then July\u00e2\u0080\u0099s report showed a weakening economy, and President Trump accused her of... .ai",
+      "text_preview": "Until Trump Fired Her, She Was an Economist With Bipartisan Support Erika McEntarfer led the agency that produced key data on jobs and inflation. Then July\u00e2\u0080\u0099s report showed a weakening economy, and P...",
+      "author": "ahmetbutun.bsky.social",
+      "author_display_name": "Ahmet B\u00dcT\u00dcN",
+      "created_at": "2025-08-03T08:02:05.524Z",
+      "hashtags": "['#Economy']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T08:05:03.639691",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 281,
+      "text_cleaned_length": 236,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhuqss6au2s",
+      "text": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/vFD68aqI",
+      "text_cleaned": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he responded with impatience and... .ai",
+      "text_preview": "Lashing Out Over Russia and Jobs Data, Trump Displays His Volatile Side The president had been on something of a winning streak. But when faced with facts and foes that wouldn\u00e2\u0080\u0099t bend to his will, he...",
+      "author": "buhane.com.tr",
+      "author_display_name": "Buhane Information Technologies",
+      "created_at": "2025-08-03T04:46:44.171Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:55:04.033387",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 280,
+      "text_cleaned_length": 237,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhtli4tf22r",
+      "text": "#Trump murdered #Elmo",
+      "text_cleaned": "murdered",
+      "text_preview": "#Trump murdered #Elmo",
+      "author": "marcm66.bsky.social",
+      "author_display_name": "Marc M",
+      "created_at": "2025-08-03T04:25:51.645Z",
+      "hashtags": "['#Trump' '#Elmo']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:40:04.202119",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 21,
+      "text_cleaned_length": 8,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhzzmdqrk2u",
+      "text": "Sophocles' play Antigone featured a line expressing that \"no man delights in the bearer of bad news\". \n\nDo we think #Trump had read it?",
+      "text_cleaned": "Sophocles' play Antigone featured a line expressing that \"no man delights in the bearer of bad news\". Do we think had read it?",
+      "text_preview": "Sophocles' play Antigone featured a line expressing that \"no man delights in the bearer of bad news\". \n\nDo we think #Trump had read it?",
+      "author": "geoshaw.bsky.social",
+      "author_display_name": "George Shaw",
+      "created_at": "2025-08-03T06:21:08.278Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T06:45:03.611156",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 135,
+      "text_cleaned_length": 126,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lvhu6rzxmk26",
+      "text": "\"The truth is, the moral stupor, the cowardice \u2026 and the complicity has allowed Israel to do what they have done with impunity, massacring and killing Palestinians.\" #Australia #auspol #Israel #zionazis #Palestine #Gaza #OccupiedWestBank #genocide #USA #Trump www.theguardian.com/australia-ne...",
+      "text_cleaned": "\"The truth is, the moral stupor, the cowardice \u2026 and the complicity has allowed Israel to do what they have done with impunity, massacring and killing Palestinians.\"",
+      "text_preview": "\"The truth is, the moral stupor, the cowardice \u2026 and the complicity has allowed Israel to do what they have done with impunity, massacring and killing Palestinians.\" #Australia #auspol #Israel #zionaz...",
+      "author": "maximgrosky.bsky.social",
+      "author_display_name": "Max G",
+      "created_at": "2025-08-03T04:36:39.570Z",
+      "hashtags": "['#Gaza' '#USA' '#Trump' '#zionazis' '#genocide' '#OccupiedWestBank'\n '#Australia' '#Palestine' '#Israel' '#auspol']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-03T04:40:04.201983",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-03 20:46:28.849000",
+      "text_length": 295,
+      "text_cleaned_length": 165,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
