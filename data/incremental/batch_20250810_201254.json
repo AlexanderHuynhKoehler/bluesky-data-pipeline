@@ -1,0 +1,365 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_201254",
+    "post_count": 13,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 20:05:10.009000",
+    "latest_received_at": "2025-08-10 20:10:10.011000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw33dajl3c2x",
+      "text": "Trump can only end Russia's war on Ukraine using his control over US financial & military aid, ceded to him by the US congress. That and international leaders' ambivalence re their accustomed deference and reliance on us/US.  Remember:  Trump always betrays everyone but Putin. #Trump #Ukraine",
+      "text_cleaned": "Trump can only end Russia's war on Ukraine using his control over US financial & military aid, ceded to him by the US congress. That and international leaders' ambivalence re their accustomed deference and reliance on us/US. Remember: Trump always betrays everyone but Putin.",
+      "text_preview": "Trump can only end Russia's war on Ukraine using his control over US financial & military aid, ceded to him by the US congress. That and international leaders' ambivalence re their accustomed deferenc...",
+      "author": "lamurphy.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T20:05:00.201Z",
+      "hashtags": "['#Trump' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:10:02.940359",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:10:10.011000",
+      "text_length": 293,
+      "text_cleaned_length": 275,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw33emhvz22z",
+      "text": "after #Maga voters buy all the #Trump merchandise all made in #China this anti-vax administration will import #covid19 variant XTV.1 from china & it is fatal 4 all ages with #whitelung #silenthypoxia then they can buy their children trump #bodybagsandcaskets also made in china #NOKings #impeachTrump",
+      "text_cleaned": "after voters buy all the merchandise all made in this anti-vax administration will import variant XTV.1 from china & it is fatal 4 all ages with then they can buy their children trump also made in china",
+      "text_preview": "after #Maga voters buy all the #Trump merchandise all made in #China this anti-vax administration will import #covid19 variant XTV.1 from china & it is fatal 4 all ages with #whitelung #silenthypoxia ...",
+      "author": "jasrand8.bsky.social",
+      "author_display_name": "jasrand8",
+      "created_at": "2025-08-10T20:05:46.271Z",
+      "hashtags": "['#whitelung' '#China' '#impeachTrump' '#Trump' '#silenthypoxia'\n '#NOKings' '#bodybagsandcaskets' '#Maga' '#covid19']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:10:02.940341",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:10:10.011000",
+      "text_length": 300,
+      "text_cleaned_length": 202,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lw33h4jris2j",
+      "text": "Some folks are saying that #Rumps aides should manage him better, making sure he takes a nap.  So, he doesn\u2019t stumble.\n\nThese are the same people that said #Biden was overmanaged and overprotected by his people.\n\nOhhh, the hypocrisy \ud83d\ude2e",
+      "text_cleaned": "Some folks are saying that aides should manage him better, making sure he takes a nap. So, he doesn\u2019t stumble. These are the same people that said was overmanaged and overprotected by his people. Ohhh, the hypocrisy \ud83d\ude2e",
+      "text_preview": "Some folks are saying that #Rumps aides should manage him better, making sure he takes a nap.  So, he doesn\u2019t stumble.\n\nThese are the same people that said #Biden was overmanaged and overprotected by ...",
+      "author": "anthropocenempg.bsky.social",
+      "author_display_name": "AnthropoceneMPG \ud83c\udf0a",
+      "created_at": "2025-08-10T20:07:10.227Z",
+      "hashtags": "['#Rumps' '#Biden']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 13,
+        "reposts": 3,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:10:02.940588",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:10:10.011000",
+      "text_length": 234,
+      "text_cleaned_length": 217,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 17.5
+    },
+    {
+      "post_id": "3lw33eaex722n",
+      "text": "Hey #GOP #MAGA, you are your own worst enemy. No one can harm you as much as you\u2019ve encouraged #Trump to do. Snap out of it! Your enemy is in the house. Run for the jungle; don\u2019t drink the KoolAid and watch your children die at your own hand.",
+      "text_cleaned": "Hey , you are your own worst enemy. No one can harm you as much as you\u2019ve encouraged to do. Snap out of it! Your enemy is in the house. Run for the jungle; don\u2019t drink the KoolAid and watch your children die at your own hand.",
+      "text_preview": "Hey #GOP #MAGA, you are your own worst enemy. No one can harm you as much as you\u2019ve encouraged #Trump to do. Snap out of it! Your enemy is in the house. Run for the jungle; don\u2019t drink the KoolAid and...",
+      "author": "trippxx.bsky.social",
+      "author_display_name": "TrippXX",
+      "created_at": "2025-08-10T20:05:33.604Z",
+      "hashtags": "['#Trump' '#GOP' '#MAGA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:10:02.940351",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:10:10.011000",
+      "text_length": 242,
+      "text_cleaned_length": 225,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw33i6kymn2j",
+      "text": "Trump, Netanyahu speak as Israel faces backlash over Gaza plan\n#Trump",
+      "text_cleaned": "Trump, Netanyahu speak as Israel faces backlash over Gaza plan",
+      "text_preview": "Trump, Netanyahu speak as Israel faces backlash over Gaza plan\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T20:07:45.321Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:10:02.940332",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:10:10.011000",
+      "text_length": 69,
+      "text_cleaned_length": 62,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw335ak7cin2",
+      "text": "#Wohnungsnot in den #USA:\nOur nation has a homelessness crisis caused by a shortage of housing. President #Trump\u2019s response is to criminalize homelessness while slashing the affordable housing programs that actually help get people off the streets. It\u2019s both cruel and completely ineffective [\u2026]",
+      "text_cleaned": "in den : Our nation has a homelessness crisis caused by a shortage of housing. President \u2019s response is to criminalize homelessness while slashing the affordable housing programs that actually help get people off the streets. It\u2019s both cruel and completely ineffective [\u2026]",
+      "text_preview": "#Wohnungsnot in den #USA:\nOur nation has a homelessness crisis caused by a shortage of housing. President #Trump\u2019s response is to criminalize homelessness while slashing the affordable housing program...",
+      "author": "soweitsogut.troet.cafe.ap.brid.gy",
+      "author_display_name": "Schauinsland",
+      "created_at": "2025-08-10T20:01:32.000Z",
+      "hashtags": "['#Wohnungsnot' '#Trump' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:05:03.356471",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:05:10.009000",
+      "text_length": 295,
+      "text_cleaned_length": 272,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw33antyn242",
+      "text": "\"The so-called One Big Beautiful Act allocates more than $170 billion over four years for #border and interior enforcement...\n\nThat is more than the yearly budget for all local and state #law enforcement agencies combined across the entire #UnitedStates\" [\u2026] \n\n[Original post on newsie.social]",
+      "text_cleaned": "\"The so-called One Big Beautiful Act allocates more than $170 billion over four years for and interior enforcement... That is more than the yearly budget for all local and state enforcement agencies combined across the entire \" [\u2026] [Original post on newsie.social]",
+      "text_preview": "\"The so-called One Big Beautiful Act allocates more than $170 billion over four years for #border and interior enforcement...\n\nThat is more than the yearly budget for all local and state #law enforcem...",
+      "author": "zhizhu.newsie.social.ap.brid.gy",
+      "author_display_name": "Zhi Zhu \ud83d\udd78\ufe0f",
+      "created_at": "2025-08-10T20:03:14.000Z",
+      "hashtags": "['#border' '#UnitedStates' '#law']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:05:03.356450",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:05:10.009000",
+      "text_length": 293,
+      "text_cleaned_length": 264,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw332mukmk2e",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to impeach & convict racist wannabe dictator #Trump & convict #ICE, his Minions.\n\nIn 11/26, we MUST VOTE OUT #MAGA #GOP.\n\nTYVM @4humanunity.bsky.social\n\n#BlueCrew\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel to impeach & convict racist wannabe dictator & convict , his Minions. In 11/26, we MUST VOTE OUT . TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, let's compel #Congress to impeach & convict racist wannabe dictator #Trump & convict #ICE, his Minions.\n\nIn 11/26, w...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-10T20:00:11.130Z",
+      "hashtags": "['#ICE' '#Change' '#GOP' '#Trump' '#TRUTHSOCIAL' '#BlueCrew' '#Congress'\n '#MAGA']",
+      "mentions": "['@4humanunity.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:05:03.356507",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:05:10.009000",
+      "text_length": 300,
+      "text_cleaned_length": 193,
+      "hashtag_count": 8,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw332zxfws2u",
+      "text": "Remember how we made jokes about how Trump might impose his kitschy, Liberace-like, glitzy, gilt, tacky aesthetic on the White House? Well - he\u2019s doing it for real. #tacky #kitsch #Liberace #glitz #DonaldTrump #Trump #TrumpAdministration #gold #gilt #FuckTrump #whitehouse #decor #style",
+      "text_cleaned": "Remember how we made jokes about how Trump might impose his kitschy, Liberace-like, glitzy, gilt, tacky aesthetic on the White House? Well - he\u2019s doing it for real.",
+      "text_preview": "Remember how we made jokes about how Trump might impose his kitschy, Liberace-like, glitzy, gilt, tacky aesthetic on the White House? Well - he\u2019s doing it for real. #tacky #kitsch #Liberace #glitz #Do...",
+      "author": "phreddy99.bsky.social",
+      "author_display_name": "Frederick Cox",
+      "created_at": "2025-08-10T20:00:24.869Z",
+      "hashtags": "['#kitsch' '#glitz' '#whitehouse' '#decor' '#gold' '#style' '#gilt'\n '#Trump' '#DonaldTrump' '#FuckTrump' '#tacky' '#Liberace'\n '#TrumpAdministration']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:05:03.356495",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:05:10.009000",
+      "text_length": 286,
+      "text_cleaned_length": 164,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw33bpbrcc2q",
+      "text": "#RussiaUkraineWar\n#Trump #Putin\n#NATO #World #News\n\nWas British and other NATO officers captured by Russia in Ukraine? \n\n#AfroCaribVybz\n\nyoutube.com/watch?v=nMUe...",
+      "text_cleaned": "Was British and other NATO officers captured by Russia in Ukraine? youtube.com/watch?v=nMUe...",
+      "text_preview": "#RussiaUkraineWar\n#Trump #Putin\n#NATO #World #News\n\nWas British and other NATO officers captured by Russia in Ukraine? \n\n#AfroCaribVybz\n\nyoutube.com/watch?v=nMUe...",
+      "author": "afro-carib-vybz.bsky.social",
+      "author_display_name": "AFRO CARIB VYBZ",
+      "created_at": "2025-08-10T20:04:08.562Z",
+      "hashtags": "['#World' '#Putin' '#News' '#RussiaUkraineWar' '#AfroCaribVybz' '#Trump'\n '#NATO']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:05:03.356440",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:05:10.009000",
+      "text_length": 164,
+      "text_cleaned_length": 94,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw337443hs2u",
+      "text": "GovJBPritzker #TrumpCheatsAtGolf #TrumpCheatsOnWives\n#TrumpIsACheater\nNow #Trump is trying to cheat #Americans out of their #vote\nwww.facebook.com/share/v/16rq...",
+      "text_cleaned": "GovJBPritzker Now is trying to cheat out of their",
+      "text_preview": "GovJBPritzker #TrumpCheatsAtGolf #TrumpCheatsOnWives\n#TrumpIsACheater\nNow #Trump is trying to cheat #Americans out of their #vote\nwww.facebook.com/share/v/16rq...",
+      "author": "jezzabeauc.bsky.social",
+      "author_display_name": "JezzabeauC #GazaGenocide",
+      "created_at": "2025-08-10T20:02:41.348Z",
+      "hashtags": "['#TrumpCheatsAtGolf' '#Trump' '#TrumpIsACheater' '#vote'\n '#TrumpCheatsOnWives' '#Americans']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:05:03.356460",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:05:10.009000",
+      "text_length": 162,
+      "text_cleaned_length": 49,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw33bz77is27",
+      "text": "Annie get your gun, Gilead is coming! #Trump",
+      "text_cleaned": "Annie get your gun, Gilead is coming!",
+      "text_preview": "Annie get your gun, Gilead is coming! #Trump",
+      "author": "mariettefaber.bsky.social",
+      "author_display_name": "Mari\u00ebtte Faber",
+      "created_at": "2025-08-10T20:04:18.968Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:05:03.356430",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:05:10.009000",
+      "text_length": 44,
+      "text_cleaned_length": 37,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw333wyeis2y",
+      "text": "#Mexico #Sheinbaum #USA #Trump\n#Jobs",
+      "text_cleaned": "",
+      "text_preview": "#Mexico #Sheinbaum #USA #Trump\n#Jobs",
+      "author": "escritorcubamex.bsky.social",
+      "author_display_name": "Escritorcubamex",
+      "created_at": "2025-08-10T20:00:55.298Z",
+      "hashtags": "['#USA' '#Mexico' '#Trump' '#Sheinbaum' '#Jobs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:05:03.356480",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:05:10.009000",
+      "text_length": 36,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    }
+  ]
+}
