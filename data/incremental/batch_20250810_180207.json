@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_180207",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 17:55:10.009000",
+    "latest_received_at": "2025-08-10 18:00:10.010000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2ua7pi6k2n",
+      "text": "OMG! You don\u2019t \u201cearn\u201d someone else\u2019s property because it was hard to steal. You cannot reason with psychopaths. Putin needs to get the F out of Ukraine. Interviewing the regime is pointless. Investigate to find the truth. #Trump regime are idiot gaslighters who love the mic; cut them off.",
+      "text_cleaned": "OMG! You don\u2019t \u201cearn\u201d someone else\u2019s property because it was hard to steal. You cannot reason with psychopaths. Putin needs to get the F out of Ukraine. Interviewing the regime is pointless. Investigate to find the truth. regime are idiot gaslighters who love the mic; cut them off.",
+      "text_preview": "OMG! You don\u2019t \u201cearn\u201d someone else\u2019s property because it was hard to steal. You cannot reason with psychopaths. Putin needs to get the F out of Ukraine. Interviewing the regime is pointless. Investiga...",
+      "author": "trippxx.bsky.social",
+      "author_display_name": "TrippXX",
+      "created_at": "2025-08-10T17:58:02.490Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:00:03.358883",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:00:10.010000",
+      "text_length": 289,
+      "text_cleaned_length": 282,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2uch32y2w2",
+      "text": "#European #governments and #Ukraine rejected a #Trump #Russian #putin #russia plan to trade Ukrainian-held parts of the #Donetsk region for a #ceasefire and offered a counterproposal. They say it must serve as a framework so that coming talks in Alaska between President Trump and Vladimir Putin [\u2026]",
+      "text_cleaned": "and rejected a plan to trade Ukrainian-held parts of the region for a and offered a counterproposal. They say it must serve as a framework so that coming talks in Alaska between President Trump and Vladimir Putin [\u2026]",
+      "text_preview": "#European #governments and #Ukraine rejected a #Trump #Russian #putin #russia plan to trade Ukrainian-held parts of the #Donetsk region for a #ceasefire and offered a counterproposal. They say it must...",
+      "author": "bespacific.newsie.social.ap.brid.gy",
+      "author_display_name": "beSpacific",
+      "created_at": "2025-08-10T17:59:04.000Z",
+      "hashtags": "['#putin' '#russia' '#ceasefire' '#Trump' '#Donetsk' '#Ukraine' '#Russian'\n '#European' '#governments']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:00:03.358861",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:00:10.010000",
+      "text_length": 299,
+      "text_cleaned_length": 216,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2u5bedus2k",
+      "text": "#Trump, der 2002 einen Golfplatz auf der Ranch Palos Verdes zu einem reduzierten Preis kaufte, nachdem das 18. Loch ins Meer gest\u00fcrzt war , hatte Streitigkeiten mit der K\u00fcstenkommission \n\nkomisch",
+      "text_cleaned": ", der 2002 einen Golfplatz auf der Ranch Palos Verdes zu einem reduzierten Preis kaufte, nachdem das 18. Loch ins Meer gest\u00fcrzt war , hatte Streitigkeiten mit der K\u00fcstenkommission komisch",
+      "text_preview": "#Trump, der 2002 einen Golfplatz auf der Ranch Palos Verdes zu einem reduzierten Preis kaufte, nachdem das 18. Loch ins Meer gest\u00fcrzt war , hatte Streitigkeiten mit der K\u00fcstenkommission \n\nkomisch",
+      "author": "hanfdampf.bsky.social",
+      "author_display_name": "\ud83d\udc0b Hanfdampf",
+      "created_at": "2025-08-10T17:56:23.560Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:00:03.358890",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:00:10.010000",
+      "text_length": 195,
+      "text_cleaned_length": 187,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lw2ub33r7225",
+      "text": "Iran threatens planned Trump corridor envisaged by Azerbaijan-Armenia peace deal#scandinaviannewsagency #iran\ud83c\uddee\ud83c\uddf7 #Trump #snnurdu #azerbaijan #Armenia #snnmedia",
+      "text_cleaned": "Iran threatens planned Trump corridor envisaged by Azerbaijan-Armenia peace deal \ud83c\uddee\ud83c\uddf7",
+      "text_preview": "Iran threatens planned Trump corridor envisaged by Azerbaijan-Armenia peace deal#scandinaviannewsagency #iran\ud83c\uddee\ud83c\uddf7 #Trump #snnurdu #azerbaijan #Armenia #snnmedia",
+      "author": "snnmedia.bsky.social",
+      "author_display_name": "Scandinavian News Angency Finland \ud83c\uddeb\ud83c\uddee",
+      "created_at": "2025-08-10T17:58:31.182Z",
+      "hashtags": "['#azerbaijan' '#snnmedia' '#scandinaviannewsagency' '#iran' '#Trump'\n '#snnurdu' '#Armenia']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:00:03.358871",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:00:10.010000",
+      "text_length": 158,
+      "text_cleaned_length": 83,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2u2jkqnk2y",
+      "text": "Were Obama and Biden really better than #AgentOrange?\n\n open.substack.com/pub/womenwar... #usa #obama #biden #democrats #america #maga",
+      "text_cleaned": "Were Obama and Biden really better than ? open.substack.com/pub/womenwar...",
+      "text_preview": "Were Obama and Biden really better than #AgentOrange?\n\n open.substack.com/pub/womenwar... #usa #obama #biden #democrats #america #maga",
+      "author": "womenwarriors.com",
+      "author_display_name": "WomenWarriors",
+      "created_at": "2025-08-10T17:54:51.495Z",
+      "hashtags": "['#usa' '#obama' '#democrats' '#america' '#biden' '#AgentOrange' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:00:03.359105",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:00:10.010000",
+      "text_length": 134,
+      "text_cleaned_length": 75,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2u2qkrls2n",
+      "text": "#ice #raids #Trump #memes #maga",
+      "text_cleaned": "",
+      "text_preview": "#ice #raids #Trump #memes #maga",
+      "author": "youreadygrandma.bsky.social",
+      "author_display_name": "You Ready Grandma",
+      "created_at": "2025-08-10T17:54:58.824Z",
+      "hashtags": "['#raids' '#Trump' '#memes' '#ice' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T18:00:03.358898",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 18:00:10.010000",
+      "text_length": 31,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2tt7hiwc2g",
+      "text": "Jesus Christ, the world\u2019s biggest baby has republicans, the media, corporations, academia, and until recently too many Dems, terrified. Fuck this Epstein coverup human trash, broke down chud, #MadKing. #trump www.cnn.com/2025/08/10/p...",
+      "text_cleaned": "Jesus Christ, the world\u2019s biggest baby has republicans, the media, corporations, academia, and until recently too many Dems, terrified. Fuck this Epstein coverup human trash, broke down chud, .",
+      "text_preview": "Jesus Christ, the world\u2019s biggest baby has republicans, the media, corporations, academia, and until recently too many Dems, terrified. Fuck this Epstein coverup human trash, broke down chud, #MadKing...",
+      "author": "jimwitkins.bsky.social",
+      "author_display_name": "Jim Witkins",
+      "created_at": "2025-08-10T17:50:46.021Z",
+      "hashtags": "['#MadKing' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:55:03.608068",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:55:10.009000",
+      "text_length": 236,
+      "text_cleaned_length": 193,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2ts7tzqc26",
+      "text": "\ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 European nations are seeking to talk to #Trump ahead of his planned meeting in Alaska with Putin - Bloomberg\n\nwww.bloomberg.com/news/article...\n\nArchive: archive.is/CvFuM\n\n1/2\n\n#europe #usa #russia",
+      "text_cleaned": "\ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 European nations are seeking to talk to ahead of his planned meeting in Alaska with Putin - Bloomberg Archive: archive.is/CvFuM 1/2",
+      "text_preview": "\ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 European nations are seeking to talk to #Trump ahead of his planned meeting in Alaska with Putin - Bloomberg\n\nwww.bloomberg.com/news/article...\n\nArchive: archive.is/CvFuM\n\n1/2\n\n#europe #usa #russ...",
+      "author": "rvps2001.bsky.social",
+      "author_display_name": "Russia-Ukraine Daily News",
+      "created_at": "2025-08-10T17:50:12.877Z",
+      "hashtags": "['#russia' '#europe' '#usa' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:55:03.608085",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:55:10.009000",
+      "text_length": 202,
+      "text_cleaned_length": 136,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2ttcos5in2",
+      "text": "\n\n#Ukraine #Volodymyr #Zelenskyy #Europe #Russia #Donald #Trump #Vladimir #Putin #Ursula #von\n\nOrigin | Interest | Match",
+      "text_cleaned": "Origin | Interest | Match",
+      "text_preview": "\n\n#Ukraine #Volodymyr #Zelenskyy #Europe #Russia #Donald #Trump #Vladimir #Putin #Ursula #von\n\nOrigin | Interest | Match",
+      "author": "finland.activitypub.awakari.com.ap.brid.gy",
+      "author_display_name": "Finland",
+      "created_at": "2025-08-10T17:41:41.000Z",
+      "hashtags": "['#Trump' '#Vladimir' '#Zelenskyy' '#Ursula' '#von' '#Europe' '#Ukraine'\n '#Russia' '#Putin' '#Donald' '#Volodymyr']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:55:03.608271",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:55:10.009000",
+      "text_length": 120,
+      "text_cleaned_length": 25,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2tsn3nky2e",
+      "text": "\n#Krieg   #Putin   #Russland   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Krieg   #Putin   #Russland   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-10T17:50:42.610893+00:00",
+      "hashtags": "['#Trump' '#Russland' '#Ukraine' '#Putin' '#Krieg']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:55:03.608075",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:55:10.009000",
+      "text_length": 48,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
