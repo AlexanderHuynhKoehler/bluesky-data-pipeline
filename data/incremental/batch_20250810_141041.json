@@ -1,0 +1,635 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_141041",
+    "post_count": 23,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 14:05:10.009000",
+    "latest_received_at": "2025-08-10 14:10:10.011000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2heagdmc25",
+      "text": "If you like playing along with idea that convicted felon #Trump is some legitimate \"leader\" tune into #CNN #MSNBC #ThisWeek #MeetThePress & #FaceTheNation.\nToday they will all pretend that there are some \"negotiations\" taking place. Trump is Putin's partner- but media want in on the performance.",
+      "text_cleaned": "If you like playing along with idea that convicted felon is some legitimate \"leader\" tune into & . Today they will all pretend that there are some \"negotiations\" taking place. Trump is Putin's partner- but media want in on the performance.",
+      "text_preview": "If you like playing along with idea that convicted felon #Trump is some legitimate \"leader\" tune into #CNN #MSNBC #ThisWeek #MeetThePress & #FaceTheNation.\nToday they will all pretend that there are s...",
+      "author": "ginsengity.bsky.social",
+      "author_display_name": "Molten Irony (Wade)",
+      "created_at": "2025-08-10T14:07:38.814Z",
+      "hashtags": "['#MeetThePress' '#CNN' '#MSNBC' '#ThisWeek' '#FaceTheNation' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437371",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 296,
+      "text_cleaned_length": 239,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2hee6wyc25",
+      "text": "#Trump/ Epstein illegal immigrants/ models: \"Richard Kahn, Epstein\u2019s accountant for 14 years, paid/ coerced 6 women to marry each other to help some with their immigration status ... JP Morgan agreed last year to pay $290 million to nearly 200 victims in a settlement. www.nytimes.com/2024/02/01/b...",
+      "text_cleaned": "/ Epstein illegal immigrants/ models: \"Richard Kahn, Epstein\u2019s accountant for 14 years, paid/ coerced 6 women to marry each other to help some with their immigration status ... JP Morgan agreed last year to pay $290 million to nearly 200 victims in a settlement.",
+      "text_preview": "#Trump/ Epstein illegal immigrants/ models: \"Richard Kahn, Epstein\u2019s accountant for 14 years, paid/ coerced 6 women to marry each other to help some with their immigration status ... JP Morgan agreed ...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T14:07:42.765Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437364",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 300,
+      "text_cleaned_length": 262,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2hh7khps2o",
+      "text": "Brown University is \u2018functionally inaccessible\u2019 to transgender students after #Trump settlement\n\n\u201cEveryone I talked to thought it only applied to sports. But it applies to everything,\" one transgender student told The Advocate.\n\n#LGBTQ #USA #uspoli \n\nwww.advocate.com/news/transge...",
+      "text_cleaned": "Brown University is \u2018functionally inaccessible\u2019 to transgender students after settlement \u201cEveryone I talked to thought it only applied to sports. But it applies to everything,\" one transgender student told The Advocate.",
+      "text_preview": "Brown University is \u2018functionally inaccessible\u2019 to transgender students after #Trump settlement\n\n\u201cEveryone I talked to thought it only applied to sports. But it applies to everything,\" one transgender...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-10T14:09:18.563Z",
+      "hashtags": "['#USA' '#uspoli' '#LGBTQ' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437358",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 283,
+      "text_cleaned_length": 219,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2haujhgc2o",
+      "text": "Veterans\u2019 care at risk under #Trump as doctors and nurses reject working at VA hospitals\n\nNearly 40% of the doctors offered jobs at the VA from January through March of this year turned them down\n\n#USA #uspoli \n\nwww.salon.com/2025/08/10/v...",
+      "text_cleaned": "Veterans\u2019 care at risk under as doctors and nurses reject working at VA hospitals Nearly 40% of the doctors offered jobs at the VA from January through March of this year turned them down",
+      "text_preview": "Veterans\u2019 care at risk under #Trump as doctors and nurses reject working at VA hospitals\n\nNearly 40% of the doctors offered jobs at the VA from January through March of this year turned them down\n\n#US...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-10T14:05:45.669Z",
+      "hashtags": "['#USA' '#uspoli' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437403",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 241,
+      "text_cleaned_length": 187,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2hds3wo22o",
+      "text": "Dreamers Face \u2018Greatest Threat\u2019 Yet in #Trump Immigrant Crackdown\n\nThe #DACA program has survived years of political siege\u2014but recent arrests have dreamers shocked and worried.\n\n#USA #uspoli \n\nwww.thebulwark.com/p/dreamers-f...",
+      "text_cleaned": "Dreamers Face \u2018Greatest Threat\u2019 Yet in Immigrant Crackdown The program has survived years of political siege\u2014but recent arrests have dreamers shocked and worried.",
+      "text_preview": "Dreamers Face \u2018Greatest Threat\u2019 Yet in #Trump Immigrant Crackdown\n\nThe #DACA program has survived years of political siege\u2014but recent arrests have dreamers shocked and worried.\n\n#USA #uspoli \n\nwww.the...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-10T14:07:23.792Z",
+      "hashtags": "['#uspoli' '#DACA' '#USA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437378",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 227,
+      "text_cleaned_length": 162,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2hhsomlk2m",
+      "text": "Pope Leo tops Trump and Zelenskyy in Gallup world leader poll. Leo is viewed more favorably across party lines, \"unlike the political figures measured in the latest poll.\"\n#PopeLeoXIV #Trump\n www.ncronline.org/news/pope-le...",
+      "text_cleaned": "Pope Leo tops Trump and Zelenskyy in Gallup world leader poll. Leo is viewed more favorably across party lines, \"unlike the political figures measured in the latest poll.\"",
+      "text_preview": "Pope Leo tops Trump and Zelenskyy in Gallup world leader poll. Leo is viewed more favorably across party lines, \"unlike the political figures measured in the latest poll.\"\n#PopeLeoXIV #Trump\n www.ncro...",
+      "author": "joeferullo.bsky.social",
+      "author_display_name": "Joe Ferullo",
+      "created_at": "2025-08-10T14:09:38.622Z",
+      "hashtags": "['#PopeLeoXIV' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437337",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 225,
+      "text_cleaned_length": 171,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2hah427k25",
+      "text": "\"According to the piece, Beach said that \"every number on the jobs chart President Donald Trump touted in the Oval Office on Thursday was wrong.\"\" #Trump\nwww.rawstory.com/trump-highly...",
+      "text_cleaned": "\"According to the piece, Beach said that \"every number on the jobs chart President Donald Trump touted in the Oval Office on Thursday was wrong.\"\"",
+      "text_preview": "\"According to the piece, Beach said that \"every number on the jobs chart President Donald Trump touted in the Oval Office on Thursday was wrong.\"\" #Trump\nwww.rawstory.com/trump-highly...",
+      "author": "dave1agar.bsky.social",
+      "author_display_name": "dave1agar",
+      "created_at": "2025-08-10T14:05:31.598Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437411",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 186,
+      "text_cleaned_length": 146,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2hbcrl4s2i",
+      "text": "This is just a little antifa propaganda from the Duder himself. He thinks very highly of himself, but pay him no mind. Watch. Absorb the message. #Trump #MAGA #MusicFestivals #FreeLuigi #Adjustmentsarecoming",
+      "text_cleaned": "This is just a little antifa propaganda from the Duder himself. He thinks very highly of himself, but pay him no mind. Watch. Absorb the message.",
+      "text_preview": "This is just a little antifa propaganda from the Duder himself. He thinks very highly of himself, but pay him no mind. Watch. Absorb the message. #Trump #MAGA #MusicFestivals #FreeLuigi #Adjustmentsar...",
+      "author": "thedudeabides.shop",
+      "author_display_name": "\ud83c\udd83\ud83c\udd77\ud83c\udd74 \ud83c\udd73\ud83c\udd84\ud83c\udd73\ud83c\udd74\u2122",
+      "created_at": "2025-08-10T14:06:00.615Z",
+      "hashtags": "['#FreeLuigi' '#MAGA' '#MusicFestivals' '#Trump' '#Adjustmentsarecoming']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437389",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 207,
+      "text_cleaned_length": 145,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lw2hakumfi2e",
+      "text": "\n#Merz   #Putin   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Merz   #Putin   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-10T14:05:51.574781+00:00",
+      "hashtags": "['#Putin' '#Trump' '#Ukraine' '#Merz']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437396",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 35,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2hho2uxk2y",
+      "text": "Click Subscribe #Trump #NancyPelosi #Politics #StockMarket #News",
+      "text_cleaned": "Click Subscribe",
+      "text_preview": "Click Subscribe #Trump #NancyPelosi #Politics #StockMarket #News",
+      "author": "profittradingusa.bsky.social",
+      "author_display_name": "Profit Trading USA",
+      "created_at": "2025-08-10T14:09:33Z",
+      "hashtags": "['#Politics' '#NancyPelosi' '#News' '#StockMarket' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:10:03.437344",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:10:10.011000",
+      "text_length": 64,
+      "text_cleaned_length": 15,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2gyaplos25",
+      "text": "\u201cThe US is unable to substitute 90pc of its current imports with local production. Trump\u2019s trade taxes will be paid by US consumers via higher prices, and by US companies with plants abroad or reliance on foreign inputs via lower profit margins.\u201d #tariffs #trump #stagflation  #economy",
+      "text_cleaned": "\u201cThe US is unable to substitute 90pc of its current imports with local production. Trump\u2019s trade taxes will be paid by US consumers via higher prices, and by US companies with plants abroad or reliance on foreign inputs via lower profit margins.\u201d",
+      "text_preview": "\u201cThe US is unable to substitute 90pc of its current imports with local production. Trump\u2019s trade taxes will be paid by US consumers via higher prices, and by US companies with plants abroad or relianc...",
+      "author": "motherbonanza.bsky.social",
+      "author_display_name": "Mother Bonanza \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-10T14:00:56.462Z",
+      "hashtags": "['#tariffs' '#trump' '#economy' '#stagflation']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519376",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 285,
+      "text_cleaned_length": 246,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2gyfj5qs25",
+      "text": "#Trump/ Epstein illegal immigrants/ models: \"Richard Kahn, Epstein\u2019s accountant for 14 years, paid/ coerced 6 women to marry each other to help some with their immigration status ... JP Morgan agreed last year to pay $290 million to nearly 200 victims in a settlement. www.nytimes.com/2024/02/01/b...",
+      "text_cleaned": "/ Epstein illegal immigrants/ models: \"Richard Kahn, Epstein\u2019s accountant for 14 years, paid/ coerced 6 women to marry each other to help some with their immigration status ... JP Morgan agreed last year to pay $290 million to nearly 200 victims in a settlement.",
+      "text_preview": "#Trump/ Epstein illegal immigrants/ models: \"Richard Kahn, Epstein\u2019s accountant for 14 years, paid/ coerced 6 women to marry each other to help some with their immigration status ... JP Morgan agreed ...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T14:01:01.496Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519744",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 300,
+      "text_cleaned_length": 262,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2h46zij225",
+      "text": "Not watching #ThisWeek. They have MAGA-lite people on as \"experts\" - the same people with such bad judgment they actually WORKED FOR CONVICTED FELON #TRUMP- losers like #ChrisChristie & #JohnBolton.\nWhy would I care what THOSE DISHONEST people say & think? \ud83e\udd14",
+      "text_cleaned": "Not watching . They have MAGA-lite people on as \"experts\" - the same people with such bad judgment they actually WORKED FOR CONVICTED FELON - losers like & . Why would I care what THOSE DISHONEST people say & think? \ud83e\udd14",
+      "text_preview": "Not watching #ThisWeek. They have MAGA-lite people on as \"experts\" - the same people with such bad judgment they actually WORKED FOR CONVICTED FELON #TRUMP- losers like #ChrisChristie & #JohnBolton.\nW...",
+      "author": "ginsengity.bsky.social",
+      "author_display_name": "Molten Irony (Wade)",
+      "created_at": "2025-08-10T14:03:08.909Z",
+      "hashtags": "['#ThisWeek' '#JohnBolton' '#TRUMP' '#ChrisChristie']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519674",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 258,
+      "text_cleaned_length": 217,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2gzmitjs2o",
+      "text": "#Trump Orders State Department to Overlook International Human Rights Abuses\n\nThe State Department was told to cut from its human rights reports info on election integrity, corruption, and the expulsion of refugees.\n\n#USA #uspoli \n\ntheintercept.com/2025/08/08/t...",
+      "text_cleaned": "Orders State Department to Overlook International Human Rights Abuses The State Department was told to cut from its human rights reports info on election integrity, corruption, and the expulsion of refugees. theintercept.com/2025/08/08/t...",
+      "text_preview": "#Trump Orders State Department to Overlook International Human Rights Abuses\n\nThe State Department was told to cut from its human rights reports info on election integrity, corruption, and the expulsi...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-10T14:01:42.379Z",
+      "hashtags": "['#uspoli' '#Trump' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519718",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 264,
+      "text_cleaned_length": 240,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 5.0
+    },
+    {
+      "post_id": "3lw2h44jucw2r",
+      "text": "Trump Shuts Down \u2018Operation Chokepoint 2.0\u2019 with Sweeping Anti-Debanking Order Ending Politicized Debanking: A Landmark Executive Order On August 7, 2025, President Donald Trump signed.... @cosmicmeta.ai #Trump\n\nhttps://u2m.io/u3lpOU1h",
+      "text_cleaned": "Trump Shuts Down \u2018Operation Chokepoint 2.0\u2019 with Sweeping Anti-Debanking Order Ending Politicized Debanking: A Landmark Executive Order On August 7, 2025, President Donald Trump signed.... .ai",
+      "text_preview": "Trump Shuts Down \u2018Operation Chokepoint 2.0\u2019 with Sweeping Anti-Debanking Order Ending Politicized Debanking: A Landmark Executive Order On August 7, 2025, President Donald Trump signed.... @cosmicmeta...",
+      "author": "harpcoin.co",
+      "author_display_name": "HARP Coin",
+      "created_at": "2025-08-10T14:03:06.121Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@cosmicmeta.ai']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519686",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 235,
+      "text_cleaned_length": 192,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2h3rkrq424",
+      "text": "Daily BAWK\u2122 \ud83d\udc14\r\nBefore you march, post, or protest\u2014stretch your pointing finger and warm up your cackle.\r\nThis chicken\u2019s not going to humiliate himself alone.\r\n#BAWK #CluckClownChronicles #Melania #Trump #TACO",
+      "text_cleaned": "Daily BAWK\u2122 \ud83d\udc14 Before you march, post, or protest\u2014stretch your pointing finger and warm up your cackle. This chicken\u2019s not going to humiliate himself alone.",
+      "text_preview": "Daily BAWK\u2122 \ud83d\udc14\r\nBefore you march, post, or protest\u2014stretch your pointing finger and warm up your cackle.\r\nThis chicken\u2019s not going to humiliate himself alone.\r\n#BAWK #CluckClownChronicles #Melania #Tru...",
+      "author": "noligarchy-us.bsky.social",
+      "author_display_name": "NOLIGARCHY.US",
+      "created_at": "2025-08-10T14:02:54.559640Z",
+      "hashtags": "['#BAWK' '#CluckClownChronicles' '#TACO' '#Trump' '#Melania']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519696",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 208,
+      "text_cleaned_length": 155,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2gx6s2x42b",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #bb27\n3. #Trump\n4. #oc\n5. #poetry\n6. #thearchers\n7. #gamedev\n8. #writingcommunity\n9. #Gaza\n10. #vss365\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #bb27\n3. #Trump\n4. #oc\n5. #poetry\n6. #thearchers\n7. #gamedev\n8. #writingcommunity\n9. #Gaza\n10. #vss365\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-10T14:00:20Z",
+      "hashtags": "['#oc' '#gamedev' '#art' '#writingcommunity' '#thearchers' '#poetry'\n '#vss365' '#bb27' '#Trump' '#Gaza']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519766",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 179,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2h5aqtl22o",
+      "text": "Trump Forced Out His Own IRS Chief After Only 54 Days For Not Turning Over Immigrant's Tax Data\n\n#USA #Trump #uspoli \n\nthegodlessliberal.blogspot.com/2025/08/trum...",
+      "text_cleaned": "Trump Forced Out His Own IRS Chief After Only 54 Days For Not Turning Over Immigrant's Tax Data thegodlessliberal.blogspot.com/2025/08/trum...",
+      "text_preview": "Trump Forced Out His Own IRS Chief After Only 54 Days For Not Turning Over Immigrant's Tax Data\n\n#USA #Trump #uspoli \n\nthegodlessliberal.blogspot.com/2025/08/trum...",
+      "author": "dejayk.bsky.social",
+      "author_display_name": "Dennis Koch",
+      "created_at": "2025-08-10T14:03:44.276Z",
+      "hashtags": "['#uspoli' '#Trump' '#USA']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519655",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 165,
+      "text_cleaned_length": 142,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2gys5k6k2v",
+      "text": "\"Trump is the best thing that happened to us\" #AmericanNazis The Aryan Freedom Network is riding high in #Trump era www.reuters.com/investigatio...",
+      "text_cleaned": "\"Trump is the best thing that happened to us\" The Aryan Freedom Network is riding high in era",
+      "text_preview": "\"Trump is the best thing that happened to us\" #AmericanNazis The Aryan Freedom Network is riding high in #Trump era www.reuters.com/investigatio...",
+      "author": "rebelalliance2025.bsky.social",
+      "author_display_name": "marytny",
+      "created_at": "2025-08-10T14:01:14.746Z",
+      "hashtags": "['#AmericanNazis' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519734",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 147,
+      "text_cleaned_length": 93,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2h3j37u22r",
+      "text": "I understand that world leaders have given #Trump a new nickname Donnie \u201cNo Cojones\u201d because of the way he is being handled by #Putin",
+      "text_cleaned": "I understand that world leaders have given a new nickname Donnie \u201cNo Cojones\u201d because of the way he is being handled by",
+      "text_preview": "I understand that world leaders have given #Trump a new nickname Donnie \u201cNo Cojones\u201d because of the way he is being handled by #Putin",
+      "author": "adkerophoto.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T14:02:45.896Z",
+      "hashtags": "['#Putin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519710",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 133,
+      "text_cleaned_length": 119,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2h3owtr22r",
+      "text": "I understand that world leaders have given #Trump a new nickname Donnie \u201cNo Cojones\u201d because of the way he is being handled by #Putin",
+      "text_cleaned": "I understand that world leaders have given a new nickname Donnie \u201cNo Cojones\u201d because of the way he is being handled by",
+      "text_preview": "I understand that world leaders have given #Trump a new nickname Donnie \u201cNo Cojones\u201d because of the way he is being handled by #Putin",
+      "author": "adkerophoto.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T14:02:52.045Z",
+      "hashtags": "['#Putin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519704",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 133,
+      "text_cleaned_length": 119,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2h4cq6ec27",
+      "text": "bsky.app/profile/josh...\n\n#Trump trying to #hide how he spends our tax money.\n\nWhat did you expect from a #pedophile?",
+      "text_cleaned": "bsky.app/profile/josh... trying to how he spends our tax money. What did you expect from a ?",
+      "text_preview": "bsky.app/profile/josh...\n\n#Trump trying to #hide how he spends our tax money.\n\nWhat did you expect from a #pedophile?",
+      "author": "biarritz45.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T14:03:12.794Z",
+      "hashtags": "['#hide' '#pedophile' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519662",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 117,
+      "text_cleaned_length": 92,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2gyuxwsh2c",
+      "text": "\n#Krieg   #Putin   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Krieg   #Putin   #Trump   #Ukraine",
+      "author": "newsofukrainewar.bsky.social",
+      "author_display_name": "War on Ukraine \ud83d\udd31 \ud83c\udd7dews in Progress",
+      "created_at": "2025-08-10T14:01:33.745844+00:00",
+      "hashtags": "['#Ukraine' '#Trump' '#Putin' '#Krieg']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T14:05:03.519725",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 14:05:10.009000",
+      "text_length": 36,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
