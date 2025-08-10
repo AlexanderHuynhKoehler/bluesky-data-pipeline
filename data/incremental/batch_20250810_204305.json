@@ -1,0 +1,365 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_204305",
+    "post_count": 13,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 20:35:10.008000",
+    "latest_received_at": "2025-08-10 20:40:10.010000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw356hnfmk2i",
+      "text": "#ICEwarning #ICE #Homeless #Unhoused #DC #Trump #Dictator \nWarn everyone you can! Washington DC is preparing for a huge ICE raid! \n\nNo one is coming to save us. We have to save ourselves! \n\n#Mayday #TPSD",
+      "text_cleaned": "Warn everyone you can! Washington DC is preparing for a huge ICE raid! No one is coming to save us. We have to save ourselves!",
+      "text_preview": "#ICEwarning #ICE #Homeless #Unhoused #DC #Trump #Dictator \nWarn everyone you can! Washington DC is preparing for a huge ICE raid! \n\nNo one is coming to save us. We have to save ourselves! \n\n#Mayday #T...",
+      "author": "ladythemis.bsky.social",
+      "author_display_name": "Lauren Marino",
+      "created_at": "2025-08-10T20:38:07.342Z",
+      "hashtags": "['#DC' '#Homeless' '#Mayday' '#Trump' '#ICE' '#ICEwarning' '#Unhoused'\n '#TPSD' '#Dictator']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:40:03.556416",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:40:10.010000",
+      "text_length": 203,
+      "text_cleaned_length": 126,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw353uajd22u",
+      "text": "#Trump #liberal #politics #Democrats #Dems #GOP #Immigration #democracy #protest #MAGA #fascist #Wealthy #racist #grift #Corruption #Oligarchy #justice #Fascism #Ukraine\ufe0f #Military #Peace #ICE #finance #inflation #economy #beach #swimming #weightloss #exercise #workout #writer #books #sports #healthy",
+      "text_cleaned": "\ufe0f",
+      "text_preview": "#Trump #liberal #politics #Democrats #Dems #GOP #Immigration #democracy #protest #MAGA #fascist #Wealthy #racist #grift #Corruption #Oligarchy #justice #Fascism #Ukraine\ufe0f #Military #Peace #ICE #financ...",
+      "author": "randyepley.bsky.social",
+      "author_display_name": "Randy Epley",
+      "created_at": "2025-08-10T20:36:39.923Z",
+      "hashtags": "['#MAGA' '#economy' '#Fascism' '#Dems' '#fascist' '#Military' '#Wealthy'\n '#sports' '#weightloss' '#Trump' '#Ukraine' '#politics' '#racist'\n '#democracy' '#beach' '#GOP' '#Corruption' '#grift' '#Democrats'\n '#protest' '#exercise' '#ICE' '#Immigration' '#swimming' '#healthy'\n '#Peace' '#justice' '#workout' '#liberal' '#finance' '#writer' '#books'\n '#Oligarchy' '#inflation']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:40:03.556126",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:40:10.010000",
+      "text_length": 301,
+      "text_cleaned_length": 1,
+      "hashtag_count": 34,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw3552mhbc23",
+      "text": "I know it's petty and too little too late but I think @kamalaharris.com should have filled the front row of her Debate against #Trump with the Women he victimized.",
+      "text_cleaned": "I know it's petty and too little too late but I think .com should have filled the front row of her Debate against with the Women he victimized.",
+      "text_preview": "I know it's petty and too little too late but I think @kamalaharris.com should have filled the front row of her Debate against #Trump with the Women he victimized.",
+      "author": "ten24get.bsky.social",
+      "author_display_name": "Bill Wong ",
+      "created_at": "2025-08-10T20:37:20.161Z",
+      "hashtags": "['#Trump']",
+      "mentions": "['@kamalaharris.com']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:40:03.556426",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:40:10.010000",
+      "text_length": 163,
+      "text_cleaned_length": 143,
+      "hashtag_count": 1,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw34zxnkh226",
+      "text": "#Trump will Hotels bauen und daf\u00fcr ist ihm jedes Mittel recht. Scheinheiliges Getue aus den #USA",
+      "text_cleaned": "will Hotels bauen und daf\u00fcr ist ihm jedes Mittel recht. Scheinheiliges Getue aus den",
+      "text_preview": "#Trump will Hotels bauen und daf\u00fcr ist ihm jedes Mittel recht. Scheinheiliges Getue aus den #USA",
+      "author": "klatschase.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T20:35:36.388Z",
+      "hashtags": "['#USA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:40:03.556455",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:40:10.010000",
+      "text_length": 96,
+      "text_cleaned_length": 84,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw34q5ml2s2e",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict racist wannabe dictator #Trump & his Admin & convict #ICE, his Minions.\n\nIn 11/26, we MUST VOTE OUT #GOP\n\nTYVM @shaktari.bsky.social \n\n#BlueCrew\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict racist wannabe dictator & his Admin & convict , his Minions. In 11/26, we MUST VOTE OUT TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict racist wannabe dictator #Trump & his Admin & convict #ICE, his Minions.\n\nIn...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-10T20:30:07.095Z",
+      "hashtags": "['#GOP' '#TRUTHSOCIAL' '#Congress' '#Trump' '#BlueCrew' '#ICE' '#Change']",
+      "mentions": "['@shaktari.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:35:03.623308",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:35:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 200,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw34q6jqxx2c",
+      "text": "BILL UPDATE:\n\nH.4938: To provide that the Commissioner of Labor Statistics may be removed only with proof of inefficiency, neglect of duty, or malfeasance in office.\n\nACTION: Referred to the House Committee on Education and Workforce.\n\n#economy #education #labor",
+      "text_cleaned": "BILL UPDATE: H.4938: To provide that the Commissioner of Labor Statistics may be removed only with proof of inefficiency, neglect of duty, or malfeasance in office. ACTION: Referred to the House Committee on Education and Workforce.",
+      "text_preview": "BILL UPDATE:\n\nH.4938: To provide that the Commissioner of Labor Statistics may be removed only with proof of inefficiency, neglect of duty, or malfeasance in office.\n\nACTION: Referred to the House Com...",
+      "author": "libertybot.bsky.social",
+      "author_display_name": "Liberty Bot  \ud83d\uddfd\ud83e\udd16",
+      "created_at": "2025-08-10T20:30:06.059Z",
+      "hashtags": "['#education' '#economy' '#labor']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:35:03.623020",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:35:10.008000",
+      "text_length": 262,
+      "text_cleaned_length": 232,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw34uih74s2v",
+      "text": "Russia\u2019s economy is booming on paper:\n\ud83d\udcc8 +4% GDP growth\n\ud83d\udcb1 Strongest global currency\n\ud83d\udc77 2.2% unemployment\nBut the truth?\nThis isn\u2019t resilience. It\u2019s rot.\n\ud83d\udd17 Read the full report: www.ryanjhite.com/2025/08/03/t...\n#Russia #Economy #Geopolitics #Sanctions #Ruble #UkraineWar",
+      "text_cleaned": "Russia\u2019s economy is booming on paper: \ud83d\udcc8 +4% GDP growth \ud83d\udcb1 Strongest global currency \ud83d\udc77 2.2% unemployment But the truth? This isn\u2019t resilience. It\u2019s rot. \ud83d\udd17 Read the full report:",
+      "text_preview": "Russia\u2019s economy is booming on paper:\n\ud83d\udcc8 +4% GDP growth\n\ud83d\udcb1 Strongest global currency\n\ud83d\udc77 2.2% unemployment\nBut the truth?\nThis isn\u2019t resilience. It\u2019s rot.\n\ud83d\udd17 Read the full report: www.ryanjhite.com/2025/08...",
+      "author": "religiousryan.bsky.social",
+      "author_display_name": "Ryan Hite",
+      "created_at": "2025-08-10T20:32:32.680Z",
+      "hashtags": "['#Geopolitics' '#Economy' '#Russia' '#UkraineWar' '#Ruble' '#Sanctions']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:35:03.622999",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:35:10.008000",
+      "text_length": 268,
+      "text_cleaned_length": 174,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw34qnkek222",
+      "text": "Zelenskiy Secures NATO and EU Support Before High-Stakes Trump-Putin Alaska Talks, Ukraine Fears U.S.-Russia Deal Could Force Land Concessions.\n\n\ud83d\udc49 Read the full story at NewsLink7.com\n\n#Ukraine #Zelenskiy #NATO #EU #Trump #Putin #Alaska #Russia  #UkraineWar #PeaceTalks  #News #WorldNews #Noticias",
+      "text_cleaned": "Zelenskiy Secures NATO and EU Support Before High-Stakes Trump-Putin Alaska Talks, Ukraine Fears U.S.-Russia Deal Could Force Land Concessions. \ud83d\udc49 Read the full story at NewsLink7.com",
+      "text_preview": "Zelenskiy Secures NATO and EU Support Before High-Stakes Trump-Putin Alaska Talks, Ukraine Fears U.S.-Russia Deal Could Force Land Concessions.\n\n\ud83d\udc49 Read the full story at NewsLink7.com\n\n#Ukraine #Zelen...",
+      "author": "newslink7.bsky.social",
+      "author_display_name": "NewsLink7.com",
+      "created_at": "2025-08-10T20:30:23.797Z",
+      "hashtags": "['#Alaska' '#News' '#WorldNews' '#Ukraine' '#NATO' '#PeaceTalks' '#Russia'\n '#UkraineWar' '#Trump' '#EU' '#Noticias' '#Zelenskiy' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:35:03.623287",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:35:10.008000",
+      "text_length": 297,
+      "text_cleaned_length": 182,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw34qanwcc2v",
+      "text": "\ud83d\udea8\ud83d\udd25\"Steal the Deal:\ud83e\udd1d\ud83d\udecd\ufe0f Walmart\u2019s Best Offer of the Day\ud83c\udf43 \u2013 Limited Time!\"\u23f0\ud83c\udf32 #walmart #todaydeal\n\ud83d\udc47PRICE DROP\ud83d\udc47\nmavely.app.link/e/ivwmj77aJVb\n\n#Trump #Homestuck #Summer #Putin #Speed #FOX #August #TOBY #Animated #Pierogi",
+      "text_cleaned": "\ud83d\udea8\ud83d\udd25\"Steal the Deal:\ud83e\udd1d\ud83d\udecd\ufe0f Walmart\u2019s Best Offer of the Day\ud83c\udf43 \u2013 Limited Time!\"\u23f0\ud83c\udf32 \ud83d\udc47PRICE DROP\ud83d\udc47 mavely.app.link/e/ivwmj77aJVb",
+      "text_preview": "\ud83d\udea8\ud83d\udd25\"Steal the Deal:\ud83e\udd1d\ud83d\udecd\ufe0f Walmart\u2019s Best Offer of the Day\ud83c\udf43 \u2013 Limited Time!\"\u23f0\ud83c\udf32 #walmart #todaydeal\n\ud83d\udc47PRICE DROP\ud83d\udc47\nmavely.app.link/e/ivwmj77aJVb\n\n#Trump #Homestuck #Summer #Putin #Speed #FOX #August #TOBY #An...",
+      "author": "couponcenter.bsky.social",
+      "author_display_name": "Coupon Center \ud83d\udecd\ufe0f\ud83c\udff7\ufe0f\ud83d\uded2\ud83d\udcb8",
+      "created_at": "2025-08-10T20:30:10.284Z",
+      "hashtags": "['#Homestuck' '#TOBY' '#Summer' '#August' '#Pierogi' '#FOX' '#Trump'\n '#todaydeal' '#Speed' '#Animated' '#Putin' '#walmart']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:35:03.623298",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:35:10.008000",
+      "text_length": 215,
+      "text_cleaned_length": 116,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw34sbr2hc2e",
+      "text": "Trump\u2019s attempted federal takeover of DC is nothing more than him further protecting his ass when shit gets even fucking worse and he knows it will.  \n\nWe all know it\u2019s coming. \n\n#DC\n#Feds \n#Trump\n#FederalTakeover",
+      "text_cleaned": "Trump\u2019s attempted federal takeover of DC is nothing more than him further protecting his ass when shit gets even fucking worse and he knows it will. We all know it\u2019s coming.",
+      "text_preview": "Trump\u2019s attempted federal takeover of DC is nothing more than him further protecting his ass when shit gets even fucking worse and he knows it will.  \n\nWe all know it\u2019s coming. \n\n#DC\n#Feds \n#Trump\n#Fe...",
+      "author": "mandyterry.bsky.social",
+      "author_display_name": "\u270c\ud83c\udffd Mandy \u262e\ufe0f",
+      "created_at": "2025-08-10T20:31:18.553Z",
+      "hashtags": "['#FederalTakeover' '#DC' '#Trump' '#Feds']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:35:03.623274",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:35:10.008000",
+      "text_length": 213,
+      "text_cleaned_length": 173,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw34sesimk2b",
+      "text": "#ClintonFiles #TrumpTapes #Trump #Putin #William #Sarajevo #SecretaryOfState #CIA #Clinton #AlexJones #DonLemon #GrantCardone #StLouisFerrari #Ferrari #Monaco #Rome #Athens #Sea #Ocean #Sails #OpenSea #Sail #Waters #Canada #RainDance #Tribes #Natural #Death #Causes #SaudiSilicon #Mecca #Riyadh #M966",
+      "text_cleaned": "",
+      "text_preview": "#ClintonFiles #TrumpTapes #Trump #Putin #William #Sarajevo #SecretaryOfState #CIA #Clinton #AlexJones #DonLemon #GrantCardone #StLouisFerrari #Ferrari #Monaco #Rome #Athens #Sea #Ocean #Sails #OpenSea...",
+      "author": "wamedtrust.bsky.social",
+      "author_display_name": "William Ramsey",
+      "created_at": "2025-08-10T20:31:21.745Z",
+      "hashtags": "['#Ocean' '#DonLemon' '#Tribes' '#SaudiSilicon' '#Waters' '#Clinton'\n '#Rome' '#ClintonFiles' '#AlexJones' '#Athens' '#Death' '#William'\n '#OpenSea' '#Ferrari' '#Riyadh' '#Sail' '#CIA' '#GrantCardone' '#Causes'\n '#SecretaryOfState' '#TrumpTapes' '#Sarajevo' '#Mecca' '#M966' '#Natural'\n '#Sails' '#Canada' '#Sea' '#RainDance' '#StLouisFerrari' '#Trump'\n '#Monaco' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:35:03.623264",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:35:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 0,
+      "hashtag_count": 33,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw34w3a2ak2f",
+      "text": "Only issue is that this is reality, not sci fi. #Trump #Epstein",
+      "text_cleaned": "Only issue is that this is reality, not sci fi.",
+      "text_preview": "Only issue is that this is reality, not sci fi. #Trump #Epstein",
+      "author": "rkdeo.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T20:33:25.920Z",
+      "hashtags": "['#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:35:03.623248",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:35:10.008000",
+      "text_length": 63,
+      "text_cleaned_length": 47,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw34wxkzok2k",
+      "text": "#25thAmendment #Epstein #Pedophillia #Rape #Trump",
+      "text_cleaned": "",
+      "text_preview": "#25thAmendment #Epstein #Pedophillia #Rape #Trump",
+      "author": "gpswenson.bsky.social",
+      "author_display_name": "Guy",
+      "created_at": "2025-08-10T20:33:55.642Z",
+      "hashtags": "['#Epstein' '#Pedophillia' '#25thAmendment' '#Trump' '#Rape']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T20:35:03.623239",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 20:35:10.008000",
+      "text_length": 49,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
