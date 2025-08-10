@@ -1,0 +1,527 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_161126",
+    "post_count": 19,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 16:05:10.009000",
+    "latest_received_at": "2025-08-10 16:10:10.009000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2o45ioac2y",
+      "text": "Man.\n\nI can't help but wonder.\n\nHow many Tesla/Apple Owners - Will Admit To Being One Of Those Estimated 83-89 Million 2024 Eligible Voters - WHO DIDN'T VOTE?\n\nA More Painful Lesson NO ONE Has Ever Had To Learn!\n\nThose People KNEW-and SAID #Trump Was Bad!\n\nAnd They Were GASLIT That #Harris Was, Too!",
+      "text_cleaned": "Man. I can't help but wonder. How many Tesla/Apple Owners - Will Admit To Being One Of Those Estimated 83-89 Million 2024 Eligible Voters - WHO DIDN'T VOTE? A More Painful Lesson NO ONE Has Ever Had To Learn! Those People KNEW-and SAID Was Bad! And They Were GASLIT That Was, Too!",
+      "text_preview": "Man.\n\nI can't help but wonder.\n\nHow many Tesla/Apple Owners - Will Admit To Being One Of Those Estimated 83-89 Million 2024 Eligible Voters - WHO DIDN'T VOTE?\n\nA More Painful Lesson NO ONE Has Ever Ha...",
+      "author": "mepafford.org",
+      "author_display_name": "Mike Pafford",
+      "created_at": "2025-08-10T16:08:23.502Z",
+      "hashtags": "['#Harris' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:10:03.234271",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:10:10.009000",
+      "text_length": 300,
+      "text_cleaned_length": 280,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2nz7fguc2e",
+      "text": "Who remembers when #JDVance spoke truth about who and what #Trump is. Who remembers when he spoke truth about him instead of being just another butt kissing puppet. I guess he thinks he can get #MAGAs support for future but you still need balls to stand on own. He gave them up!",
+      "text_cleaned": "Who remembers when spoke truth about who and what is. Who remembers when he spoke truth about him instead of being just another butt kissing puppet. I guess he thinks he can get support for future but you still need balls to stand on own. He gave them up!",
+      "text_preview": "Who remembers when #JDVance spoke truth about who and what #Trump is. Who remembers when he spoke truth about him instead of being just another butt kissing puppet. I guess he thinks he can get #MAGAs...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-10T16:06:44.829Z",
+      "hashtags": "['#MAGAs' '#JDVance' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:10:03.234307",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:10:10.009000",
+      "text_length": 278,
+      "text_cleaned_length": 255,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2nzr3xv727",
+      "text": "8/10/25 Starting immediately, there will be no more homeless people in DC!!! (11am) https://www.reddit.com/r/trumptweets/comments/1mmm472/81025_starting_immediately_there_will_be_no_more/\n#truthsocial #trump",
+      "text_cleaned": "8/10/25 Starting immediately, there will be no more homeless people in DC!!! (11am)",
+      "text_preview": "8/10/25 Starting immediately, there will be no more homeless people in DC!!! (11am) https://www.reddit.com/r/trumptweets/comments/1mmm472/81025_starting_immediately_there_will_be_no_more/\n#truthsocial...",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T16:07:02.698Z",
+      "hashtags": "['#truthsocial' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:10:03.234299",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:10:10.009000",
+      "text_length": 207,
+      "text_cleaned_length": 83,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2nvq6xrc2n",
+      "text": "We also KNOW that Trump did too because the victims told us he did! #Epstein #EpsteinFiles #Trump #TrumpFiles #PedoTrump",
+      "text_cleaned": "We also KNOW that Trump did too because the victims told us he did!",
+      "text_preview": "We also KNOW that Trump did too because the victims told us he did! #Epstein #EpsteinFiles #Trump #TrumpFiles #PedoTrump",
+      "author": "arspolitico.bsky.social",
+      "author_display_name": "Ars Politico - Yet, I scream! \ud83c\udfa8\u270d\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udf0a",
+      "created_at": "2025-08-10T16:04:48.223Z",
+      "hashtags": "['#Epstein' '#Trump' '#TrumpFiles' '#EpsteinFiles' '#PedoTrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:10:03.234338",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:10:10.009000",
+      "text_length": 120,
+      "text_cleaned_length": 67,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2nyzlnkc2j",
+      "text": "They want Alaska back... \n\nIn exchange for not exposing #trump and the #EpstineCoverUp or what everelse thay have on trump",
+      "text_cleaned": "They want Alaska back... In exchange for not exposing and the or what everelse thay have on trump",
+      "text_preview": "They want Alaska back... \n\nIn exchange for not exposing #trump and the #EpstineCoverUp or what everelse thay have on trump",
+      "author": "another-humanist.bsky.social",
+      "author_display_name": "Another_Humanist",
+      "created_at": "2025-08-10T16:06:38.741Z",
+      "hashtags": "['#EpstineCoverUp' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:10:03.234314",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:10:10.009000",
+      "text_length": 122,
+      "text_cleaned_length": 97,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2o2kyjbo2q",
+      "text": "\n#Alaska   #Berlin   #conflict   #Friedrich Merz   #Merz   #Putin   #Russia   #Trump   #Ukraine   #Washington   #Zelensky",
+      "text_cleaned": "Merz",
+      "text_preview": "\n#Alaska   #Berlin   #conflict   #Friedrich Merz   #Merz   #Putin   #Russia   #Trump   #Ukraine   #Washington   #Zelensky",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T16:07:46.485769+00:00",
+      "hashtags": "['#Berlin' '#Russia' '#Trump' '#Alaska' '#Putin' '#Merz' '#Washington'\n '#conflict' '#Zelensky' '#Friedrich' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:10:03.234282",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:10:10.009000",
+      "text_length": 121,
+      "text_cleaned_length": 4,
+      "hashtag_count": 11,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2o4cpnzz2v",
+      "text": "\n#Alaska   #ceasefire   #Mark Rutte   #NATO   #Putin   #Rutte   #Trump   #Ukraine   #Vladimir Putin",
+      "text_cleaned": "Rutte Putin",
+      "text_preview": "\n#Alaska   #ceasefire   #Mark Rutte   #NATO   #Putin   #Rutte   #Trump   #Ukraine   #Vladimir Putin",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T16:08:44.907031+00:00",
+      "hashtags": "['#Rutte' '#Trump' '#NATO' '#Alaska' '#Putin' '#Vladimir' '#ceasefire'\n '#Mark' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:10:03.234137",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:10:10.009000",
+      "text_length": 99,
+      "text_cleaned_length": 11,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2o4l3xt325",
+      "text": "\n#ceasefire   #Putin   #Trump   #Vladimir Putin   #Volodymyr Zelenskyy   #Zelenskyy",
+      "text_cleaned": "Putin Zelenskyy",
+      "text_preview": "\n#ceasefire   #Putin   #Trump   #Vladimir Putin   #Volodymyr Zelenskyy   #Zelenskyy",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T16:08:53.710454+00:00",
+      "hashtags": "['#Zelenskyy' '#Trump' '#Putin' '#Volodymyr' '#Vladimir' '#ceasefire']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:10:03.234121",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:10:10.009000",
+      "text_length": 83,
+      "text_cleaned_length": 15,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2nzlxwzf2v",
+      "text": "\n#Alaska   #Invasion   #Putin   #Trump   #Ukraine   #Vladimir Putin",
+      "text_cleaned": "Putin",
+      "text_preview": "\n#Alaska   #Invasion   #Putin   #Trump   #Ukraine   #Vladimir Putin",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T16:07:13.960186+00:00",
+      "hashtags": "['#Trump' '#Alaska' '#Putin' '#Vladimir' '#Invasion' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:10:03.234291",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:10:10.009000",
+      "text_length": 67,
+      "text_cleaned_length": 5,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2nngyxz22k",
+      "text": "NEVER FORGET.\n\nW/ YOUR Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict #J6 co-conspirator, domestic terrorist & recessed wannabe dictator #Trump, & prosecute his traitorous cohorts,\n\nTY @mailmansr.bsky.social \n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "NEVER FORGET. W/ YOUR Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict co-conspirator, domestic terrorist & recessed wannabe dictator , & prosecute his traitorous cohorts, TY .bsky.social",
+      "text_preview": "NEVER FORGET.\n\nW/ YOUR Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict #J6 co-conspirator, domestic terrorist & recessed wannabe dictator #Trump, & pros...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-10T16:00:10.153Z",
+      "hashtags": "['#Congress' '#Trump' '#BlueCrew' '#J6']",
+      "mentions": "['@mailmansr.bsky.social']",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.084041",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 300,
+      "text_cleaned_length": 224,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lw2nuhnj7k22",
+      "text": "\ud83c\udde9\ud83c\uddea Germany's Merz: \ud83c\uddfa\ud83c\udde6 Zelenskyy must be involved in Trump \ud83c\uddfa\ud83c\uddf8 - \ud83c\uddf7\ud83c\uddfa Putin meeting !\n\n#Merz announced that he will speak by phone with #Trump on Sunday 10 August regarding his planned meeting with Putin in Alaska\nwww.pravda.com.ua/eng/news/202...",
+      "text_cleaned": "\ud83c\udde9\ud83c\uddea Germany's Merz: \ud83c\uddfa\ud83c\udde6 Zelenskyy must be involved in Trump \ud83c\uddfa\ud83c\uddf8 - \ud83c\uddf7\ud83c\uddfa Putin meeting ! announced that he will speak by phone with on Sunday 10 August regarding his planned meeting with Putin in Alaska",
+      "text_preview": "\ud83c\udde9\ud83c\uddea Germany's Merz: \ud83c\uddfa\ud83c\udde6 Zelenskyy must be involved in Trump \ud83c\uddfa\ud83c\uddf8 - \ud83c\uddf7\ud83c\uddfa Putin meeting !\n\n#Merz announced that he will speak by phone with #Trump on Sunday 10 August regarding his planned meeting with Putin ...",
+      "author": "blue24world.bsky.social",
+      "author_display_name": "Ukraine Support \ud83c\uddfa\ud83c\udde6 \ud83c\uddea\ud83c\uddfa",
+      "created_at": "2025-08-10T16:04:05.711Z",
+      "hashtags": "['#Merz' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.083984",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 243,
+      "text_cleaned_length": 195,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lw2nswuowc2m",
+      "text": "Sorry #Vance but you are full of shot and lying fir your master! Why do you all take to lying so easily. There was a time you knew and said #Trump was a con man and liar! Now just a puppet for him. Everyday you become a bigger and bigger loser!",
+      "text_cleaned": "Sorry but you are full of shot and lying fir your master! Why do you all take to lying so easily. There was a time you knew and said was a con man and liar! Now just a puppet for him. Everyday you become a bigger and bigger loser!",
+      "text_preview": "Sorry #Vance but you are full of shot and lying fir your master! Why do you all take to lying so easily. There was a time you knew and said #Trump was a con man and liar! Now just a puppet for him. Ev...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-10T16:03:14.565Z",
+      "hashtags": "['#Trump' '#Vance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.083990",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 244,
+      "text_cleaned_length": 230,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2nqla5vc2i",
+      "text": "How quickly and dramatically this guy changed his mind on #trump after sipping power from the golden challis...or #JDvance figured out how to make his couch sign an NDA.\n#NeverTrumper\n#trumpHitler",
+      "text_cleaned": "How quickly and dramatically this guy changed his mind on after sipping power from the golden challis...or figured out how to make his couch sign an NDA.",
+      "text_preview": "How quickly and dramatically this guy changed his mind on #trump after sipping power from the golden challis...or #JDvance figured out how to make his couch sign an NDA.\n#NeverTrumper\n#trumpHitler",
+      "author": "themrpeabody.bsky.social",
+      "author_display_name": "Mr. Peabody",
+      "created_at": "2025-08-10T16:01:55.249Z",
+      "hashtags": "['#trump' '#trumpHitler' '#NeverTrumper' '#JDvance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.083997",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 196,
+      "text_cleaned_length": 153,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2nnqxmk42e",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #BB27\n3. #LFC\n4. #Gaza\n5. #oc\n6. #tRUmp\n7. #writingcommunity\n8. #Epstein\n9. #poetry\n10. #EpsteinFiles\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #art\n2. #BB27\n3. #LFC\n4. #Gaza\n5. #oc\n6. #tRUmp\n7. #writingcommunity\n8. #Epstein\n9. #poetry\n10. #EpsteinFiles\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-10T16:00:20Z",
+      "hashtags": "['#writingcommunity' '#EpsteinFiles' '#art' '#poetry' '#tRUmp' '#Gaza'\n '#BB27' '#LFC' '#Epstein' '#oc']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 4,
+        "reposts": 3,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.084030",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 178,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 8.5
+    },
+    {
+      "post_id": "3lw2npgcr7c2n",
+      "text": "I will never stop calling out #Trump!\n\nringsidereport.com?p=128561",
+      "text_cleaned": "I will never stop calling out ! ringsidereport.com?p=128561",
+      "text_preview": "I will never stop calling out #Trump!\n\nringsidereport.com?p=128561",
+      "author": "badbrad2024.bsky.social",
+      "author_display_name": "Civil & Human Rights Activist \u201cBad\u201d Brad Berkwitt",
+      "created_at": "2025-08-10T16:01:16.538Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 3,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.084011",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 66,
+      "text_cleaned_length": 59,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lw2nppkf622f",
+      "text": "Baked Alaskan Betrayal ? #Ukraine #MAGA #slavaukraini #Russia #zelensky #NAFO #NAFOFELLAS #Trump #epstein",
+      "text_cleaned": "Baked Alaskan Betrayal ?",
+      "text_preview": "Baked Alaskan Betrayal ? #Ukraine #MAGA #slavaukraini #Russia #zelensky #NAFO #NAFOFELLAS #Trump #epstein",
+      "author": "moranstephen1000.bsky.social",
+      "author_display_name": "Stephen Moran",
+      "created_at": "2025-08-10T16:01:26.222Z",
+      "hashtags": "['#epstein' '#slavaukraini' '#Ukraine' '#NAFO' '#Russia' '#MAGA'\n '#zelensky' '#NAFOFELLAS' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.084006",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 105,
+      "text_cleaned_length": 24,
+      "hashtag_count": 9,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2nvnckqc2s",
+      "text": "What about the #TrumpsteinFiles?\nAny news?\n\n#eppsteinfiles #trump",
+      "text_cleaned": "What about the ? Any news?",
+      "text_preview": "What about the #TrumpsteinFiles?\nAny news?\n\n#eppsteinfiles #trump",
+      "author": "blogoli.bsky.social",
+      "author_display_name": "blogoli",
+      "created_at": "2025-08-10T16:04:45.197Z",
+      "hashtags": "['#eppsteinfiles' '#TrumpsteinFiles' '#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.083967",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 65,
+      "text_cleaned_length": 26,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2novk7bs2a",
+      "text": "#FFOTUS #MAGA not.  #trump #Project2025 #GOP #Fox",
+      "text_cleaned": "not.",
+      "text_preview": "#FFOTUS #MAGA not.  #trump #Project2025 #GOP #Fox",
+      "author": "jeaucitizen.bsky.social",
+      "author_display_name": "Jeau Citizen",
+      "created_at": "2025-08-10T16:00:58.947Z",
+      "hashtags": "['#trump' '#Project2025' '#Fox' '#FFOTUS' '#MAGA' '#GOP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.084019",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 49,
+      "text_cleaned_length": 4,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2nvfeksk2u",
+      "text": "#trump\nThe big daddy",
+      "text_cleaned": "The big daddy",
+      "text_preview": "#trump\nThe big daddy",
+      "author": "meish100.bsky.social",
+      "author_display_name": "Meish",
+      "created_at": "2025-08-10T16:04:36.874Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:05:03.083974",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:05:10.009000",
+      "text_length": 20,
+      "text_cleaned_length": 13,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
