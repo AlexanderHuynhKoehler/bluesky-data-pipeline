@@ -1,0 +1,338 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_173157",
+    "post_count": 12,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 17:25:10.010000",
+    "latest_received_at": "2025-08-10 17:30:10.009000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2sjd4dds2r",
+      "text": "#Trump ne supporte pas la vue du portrait officiel de #BarakObama parce qu'il est tellement jaloux que ce dernier a obtenu le #PrixNobel \ud83d\udc4d\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\nCependant, quoi qu'il arrive,  Obama restera bien plus populaire que Trump qui se fait ha\u00efr et m\u00e9priser par de plus en plus d'Am\u00e9ricains et au-del\u00e0 \ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83d\udc4d",
+      "text_cleaned": "ne supporte pas la vue du portrait officiel de parce qu'il est tellement jaloux que ce dernier a obtenu le \ud83d\udc4d\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 Cependant, quoi qu'il arrive, Obama restera bien plus populaire que Trump qui se fait ha\u00efr et m\u00e9priser par de plus en plus d'Am\u00e9ricains et au-del\u00e0 \ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83d\udc4d",
+      "text_preview": "#Trump ne supporte pas la vue du portrait officiel de #BarakObama parce qu'il est tellement jaloux que ce dernier a obtenu le #PrixNobel \ud83d\udc4d\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\nCependant, quoi qu'il arrive,  Obama restera bien plus ...",
+      "author": "renia33.bsky.social",
+      "author_display_name": "Renia33  \ud83c\udde8\ud83c\uddf5\ud83c\udde8\ud83c\udded\ud83c\uddea\ud83c\uddfa\ud83d\udcf7\ud83e\udd8b",
+      "created_at": "2025-08-10T17:27:20.563Z",
+      "hashtags": "['#PrixNobel' '#Trump' '#BarakObama']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:30:03.785535",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:30:10.009000",
+      "text_length": 297,
+      "text_cleaned_length": 265,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2snigoru2g",
+      "text": "Tariffs: Tool or Time Bomb?\nBillions collected. U.S. factories adding jobs. Trade partners making concessions.\nSounds like a win\u2014right?\n\nAre these short-term boosts worth the gamble, or are we setting up for a longer-term hit?\n\n#TradeWars #Tariffs #Economy #PolicyDebate",
+      "text_cleaned": "Tariffs: Tool or Time Bomb? Billions collected. U.S. factories adding jobs. Trade partners making concessions. Sounds like a win\u2014right? Are these short-term boosts worth the gamble, or are we setting up for a longer-term hit?",
+      "text_preview": "Tariffs: Tool or Time Bomb?\nBillions collected. U.S. factories adding jobs. Trade partners making concessions.\nSounds like a win\u2014right?\n\nAre these short-term boosts worth the gamble, or are we setting...",
+      "author": "econorealist.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T17:29:40.362Z",
+      "hashtags": "['#TradeWars' '#PolicyDebate' '#Economy' '#Tariffs']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:30:03.785155",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:30:10.009000",
+      "text_length": 270,
+      "text_cleaned_length": 225,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2skun2ee2q",
+      "text": "\n#Abkommen   #Krieg   #Putin   #Russland   #Trump   #Ukraine   #Vance",
+      "text_cleaned": "",
+      "text_preview": "\n#Abkommen   #Krieg   #Putin   #Russland   #Trump   #Ukraine   #Vance",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T17:28:28.376062+00:00",
+      "hashtags": "['#Russland' '#Putin' '#Abkommen' '#Krieg' '#Ukraine' '#Trump' '#Vance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:30:03.785515",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:30:10.009000",
+      "text_length": 69,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2sgieowl2q",
+      "text": "\n#Abkommen   #Alaska   #Putin   #Trump   #Ukrainer   #Vance",
+      "text_cleaned": "",
+      "text_preview": "\n#Abkommen   #Alaska   #Putin   #Trump   #Ukrainer   #Vance",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T17:26:01.299498+00:00",
+      "hashtags": "['#Putin' '#Ukrainer' '#Abkommen' '#Alaska' '#Trump' '#Vance']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:30:03.785546",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:30:10.009000",
+      "text_length": 59,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2sgchedl2q",
+      "text": "\n#Alaska   #Moskau   #Putin   #Russland   #Trump",
+      "text_cleaned": "",
+      "text_preview": "\n#Alaska   #Moskau   #Putin   #Russland   #Trump",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T17:25:55.099938+00:00",
+      "hashtags": "['#Russland' '#Putin' '#Moskau' '#Alaska' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:30:03.785559",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:30:10.009000",
+      "text_length": 48,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2skopul22q",
+      "text": "#epstein\n#trump\n#bongino\n#patel\n#maxwell\n#notahoax",
+      "text_cleaned": "",
+      "text_preview": "#epstein\n#trump\n#bongino\n#patel\n#maxwell\n#notahoax",
+      "author": "maineoracle.bsky.social",
+      "author_display_name": "Dorette Marie",
+      "created_at": "2025-08-10T17:28:06.293Z",
+      "hashtags": "['#maxwell' '#trump' '#bongino' '#patel' '#epstein' '#notahoax']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:30:03.785524",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:30:10.009000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2sanszzs2s",
+      "text": "Baby boy Swiss Miss- in the shelter training program- has a death sentence! He\u2019s not in the #Epsteinfiles doesn\u2019t like #Trump or #Putin and they want him dead! He\u2019s adorable! Needs an East Coast foster- ASAP- and your reposts to save his life!  His life is in your hands. repost! @nycacc.bsky.social",
+      "text_cleaned": "Baby boy Swiss Miss- in the shelter training program- has a death sentence! He\u2019s not in the doesn\u2019t like or and they want him dead! He\u2019s adorable! Needs an East Coast foster- ASAP- and your reposts to save his life! His life is in your hands. repost! .bsky.social",
+      "text_preview": "Baby boy Swiss Miss- in the shelter training program- has a death sentence! He\u2019s not in the #Epsteinfiles doesn\u2019t like #Trump or #Putin and they want him dead! He\u2019s adorable! Needs an East Coast foste...",
+      "author": "princesskim.bsky.social",
+      "author_display_name": "Haters_gonna_hate (Princess Kim K)",
+      "created_at": "2025-08-10T17:22:29.802Z",
+      "hashtags": "['#Trump' '#Epsteinfiles' '#Putin']",
+      "mentions": "['@nycacc.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:25:03.410918",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:25:10.010000",
+      "text_length": 299,
+      "text_cleaned_length": 263,
+      "hashtag_count": 3,
+      "mention_count": 1,
+      "total_engagement": 4.0
+    },
+    {
+      "post_id": "3lw2sc4zzls2p",
+      "text": "Let\u2019s talk about Trump fatigue in the heartland\u2026 everyone can feel the stone cold glacial cruelty coming from Trump and his loyalties lackeys #trumpfatigue #trump #stonecold #cruelty #glacial #reckoning #reckoningline #maga #redstates #heartland #fyp #thenowscroll #sapience",
+      "text_cleaned": "Let\u2019s talk about Trump fatigue in the heartland\u2026 everyone can feel the stone cold glacial cruelty coming from Trump and his loyalties lackeys",
+      "text_preview": "Let\u2019s talk about Trump fatigue in the heartland\u2026 everyone can feel the stone cold glacial cruelty coming from Trump and his loyalties lackeys #trumpfatigue #trump #stonecold #cruelty #glacial #reckoni...",
+      "author": "sapiencedmann.bsky.social",
+      "author_display_name": "D. Mann",
+      "created_at": "2025-08-10T17:23:19.316Z",
+      "hashtags": "['#stonecold' '#heartland' '#sapience' '#maga' '#cruelty' '#fyp'\n '#glacial' '#reckoningline' '#thenowscroll' '#redstates' '#trumpfatigue'\n '#trump' '#reckoning']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:25:03.410891",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:25:10.010000",
+      "text_length": 274,
+      "text_cleaned_length": 141,
+      "hashtag_count": 13,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2sb4z6p72z",
+      "text": "This is so insane. Why do we still have a mad guy in the WH?  I find it disgusting how many Americans are OK  with #Trump and his  #authoritarianrule.\n#DefundIce",
+      "text_cleaned": "This is so insane. Why do we still have a mad guy in the WH? I find it disgusting how many Americans are OK with and his .",
+      "text_preview": "This is so insane. Why do we still have a mad guy in the WH?  I find it disgusting how many Americans are OK  with #Trump and his  #authoritarianrule.\n#DefundIce",
+      "author": "flipturns.bsky.social",
+      "author_display_name": "Flipturns \ud83c\udfca\u200d\u2640\ufe0f\ud83d\udcce \ud83e\udd8b \ud83d\udc27\ud83c\udf08 \ud83d\udc08 \ud83c\udfb6\ud83d\udc99\ud83c\udf4e \ud83c\udfb8 \ud83c\udfb9\ud83e\udd33\ud83d\udc06 \u269b\ufe0f\ud83c\udf0e \ud83c\udfa8\ud83e\udd7e \ud83c\udfa4\ud83d\udc36 \ud83d\udcfb \ud83d\udc83 \ud83c\udfd4 \ud83d\ude97 \ud83e\udd92\u270f\ufe0f \ud83c\udf0a \ud83d\udc4b\ud83e\uddc1",
+      "created_at": "2025-08-10T17:22:45.729Z",
+      "hashtags": "['#Trump' '#authoritarianrule' '#DefundIce']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:25:03.410908",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:25:10.010000",
+      "text_length": 161,
+      "text_cleaned_length": 122,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2saaprza2o",
+      "text": "TI POTREBBE INTERESSARE: Vertice con Putin e Zelensky, Trump ottimista. Nyt: \"Presto incontro con leader russo\" ... LEGGI TUTTO #Putin #Zelensky #Trump #incontro #diplomazia",
+      "text_cleaned": "TI POTREBBE INTERESSARE: Vertice con Putin e Zelensky, Trump ottimista. Nyt: \"Presto incontro con leader russo\" ... LEGGI TUTTO",
+      "text_preview": "TI POTREBBE INTERESSARE: Vertice con Putin e Zelensky, Trump ottimista. Nyt: \"Presto incontro con leader russo\" ... LEGGI TUTTO #Putin #Zelensky #Trump #incontro #diplomazia",
+      "author": "ilquaderno.bsky.social",
+      "author_display_name": "ilQuaderno.it",
+      "created_at": "2025-08-10T17:22:15Z",
+      "hashtags": "['#Trump' '#Putin' '#diplomazia' '#Zelensky' '#incontro']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:25:03.410926",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:25:10.010000",
+      "text_length": 173,
+      "text_cleaned_length": 127,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2s5i2j2c2h",
+      "text": "#heykids #goodmorning #goodafternoon #goodeven\u0131ng #happy #Trump #maga #today #fyf #fyp #viral #trending #news #breakingnews #viralnews #foryoupage #feed #discover #reels #shorts  #haveaday #standtogether #westand #bestrong #wegotthis",
+      "text_cleaned": "",
+      "text_preview": "#heykids #goodmorning #goodafternoon #goodeven\u0131ng #happy #Trump #maga #today #fyf #fyp #viral #trending #news #breakingnews #viralnews #foryoupage #feed #discover #reels #shorts  #haveaday #standtoget...",
+      "author": "nov2874.bsky.social",
+      "author_display_name": "chillicotheohio740",
+      "created_at": "2025-08-10T17:20:43.094Z",
+      "hashtags": "['#happy' '#standtogether' '#news' '#viralnews' '#feed' '#reels' '#fyf'\n '#heykids' '#maga' '#westand' '#goodafternoon' '#shorts' '#trending'\n '#viral' '#goodeven\u0131ng' '#discover' '#Trump' '#breakingnews'\n '#foryoupage' '#today' '#fyp' '#goodmorning' '#wegotthis' '#bestrong'\n '#haveaday']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:25:03.410941",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:25:10.010000",
+      "text_length": 233,
+      "text_cleaned_length": 0,
+      "hashtag_count": 25,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2sbdtnv227",
+      "text": "#Tariffs #Trump #GOP #resist",
+      "text_cleaned": "",
+      "text_preview": "#Tariffs #Trump #GOP #resist",
+      "author": "jbshakerman.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T17:22:52.863Z",
+      "hashtags": "['#Trump' '#Tariffs' '#GOP' '#resist']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T17:25:03.410900",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 17:25:10.010000",
+      "text_length": 28,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
