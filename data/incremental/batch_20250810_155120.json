@@ -1,0 +1,554 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_155120",
+    "post_count": 20,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 15:45:10.012000",
+    "latest_received_at": "2025-08-10 15:50:10.010000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2mz6dlok2e",
+      "text": "\ud83d\udea8 \u0631\u063a\u0645 \u062f\u0639\u0645 Donald Trump \u0644\u0644\u0639\u0645\u0644\u0627\u062a \u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u062a\u062a\u0648\u0627\u0635\u0644 \u0639\u0645\u0644\u064a\u0627\u062a #debanking \u0636\u062f \u0634\u0631\u0643\u0627\u062a \u0627\u0644\u062a\u0634\u0641\u064a\u0631\u060c \u062d\u064a\u062b \u0623\u063a\u0644\u0642\u062a \u0628\u0646\u0648\u0643 \u0643\u0628\u0631\u0649 \u0643\u0640Citibank \u0648 Chase \u0648 Wells Fargo \u062d\u0633\u0627\u0628\u0627\u062a #Unicoin \u062f\u0648\u0646 \u0645\u0628\u0631\u0631\u060c \u0636\u0645\u0646 \"Operation ChokePoint 3.0\". \u0623\u0645\u0631 \u062a\u0646\u0641\u064a\u0630\u064a \u062c\u062f\u064a\u062f \u064a\u0644\u0632\u0645 #regulators \u0628\u0645\u062d\u0627\u0633\u0628\u0629 \u0627\u0644\u0628\u0646\u0648\u0643 \u0648\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u062e\u062f\u0645\u0627\u062a. #crypto  #Trump #finance",
+      "text_cleaned": "\ud83d\udea8 \u0631\u063a\u0645 \u062f\u0639\u0645 Donald Trump \u0644\u0644\u0639\u0645\u0644\u0627\u062a \u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u062a\u062a\u0648\u0627\u0635\u0644 \u0639\u0645\u0644\u064a\u0627\u062a \u0636\u062f \u0634\u0631\u0643\u0627\u062a \u0627\u0644\u062a\u0634\u0641\u064a\u0631\u060c \u062d\u064a\u062b \u0623\u063a\u0644\u0642\u062a \u0628\u0646\u0648\u0643 \u0643\u0628\u0631\u0649 \u0643\u0640Citibank \u0648 Chase \u0648 Wells Fargo \u062d\u0633\u0627\u0628\u0627\u062a \u062f\u0648\u0646 \u0645\u0628\u0631\u0631\u060c \u0636\u0645\u0646 \"Operation ChokePoint 3.0\". \u0623\u0645\u0631 \u062a\u0646\u0641\u064a\u0630\u064a \u062c\u062f\u064a\u062f \u064a\u0644\u0632\u0645 \u0628\u0645\u062d\u0627\u0633\u0628\u0629 \u0627\u0644\u0628\u0646\u0648\u0643 \u0648\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u062e\u062f\u0645\u0627\u062a.",
+      "text_preview": "\ud83d\udea8 \u0631\u063a\u0645 \u062f\u0639\u0645 Donald Trump \u0644\u0644\u0639\u0645\u0644\u0627\u062a \u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u062a\u062a\u0648\u0627\u0635\u0644 \u0639\u0645\u0644\u064a\u0627\u062a #debanking \u0636\u062f \u0634\u0631\u0643\u0627\u062a \u0627\u0644\u062a\u0634\u0641\u064a\u0631\u060c \u062d\u064a\u062b \u0623\u063a\u0644\u0642\u062a \u0628\u0646\u0648\u0643 \u0643\u0628\u0631\u0649 \u0643\u0640Citibank \u0648 Chase \u0648 Wells Fargo \u062d\u0633\u0627\u0628\u0627\u062a #Unicoin \u062f\u0648\u0646 \u0645\u0628\u0631\u0631\u060c \u0636\u0645\u0646 \"Operation ChokePoint 3.0\". \u0623\u0645\u0631 \u062a\u0646\u0641...",
+      "author": "bandr283.bsky.social",
+      "author_display_name": "BANDAR ALOTAIBI \ud83c\uddf8\ud83c\udde6",
+      "created_at": "2025-08-10T15:48:49.979Z",
+      "hashtags": "['#Unicoin' '#debanking' '#Trump' '#finance' '#crypto' '#regulators']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670079",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 281,
+      "text_cleaned_length": 224,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2msk7rxu2e",
+      "text": "\ud83d\udd78glan\u00e9 sur le net\ud83d\udd78  La port\u00e9e de l'attaque de Trump contre le Br\u00e9sil - La guerre tarifaire de Trump selon les pays et r\u00e9gions du monde: Trump ne veut pas seulement \u00e9tablir de nouvelles conditions commerciales avec le Br\u00e9sil. Son v\u00e9ritable\u2026 #Trump #Br\u00e9sil #GuerreTarifaire #Imp\u00e9rialisme #Souverainet\u00e9",
+      "text_cleaned": "\ud83d\udd78glan\u00e9 sur le net\ud83d\udd78 La port\u00e9e de l'attaque de Trump contre le Br\u00e9sil - La guerre tarifaire de Trump selon les pays et r\u00e9gions du monde: Trump ne veut pas seulement \u00e9tablir de nouvelles conditions commerciales avec le Br\u00e9sil. Son v\u00e9ritable\u2026",
+      "text_preview": "\ud83d\udd78glan\u00e9 sur le net\ud83d\udd78  La port\u00e9e de l'attaque de Trump contre le Br\u00e9sil - La guerre tarifaire de Trump selon les pays et r\u00e9gions du monde: Trump ne veut pas seulement \u00e9tablir de nouvelles conditions comm...",
+      "author": "dionyzack.bsky.social",
+      "author_display_name": "DionyZack \ud83c\udf49\u270a\ud83c\udffd\u2640\ufe0f\ud83c\udf3f",
+      "created_at": "2025-08-10T15:45:06Z",
+      "hashtags": "['#Br\u00e9sil' '#Trump' '#GuerreTarifaire' '#Souverainet\u00e9' '#Imp\u00e9rialisme']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670147",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 299,
+      "text_cleaned_length": 238,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2mudcnok2y",
+      "text": "Professor William I. Robinson, exposes how #Gaza represents a terrifying new model he calls \"The Gaza Option\" - capitalism's systematic approach to dealing with billions of people it no longer needs for profit. \n\n#HowCapitalismWorks #sociology #economy youtu.be/02KseXa4vPc?...",
+      "text_cleaned": "Professor William I. Robinson, exposes how represents a terrifying new model he calls \"The Gaza Option\" - capitalism's systematic approach to dealing with billions of people it no longer needs for profit. youtu.be/02KseXa4vPc?...",
+      "text_preview": "Professor William I. Robinson, exposes how #Gaza represents a terrifying new model he calls \"The Gaza Option\" - capitalism's systematic approach to dealing with billions of people it no longer needs f...",
+      "author": "opheliapg.bsky.social",
+      "author_display_name": "OpheliaPG",
+      "created_at": "2025-08-10T15:46:07.418Z",
+      "hashtags": "['#HowCapitalismWorks' '#sociology' '#Gaza' '#economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 4,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.669786",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 277,
+      "text_cleaned_length": 229,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 5.5
+    },
+    {
+      "post_id": "3lw2mv7ulrk2v",
+      "text": "\ud83d\udcb0 Alaska\u2019s Permanent Fund Dividend = more than a check. It fuels local economies & inspires global policy \ud83c\udf0d\n\ud83d\udd17 allnewtrending.com/alaska-perma...\n\n#AlaskaPFD #Economy #Finance #Business",
+      "text_cleaned": "\ud83d\udcb0 Alaska\u2019s Permanent Fund Dividend = more than a check. It fuels local economies & inspires global policy \ud83c\udf0d \ud83d\udd17 allnewtrending.com/alaska-perma...",
+      "text_preview": "\ud83d\udcb0 Alaska\u2019s Permanent Fund Dividend = more than a check. It fuels local economies & inspires global policy \ud83c\udf0d\n\ud83d\udd17 allnewtrending.com/alaska-perma...\n\n#AlaskaPFD #Economy #Finance #Business",
+      "author": "allnewtrending.bsky.social",
+      "author_display_name": "All New Trending",
+      "created_at": "2025-08-10T15:46:37.367Z",
+      "hashtags": "['#Business' '#Economy' '#Finance' '#AlaskaPFD']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.669765",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 184,
+      "text_cleaned_length": 144,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lw2msircg22l",
+      "text": "MAGA = Make America Great Again\n\nWhat is the comparison point of making America great AGAIN ?\nSo when America was greater than today ?\n\n#MAGA #Trump",
+      "text_cleaned": "MAGA = Make America Great Again What is the comparison point of making America great AGAIN ? So when America was greater than today ?",
+      "text_preview": "MAGA = Make America Great Again\n\nWhat is the comparison point of making America great AGAIN ?\nSo when America was greater than today ?\n\n#MAGA #Trump",
+      "author": "guibou830.bsky.social",
+      "author_display_name": "Guillaume Bousquet",
+      "created_at": "2025-08-10T15:45:06.032Z",
+      "hashtags": "['#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670136",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 148,
+      "text_cleaned_length": 133,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2myoltks2l",
+      "text": "Tell that to your parents and grandparents. #William #Denial #Pride #Shame #OldChildren #BabyBoomers #Children #LittleKids #Arrogant #Entitled #Delusional #Trump",
+      "text_cleaned": "Tell that to your parents and grandparents.",
+      "text_preview": "Tell that to your parents and grandparents. #William #Denial #Pride #Shame #OldChildren #BabyBoomers #Children #LittleKids #Arrogant #Entitled #Delusional #Trump",
+      "author": "wamedtrust.bsky.social",
+      "author_display_name": "William Ramsey",
+      "created_at": "2025-08-10T15:48:33.471Z",
+      "hashtags": "['#Denial' '#BabyBoomers' '#Entitled' '#Pride' '#Delusional' '#Trump'\n '#William' '#Shame' '#Children' '#Arrogant' '#LittleKids' '#OldChildren']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670108",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 161,
+      "text_cleaned_length": 43,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2mzkie4c2g",
+      "text": "When someone wants to negotiate in person with you and only you, it\u2019s because they know you are a weak pushover. #Trump #Putin",
+      "text_cleaned": "When someone wants to negotiate in person with you and only you, it\u2019s because they know you are a weak pushover.",
+      "text_preview": "When someone wants to negotiate in person with you and only you, it\u2019s because they know you are a weak pushover. #Trump #Putin",
+      "author": "stephenlautens.bsky.social",
+      "author_display_name": "Stephen Lautens",
+      "created_at": "2025-08-10T15:49:02.717Z",
+      "hashtags": "['#Putin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670068",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 126,
+      "text_cleaned_length": 112,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lw2mz3cztk23",
+      "text": "Drill drill drill ! L\u2019expression de #Trump qui pousse au forage et \u00e0 l\u2019utilisation massive de l\u2019\u00e9nergie fossile est bien la preuve que l\u2019essor mondial de l\u2019extr\u00eame droite exprime la mont\u00e9e d\u2019une tendance mortif\u00e8re et suicidaire de l\u2019humanit\u00e9. Chaque voix pour ces partis est une insulte \u00e0 la raison.",
+      "text_cleaned": "Drill drill drill ! L\u2019expression de qui pousse au forage et \u00e0 l\u2019utilisation massive de l\u2019\u00e9nergie fossile est bien la preuve que l\u2019essor mondial de l\u2019extr\u00eame droite exprime la mont\u00e9e d\u2019une tendance mortif\u00e8re et suicidaire de l\u2019humanit\u00e9. Chaque voix pour ces partis est une insulte \u00e0 la raison.",
+      "text_preview": "Drill drill drill ! L\u2019expression de #Trump qui pousse au forage et \u00e0 l\u2019utilisation massive de l\u2019\u00e9nergie fossile est bien la preuve que l\u2019essor mondial de l\u2019extr\u00eame droite exprime la mont\u00e9e d\u2019une tenda...",
+      "author": "josevlc75.bsky.social",
+      "author_display_name": "Jos\u00e9",
+      "created_at": "2025-08-10T15:48:46.813Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670089",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 299,
+      "text_cleaned_length": 292,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2myz7ipc2x",
+      "text": "#Trump #Netanyahu #Israel",
+      "text_cleaned": "",
+      "text_preview": "#Trump #Netanyahu #Israel",
+      "author": "douwe2459.bsky.social",
+      "author_display_name": "Douwe de Vries",
+      "created_at": "2025-08-10T15:48:44.602Z",
+      "hashtags": "['#Netanyahu' '#Trump' '#Israel']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670097",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 25,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2mvwhqfk2u",
+      "text": "Just the tip of the iceberg.\n#trump \nDemocracy for Americans who know what they want and deserve to get it good and hard.",
+      "text_cleaned": "Just the tip of the iceberg. Democracy for Americans who know what they want and deserve to get it good and hard.",
+      "text_preview": "Just the tip of the iceberg.\n#trump \nDemocracy for Americans who know what they want and deserve to get it good and hard.",
+      "author": "meish100.bsky.social",
+      "author_display_name": "Meish",
+      "created_at": "2025-08-10T15:47:01.063Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670114",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 121,
+      "text_cleaned_length": 113,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2mzrhmr22r",
+      "text": "A fresh crossword puzzle is here: TRUMP! Try now!\n\n\ud83d\udd17 - https://creaftar.com/en-us/play?cr=kzHmog9h35cGAXkO9QUZ\n\n#solve #braintraining #TRUMP",
+      "text_cleaned": "A fresh crossword puzzle is here: TRUMP! Try now! \ud83d\udd17 -",
+      "text_preview": "A fresh crossword puzzle is here: TRUMP! Try now!\n\n\ud83d\udd17 - https://creaftar.com/en-us/play?cr=kzHmog9h35cGAXkO9QUZ\n\n#solve #braintraining #TRUMP",
+      "author": "creaftar.com",
+      "author_display_name": "Creaftar",
+      "created_at": "2025-08-10T15:49:09.881Z",
+      "hashtags": "['#solve' '#braintraining' '#TRUMP']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670061",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 140,
+      "text_cleaned_length": 53,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2mvnfhg62d",
+      "text": "Leave Joe Biden Alone! He is out looking for Mermaids for Hunter's Hotel Swimming Pool Complex in Gaza. #Biden",
+      "text_cleaned": "Leave Joe Biden Alone! He is out looking for Mermaids for Hunter's Hotel Swimming Pool Complex in Gaza.",
+      "text_preview": "Leave Joe Biden Alone! He is out looking for Mermaids for Hunter's Hotel Swimming Pool Complex in Gaza. #Biden",
+      "author": "bargdaffy.bsky.social",
+      "author_display_name": "Bargdaffy",
+      "created_at": "2025-08-10T15:46:51.550Z",
+      "hashtags": "['#Biden']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670336",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 110,
+      "text_cleaned_length": 103,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2mtl4k722x",
+      "text": "This lunatic needs to be stopped with all non violent means possible. #Trump #GOP",
+      "text_cleaned": "This lunatic needs to be stopped with all non violent means possible.",
+      "text_preview": "This lunatic needs to be stopped with all non violent means possible. #Trump #GOP",
+      "author": "gmhank.bsky.social",
+      "author_display_name": "Hank",
+      "created_at": "2025-08-10T15:45:42.052Z",
+      "hashtags": "['#GOP' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670122",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 81,
+      "text_cleaned_length": 69,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2mtcws7s25",
+      "text": "#Trump 1st term (US leader/ role model):  www.nytimes.com/interactive/...",
+      "text_cleaned": "1st term (US leader/ role model):",
+      "text_preview": "#Trump 1st term (US leader/ role model):  www.nytimes.com/interactive/...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T15:45:33.476Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:50:03.670129",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:50:10.010000",
+      "text_length": 73,
+      "text_cleaned_length": 33,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2morzobn2a",
+      "text": "The right people are afraid right now: see \u2018warning\u2019 FIBI former fbes have just given about Trump star-news.press/wp\n\n,The right people are afraid right now: see 'warning' FIBI former fbes have just given about Trump star-news.press/wp, 2025-08-10 15:20:00 #people #afraid #warning #FIBI #fbes #Trump",
+      "text_cleaned": "The right people are afraid right now: see \u2018warning\u2019 FIBI former fbes have just given about Trump star-news.press/wp ,The right people are afraid right now: see 'warning' FIBI former fbes have just given about Trump star-news.press/wp, 2025-08-10 15:20:00",
+      "text_preview": "The right people are afraid right now: see \u2018warning\u2019 FIBI former fbes have just given about Trump star-news.press/wp\n\n,The right people are afraid right now: see 'warning' FIBI former fbes have just g...",
+      "author": "star-news.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T15:42:59Z",
+      "hashtags": "['#Trump' '#warning' '#FIBI' '#fbes' '#afraid' '#people']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:45:03.056620",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:45:10.012000",
+      "text_length": 300,
+      "text_cleaned_length": 255,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2mk3jehc25",
+      "text": "#Trump gifts to billionaires: Internal government documents obtained by The Post encompass an array of national security goals as well as the interests of individual companies. www.washingtonpost.com/business/202...",
+      "text_cleaned": "gifts to billionaires: Internal government documents obtained by The Post encompass an array of national security goals as well as the interests of individual companies.",
+      "text_preview": "#Trump gifts to billionaires: Internal government documents obtained by The Post encompass an array of national security goals as well as the interests of individual companies. www.washingtonpost.com/...",
+      "author": "donmarie940.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T15:40:23.705Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:45:03.056659",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:45:10.012000",
+      "text_length": 215,
+      "text_cleaned_length": 169,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2mnvq22k2v",
+      "text": "The one thing I know is if that verse was written today, it wouldn't say he wept. It would say he fucken broke Trump's nose. #Trump #Fascist",
+      "text_cleaned": "The one thing I know is if that verse was written today, it wouldn't say he wept. It would say he fucken broke Trump's nose.",
+      "text_preview": "The one thing I know is if that verse was written today, it wouldn't say he wept. It would say he fucken broke Trump's nose. #Trump #Fascist",
+      "author": "veencube.bsky.social",
+      "author_display_name": "Vee",
+      "created_at": "2025-08-10T15:42:31.851Z",
+      "hashtags": "['#Fascist' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:45:03.056632",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:45:10.012000",
+      "text_length": 140,
+      "text_cleaned_length": 124,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2ml2ny2k2u",
+      "text": "Hallelujah  #trump walks among us.\n\nGod bless  american democracy, where every has something  to hide.",
+      "text_cleaned": "Hallelujah walks among us. God bless american democracy, where every has something to hide.",
+      "text_preview": "Hallelujah  #trump walks among us.\n\nGod bless  american democracy, where every has something  to hide.",
+      "author": "meish100.bsky.social",
+      "author_display_name": "Meish",
+      "created_at": "2025-08-10T15:40:56.361Z",
+      "hashtags": "['#trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:45:03.056639",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:45:10.012000",
+      "text_length": 102,
+      "text_cleaned_length": 91,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2mofheis2a",
+      "text": "#Trump has become like a rabid dog.",
+      "text_cleaned": "has become like a rabid dog.",
+      "text_preview": "#Trump has become like a rabid dog.",
+      "author": "thestia.bsky.social",
+      "author_display_name": "Thestia Williams",
+      "created_at": "2025-08-10T15:42:48.344Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:45:03.056626",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:45:10.012000",
+      "text_length": 35,
+      "text_cleaned_length": 28,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2mkdj3322l",
+      "text": "www.NewsWeek.com #Trump #Homeless",
+      "text_cleaned": "",
+      "text_preview": "www.NewsWeek.com #Trump #Homeless",
+      "author": "guerinducasse.bsky.social",
+      "author_display_name": "Mr. Gu\u00e9rin Ducasse",
+      "created_at": "2025-08-10T15:40:32.085Z",
+      "hashtags": "['#Homeless' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T15:45:03.056653",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 15:45:10.012000",
+      "text_length": 33,
+      "text_cleaned_length": 0,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    }
+  ]
+}
