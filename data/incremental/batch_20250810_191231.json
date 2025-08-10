@@ -1,0 +1,689 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_191231",
+    "post_count": 25,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 19:05:10.008000",
+    "latest_received_at": "2025-08-10 19:10:10.009000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2xymq4nxn2",
+      "text": "Nagut, so ist es halt.\n\nWirtschaft z\u00e4hlt mehr als Menschenleben.\n\nRussland ist es egal, die laufen schon auf Kriegswirtschaft.\n\nUnd da wir abh\u00e4ngig sind von den USA (F16,...) und Israel (arrow3) heisst es zahlen oder Ukraine war einmal.\n\nGute Nacht, liebe Welt.\n\n#gedanken #gedankentanz #usa [\u2026]",
+      "text_cleaned": "Nagut, so ist es halt. Wirtschaft z\u00e4hlt mehr als Menschenleben. Russland ist es egal, die laufen schon auf Kriegswirtschaft. Und da wir abh\u00e4ngig sind von den USA (F16,...) und Israel (arrow3) heisst es zahlen oder Ukraine war einmal. Gute Nacht, liebe Welt. [\u2026]",
+      "text_preview": "Nagut, so ist es halt.\n\nWirtschaft z\u00e4hlt mehr als Menschenleben.\n\nRussland ist es egal, die laufen schon auf Kriegswirtschaft.\n\nUnd da wir abh\u00e4ngig sind von den USA (F16,...) und Israel (arrow3) heiss...",
+      "author": "eyesonly.mastodon.gemo.social.ap.brid.gy",
+      "author_display_name": "Eyes ONLY",
+      "created_at": "2025-08-10T19:04:27.000Z",
+      "hashtags": "['#gedankentanz' '#usa' '#gedanken']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294618",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 295,
+      "text_cleaned_length": 261,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xxlgql22e",
+      "text": "When are #Republicans going to get tired of being led by a child. I mean, #Trump shows on the daily basis that he has the mental level of a spoiled child. I mean he moved #Bush and #Obama portraits to hidden stairwell. What grown person would do that. Sad that #GOP are led by people who lack balls!",
+      "text_cleaned": "When are going to get tired of being led by a child. I mean, shows on the daily basis that he has the mental level of a spoiled child. I mean he moved and portraits to hidden stairwell. What grown person would do that. Sad that are led by people who lack balls!",
+      "text_preview": "When are #Republicans going to get tired of being led by a child. I mean, #Trump shows on the daily basis that he has the mental level of a spoiled child. I mean he moved #Bush and #Obama portraits to...",
+      "author": "giotruth.bsky.social",
+      "author_display_name": "To The Point G",
+      "created_at": "2025-08-10T19:04:47.764Z",
+      "hashtags": "['#Obama' '#Trump' '#Republicans' '#GOP' '#Bush']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294596",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 299,
+      "text_cleaned_length": 261,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2y2dwtjk2g",
+      "text": "Russian television has begun to prepare Russian viewers that the country has failed in its invasion of Ukraine and that Putin must now sign a peace treaty or ceasefire with Zelenskyy.\n\n#Russian #Putin #Trump #Zelensky #Ukraine #UkraineKrieg #RussiaIsCollapsing #UkraineWar",
+      "text_cleaned": "Russian television has begun to prepare Russian viewers that the country has failed in its invasion of Ukraine and that Putin must now sign a peace treaty or ceasefire with Zelenskyy.",
+      "text_preview": "Russian television has begun to prepare Russian viewers that the country has failed in its invasion of Ukraine and that Putin must now sign a peace treaty or ceasefire with Zelenskyy.\n\n#Russian #Putin...",
+      "author": "kungahuset.bsky.social",
+      "author_display_name": "Kungahuset",
+      "created_at": "2025-08-10T19:06:20.566Z",
+      "hashtags": "['#Trump' '#RussiaIsCollapsing' '#Zelensky' '#UkraineWar' '#UkraineKrieg'\n '#Putin' '#Russian' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294544",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 272,
+      "text_cleaned_length": 183,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2xzcqghc26",
+      "text": "Steve \"witless\" Witkoff is a failure at all levels;\n\n#Trump envoy slammed for \"damaging #incompetence\" over #Putin talks\n\n#AlaskaMeeting #UkraineRussiaWar #incompetent #russia \n\nwww.msn.com/en-us/news/w...",
+      "text_cleaned": "Steve \"witless\" Witkoff is a failure at all levels; envoy slammed for \"damaging \" over talks",
+      "text_preview": "Steve \"witless\" Witkoff is a failure at all levels;\n\n#Trump envoy slammed for \"damaging #incompetence\" over #Putin talks\n\n#AlaskaMeeting #UkraineRussiaWar #incompetent #russia \n\nwww.msn.com/en-us/news...",
+      "author": "rjmrim.bsky.social",
+      "author_display_name": "\ud83e\ude96 \ud83c\uddfa\ud83c\uddf8 \ud83c\udf0e \ud83c\uddfa\ud83c\udde6",
+      "created_at": "2025-08-10T19:05:45.751Z",
+      "hashtags": "['#AlaskaMeeting' '#Trump' '#UkraineRussiaWar' '#incompetence'\n '#incompetent' '#russia' '#Putin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294559",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 205,
+      "text_cleaned_length": 92,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2y6m3c6l26",
+      "text": "No Showers, Sleeping on Concrete Floors: The \u201cSqualid\u201d Conditions for Immigrants in NYC\n#Trump",
+      "text_cleaned": "No Showers, Sleeping on Concrete Floors: The \u201cSqualid\u201d Conditions for Immigrants in NYC",
+      "text_preview": "No Showers, Sleeping on Concrete Floors: The \u201cSqualid\u201d Conditions for Immigrants in NYC\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T19:08:43.265Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294478",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 94,
+      "text_cleaned_length": 87,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2y5doxsi26",
+      "text": "Trump tells homeless people in D.C. to move out \"IMMEDIATELY\" amid capital crackdown\n#Trump",
+      "text_cleaned": "Trump tells homeless people in D.C. to move out \"IMMEDIATELY\" amid capital crackdown",
+      "text_preview": "Trump tells homeless people in D.C. to move out \"IMMEDIATELY\" amid capital crackdown\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T19:07:53.963Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294495",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 91,
+      "text_cleaned_length": 84,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2y4ufmpm2j",
+      "text": "Trump rips Fed renovations ahead of DC 'beautification' press conference\n#Trump",
+      "text_cleaned": "Trump rips Fed renovations ahead of DC 'beautification' press conference",
+      "text_preview": "Trump rips Fed renovations ahead of DC 'beautification' press conference\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T19:07:41.064Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294504",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 79,
+      "text_cleaned_length": 72,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2y2fgjif2g",
+      "text": "\n#Putin   #Trump   #Ukraine   #Ukraine War   #Vance   #Vladimir Putin   #war   #Zelensky",
+      "text_cleaned": "War Putin",
+      "text_preview": "\n#Putin   #Trump   #Ukraine   #Ukraine War   #Vance   #Vladimir Putin   #war   #Zelensky",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T19:06:37.949145+00:00",
+      "hashtags": "['#Trump' '#war' '#Vladimir' '#Zelensky' '#Vance' '#Putin' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294530",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 88,
+      "text_cleaned_length": 9,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2y2v2agy2v",
+      "text": "\n#Force   #Putin   #Russia   #Trump   #Ukraine   #Vance   #war   #Zelensky",
+      "text_cleaned": "",
+      "text_preview": "\n#Force   #Putin   #Russia   #Trump   #Ukraine   #Vance   #war   #Zelensky",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T19:06:54.315103+00:00",
+      "hashtags": "['#Trump' '#Force' '#war' '#Zelensky' '#Russia' '#Vance' '#Putin'\n '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294518",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 74,
+      "text_cleaned_length": 0,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2y6kyjlx2e",
+      "text": "Rising This Week: Trump's troop deployment heads to trial\n#Trump",
+      "text_cleaned": "Rising This Week: Trump's troop deployment heads to trial",
+      "text_preview": "Rising This Week: Trump's troop deployment heads to trial\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T19:08:41.921Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294487",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 64,
+      "text_cleaned_length": 57,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xza4dzk2l",
+      "text": "Meanwhile in Alaska \u2026. #trumpsuckputin  #trump #putin",
+      "text_cleaned": "Meanwhile in Alaska \u2026.",
+      "text_preview": "Meanwhile in Alaska \u2026. #trumpsuckputin  #trump #putin",
+      "author": "maximmacrae.bsky.social",
+      "author_display_name": "Maxim MacRae \ud83c\uddee\ud83c\uddf9\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+      "created_at": "2025-08-10T19:05:42.988Z",
+      "hashtags": "['#trump' '#putin' '#trumpsuckputin']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294571",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 53,
+      "text_cleaned_length": 22,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2yabktmr2v",
+      "text": "\n#peace   #Putin   #Trump   #Ukraine   #Ukrainians",
+      "text_cleaned": "",
+      "text_preview": "\n#peace   #Putin   #Trump   #Ukraine   #Ukrainians",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T19:09:55.216395+00:00",
+      "hashtags": "['#Ukrainians' '#Trump' '#peace' '#Putin' '#Ukraine']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294446",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 50,
+      "text_cleaned_length": 0,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2y7gpnuq2w",
+      "text": "\n#California   #Gavin Newsom   #Texas   #Trump",
+      "text_cleaned": "Newsom",
+      "text_preview": "\n#California   #Gavin Newsom   #Texas   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T19:09:27.051633+00:00",
+      "hashtags": "['#Gavin' '#California' '#Trump' '#Texas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294467",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 46,
+      "text_cleaned_length": 6,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2ya72b6k2r",
+      "text": "Bated #media #musicfestivals #ice #trump",
+      "text_cleaned": "Bated",
+      "text_preview": "Bated #media #musicfestivals #ice #trump",
+      "author": "drgrindlebone.bsky.social",
+      "author_display_name": "Dr. Grindlebone ",
+      "created_at": "2025-08-10T19:09:36.761Z",
+      "hashtags": "['#ice' '#media' '#trump' '#musicfestivals']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294457",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 40,
+      "text_cleaned_length": 5,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xxrpw3224",
+      "text": "\u201cI\u2019m NOT #Christian\u201d ~ #Trump",
+      "text_cleaned": "\u201cI\u2019m NOT \u201d ~",
+      "text_preview": "\u201cI\u2019m NOT #Christian\u201d ~ #Trump",
+      "author": "wrecked4real.bsky.social",
+      "author_display_name": "For The People",
+      "created_at": "2025-08-10T19:04:54.357Z",
+      "hashtags": "['#Trump' '#Christian']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:10:03.294583",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:10:10.009000",
+      "text_length": 29,
+      "text_cleaned_length": 12,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xpc6w7s2a",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict racist wannabe dictator sociopath, #Trump & his Admin\n\nIn 11/26, we MUST VOTE OUT ALL #MAGA #GOP.\n\nTYVM @theweekendprime.bsky.social \n\n#BlueCrew\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict racist wannabe dictator sociopath, & his Admin In 11/26, we MUST VOTE OUT ALL . TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict racist wannabe dictator sociopath, #Trump & his Admin\n\nIn 11/26, we MUST VO...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-10T19:00:09.627Z",
+      "hashtags": "['#TRUTHSOCIAL' '#Change' '#GOP' '#MAGA' '#BlueCrew' '#Congress' '#Trump']",
+      "mentions": "['@theweekendprime.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810917",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 300,
+      "text_cleaned_length": 192,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lw2xxjjnik2e",
+      "text": "Do you remember in middle school when we learned that in the USA the POTUS is allowed to imprison people he doesn't like?\nNo? Me neither. Maybe someone on #MSNBC & #CNN could mention that #Trump must be mixed up about that because that's not how we do things in USA- but I won't hold my breath.",
+      "text_cleaned": "Do you remember in middle school when we learned that in the USA the POTUS is allowed to imprison people he doesn't like? No? Me neither. Maybe someone on & could mention that must be mixed up about that because that's not how we do things in USA- but I won't hold my breath.",
+      "text_preview": "Do you remember in middle school when we learned that in the USA the POTUS is allowed to imprison people he doesn't like?\nNo? Me neither. Maybe someone on #MSNBC & #CNN could mention that #Trump must ...",
+      "author": "ginsengity.bsky.social",
+      "author_display_name": "Molten Irony (Wade)",
+      "created_at": "2025-08-10T19:04:45.761Z",
+      "hashtags": "['#Trump' '#CNN' '#MSNBC']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810838",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 294,
+      "text_cleaned_length": 275,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xsplhsc2k",
+      "text": "\ud83d\udea8 #TRUMP IN FULL PANIC MODE \ud83d\ude31#JudgeChutkan, the one he HATES, now controls the EXPLOSIVE #Epstein files case\ud83d\udcc2 linked to his presidency \ud83d\udc40She\u2019s fearless \ud83d\udca5 and ready to drop BOMBS Trump can\u2019t stop! \ud83d\udd25 #Trump #EpsteinFiles #BreakingNews",
+      "text_cleaned": "\ud83d\udea8 IN FULL PANIC MODE \ud83d\ude31, the one he HATES, now controls the EXPLOSIVE files case\ud83d\udcc2 linked to his presidency \ud83d\udc40She\u2019s fearless \ud83d\udca5 and ready to drop BOMBS Trump can\u2019t stop! \ud83d\udd25",
+      "text_preview": "\ud83d\udea8 #TRUMP IN FULL PANIC MODE \ud83d\ude31#JudgeChutkan, the one he HATES, now controls the EXPLOSIVE #Epstein files case\ud83d\udcc2 linked to his presidency \ud83d\udc40She\u2019s fearless \ud83d\udca5 and ready to drop BOMBS Trump can\u2019t stop! \ud83d\udd25 #Tr...",
+      "author": "johnperez419.bsky.social",
+      "author_display_name": "Democracy Defender",
+      "created_at": "2025-08-10T19:02:04.339Z",
+      "hashtags": "['#BreakingNews' '#TRUMP' '#Epstein' '#EpsteinFiles' '#Trump'\n '#JudgeChutkan']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810893",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 231,
+      "text_cleaned_length": 167,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xw33yi22m",
+      "text": "#Trump outsmarted by AI chatbot. Love the fact that while everyone who supports Trump is either mercenary or willfully blind to who this man is, A chatbot on his own propagandist app hasn't learned to lie yet.\nwww.washingtonpost.com/technology/2...",
+      "text_cleaned": "outsmarted by AI chatbot. Love the fact that while everyone who supports Trump is either mercenary or willfully blind to who this man is, A chatbot on his own propagandist app hasn't learned to lie yet.",
+      "text_preview": "#Trump outsmarted by AI chatbot. Love the fact that while everyone who supports Trump is either mercenary or willfully blind to who this man is, A chatbot on his own propagandist app hasn't learned to...",
+      "author": "kaded01.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T19:03:57.079Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810862",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 248,
+      "text_cleaned_length": 202,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xw6tzcc2k",
+      "text": "Why have #Americans turned on #immigration?\n#Trump #antiimmigrant plans have gained traction among Americans, half of whom say they support the mass #deportation of #undocumented #immigrants\nprismreports.org/2025/01/21/i...",
+      "text_cleaned": "Why have turned on ? plans have gained traction among Americans, half of whom say they support the mass of prismreports.org/2025/01/21/i...",
+      "text_preview": "Why have #Americans turned on #immigration?\n#Trump #antiimmigrant plans have gained traction among Americans, half of whom say they support the mass #deportation of #undocumented #immigrants\nprismrepo...",
+      "author": "usaneeds3rdparty.bsky.social",
+      "author_display_name": "Independent Moderate",
+      "created_at": "2025-08-10T19:04:01.013Z",
+      "hashtags": "['#undocumented' '#immigration' '#Americans' '#deportation'\n '#antiimmigrant' '#immigrants' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810854",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 223,
+      "text_cleaned_length": 139,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xp7rruw2i",
+      "text": "Treasurer Jim Chalmers must find a way to repeat what Paul Keating did in the 1980s and 90s, and lift productivity. Good luck with that. #productivity #economy #tariffs #trade #ai #world #politics",
+      "text_cleaned": "Treasurer Jim Chalmers must find a way to repeat what Paul Keating did in the 1980s and 90s, and lift productivity. Good luck with that.",
+      "text_preview": "Treasurer Jim Chalmers must find a way to repeat what Paul Keating did in the 1980s and 90s, and lift productivity. Good luck with that. #productivity #economy #tariffs #trade #ai #world #politics",
+      "author": "aussienews.bsky.social",
+      "author_display_name": "Aussie News",
+      "created_at": "2025-08-10T19:00:06Z",
+      "hashtags": "['#world' '#economy' '#productivity' '#trade' '#tariffs' '#politics' '#ai']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810267",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 196,
+      "text_cleaned_length": 136,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    },
+    {
+      "post_id": "3lw2xpl7op62e",
+      "text": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #TheArchers\n2. #art\n3. #BB27\n4. #WNBA\n5. #LA\n6. #Trump\n7. #digitalart\n8. #Twitch\n9. #Resist\n10. #Music\n\nAd: @terraprotege.bsky.social.",
+      "text_cleaned": "Tags from the last 30 minutes \ud83e\udded: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. Ad: .bsky.social.",
+      "text_preview": "Tags from the last 30 minutes \ud83e\udded:\n\n1. #TheArchers\n2. #art\n3. #BB27\n4. #WNBA\n5. #LA\n6. #Trump\n7. #digitalart\n8. #Twitch\n9. #Resist\n10. #Music\n\nAd: @terraprotege.bsky.social.",
+      "author": "trendingworld.bsky.social",
+      "author_display_name": "Trending - World",
+      "created_at": "2025-08-10T19:00:18Z",
+      "hashtags": "['#WNBA' '#LA' '#Resist' '#digitalart' '#Twitch' '#TheArchers' '#art'\n '#BB27' '#Trump' '#Music']",
+      "mentions": "['@terraprotege.bsky.social.']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810905",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 171,
+      "text_cleaned_length": 81,
+      "hashtag_count": 10,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2xtlkunx26",
+      "text": "Bolton says Trump 'wants a Nobel Peace Prize more than anything else'\n#Trump",
+      "text_cleaned": "Bolton says Trump 'wants a Nobel Peace Prize more than anything else'",
+      "text_preview": "Bolton says Trump 'wants a Nobel Peace Prize more than anything else'\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T19:02:31.944Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810882",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 76,
+      "text_cleaned_length": 69,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 2.5
+    },
+    {
+      "post_id": "3lw2xtqmfvz2n",
+      "text": "\n#Angriffskrieg   #liveblog   #Putin   #Russland   #Selenskyj   #Trump   #Ukraine",
+      "text_cleaned": "",
+      "text_preview": "\n#Angriffskrieg   #liveblog   #Putin   #Russland   #Selenskyj   #Trump   #Ukraine",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T19:02:54.786569+00:00",
+      "hashtags": "['#Angriffskrieg' '#liveblog' '#Putin' '#Ukraine' '#Trump' '#Selenskyj'\n '#Russland']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810875",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 81,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2xwerfts2h",
+      "text": "Did we annex Greenland yet? #Trump #MAGA",
+      "text_cleaned": "Did we annex Greenland yet?",
+      "text_preview": "Did we annex Greenland yet? #Trump #MAGA",
+      "author": "brittwhitmire.bsky.social",
+      "author_display_name": "Britt Whitmire",
+      "created_at": "2025-08-10T19:04:07.219Z",
+      "hashtags": "['#MAGA' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:05:03.810845",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:05:10.008000",
+      "text_length": 40,
+      "text_cleaned_length": 27,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
