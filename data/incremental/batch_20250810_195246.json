@@ -1,0 +1,284 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_195246",
+    "post_count": 10,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 19:45:10.008000",
+    "latest_received_at": "2025-08-10 19:50:10.016000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw327uikv22i",
+      "text": "NEVER FORGET.\n\nWITH YOUR Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict #J6 co-conspirator, domestic terrorist & racist wannabe dictator #Trump, & prosecute his traitorous cohorts.\n\nTY @mailmansr.bsky.social \n\n#BlueCrew\n\nwww.change.org/p/with-this-...",
+      "text_cleaned": "NEVER FORGET. WITH YOUR Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict co-conspirator, domestic terrorist & racist wannabe dictator , & prosecute his traitorous cohorts. TY .bsky.social",
+      "text_preview": "NEVER FORGET.\n\nWITH YOUR Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict #J6 co-conspirator, domestic terrorist & racist wannabe dictator #Trump, & pros...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-10T19:45:13.163Z",
+      "hashtags": "['#Trump' '#Congress' '#BlueCrew' '#J6']",
+      "mentions": "['@mailmansr.bsky.social']",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:50:03.311238",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:50:10.016000",
+      "text_length": 300,
+      "text_cleaned_length": 224,
+      "hashtag_count": 4,
+      "mention_count": 1,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw32amh74c2i",
+      "text": "Patrick Blower @blowercartoons @telegraph on #Putin #Trump #Zelensky #RussiaUkraineWar #RussiaUSSummit #BilateralSummit #PeaceTalks #EmmanuelMacron #EuropeanUnion - political cartoon gallery in London original-political-cartoon.com",
+      "text_cleaned": "Patrick Blower on - political cartoon gallery in London original-political-cartoon.com",
+      "text_preview": "Patrick Blower @blowercartoons @telegraph on #Putin #Trump #Zelensky #RussiaUkraineWar #RussiaUSSummit #BilateralSummit #PeaceTalks #EmmanuelMacron #EuropeanUnion - political cartoon gallery in London...",
+      "author": "politicalcartoon.bsky.social",
+      "author_display_name": "Political Cartoon Gallery",
+      "created_at": "2025-08-10T19:45:38.288Z",
+      "hashtags": "['#RussiaUkraineWar' '#Trump' '#Putin' '#BilateralSummit' '#Zelensky'\n '#RussiaUSSummit' '#PeaceTalks' '#EuropeanUnion' '#EmmanuelMacron']",
+      "mentions": "['@blowercartoons' '@telegraph']",
+      "engagement": {
+        "likes": 2,
+        "reposts": 2,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:50:03.311228",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:50:10.016000",
+      "text_length": 231,
+      "text_cleaned_length": 86,
+      "hashtag_count": 9,
+      "mention_count": 2,
+      "total_engagement": 5.0
+    },
+    {
+      "post_id": "3lw32hw6qss2d",
+      "text": "Just in case there is anyone left who is ignorant enough not to know Trump is a disaster for the American #Economy...",
+      "text_cleaned": "Just in case there is anyone left who is ignorant enough not to know Trump is a disaster for the American ...",
+      "text_preview": "Just in case there is anyone left who is ignorant enough not to know Trump is a disaster for the American #Economy...",
+      "author": "caseykimble.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T19:49:43.391Z",
+      "hashtags": "['#Economy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:50:03.310878",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:50:10.016000",
+      "text_length": 117,
+      "text_cleaned_length": 109,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw32eflkeb27",
+      "text": "It\u2019s not just 'good genes.' It\u2019s a dark reminder of history.\n#Trump",
+      "text_cleaned": "It\u2019s not just 'good genes.' It\u2019s a dark reminder of history.",
+      "text_preview": "It\u2019s not just 'good genes.' It\u2019s a dark reminder of history.\n#Trump",
+      "author": "trumpwatch.skyfleet.blue",
+      "author_display_name": "TrumpWatch",
+      "created_at": "2025-08-10T19:47:44.683Z",
+      "hashtags": "['#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:50:03.311207",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:50:10.016000",
+      "text_length": 67,
+      "text_cleaned_length": 60,
+      "hashtag_count": 1,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw32gryjdk2n",
+      "text": "#djt #trump #truthsocial #truthtrump",
+      "text_cleaned": "",
+      "text_preview": "#djt #trump #truthsocial #truthtrump",
+      "author": "furorteutonicus.bsky.social",
+      "author_display_name": "Old Stoned Dude",
+      "created_at": "2025-08-10T19:49:05.438Z",
+      "hashtags": "['#djt' '#trump' '#truthsocial' '#truthtrump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:50:03.311201",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:50:10.016000",
+      "text_length": 36,
+      "text_cleaned_length": 0,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw32dwqvm22l",
+      "text": "#Epstein\n#Trump\n#SaveTheChildren",
+      "text_cleaned": "",
+      "text_preview": "#Epstein\n#Trump\n#SaveTheChildren",
+      "author": "hereweare12.bsky.social",
+      "author_display_name": "",
+      "created_at": "2025-08-10T19:47:29.767Z",
+      "hashtags": "['#Trump' '#SaveTheChildren' '#Epstein']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:50:03.311217",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:50:10.016000",
+      "text_length": 32,
+      "text_cleaned_length": 0,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2zxvd6vc2n",
+      "text": "Trump\u2019s tariffs are decimating the US bourbon industry. At the same time, Canadians are learning to make bourbon-like whiskey of their own so they don\u2019t have to import from the States. \n\nCheers? \ud83e\udd43\n\nwww.bbc.com/news/article...\n\n#tariffs #trump #bourbon #whiskey",
+      "text_cleaned": "Trump\u2019s tariffs are decimating the US bourbon industry. At the same time, Canadians are learning to make bourbon-like whiskey of their own so they don\u2019t have to import from the States. Cheers? \ud83e\udd43",
+      "text_preview": "Trump\u2019s tariffs are decimating the US bourbon industry. At the same time, Canadians are learning to make bourbon-like whiskey of their own so they don\u2019t have to import from the States. \n\nCheers? \ud83e\udd43\n\nww...",
+      "author": "keaneli.bsky.social",
+      "author_display_name": "Keane Li",
+      "created_at": "2025-08-10T19:40:45.616Z",
+      "hashtags": "['#trump' '#bourbon' '#tariffs' '#whiskey']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:45:03.353566",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:45:10.008000",
+      "text_length": 260,
+      "text_cleaned_length": 194,
+      "hashtag_count": 4,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw324boz6c2p",
+      "text": "The Art Of Hiding Information - Moneyplix Media\n\n#trump #donaldtrump #millionaire #money #billionaire #art #trending #usa #taxes #reels #fyp #insta\nRepost:\n@moneyplixmediaco",
+      "text_cleaned": "The Art Of Hiding Information - Moneyplix Media Repost:",
+      "text_preview": "The Art Of Hiding Information - Moneyplix Media\n\n#trump #donaldtrump #millionaire #money #billionaire #art #trending #usa #taxes #reels #fyp #insta\nRepost:\n@moneyplixmediaco",
+      "author": "raymonpowers.bsky.social",
+      "author_display_name": "Raymon M. Powers",
+      "created_at": "2025-08-10T19:43:12.804Z",
+      "hashtags": "['#billionaire' '#art' '#usa' '#trending' '#taxes' '#trump' '#fyp'\n '#reels' '#millionaire' '#insta' '#donaldtrump' '#money']",
+      "mentions": "['@moneyplixmediaco']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:45:03.353556",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:45:10.008000",
+      "text_length": 173,
+      "text_cleaned_length": 55,
+      "hashtag_count": 12,
+      "mention_count": 1,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw324vn5pr2j",
+      "text": "\n#Alaska   #Angriffskrieg   #Estland   #EU   #Kaja Kallas   #Kallas   #Krieg   #London   #Putin   #Republik   #Trump   #Ukraine   #Ukraine-Krieg",
+      "text_cleaned": "Kallas -Krieg",
+      "text_preview": "\n#Alaska   #Angriffskrieg   #Estland   #EU   #Kaja Kallas   #Kallas   #Krieg   #London   #Putin   #Republik   #Trump   #Ukraine   #Ukraine-Krieg",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T19:43:49.495023+00:00",
+      "hashtags": "['#Estland' '#Kaja' '#London' '#Ukraine' '#Alaska' '#Trump'\n '#Angriffskrieg' '#Krieg' '#Republik' '#Putin' '#EU' '#Kallas']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:45:03.353544",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:45:10.008000",
+      "text_length": 144,
+      "text_cleaned_length": 13,
+      "hashtag_count": 12,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw325w2x6s2q",
+      "text": "\n#Alaska   #EU   #Frontverlauf   #Kommission   #Polen   #Putin   #Selenskyj   #Trump   #Ukraine   #Verhandlungen",
+      "text_cleaned": "",
+      "text_preview": "\n#Alaska   #EU   #Frontverlauf   #Kommission   #Polen   #Putin   #Selenskyj   #Trump   #Ukraine   #Verhandlungen",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T19:44:23.504211+00:00",
+      "hashtags": "['#Kommission' '#Verhandlungen' '#Ukraine' '#Selenskyj' '#Frontverlauf'\n '#Alaska' '#Trump' '#Putin' '#Polen' '#EU']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T19:45:03.353532",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 19:45:10.008000",
+      "text_length": 112,
+      "text_cleaned_length": 0,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    }
+  ]
+}
