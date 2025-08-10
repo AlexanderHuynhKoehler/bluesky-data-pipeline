@@ -1,0 +1,392 @@
+{
+  "batch_info": {
+    "timestamp": "20250810_165142",
+    "post_count": 14,
+    "exported_from": "databricks_10min_window",
+    "table_source": "social_media.bluesky_raw_posts",
+    "time_window_minutes": 10,
+    "earliest_received_at": "2025-08-10 16:45:10.010000",
+    "latest_received_at": "2025-08-10 16:50:10.014000",
+    "export_type": "10_minute_batch"
+  },
+  "posts": [
+    {
+      "post_id": "3lw2q5y43bk2y",
+      "text": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict racist wannabe dictator sociopath, #Trump & his Admin\n\nIn 11/26, we MUST VOTE OUT #MAGA #Republicans.\n\nTYVM @youranonjd.bsky.social \n\n#BlueCrew\nwww.change.org/p/with-this-...",
+      "text_cleaned": "real : W/ YOUR .org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel to impeach & convict racist wannabe dictator sociopath, & his Admin In 11/26, we MUST VOTE OUT . TYVM .bsky.social",
+      "text_preview": "real #TRUTHSOCIAL:\n\nW/ YOUR #Change.org PETITION \ud83d\udc47 & OUR PEACEFUL PROTESTS & CALLS, we compel #Congress to impeach & convict racist wannabe dictator sociopath, #Trump & his Admin\n\nIn 11/26, we MUST VO...",
+      "author": "thisuspatriot.bsky.social",
+      "author_display_name": "This American Patriot \ud83d\udc99",
+      "created_at": "2025-08-10T16:45:12.437Z",
+      "hashtags": "['#Republicans' '#TRUTHSOCIAL' '#Change' '#BlueCrew' '#MAGA' '#Congress'\n '#Trump']",
+      "mentions": "['@youranonjd.bsky.social']",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154274",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 299,
+      "text_cleaned_length": 188,
+      "hashtag_count": 7,
+      "mention_count": 1,
+      "total_engagement": 4.5
+    },
+    {
+      "post_id": "3lw2qbpgvgc2f",
+      "text": "Photography\n\nAlmost everything can look good with the right light in the right setting.\n\nExcept Trump.\n\nTrump has always been and will always be ugly. His inside is reflected on the outside.\n\n#Trump\n#Photography",
+      "text_cleaned": "Photography Almost everything can look good with the right light in the right setting. Except Trump. Trump has always been and will always be ugly. His inside is reflected on the outside.",
+      "text_preview": "Photography\n\nAlmost everything can look good with the right light in the right setting.\n\nExcept Trump.\n\nTrump has always been and will always be ugly. His inside is reflected on the outside.\n\n#Trump\n#...",
+      "author": "mrmads.bsky.social",
+      "author_display_name": "Mr. Mads",
+      "created_at": "2025-08-10T16:47:17.558Z",
+      "hashtags": "['#Photography' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154210",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 211,
+      "text_cleaned_length": 187,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 1.0
+    },
+    {
+      "post_id": "3lw2qevywss2m",
+      "text": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647 \n#GOP #RESIST #trump #VoteBlue #NoKings #indivisible #ICE",
+      "text_cleaned": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647",
+      "text_preview": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647 \n#GOP #RESIST #trump #VoteBlue #NoKings #indivisible #ICE",
+      "author": "clydepowell.bsky.social",
+      "author_display_name": "\u2728 Clyde \u2728",
+      "created_at": "2025-08-10T16:49:05.119Z",
+      "hashtags": "['#trump' '#GOP' '#VoteBlue' '#NoKings' '#indivisible' '#ICE' '#RESIST']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154183",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 122,
+      "text_cleaned_length": 64,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2qarj22k2m",
+      "text": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647 \n#GOP #RESIST #trump #VoteBlue #NoKings #indivisible #ICE",
+      "text_cleaned": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647",
+      "text_preview": "Fuck Old Perverted Man Trump the Fascist and Cronies in ICE 8647 \n#GOP #RESIST #trump #VoteBlue #NoKings #indivisible #ICE",
+      "author": "clydepowell.bsky.social",
+      "author_display_name": "\u2728 Clyde \u2728",
+      "created_at": "2025-08-10T16:46:46.191Z",
+      "hashtags": "['#trump' '#GOP' '#VoteBlue' '#NoKings' '#indivisible' '#ICE' '#RESIST']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154239",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 122,
+      "text_cleaned_length": 64,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 2.0
+    },
+    {
+      "post_id": "3lw2qasxhfs2p",
+      "text": "#trump #FuckTrump #TrumpQuotes #theangrycheeto #maga #pedopresident #trumpisapedorapist #releasetheepsteinfiles #jesus #christianity",
+      "text_cleaned": "",
+      "text_preview": "#trump #FuckTrump #TrumpQuotes #theangrycheeto #maga #pedopresident #trumpisapedorapist #releasetheepsteinfiles #jesus #christianity",
+      "author": "theangrycheeto.bsky.social",
+      "author_display_name": "The Angry Cheeto",
+      "created_at": "2025-08-10T16:46:47.697Z",
+      "hashtags": "['#releasetheepsteinfiles' '#trump' '#trumpisapedorapist' '#jesus'\n '#christianity' '#pedopresident' '#FuckTrump' '#theangrycheeto'\n '#TrumpQuotes' '#maga']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154229",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 132,
+      "text_cleaned_length": 0,
+      "hashtag_count": 10,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2qcg4o7b2y",
+      "text": "\n#Aggression   #Europa   #Nato   #Russland   #Trump   #Ukraine   #Waffenlieferungen",
+      "text_cleaned": "",
+      "text_preview": "\n#Aggression   #Europa   #Nato   #Russland   #Trump   #Ukraine   #Waffenlieferungen",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T16:47:57.258539+00:00",
+      "hashtags": "['#Nato' '#Waffenlieferungen' '#Ukraine' '#Aggression' '#Russland'\n '#Europa' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154192",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 83,
+      "text_cleaned_length": 0,
+      "hashtag_count": 7,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2qbr632c22",
+      "text": "Socialist billionaires?? I dong think so!!!! #vance #Epstein #Trump",
+      "text_cleaned": "Socialist billionaires?? I dong think so!!!!",
+      "text_preview": "Socialist billionaires?? I dong think so!!!! #vance #Epstein #Trump",
+      "author": "organicbotanic.bsky.social",
+      "author_display_name": "Sue McBean\ud83c\uddfa\ud83c\udde6\u26f5\ufe0f\ud83d\udc9a\ud83c\udf31\u270d\ufe0f\ud83d\udcf8",
+      "created_at": "2025-08-10T16:47:19.381Z",
+      "hashtags": "['#vance' '#Epstein' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154200",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 67,
+      "text_cleaned_length": 44,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lw2qbmummc2l",
+      "text": "#EpsteinClientList #epsteindidntkillhimself #EpsteinCoverup #EpsteinList #EpsteinFiles #Epstein #Trump #MAGA",
+      "text_cleaned": "",
+      "text_preview": "#EpsteinClientList #epsteindidntkillhimself #EpsteinCoverup #EpsteinList #EpsteinFiles #Epstein #Trump #MAGA",
+      "author": "jdtrumputinmusk.bsky.social",
+      "author_display_name": "JDTrumPutinMusk",
+      "created_at": "2025-08-10T16:47:14.877Z",
+      "hashtags": "['#EpsteinFiles' '#Epstein' '#epsteindidntkillhimself' '#EpsteinList'\n '#MAGA' '#EpsteinClientList' '#EpsteinCoverup' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154219",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 108,
+      "text_cleaned_length": 0,
+      "hashtag_count": 8,
+      "mention_count": 0,
+      "total_engagement": 3.5
+    },
+    {
+      "post_id": "3lw2q6jpmnj2y",
+      "text": "\n#Alaska   #JD Vance   #Putin   #Trump   #Ukraine   #Vance",
+      "text_cleaned": "Vance",
+      "text_preview": "\n#Alaska   #JD Vance   #Putin   #Trump   #Ukraine   #Vance",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T16:45:46.816553+00:00",
+      "hashtags": "['#JD' '#Alaska' '#Vance' '#Ukraine' '#Putin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154259",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 58,
+      "text_cleaned_length": 5,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2q7tfwd32q",
+      "text": "\n#JD Vance   #Putin   #Trump   #Ukraine   #Vance",
+      "text_cleaned": "Vance",
+      "text_preview": "\n#JD Vance   #Putin   #Trump   #Ukraine   #Vance",
+      "author": "topnewsde.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Vitamin C gegen Fake News",
+      "created_at": "2025-08-10T16:46:30.534237+00:00",
+      "hashtags": "['#JD' '#Vance' '#Ukraine' '#Putin' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154248",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 48,
+      "text_cleaned_length": 5,
+      "hashtag_count": 5,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2qfd7yat2m",
+      "text": "\n#Charlie Kirk   #Trump",
+      "text_cleaned": "Kirk",
+      "text_preview": "\n#Charlie Kirk   #Trump",
+      "author": "toppnews.bsky.social",
+      "author_display_name": "\ud83c\udd83op\ud83c\udd7dews \ud83c\udf4b\u200d\ud83d\udfe9 Verified. Not Amplified.",
+      "created_at": "2025-08-10T16:49:34.893513+00:00",
+      "hashtags": "['#Charlie' '#Trump']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:50:04.154173",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:50:10.014000",
+      "text_length": 23,
+      "text_cleaned_length": 4,
+      "hashtag_count": 2,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2q4bbl2v2z",
+      "text": "#ZeeNews Nuclear Attack Threat To India LIVE: \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u091f\u0948\u0930\u093f\u092b \u090f\u0915\u094d\u0936\u0928 \u0915\u0947 \u092c\u0940\u091a \u092d\u093e\u0930\u0924 \u0915\u094b \u2018\u092a\u0930\u092e\u093e\u0923\u0941\u00a0\u0927\u092e\u0915\u0940\u2019!\n\nNuclear Attack Threat To India LIVE: \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u091f\u0948\u0930\u093f\u092b \u090f\u0915\u094d\u0936\u0928 \u0915\u0947 \u092c\u0940\u091a \u092d\u093e\u0930\u0924 \u0915\u094b '\u092a\u0930\u092e\u093e\u0923\u0941 \u0927\u092e\u0915\u0940'! Nuclear Attack Threat To India LIVE: \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u091f\u0948\u0930\u093f\u092b \u090f\u0915\u094d\u0936\u0928 \u0915\u0947 \u092c\u0940\u091a \u092d\u093e\u0930\u0924 \u0915\u094b '\u092a\u0930\u092e\u093e\u0923\u0941 \u0927\u092e\u0915\u0940'! #breakingnews #trump\u2026",
+      "text_cleaned": "Nuclear Attack Threat To India LIVE: \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u091f\u0948\u0930\u093f\u092b \u090f\u0915\u094d\u0936\u0928 \u0915\u0947 \u092c\u0940\u091a \u092d\u093e\u0930\u0924 \u0915\u094b \u2018\u092a\u0930\u092e\u093e\u0923\u0941 \u0927\u092e\u0915\u0940\u2019! Nuclear Attack Threat To India LIVE: \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u091f\u0948\u0930\u093f\u092b \u090f\u0915\u094d\u0936\u0928 \u0915\u0947 \u092c\u0940\u091a \u092d\u093e\u0930\u0924 \u0915\u094b '\u092a\u0930\u092e\u093e\u0923\u0941 \u0927\u092e\u0915\u0940'! Nuclear Attack Threat To India LIVE: \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u091f\u0948\u0930\u093f\u092b \u090f\u0915\u094d\u0936\u0928 \u0915\u0947 \u092c\u0940\u091a \u092d\u093e\u0930\u0924 \u0915\u094b '\u092a\u0930\u092e\u093e\u0923\u0941 \u0927\u092e\u0915\u0940'! \u2026",
+      "text_preview": "#ZeeNews Nuclear Attack Threat To India LIVE: \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u091f\u0948\u0930\u093f\u092b \u090f\u0915\u094d\u0936\u0928 \u0915\u0947 \u092c\u0940\u091a \u092d\u093e\u0930\u0924 \u0915\u094b \u2018\u092a\u0930\u092e\u093e\u0923\u0941\u00a0\u0927\u092e\u0915\u0940\u2019!\n\nNuclear Attack Threat To India LIVE: \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u091f\u0948\u0930\u093f\u092b \u090f\u0915\u094d\u0936\u0928 \u0915\u0947 \u092c\u0940\u091a \u092d\u093e\u0930\u0924 \u0915\u094b '\u092a\u0930\u092e\u093e\u0923\u0941 \u0927\u092e\u0915\u0940'! Nuclear Attack...",
+      "author": "shibuyaworldnews.bsky.social",
+      "author_display_name": "\ud83d\udc9bSHIBUYA\u2665WORLD\u2665NEWS\ud83d\udc9b",
+      "created_at": "2025-08-10T16:44:13Z",
+      "hashtags": "['#trump' '#breakingnews' '#ZeeNews']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:45:03.961949",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:45:10.010000",
+      "text_length": 295,
+      "text_cleaned_length": 265,
+      "hashtag_count": 3,
+      "mention_count": 0,
+      "total_engagement": 0.0
+    },
+    {
+      "post_id": "3lw2pweoerc2t",
+      "text": "#EpsteinFiles #TraitorTr\u0171mp\nTO THE STREETS 24/7. Whatcha waiting on, a personal invitation? \nJust f\u0171cking go. No rebel leader #Ds They left us. #BIDEN #HARRIS \n@electdemocrats.bsky.social \n@barackobama.bsky.social \n@hillaryclinton.bsky.social",
+      "text_cleaned": "TO THE STREETS 24/7. Whatcha waiting on, a personal invitation? Just f\u0171cking go. No rebel leader They left us. .bsky.social .bsky.social .bsky.social",
+      "text_preview": "#EpsteinFiles #TraitorTr\u0171mp\nTO THE STREETS 24/7. Whatcha waiting on, a personal invitation? \nJust f\u0171cking go. No rebel leader #Ds They left us. #BIDEN #HARRIS \n@electdemocrats.bsky.social \n@barackobam...",
+      "author": "katarinakriz.bsky.social",
+      "author_display_name": "~\ud83d\udd4a\ufe0fKatarinaKriz\ud83d\udd4a\ufe0f~on the turning away~pink floyd~",
+      "created_at": "2025-08-10T16:40:57.175Z",
+      "hashtags": "['#Ds' '#TraitorTr\u0171mp' '#HARRIS' '#EpsteinFiles' '#BIDEN']",
+      "mentions": "['@electdemocrats.bsky.social' '@barackobama.bsky.social'\n '@hillaryclinton.bsky.social']",
+      "engagement": {
+        "likes": 10,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:45:03.962356",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:45:10.010000",
+      "text_length": 242,
+      "text_cleaned_length": 149,
+      "hashtag_count": 5,
+      "mention_count": 3,
+      "total_engagement": 11.5
+    },
+    {
+      "post_id": "3lw2pv4hruk2g",
+      "text": "Trump and Putin meet in Alaska for a virile face-off. \n\u00ab\u00a0Maybe we should have met in Qatar instead\u00a0\u00bb\n\n #trump #poutine #putin #ukraine #zelensky #zelenskiy",
+      "text_cleaned": "Trump and Putin meet in Alaska for a virile face-off. \u00ab Maybe we should have met in Qatar instead \u00bb",
+      "text_preview": "Trump and Putin meet in Alaska for a virile face-off. \n\u00ab\u00a0Maybe we should have met in Qatar instead\u00a0\u00bb\n\n #trump #poutine #putin #ukraine #zelensky #zelenskiy",
+      "author": "truant-cartoons.bsky.social",
+      "author_display_name": "TRUANT",
+      "created_at": "2025-08-10T16:40:15.014Z",
+      "hashtags": "['#poutine' '#putin' '#ukraine' '#zelensky' '#trump' '#zelenskiy']",
+      "mentions": "[]",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0
+      },
+      "collection_metadata": {
+        "collected_at": "2025-08-10T16:45:03.961960",
+        "collector_version": "1.0",
+        "source": "bluesky_hashtag_search"
+      },
+      "received_at": "2025-08-10 16:45:10.010000",
+      "text_length": 155,
+      "text_cleaned_length": 99,
+      "hashtag_count": 6,
+      "mention_count": 0,
+      "total_engagement": 1.5
+    }
+  ]
+}
